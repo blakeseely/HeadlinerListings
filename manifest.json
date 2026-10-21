@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T23:23:45.598858+00:00",
+  "generated_at": "2026-10-21T23:32:11.732815+00:00",
   "venues": [
     {
-      "venue": "augusthall",
+      "venue_id": "augusthall",
       "file": "augusthall/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -11,7 +11,7 @@
       "sha256_16": "97f07745ea59dcb3"
     },
     {
-      "venue": "brickandmortar",
+      "venue_id": "brickandmortar",
       "file": "brickandmortar/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -20,7 +20,7 @@
       "sha256_16": "fa2b50ffb76e424d"
     },
     {
-      "venue": "cafedunord",
+      "venue_id": "cafedunord",
       "file": "cafedunord/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -29,7 +29,7 @@
       "sha256_16": "a34c58628a86ae1a"
     },
     {
-      "venue": "castro",
+      "venue_id": "castro",
       "file": "castro/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -38,7 +38,7 @@
       "sha256_16": "0e49ac21a89db456"
     },
     {
-      "venue": "chapel",
+      "venue_id": "chapel",
       "file": "chapel/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -47,7 +47,7 @@
       "sha256_16": "dafdad6e4033fa9b"
     },
     {
-      "venue": "fillmore",
+      "venue_id": "fillmore",
       "file": "fillmore/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -56,7 +56,7 @@
       "sha256_16": "a59233917dcd0ff7"
     },
     {
-      "venue": "foxoakland",
+      "venue_id": "foxoakland",
       "file": "foxoakland/shows.json",
       "city": "Oakland, CA",
       "metro": "San Francisco",
@@ -65,7 +65,7 @@
       "sha256_16": "e0407e85676ee0f6"
     },
     {
-      "venue": "frost",
+      "venue_id": "frost",
       "file": "frost/shows.json",
       "city": "Palo Alto, CA",
       "metro": "San Francisco",
@@ -74,7 +74,7 @@
       "sha256_16": "ad4ce76bf4726216"
     },
     {
-      "venue": "gamh",
+      "venue_id": "gamh",
       "file": "gamh/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -83,7 +83,7 @@
       "sha256_16": "7825ae8a030ea359"
     },
     {
-      "venue": "greek",
+      "venue_id": "greek",
       "file": "greek/shows.json",
       "city": "Berkeley, CA",
       "metro": "San Francisco",
@@ -92,7 +92,7 @@
       "sha256_16": "0551a0f8a910ea26"
     },
     {
-      "venue": "independent",
+      "venue_id": "independent",
       "file": "independent/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -101,7 +101,7 @@
       "sha256_16": "12a8eee1d0056ed8"
     },
     {
-      "venue": "regency",
+      "venue_id": "regency",
       "file": "regency/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
@@ -110,7 +110,7 @@
       "sha256_16": "d87f035131373a61"
     },
     {
-      "venue": "warfield",
+      "venue_id": "warfield",
       "file": "warfield/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
