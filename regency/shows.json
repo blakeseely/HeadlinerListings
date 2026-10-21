@@ -1,0 +1,1639 @@
+{
+  "venue": "The Regency Ballroom",
+  "venue_id": "regency",
+  "venue_url": "https://theregencyballroom.com/",
+  "source_url": "https://aegwebprod.blob.core.windows.net/json/events/9/events.json",
+  "scraped_at": "2026-10-20",
+  "count": 40,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ARTMS",
+          "apple_music": "https://music.apple.com/us/artist/artms/1718505900",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "ARTMS",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Art of Blue Blood World Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-20",
+      "date_label": "Tue 2026-10-20",
+      "doors": "6:00 PM",
+      "show_time": "7:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546589553",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1516673",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TEN",
+          "apple_music": "https://music.apple.com/us/artist/ten/1515958292",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "TEN",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "US Showcase Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-21",
+      "date_label": "Wed 2026-10-21",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546772131",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1580622",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Aquabats!",
+          "apple_music": "https://music.apple.com/us/artist/the-aquabats/19637346",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Aquabats!",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Mariachi El Bronx",
+          "apple_music": "https://music.apple.com/us/artist/mariachi-el-bronx/321268620",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Mariachi El Bronx",
+          "match_label": null
+        },
+        {
+          "name": "Mrs. Magician",
+          "apple_music": "https://music.apple.com/us/artist/mrs-magician/418383570",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Mrs. Magician",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Trick-or-Treat to the Beat",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-22",
+      "date_label": "Thu 2026-10-22",
+      "doors": "6:00 PM",
+      "show_time": "7:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAABBQtvGAgAAAAAr%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1513757",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jai Wolf",
+          "apple_music": "https://music.apple.com/us/artist/jai-wolf/896670451",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Jai Wolf",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Koastle",
+          "apple_music": "https://music.apple.com/us/artist/koastle/1556516568",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Koastle",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "10 Year Anniversary Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-24",
+      "date_label": "Sat 2026-10-24",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546472043",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1496243",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Shyne",
+          "apple_music": "https://music.apple.com/us/artist/shyne/7197315",
+          "spotify": "https://open.spotify.com/artist/64ovxBmjJ9ZDqkzEXVWpVc",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Shyne",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Barrington Levy",
+          "apple_music": "https://music.apple.com/us/artist/barrington-levy/308133",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Barrington Levy",
+          "match_label": null
+        },
+        {
+          "name": "Lil' Cease",
+          "apple_music": "https://music.apple.com/us/artist/lil-cease/155465",
+          "spotify": "https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Lil' Cease",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "2622 LGND Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-28",
+      "date_label": "Wed 2026-10-28",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAAD88iPHAgAAAACG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1528366",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "bleood",
+          "apple_music": "https://music.apple.com/us/artist/bleood/1744999836",
+          "spotify": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "bleood",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "KILL YOUR IDOLS TOUR",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-29",
+      "date_label": "Thu 2026-10-29",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546695744",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1575409",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Cholos vs. Vampires",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "LosGothsCo. & Scam and Jam Present"
+      ],
+      "set_format": null,
+      "date": "2026-10-30",
+      "date_label": "Fri 2026-10-30",
+      "doors": "9:00 PM",
+      "show_time": "10:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAABzxg7HAgAAAABb%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1528369",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Medium Build",
+          "apple_music": "https://music.apple.com/us/artist/medium-build/1034696339",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Medium Build",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Scratch",
+          "apple_music": "https://music.apple.com/us/artist/the-scratch/192611312",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Scratch",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-31",
+      "date_label": "Sat 2026-10-31",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546453324",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1494104",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Musical Box",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.522,
+          "matched": null,
+          "match_label": "no confident match (closest: The Cars @ 52%)"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "And then there was…Phil",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-01",
+      "date_label": "Sun 2026-11-01",
+      "doors": "6:00 PM",
+      "show_time": "7:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAAA6Joe%2fAgAAAADG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1434571",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Black Angels",
+          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Black Angels",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "GHOSTWOMAN",
+          "apple_music": "https://music.apple.com/us/artist/ghostwoman/1452069519",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "GHOSTWOMAN",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Passover 2026 Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-05",
+      "date_label": "Thu 2026-11-05",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAAC78S6%2bAgAAAAD6%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1408471",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "pinponpanpon",
+          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "pinponpanpon",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "003 Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-06",
+      "date_label": "Fri 2026-11-06",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546772061",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1580816",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "pinponpanpon",
+          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "pinponpanpon",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "003 Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-07",
+      "date_label": "Sat 2026-11-07",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546673674",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1547252",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nia Archives",
+          "apple_music": "https://music.apple.com/us/artist/nia-archives/1515978311",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Nia Archives",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "BAMBII",
+          "apple_music": "https://music.apple.com/us/artist/bambii/1486396460",
+          "spotify": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "BAMBII",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "EMOTIONAL WORLD TOUR",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-08",
+      "date_label": "Sun 2026-11-08",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546773403",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1581521",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Yuki Chiba",
+          "apple_music": "https://music.apple.com/us/artist/yuki-chiba/1727997785",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Yuki Chiba",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "First North America Headline Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-10",
+      "date_label": "Tue 2026-11-10",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546599285",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1528365",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Soft Cell",
+          "apple_music": "https://music.apple.com/us/artist/soft-cell/140394",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Soft Cell",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-11",
+      "date_label": "Wed 2026-11-11",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546596330",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1527107",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Band of Horses",
+          "apple_music": "https://music.apple.com/us/artist/band-of-horses/129649188",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Band of Horses",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": "An Evening With",
+      "date": "2026-11-12",
+      "date_label": "Thu 2026-11-12",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546160098",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1444971",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "L7",
+          "apple_music": "https://music.apple.com/us/artist/l7/192131",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "L7",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "NOBRO",
+          "apple_music": "https://music.apple.com/us/artist/nobro/1450330746",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "NOBRO",
+          "match_label": null
+        },
+        {
+          "name": "Buzzed Lightbeer",
+          "apple_music": "https://music.apple.com/us/artist/buzzed-lightbeer/1509387237",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Buzzed Lightbeer",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "The Last Hurrah Tour 2026",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-13",
+      "date_label": "Fri 2026-11-13",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAADHdpy%2fAgAAAACz%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1435452",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Headache",
+          "apple_music": "https://music.apple.com/us/artist/headache/1687506316",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Headache",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Baba Stiltz",
+          "apple_music": "https://music.apple.com/us/artist/baba-stiltz/426338387",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Baba Stiltz",
+          "match_label": null
+        },
+        {
+          "name": "amr*",
+          "apple_music": "https://music.apple.com/us/artist/amr/996234727",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "AMR*",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Oh Dear World",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-14",
+      "date_label": "Sat 2026-11-14",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAABnA6XAAgAAAAAf%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1447645",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Manic Street Preachers",
+          "apple_music": "https://music.apple.com/us/artist/manic-street-preachers/659158",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Manic Street Preachers",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-16",
+      "date_label": "Mon 2026-11-16",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAABVFwPBAgAAAAA%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1463683",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ninajirachi",
+          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Ninajirachi",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "MGNA Crrrta",
+          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "MGNA Crrrta",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "I Love My Computer And It Loves Me Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-17",
+      "date_label": "Tue 2026-11-17",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546879352",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1638942",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ninajirachi",
+          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Ninajirachi",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "MGNA Crrrta",
+          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "MGNA Crrrta",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "I Love My Computer And It Loves Me Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-18",
+      "date_label": "Wed 2026-11-18",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546874871",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1629413",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ninajirachi",
+          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Ninajirachi",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "MGNA Crrrta",
+          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "MGNA Crrrta",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "I Love My Computer And It Loves Me Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-19",
+      "date_label": "Thu 2026-11-19",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836611",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1629381",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Layton Giordani",
+          "apple_music": "https://music.apple.com/us/artist/layton-giordani/748431694",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Layton Giordani",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Greggio",
+          "apple_music": "https://music.apple.com/us/artist/greggio/1565039536",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Greggio",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-20",
+      "date_label": "Fri 2026-11-20",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546204228",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1464359",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gary Numan",
+          "apple_music": "https://music.apple.com/us/artist/gary-numan/2780160",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Gary Numan",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "TREMOURS",
+          "apple_music": "https://music.apple.com/us/artist/tremours/1630704631",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Tremours",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "North American Fall Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-23",
+      "date_label": "Mon 2026-11-23",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAABn1xC%2fAgAAAAC%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1423298",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Amity Affliction",
+          "apple_music": "https://music.apple.com/us/artist/the-amity-affliction/449513466",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Amity Affliction",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "blessthefall",
+          "apple_music": "https://music.apple.com/us/artist/blessthefall/202971163",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "blessthefall",
+          "match_label": null
+        },
+        {
+          "name": "Orthodox",
+          "apple_music": "https://music.apple.com/us/artist/orthodox/1065245226",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Orthodox",
+          "match_label": null
+        },
+        {
+          "name": "Buried In Spring",
+          "apple_music": "https://music.apple.com/us/artist/buried-in-spring/1896125306",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Buried In Spring",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "HOUSE OF CARDS 2026",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-24",
+      "date_label": "Tue 2026-11-24",
+      "doors": "6:00 PM",
+      "show_time": "7:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546587461",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1516665",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Wrecks",
+          "apple_music": "https://music.apple.com/us/artist/the-wrecks/1027163978",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Wrecks",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Worry Club",
+          "apple_music": "https://music.apple.com/us/artist/worry-club/1489877520",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Worry Club",
+          "match_label": null
+        },
+        {
+          "name": "Kid Sistr",
+          "apple_music": "https://music.apple.com/us/artist/kid-sistr/1506324271",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Kid Sistr",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Finally : OUTSIDE Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-25",
+      "date_label": "Wed 2026-11-25",
+      "doors": "6:00 PM",
+      "show_time": "7:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546249301",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1474827",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amtrac",
+          "apple_music": "https://music.apple.com/us/artist/amtrac/384096444",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Amtrac",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dream Live Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-27",
+      "date_label": "Fri 2026-11-27",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546685009",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1566122",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Devault",
+          "apple_music": "https://music.apple.com/us/artist/1068294292",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Devault",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-28",
+      "date_label": "Sat 2026-11-28",
+      "doors": "8:00 PM",
+      "show_time": "9:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546513535",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1497641",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ripe",
+          "apple_music": "https://music.apple.com/us/artist/650012595",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Ripe",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-06",
+      "date_label": "Sun 2026-12-06",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546786243",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1587666",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Takuya Nakamura",
+          "apple_music": "https://music.apple.com/us/artist/takuya-nakamura/328475107",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Takuya Nakamura",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Shape The Future / North America Tour",
+      "presenters": [
+        "Goldenvoice & KALW Present"
+      ],
+      "set_format": null,
+      "date": "2026-12-19",
+      "date_label": "Sat 2026-12-19",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546803755",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1601808",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MPH",
+          "apple_music": "https://music.apple.com/us/artist/mph/465495678",
+          "spotify": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "MPH",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "SAN FRANCISCO, FOREVER",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-15",
+      "date_label": "Fri 2027-01-15",
+      "doors": "8:00 PM",
+      "show_time": "8:30 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836954",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1629410",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Swimming Paul",
+          "apple_music": "https://music.apple.com/us/artist/1676437110",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Swimming Paul",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "North America Tour 2027",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-22",
+      "date_label": "Fri 2027-01-22",
+      "doors": "8:00 PM",
+      "show_time": "9:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546930414",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1646135",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TWINSICK",
+          "apple_music": "https://music.apple.com/us/artist/twinsick/1492365725",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "TWINSICK",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Good Company 2027",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-05",
+      "date_label": "Fri 2027-02-05",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546808835",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1601209",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "apple_music": "https://music.apple.com/us/artist/1136192992",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Interplanetary Criminal",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Riria",
+          "apple_music": "https://music.apple.com/us/artist/riria/1768796590",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Riria",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-13",
+      "date_label": "Sat 2027-02-13",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546942691",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1660169",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Blue October",
+          "apple_music": "https://music.apple.com/us/artist/559128",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Blue October",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Foiled 20th Anniversary World Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-18",
+      "date_label": "Thu 2027-02-18",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://tix.axs.com/BTg4EgAAAACxMF7AAgAAAADX%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1442684",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Eluveitie",
+          "apple_music": "https://music.apple.com/us/artist/269358403",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Eluveitie",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "NiNi",
+          "apple_music": "https://music.apple.com/us/artist/1737822309",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "NiNi",
+          "match_label": null
+        },
+        {
+          "name": "Illumishade",
+          "apple_music": "https://music.apple.com/us/artist/illumishade/1494763050",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "ILLUMISHADE",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Eluveitie North American 25 Year Anniversary Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-03",
+      "date_label": "Wed 2027-03-03",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546815352",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1608440",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "apple_music": "https://music.apple.com/us/artist/mass-of-the-fermenting-dregs/270350271",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "MASS OF THE FERMENTING DREGS",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "\"IWAOU\" The Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-27",
+      "date_label": "Tue 2027-04-27",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546675156",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1551450",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Interrupters",
+          "apple_music": "https://music.apple.com/us/artist/886243994",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Interrupters",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Chin Chins",
+          "apple_music": "https://music.apple.com/us/artist/505304276",
+          "spotify": null,
+          "found": true,
+          "confidence": 0.8,
+          "matched": "The Original Chin Chins",
+          "match_label": "close match: The Original Chin Chins"
+        },
+        {
+          "name": "Rat Boy",
+          "apple_music": "https://music.apple.com/us/artist/rat-boy/981610998",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "RAT BOY",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "2027 North America Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-28",
+      "date_label": "Wed 2027-04-28",
+      "doors": "6:00 PM",
+      "show_time": "7:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546810116",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1607316",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Wombats",
+          "apple_music": "https://music.apple.com/us/artist/the-wombats/162731772",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Wombats",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Lathums",
+          "apple_music": "https://music.apple.com/us/artist/the-lathums/1397009313",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Lathums",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "A Guide to Love, Loss, & Desperation 20th Anniversary",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-15",
+      "date_label": "Sat 2027-05-15",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546948181",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1664440",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "She Past Away",
+          "apple_music": "https://music.apple.com/us/artist/347750887",
+          "spotify": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "She Past Away",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Mizantrop Tour 2027",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-06-11",
+      "date_label": "Fri 2027-06-11",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546934277",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1655580",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 40
+    },
+    "apple_music": {
+      "unique_artists": 64,
+      "found": 62,
+      "exact": 61,
+      "close": 0,
+      "needs_review": 1,
+      "not_found": 2
+    },
+    "spotify": {
+      "unique_artists": 64,
+      "linked": 6,
+      "shows_with_link": 4
+    }
+  }
+}

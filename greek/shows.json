@@ -1,0 +1,151 @@
+{
+  "venue": "Greek Theatre",
+  "venue_id": "greek",
+  "venue_url": "https://thegreekberkeley.com",
+  "source_url": "https://thegreekberkeley.com/event-listing/",
+  "scraped_at": "2026-10-20",
+  "count": 3,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ms. Lauryn Hill & Wyclef Jean",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.7,
+          "matched": null,
+          "match_label": "no confident match (closest: Lauryn Hill @ 70%)"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "Celebrating 30 years of The Score",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-04",
+      "date_label": "Wed 2026-11-04",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "Buy Tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/ms-lauryn-hill-and-wyclef-jean-261104",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Ms. Lauryn Hill is a groundbreaking artist known for blending genres and redefining modern music. Rising to fame as the lone female member of the Fugees—one of the best-selling Hip hop groups of all time—she later launched a historic solo career with The Miseducation of Lauryn Hill . The album earned five Grammy Awards, achieved Diamond status, and was inducted into the Library of Congress. Widely influential, Ms. Hill has inspired generations and helped expand the landscape for female artists."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "HUGEL",
+          "apple_music": "https://music.apple.com/us/artist/hugel/978839124",
+          "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "HUGEL",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ochok",
+          "apple_music": "https://music.apple.com/us/artist/ochok/1550363016",
+          "spotify": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Ochok",
+          "match_label": null
+        },
+        {
+          "name": "DERON b2b Darmon",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Closing Night of the 2026 Greek Theatre Season!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "date_label": "Sat 2026-11-07",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "Buy Tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/hugel-261107",
+      "room": null,
+      "age_rating": "18 and over",
+      "note": null,
+      "description": "HUGEL is one of the most influential Afro House artists on the planet and a key architect of the global Afro Latin House movement. Through his imprint Make The Girls Dance Records, he continues to push culture forward, delivering timeless club records and multiple #1 Beatport hits. A multi-platinum artist, HUGEL reached a major milestone in 2025, when his catalog surpassed 1 billion streams in a single year, confirming his position at the very top of the global dance scene. Born in Marseille and raised on a foundation of funk, disco, and soul, HUGEL began DJing on vinyl at just 16 years old. Inspired by legends such as Carl Cox, Laurent Garnier, Daft Punk, Amine Edge, and David Guetta, he developed a sound that is instantly recognizable — deeply rhythmic, emotionally charged, and built for massive dancefloors. His music is infused with the Balearic spirit of Ibiza and the cultural richness of the Mediterranean, blending Latin, oriental, and tribal influences into a powerful Afro House "
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Red Clay Strays",
+          "apple_music": "https://music.apple.com/us/artist/the-red-clay-strays/1483812664",
+          "spotify": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Red Clay Strays",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "apple_music": "https://music.apple.com/us/artist/st-paul-the-broken-bones/795004362",
+          "spotify": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "St. Paul & The Broken Bones",
+          "match_label": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-12",
+      "date_label": "Thu 2027-08-12",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "Buy Tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/the-red-clay-strays-270812",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 3,
+      "comedy": 0
+    },
+    "apple_music": {
+      "unique_artists": 6,
+      "found": 4,
+      "exact": 4,
+      "close": 0,
+      "needs_review": 0,
+      "not_found": 2
+    },
+    "spotify": {
+      "unique_artists": 6,
+      "linked": 4,
+      "shows_with_link": 2
+    }
+  }
+}
