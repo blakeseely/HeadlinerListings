@@ -20,7 +20,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Yana",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -69,7 +70,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mountaineer",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -131,7 +133,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "natalie jinju",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -142,7 +145,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "chiabiee",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -203,7 +207,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hayden Everett",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -314,7 +319,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Adron",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -355,7 +361,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "the Gontiks",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -385,7 +392,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MISSIO",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -405,7 +413,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kent Osborne",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -446,7 +455,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sassy 009",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         },
         {
           "name": "Swordes",
@@ -525,7 +535,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Clay Street Unit",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -536,7 +547,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Maxwell Oaks",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -575,7 +587,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "3kelves",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -637,7 +650,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "past self",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -718,7 +732,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Natanya",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -749,7 +764,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Deante' Hitchcock",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -811,7 +827,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "OCT",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -822,7 +839,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Billy Marchiafava",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -857,6 +875,8 @@
     "spotify": {
       "unique_artists": 40,
       "linked": 18,
+      "venue": 18,
+      "api": 0,
       "shows_with_link": 11
     }
   }

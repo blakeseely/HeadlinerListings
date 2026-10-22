@@ -51,7 +51,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "HUGEL",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -62,7 +63,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ochok",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         },
         {
           "name": "DERON b2b Darmon",
@@ -101,7 +103,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Red Clay Strays",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [
@@ -112,7 +115,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "St. Paul & The Broken Bones",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": true,
@@ -142,7 +146,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SIENNA SPIRO",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -179,6 +184,8 @@
     "spotify": {
       "unique_artists": 7,
       "linked": 5,
+      "venue": 5,
+      "api": 0,
       "shows_with_link": 3
     }
   }

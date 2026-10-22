@@ -1407,6 +1407,13 @@
       "close": 0,
       "needs_review": 1,
       "not_found": 2
+    },
+    "spotify": {
+      "unique_artists": 51,
+      "linked": 49,
+      "venue": 0,
+      "api": 49,
+      "shows_with_link": 33
     }
   }
 }
