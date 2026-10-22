@@ -14,38 +14,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Yana",
-          "apple_music": "https://music.apple.com/us/artist/yana/1387306429",
-          "spotify": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Yana",
-          "match_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Feelings Are Forever Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/yana-the-feelings-are-brick-and-mortar-music-hall-tickets/14269664?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "sold out",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/yana-the-feelings-are-forever-tour/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "REZN",
           "apple_music": "https://music.apple.com/us/artist/rezn/1441800527",
           "spotify": null,
@@ -858,6 +826,56 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brokencyde",
+          "apple_music": "https://music.apple.com/us/artist/brokencyde/266962025",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Brokencyde",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dot Dot Curve",
+          "apple_music": "https://music.apple.com/us/artist/dot-dot-curve/305696063",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Dot Dot Curve",
+          "match_label": null
+        },
+        {
+          "name": "9aradox",
+          "apple_music": "https://music.apple.com/us/artist/9aradox/1619159021",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "9aradox",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-17",
+      "date_label": "Tue 2026-11-17",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/brokencyde-dot-dot-curve-9aradox-brick-and-mortar-music-hall-tickets/14372464?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/brokencyde-dot-dot-curve-9aradox/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -865,19 +883,19 @@
       "music": 21
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 39,
-      "exact": 37,
+      "unique_artists": 42,
+      "found": 41,
+      "exact": 39,
       "close": 0,
       "needs_review": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 18,
-      "venue": 18,
+      "unique_artists": 42,
+      "linked": 17,
+      "venue": 17,
       "api": 0,
-      "shows_with_link": 11
+      "shows_with_link": 10
     }
   }
 }

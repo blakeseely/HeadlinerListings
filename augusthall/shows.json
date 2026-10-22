@@ -799,7 +799,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Early Birds @ 67%)"
+          "match_label": null
         }
       ],
       "support_artists": [],
@@ -1118,7 +1118,7 @@
           "found": false,
           "confidence": 0.293,
           "matched": null,
-          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%); Spotify: no confident match (closest: Mint Condition @ 28%)"
+          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%)"
         }
       ],
       "support_artists": [],
@@ -1245,7 +1245,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SiM",
-          "match_label": "Spotify: no confident match (closest: Simply Red @ 46%)"
+          "match_label": null
         }
       ],
       "support_artists": [],
@@ -1276,7 +1276,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Speakeasy Three @ 63%)"
+          "match_label": null
         }
       ],
       "support_artists": [

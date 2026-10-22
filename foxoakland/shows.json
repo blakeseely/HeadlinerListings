@@ -7,51 +7,8 @@
   "metro": "San Francisco",
   "neighborhood": "West Oakland",
   "scraped_at": "2026-10-22",
-  "count": 33,
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Malcolm Todd",
-          "apple_music": "https://music.apple.com/us/artist/malcolm-todd/1624326848",
-          "spotify": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Malcolm Todd",
-          "match_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "54 Ultra",
-          "apple_music": "https://music.apple.com/us/artist/54-ultra/1521471420",
-          "spotify": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "54 Ultra",
-          "match_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Do That Again Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Sold Out!",
-      "ticket_status": "sold out",
-      "event_page": "https://thefoxoakland.com/events/malcolm-todd-261021",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1224,7 +1181,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 2
     },
     "apple_music": {
@@ -1240,7 +1197,7 @@
       "linked": 35,
       "venue": 35,
       "api": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

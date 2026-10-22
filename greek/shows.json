@@ -15,12 +15,12 @@
       "headline_artists": [
         {
           "name": "Ms. Lauryn Hill & Wyclef Jean",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/lauryn-hill/21434",
           "spotify": null,
-          "found": false,
-          "confidence": 0.7,
-          "matched": null,
-          "match_label": "no confident match (closest: Lauryn Hill @ 70%)"
+          "found": true,
+          "confidence": 0.95,
+          "matched": "Lauryn Hill",
+          "match_label": null
         }
       ],
       "support_artists": [],
@@ -175,11 +175,11 @@
     },
     "apple_music": {
       "unique_artists": 7,
-      "found": 5,
+      "found": 6,
       "exact": 5,
-      "close": 0,
+      "close": 1,
       "needs_review": 0,
-      "not_found": 2
+      "not_found": 1
     },
     "spotify": {
       "unique_artists": 7,

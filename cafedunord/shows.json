@@ -7,61 +7,8 @@
   "metro": "San Francisco",
   "neighborhood": "Presidio Heights",
   "scraped_at": "2026-10-22",
-  "count": 51,
+  "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gnash",
-          "apple_music": "https://music.apple.com/us/artist/gnash/299209053",
-          "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "gnash",
-          "match_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "salem ilese",
-          "apple_music": "https://music.apple.com/us/artist/salem-ilese/1516431117",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "salem ilese",
-          "match_label": null
-        },
-        {
-          "name": "Brake",
-          "apple_music": "https://music.apple.com/us/artist/brake/889329783",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Brake",
-          "match_label": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
-      "doors": "7 PM",
-      "show_time": "8 PM",
-      "ticket_link": "https://www.ticketweb.com/event/gnash-with-salem-ilese-and-cafe-du-nord-tickets/14376294?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-10-21-gnash",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Rising pop sensation Gnash cracked the Top 40 in early 2016 with his single \"I Hate U, I Love U\" (feat. Olivia O'Brien), and he's been killing it ever since on his u, me and us tour. In concert he performs his dreamy tracks with just the right combination of swagger and emotion, taking the stage in his signature sunglasses and encouraging the crowd to sing along to each anthemic chorus. With his…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -928,12 +875,12 @@
       "support_artists": [
         {
           "name": "CSTR",
-          "apple_music": "https://music.apple.com/us/artist/cstr/868835048",
+          "apple_music": "https://music.apple.com/us/artist/adda-cstr/1471972113",
           "spotify": null,
           "found": true,
-          "confidence": 1.0,
-          "matched": "CSTR",
-          "match_label": null
+          "confidence": 0.8,
+          "matched": "Adda Cstr",
+          "match_label": "close match: Adda Cstr"
         }
       ],
       "multi_artist": false,
@@ -1196,11 +1143,11 @@
       "support_artists": [
         {
           "name": "Relate",
-          "apple_music": "https://music.apple.com/us/artist/relate/1661007967",
+          "apple_music": "https://music.apple.com/us/artist/relate/1583483875",
           "spotify": null,
           "found": true,
-          "confidence": 1.0,
-          "matched": "Relate",
+          "confidence": 0.95,
+          "matched": "Relate.",
           "match_label": null
         }
       ],
@@ -1262,7 +1209,7 @@
       "headline_artists": [
         {
           "name": "The Arcadian Wild",
-          "apple_music": "https://music.apple.com/us/artist/887211512",
+          "apple_music": "https://music.apple.com/us/artist/the-arcadian-wild/887211512",
           "spotify": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY",
           "found": true,
           "confidence": 1.0,
@@ -1376,7 +1323,7 @@
       "support_artists": [
         {
           "name": "Seven Suns",
-          "apple_music": "https://music.apple.com/us/artist/1738951490",
+          "apple_music": "https://music.apple.com/us/artist/seven-suns/1738951490",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1554,7 +1501,7 @@
       "headline_artists": [
         {
           "name": "BROOKE ALEXX",
-          "apple_music": "https://music.apple.com/us/artist/870557676",
+          "apple_music": "https://music.apple.com/us/artist/brooke-alexx/870557676",
           "spotify": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7",
           "found": true,
           "confidence": 1.0,
@@ -1622,7 +1569,7 @@
       "headline_artists": [
         {
           "name": "Surfer Girl",
-          "apple_music": "https://music.apple.com/us/artist/1536185798",
+          "apple_music": "https://music.apple.com/us/artist/surfer-girl/1536185798",
           "spotify": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS",
           "found": true,
           "confidence": 1.0,
@@ -1643,7 +1590,7 @@
         },
         {
           "name": "JOBY!",
-          "apple_music": "https://music.apple.com/us/artist/1556820149",
+          "apple_music": "https://music.apple.com/us/artist/joby/1556820149",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1675,7 +1622,7 @@
       "headline_artists": [
         {
           "name": "Bo Staloch",
-          "apple_music": "https://music.apple.com/us/artist/1698048247",
+          "apple_music": "https://music.apple.com/us/artist/bo-staloch/1698048247",
           "spotify": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh",
           "found": true,
           "confidence": 1.0,
@@ -1709,7 +1656,7 @@
       "headline_artists": [
         {
           "name": "Rowena Wise",
-          "apple_music": "https://music.apple.com/us/artist/964393437",
+          "apple_music": "https://music.apple.com/us/artist/rowena-wise/964393437",
           "spotify": "https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC",
           "found": true,
           "confidence": 1.0,
@@ -1777,7 +1724,7 @@
       "headline_artists": [
         {
           "name": "Games We Play",
-          "apple_music": "https://music.apple.com/us/artist/924630114",
+          "apple_music": "https://music.apple.com/us/artist/games-we-play/924630114",
           "spotify": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40",
           "found": true,
           "confidence": 1.0,
@@ -1789,7 +1736,7 @@
       "support_artists": [
         {
           "name": "Bears In Trees",
-          "apple_music": "https://music.apple.com/us/artist/1259787420",
+          "apple_music": "https://music.apple.com/us/artist/bears-in-trees/1259787420",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1821,7 +1768,7 @@
       "headline_artists": [
         {
           "name": "Victoryland",
-          "apple_music": "https://music.apple.com/us/artist/1758051083",
+          "apple_music": "https://music.apple.com/us/artist/victoryland/1758051083",
           "spotify": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp",
           "found": true,
           "confidence": 1.0,
@@ -1855,7 +1802,7 @@
       "headline_artists": [
         {
           "name": "Arthur Hill",
-          "apple_music": "https://music.apple.com/us/artist/1207962876",
+          "apple_music": "https://music.apple.com/us/artist/arthur-hill/1207962876",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1956,7 +1903,7 @@
       "headline_artists": [
         {
           "name": "GAVN!",
-          "apple_music": "https://music.apple.com/us/artist/1351519782",
+          "apple_music": "https://music.apple.com/us/artist/gavn/1351519782",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1986,22 +1933,22 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51
+      "music": 50
     },
     "apple_music": {
-      "unique_artists": 75,
-      "found": 73,
-      "exact": 71,
-      "close": 1,
-      "needs_review": 1,
+      "unique_artists": 72,
+      "found": 70,
+      "exact": 66,
+      "close": 2,
+      "needs_review": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 75,
-      "linked": 45,
-      "venue": 45,
+      "unique_artists": 72,
+      "linked": 44,
+      "venue": 44,
       "api": 0,
-      "shows_with_link": 45
+      "shows_with_link": 44
     }
   }
 }

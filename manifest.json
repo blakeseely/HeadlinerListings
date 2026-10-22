@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:18:49.118494+00:00",
+  "generated_at": "2026-10-22T19:11:02.826858+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -8,25 +8,25 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-22",
       "show_count": 41,
-      "sha256_16": "dc2b0637a680f976"
+      "sha256_16": "dbbd4ec66ce4c3e8"
     },
     {
       "venue_id": "brickandmortar",
       "file": "brickandmortar/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-21",
+      "updated_at": "2026-10-23",
       "show_count": 21,
-      "sha256_16": "5a2a4686f894541c"
+      "sha256_16": "a2ca051aeb17c0d5"
     },
     {
       "venue_id": "cafedunord",
       "file": "cafedunord/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-21",
-      "show_count": 51,
-      "sha256_16": "74e2ca4ab11f8b79"
+      "updated_at": "2026-10-22",
+      "show_count": 50,
+      "sha256_16": "44e9b64f49eccc59"
     },
     {
       "venue_id": "castro",
@@ -34,17 +34,17 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-10-22",
-      "show_count": 77,
-      "sha256_16": "5a9d493121ab3b89"
+      "show_count": 78,
+      "sha256_16": "9b2296048fa3e4b6"
     },
     {
       "venue_id": "chapel",
       "file": "chapel/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-16",
-      "show_count": 48,
-      "sha256_16": "7a401314fd21b211"
+      "updated_at": "2026-10-17",
+      "show_count": 47,
+      "sha256_16": "660e29b6262bb4a1"
     },
     {
       "venue_id": "fillmore",
@@ -53,16 +53,16 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-23",
       "show_count": 35,
-      "sha256_16": "bcea0b4e40938e90"
+      "sha256_16": "91a70e99574744b6"
     },
     {
       "venue_id": "foxoakland",
       "file": "foxoakland/shows.json",
       "city": "Oakland, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-21",
-      "show_count": 33,
-      "sha256_16": "b143410c37f7c4ed"
+      "updated_at": "2026-10-22",
+      "show_count": 32,
+      "sha256_16": "8c8772ebe403ab66"
     },
     {
       "venue_id": "frost",
@@ -80,7 +80,7 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-23",
       "show_count": 23,
-      "sha256_16": "59f590a772341283"
+      "sha256_16": "4664b081ecc4dd5e"
     },
     {
       "venue_id": "greek",
@@ -89,7 +89,7 @@
       "metro": "San Francisco",
       "updated_at": "2026-11-04",
       "show_count": 4,
-      "sha256_16": "c2cb1420b11d398a"
+      "sha256_16": "3ded9845daf4a1b2"
     },
     {
       "venue_id": "independent",
@@ -98,7 +98,7 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-20",
       "show_count": 92,
-      "sha256_16": "abe8dfe2337b5d8d"
+      "sha256_16": "f9264bb8a7201b1d"
     },
     {
       "venue_id": "regency",
@@ -107,16 +107,16 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-22",
       "show_count": 39,
-      "sha256_16": "b1f74f7b975c4868"
+      "sha256_16": "2d0d59586eed48b2"
     },
     {
       "venue_id": "warfield",
       "file": "warfield/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-23",
+      "updated_at": "2026-11-06",
       "show_count": 12,
-      "sha256_16": "d7da81e988dd458b"
+      "sha256_16": "d7a5a3b43b1c056e"
     }
   ]
 }
