@@ -1,0 +1,73 @@
+{
+  "venue": "The Casbah",
+  "venue_id": "thecasbah",
+  "venue_url": "https://bellyup.com",
+  "source_url": "https://bellyup.com/calendar",
+  "city": "San Diego, CA",
+  "metro": "San Diego",
+  "neighborhood": "Downtown",
+  "scraped_at": "2026-10-22",
+  "count": 1,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clay Street Unit",
+          "apple_music": "https://music.apple.com/us/artist/clay-street-unit/1648140695",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Clay Street Unit",
+          "match_label": null
+        },
+        {
+          "name": "Poor Thing",
+          "apple_music": "https://music.apple.com/us/artist/poor-thing/1788116622",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Poor Thing",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-03",
+      "date_label": "Tue 2026-11-03",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/clay-street-unit-poor-thing-casbah-tickets/14221724?REFID=bupwebsite",
+      "ticket_status": "Not On Sale",
+      "event_page": "https://bellyup.com/calendar/14221724/clay-street-unit-poor-thing",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 1
+    },
+    "apple_music": {
+      "unique_artists": 2,
+      "found": 2,
+      "exact": 2,
+      "close": 0,
+      "needs_review": 0,
+      "not_found": 0
+    },
+    "spotify": {
+      "unique_artists": 2,
+      "linked": 0,
+      "venue": 0,
+      "api": 0,
+      "shows_with_link": 0
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "venue": "The Observatory North Park",
+  "venue_id": "theobservatory",
+  "venue_url": "https://bellyup.com",
+  "source_url": "https://bellyup.com/calendar",
+  "city": "San Diego, CA",
+  "metro": "San Diego",
+  "neighborhood": "North Park",
+  "scraped_at": "2026-10-22",
+  "count": 4,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Davide De Pierro",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-13",
+      "date_label": "Tue 2026-10-13",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://bellyup.com/calendar/15026333/davide-de-pierro",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "apple_music": "https://music.apple.com/us/artist/pigeons-playing-ping-pong/371903148",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Pigeons Playing Ping Pong",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dizgo",
+          "apple_music": "https://music.apple.com/us/artist/dizgo/1250260252",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Dizgo",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Fall Tour 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-31",
+      "date_label": "Sat 2026-10-31",
+      "doors": null,
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/pigeons-playing-ping-pong-the-observatory-north-park-tickets/14981773?REFID=bupwebsite",
+      "ticket_status": "Not On Sale",
+      "event_page": "https://bellyup.com/calendar/14981773/pigeons-playing-ping-pong-fall-tour-2026-w-dizgo",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Black Angels",
+          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Black Angels",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Passover 2026 Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-01",
+      "date_label": "Sun 2026-11-01",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-black-angels-passover-2026-the-observatory-north-park-tickets/14845983?REFID=bupwebsite",
+      "ticket_status": "Not On Sale",
+      "event_page": "https://bellyup.com/calendar/14845983/the-black-angels-passover-2026-tour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The King of Having Fun on Tour",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.348,
+          "matched": null,
+          "match_label": "no confident match (closest: Armin van Buuren @ 35%)"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Scratch",
+          "apple_music": "https://music.apple.com/us/artist/the-scratch/192611312",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Scratch",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Medium Build"
+      ],
+      "set_format": null,
+      "date": "2026-11-02",
+      "date_label": "Mon 2026-11-02",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/medium-build-presents-the-king-the-observatory-north-park-tickets/14216064?REFID=bupwebsite",
+      "ticket_status": "Not On Sale",
+      "event_page": "https://bellyup.com/calendar/14216064/medium-build-presents-the-king-of-having-fun-on-tour-w-the-scratch",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 4
+    },
+    "apple_music": {
+      "unique_artists": 6,
+      "found": 4,
+      "exact": 4,
+      "close": 0,
+      "needs_review": 0,
+      "not_found": 2
+    },
+    "spotify": {
+      "unique_artists": 6,
+      "linked": 0,
+      "venue": 0,
+      "api": 0,
+      "shows_with_link": 0
+    }
+  }
+}

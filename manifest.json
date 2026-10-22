@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:11:02.826858+00:00",
+  "generated_at": "2026-10-22T22:13:01.619155+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -9,6 +9,15 @@
       "updated_at": "2026-10-22",
       "show_count": 41,
       "sha256_16": "dbbd4ec66ce4c3e8"
+    },
+    {
+      "venue_id": "bellyup",
+      "file": "bellyup/shows.json",
+      "city": "Solana Beach, CA",
+      "metro": "San Diego",
+      "updated_at": "2026-10-01",
+      "show_count": 150,
+      "sha256_16": "9d4ac079129f2ce2"
     },
     {
       "venue_id": "brickandmortar",
@@ -92,6 +101,15 @@
       "sha256_16": "3ded9845daf4a1b2"
     },
     {
+      "venue_id": "humphreys",
+      "file": "humphreys/shows.json",
+      "city": "San Diego, CA",
+      "metro": "San Diego",
+      "updated_at": "2026-10-17",
+      "show_count": 1,
+      "sha256_16": "e9b150ae31ec1ee3"
+    },
+    {
       "venue_id": "independent",
       "file": "independent/shows.json",
       "city": "San Francisco, CA",
@@ -101,6 +119,15 @@
       "sha256_16": "f9264bb8a7201b1d"
     },
     {
+      "venue_id": "musicbox",
+      "file": "musicbox/shows.json",
+      "city": "San Diego, CA",
+      "metro": "San Diego",
+      "updated_at": "2026-10-29",
+      "show_count": 39,
+      "sha256_16": "4efb7dd11129af93"
+    },
+    {
       "venue_id": "regency",
       "file": "regency/shows.json",
       "city": "San Francisco, CA",
@@ -108,6 +135,33 @@
       "updated_at": "2026-10-22",
       "show_count": 39,
       "sha256_16": "2d0d59586eed48b2"
+    },
+    {
+      "venue_id": "thecasbah",
+      "file": "thecasbah/shows.json",
+      "city": "San Diego, CA",
+      "metro": "San Diego",
+      "updated_at": "2026-11-03",
+      "show_count": 1,
+      "sha256_16": "043924be7c3ea401"
+    },
+    {
+      "venue_id": "theobservatory",
+      "file": "theobservatory/shows.json",
+      "city": "San Diego, CA",
+      "metro": "San Diego",
+      "updated_at": "2026-10-13",
+      "show_count": 4,
+      "sha256_16": "6865b340b23ad945"
+    },
+    {
+      "venue_id": "thesound",
+      "file": "thesound/shows.json",
+      "city": "Del Mar, CA",
+      "metro": "San Diego",
+      "updated_at": "2026-10-01",
+      "show_count": 30,
+      "sha256_16": "9643aa83b206d830"
     },
     {
       "venue_id": "warfield",

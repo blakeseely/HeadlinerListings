@@ -1,0 +1,64 @@
+{
+  "venue": "Humphreys Concerts by the Bay",
+  "venue_id": "humphreys",
+  "venue_url": "https://bellyup.com",
+  "source_url": "https://bellyup.com/calendar",
+  "city": "San Diego, CA",
+  "metro": "San Diego",
+  "neighborhood": "Shelter Island",
+  "scraped_at": "2026-10-22",
+  "count": 1,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "10,000 Maniacs",
+          "apple_music": "https://music.apple.com/us/artist/10-000-maniacs/204617",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "10,000 Maniacs",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-17",
+      "date_label": "Sat 2026-10-17",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://bellyup.com/calendar/14768573/10000-maniacs",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 1
+    },
+    "apple_music": {
+      "unique_artists": 1,
+      "found": 1,
+      "exact": 1,
+      "close": 0,
+      "needs_review": 0,
+      "not_found": 0
+    },
+    "spotify": {
+      "unique_artists": 1,
+      "linked": 0,
+      "venue": 0,
+      "api": 0,
+      "shows_with_link": 0
+    }
+  }
+}
