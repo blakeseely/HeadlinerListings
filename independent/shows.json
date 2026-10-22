@@ -24,7 +24,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Never Ending Fall",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT",
+          "found": false,
+          "confidence": null,
+          "matched": null,
+          "match_label": null,
+          "spotify_source": "venue"
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -55,7 +66,18 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Valley Wolf",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/0RzJ4IJAdG4rN5ZnIDxvLK",
+          "found": false,
+          "confidence": null,
+          "matched": null,
+          "match_label": null,
+          "spotify_source": "venue"
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -3145,7 +3167,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Frayle",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": null,
+          "matched": null,
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -3518,17 +3550,17 @@
   ],
   "stats": {
     "apple_music": {
-      "unique_artists": 139,
+      "unique_artists": 142,
       "found": 128,
       "exact": 121,
       "close": 3,
       "needs_review": 4,
-      "not_found": 11
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 139,
-      "linked": 88,
-      "venue": 88,
+      "unique_artists": 142,
+      "linked": 90,
+      "venue": 90,
       "api": 0,
       "shows_with_link": 73
     }
