@@ -7,48 +7,15 @@
   "metro": "San Francisco",
   "neighborhood": "Castro",
   "scraped_at": "2026-10-22",
-  "count": 40,
+  "count": 39,
   "shows": [
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "TEN",
-          "apple_music": "https://music.apple.com/us/artist/ten/1515958292",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "TEN",
-          "match_label": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "US Showcase Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546772131",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1580622",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "The Aquabats!",
-          "apple_music": "https://music.apple.com/us/artist/the-aquabats/19637346",
+          "apple_music": "https://music.apple.com/us/artist/19637346",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -59,7 +26,7 @@
       "support_artists": [
         {
           "name": "Mariachi El Bronx",
-          "apple_music": "https://music.apple.com/us/artist/mariachi-el-bronx/321268620",
+          "apple_music": "https://music.apple.com/us/artist/321268620",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -68,7 +35,7 @@
         },
         {
           "name": "Mrs. Magician",
-          "apple_music": "https://music.apple.com/us/artist/mrs-magician/418383570",
+          "apple_music": "https://music.apple.com/us/artist/418383570",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -100,7 +67,7 @@
       "headline_artists": [
         {
           "name": "Jai Wolf",
-          "apple_music": "https://music.apple.com/us/artist/jai-wolf/896670451",
+          "apple_music": "https://music.apple.com/us/artist/896670451",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -111,7 +78,7 @@
       "support_artists": [
         {
           "name": "Koastle",
-          "apple_music": "https://music.apple.com/us/artist/koastle/1556516568",
+          "apple_music": "https://music.apple.com/us/artist/1556516568",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -143,7 +110,7 @@
       "headline_artists": [
         {
           "name": "Shyne",
-          "apple_music": "https://music.apple.com/us/artist/shyne/7197315",
+          "apple_music": "https://music.apple.com/us/artist/7197315",
           "spotify": "https://open.spotify.com/artist/64ovxBmjJ9ZDqkzEXVWpVc",
           "found": true,
           "confidence": 1.0,
@@ -154,7 +121,7 @@
       "support_artists": [
         {
           "name": "Barrington Levy",
-          "apple_music": "https://music.apple.com/us/artist/barrington-levy/308133",
+          "apple_music": "https://music.apple.com/us/artist/308133",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -163,7 +130,7 @@
         },
         {
           "name": "Lil' Cease",
-          "apple_music": "https://music.apple.com/us/artist/lil-cease/155465",
+          "apple_music": "https://music.apple.com/us/artist/155465",
           "spotify": "https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g",
           "found": true,
           "confidence": 1.0,
@@ -195,7 +162,7 @@
       "headline_artists": [
         {
           "name": "bleood",
-          "apple_music": "https://music.apple.com/us/artist/bleood/1744999836",
+          "apple_music": "https://music.apple.com/us/artist/1744999836",
           "spotify": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1",
           "found": true,
           "confidence": 1.0,
@@ -261,7 +228,7 @@
       "headline_artists": [
         {
           "name": "Medium Build",
-          "apple_music": "https://music.apple.com/us/artist/medium-build/1034696339",
+          "apple_music": "https://music.apple.com/us/artist/1034696339",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -272,7 +239,7 @@
       "support_artists": [
         {
           "name": "The Scratch",
-          "apple_music": "https://music.apple.com/us/artist/the-scratch/192611312",
+          "apple_music": "https://music.apple.com/us/artist/192611312",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -307,9 +274,9 @@
           "apple_music": null,
           "spotify": null,
           "found": false,
-          "confidence": 0.522,
+          "confidence": 0.273,
           "matched": null,
-          "match_label": "no confident match (closest: The Cars @ 52%)"
+          "match_label": "no confident match (closest: Genesis @ 27%)"
         }
       ],
       "support_artists": [],
@@ -337,7 +304,7 @@
       "headline_artists": [
         {
           "name": "The Black Angels",
-          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
+          "apple_music": "https://music.apple.com/us/artist/100997965",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -348,7 +315,7 @@
       "support_artists": [
         {
           "name": "GHOSTWOMAN",
-          "apple_music": "https://music.apple.com/us/artist/ghostwoman/1452069519",
+          "apple_music": "https://music.apple.com/us/artist/1452069519",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -380,7 +347,7 @@
       "headline_artists": [
         {
           "name": "Lucy Bedroque",
-          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "apple_music": "https://music.apple.com/us/artist/1734729660",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -391,7 +358,7 @@
       "support_artists": [
         {
           "name": "pinponpanpon",
-          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
+          "apple_music": "https://music.apple.com/us/artist/1718375419",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -423,7 +390,7 @@
       "headline_artists": [
         {
           "name": "Lucy Bedroque",
-          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "apple_music": "https://music.apple.com/us/artist/1734729660",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -434,7 +401,7 @@
       "support_artists": [
         {
           "name": "pinponpanpon",
-          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
+          "apple_music": "https://music.apple.com/us/artist/1718375419",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -466,7 +433,7 @@
       "headline_artists": [
         {
           "name": "Nia Archives",
-          "apple_music": "https://music.apple.com/us/artist/nia-archives/1515978311",
+          "apple_music": "https://music.apple.com/us/artist/1515978311",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -477,7 +444,7 @@
       "support_artists": [
         {
           "name": "BAMBII",
-          "apple_music": "https://music.apple.com/us/artist/bambii/1486396460",
+          "apple_music": "https://music.apple.com/us/artist/1486396460",
           "spotify": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95",
           "found": true,
           "confidence": 1.0,
@@ -509,7 +476,7 @@
       "headline_artists": [
         {
           "name": "Yuki Chiba",
-          "apple_music": "https://music.apple.com/us/artist/yuki-chiba/1727997785",
+          "apple_music": "https://music.apple.com/us/artist/1727997785",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -552,7 +519,7 @@
       "headline_artists": [
         {
           "name": "Soft Cell",
-          "apple_music": "https://music.apple.com/us/artist/soft-cell/140394",
+          "apple_music": "https://music.apple.com/us/artist/140394",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -585,7 +552,7 @@
       "headline_artists": [
         {
           "name": "Band of Horses",
-          "apple_music": "https://music.apple.com/us/artist/band-of-horses/129649188",
+          "apple_music": "https://music.apple.com/us/artist/129649188",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -618,7 +585,7 @@
       "headline_artists": [
         {
           "name": "L7",
-          "apple_music": "https://music.apple.com/us/artist/l7/192131",
+          "apple_music": "https://music.apple.com/us/artist/192131",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -629,7 +596,7 @@
       "support_artists": [
         {
           "name": "NOBRO",
-          "apple_music": "https://music.apple.com/us/artist/nobro/1450330746",
+          "apple_music": "https://music.apple.com/us/artist/1450330746",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -638,7 +605,7 @@
         },
         {
           "name": "Buzzed Lightbeer",
-          "apple_music": "https://music.apple.com/us/artist/buzzed-lightbeer/1509387237",
+          "apple_music": "https://music.apple.com/us/artist/1509387237",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -670,7 +637,7 @@
       "headline_artists": [
         {
           "name": "Headache",
-          "apple_music": "https://music.apple.com/us/artist/headache/1687506316",
+          "apple_music": "https://music.apple.com/us/artist/1687506316",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -681,7 +648,7 @@
       "support_artists": [
         {
           "name": "Baba Stiltz",
-          "apple_music": "https://music.apple.com/us/artist/baba-stiltz/426338387",
+          "apple_music": "https://music.apple.com/us/artist/426338387",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -690,7 +657,7 @@
         },
         {
           "name": "amr*",
-          "apple_music": "https://music.apple.com/us/artist/amr/996234727",
+          "apple_music": "https://music.apple.com/us/artist/996234727",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -722,7 +689,7 @@
       "headline_artists": [
         {
           "name": "Manic Street Preachers",
-          "apple_music": "https://music.apple.com/us/artist/manic-street-preachers/659158",
+          "apple_music": "https://music.apple.com/us/artist/659158",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -755,7 +722,7 @@
       "headline_artists": [
         {
           "name": "Ninajirachi",
-          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "apple_music": "https://music.apple.com/us/artist/1210938233",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -766,7 +733,7 @@
       "support_artists": [
         {
           "name": "MGNA Crrrta",
-          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
+          "apple_music": "https://music.apple.com/us/artist/1620045272",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -798,7 +765,7 @@
       "headline_artists": [
         {
           "name": "Ninajirachi",
-          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "apple_music": "https://music.apple.com/us/artist/1210938233",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -809,7 +776,7 @@
       "support_artists": [
         {
           "name": "MGNA Crrrta",
-          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
+          "apple_music": "https://music.apple.com/us/artist/1620045272",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -841,7 +808,7 @@
       "headline_artists": [
         {
           "name": "Ninajirachi",
-          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "apple_music": "https://music.apple.com/us/artist/1210938233",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -852,7 +819,7 @@
       "support_artists": [
         {
           "name": "MGNA Crrrta",
-          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
+          "apple_music": "https://music.apple.com/us/artist/1620045272",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -884,7 +851,7 @@
       "headline_artists": [
         {
           "name": "Layton Giordani",
-          "apple_music": "https://music.apple.com/us/artist/layton-giordani/748431694",
+          "apple_music": "https://music.apple.com/us/artist/748431694",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -895,7 +862,7 @@
       "support_artists": [
         {
           "name": "Greggio",
-          "apple_music": "https://music.apple.com/us/artist/greggio/1565039536",
+          "apple_music": "https://music.apple.com/us/artist/1565039536",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -927,7 +894,7 @@
       "headline_artists": [
         {
           "name": "Gary Numan",
-          "apple_music": "https://music.apple.com/us/artist/gary-numan/2780160",
+          "apple_music": "https://music.apple.com/us/artist/2780160",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -938,7 +905,7 @@
       "support_artists": [
         {
           "name": "TREMOURS",
-          "apple_music": "https://music.apple.com/us/artist/tremours/1630704631",
+          "apple_music": "https://music.apple.com/us/artist/1630704631",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -970,7 +937,7 @@
       "headline_artists": [
         {
           "name": "The Amity Affliction",
-          "apple_music": "https://music.apple.com/us/artist/the-amity-affliction/449513466",
+          "apple_music": "https://music.apple.com/us/artist/449513466",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -981,7 +948,7 @@
       "support_artists": [
         {
           "name": "blessthefall",
-          "apple_music": "https://music.apple.com/us/artist/blessthefall/202971163",
+          "apple_music": "https://music.apple.com/us/artist/202971163",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -990,7 +957,7 @@
         },
         {
           "name": "Orthodox",
-          "apple_music": "https://music.apple.com/us/artist/orthodox/1065245226",
+          "apple_music": "https://music.apple.com/us/artist/1065245226",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -999,7 +966,7 @@
         },
         {
           "name": "Buried In Spring",
-          "apple_music": "https://music.apple.com/us/artist/buried-in-spring/1896125306",
+          "apple_music": "https://music.apple.com/us/artist/1896125306",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1031,7 +998,7 @@
       "headline_artists": [
         {
           "name": "The Wrecks",
-          "apple_music": "https://music.apple.com/us/artist/the-wrecks/1027163978",
+          "apple_music": "https://music.apple.com/us/artist/1027163978",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1042,7 +1009,7 @@
       "support_artists": [
         {
           "name": "Worry Club",
-          "apple_music": "https://music.apple.com/us/artist/worry-club/1489877520",
+          "apple_music": "https://music.apple.com/us/artist/1489877520",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1051,7 +1018,7 @@
         },
         {
           "name": "Kid Sistr",
-          "apple_music": "https://music.apple.com/us/artist/kid-sistr/1506324271",
+          "apple_music": "https://music.apple.com/us/artist/1506324271",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1083,7 +1050,7 @@
       "headline_artists": [
         {
           "name": "Amtrac",
-          "apple_music": "https://music.apple.com/us/artist/amtrac/384096444",
+          "apple_music": "https://music.apple.com/us/artist/384096444",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1182,7 +1149,7 @@
       "headline_artists": [
         {
           "name": "Takuya Nakamura",
-          "apple_music": "https://music.apple.com/us/artist/takuya-nakamura/328475107",
+          "apple_music": "https://music.apple.com/us/artist/328475107",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1215,7 +1182,7 @@
       "headline_artists": [
         {
           "name": "MPH",
-          "apple_music": "https://music.apple.com/us/artist/mph/465495678",
+          "apple_music": "https://music.apple.com/us/artist/465495678",
           "spotify": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof",
           "found": true,
           "confidence": 1.0,
@@ -1281,7 +1248,7 @@
       "headline_artists": [
         {
           "name": "TWINSICK",
-          "apple_music": "https://music.apple.com/us/artist/twinsick/1492365725",
+          "apple_music": "https://music.apple.com/us/artist/1492365725",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1325,7 +1292,7 @@
       "support_artists": [
         {
           "name": "Riria",
-          "apple_music": "https://music.apple.com/us/artist/riria/1768796590",
+          "apple_music": "https://music.apple.com/us/artist/1768796590",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1410,7 +1377,7 @@
         },
         {
           "name": "Illumishade",
-          "apple_music": "https://music.apple.com/us/artist/illumishade/1494763050",
+          "apple_music": "https://music.apple.com/us/artist/1494763050",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1475,7 +1442,7 @@
       "headline_artists": [
         {
           "name": "MASS OF THE FERMENTING DREGS",
-          "apple_music": "https://music.apple.com/us/artist/mass-of-the-fermenting-dregs/270350271",
+          "apple_music": "https://music.apple.com/us/artist/270350271",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1528,7 +1495,7 @@
         },
         {
           "name": "Rat Boy",
-          "apple_music": "https://music.apple.com/us/artist/rat-boy/981610998",
+          "apple_music": "https://music.apple.com/us/artist/981610998",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1560,7 +1527,7 @@
       "headline_artists": [
         {
           "name": "The Wombats",
-          "apple_music": "https://music.apple.com/us/artist/the-wombats/162731772",
+          "apple_music": "https://music.apple.com/us/artist/162731772",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1571,7 +1538,7 @@
       "support_artists": [
         {
           "name": "The Lathums",
-          "apple_music": "https://music.apple.com/us/artist/the-lathums/1397009313",
+          "apple_music": "https://music.apple.com/us/artist/1397009313",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1633,18 +1600,18 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40
+      "music": 39
     },
     "apple_music": {
-      "unique_artists": 65,
-      "found": 63,
-      "exact": 62,
+      "unique_artists": 64,
+      "found": 62,
+      "exact": 61,
       "close": 0,
       "needs_review": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 65,
+      "unique_artists": 64,
       "linked": 6,
       "venue": 6,
       "api": 0,

@@ -462,19 +462,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "POSTPONED",
-          "apple_music": "https://music.apple.com/us/artist/postponed/1438881174",
-          "spotify": "https://open.spotify.com/artist/10NfpJwbpCy3GLSYNNcbW7",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Postponed",
-          "match_label": null,
-          "spotify_source": "api"
+          "name": "ChapelMania",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": "Spotify: no confident match (closest: Chaparelle @ 57%)"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "ChapelMania",
+      "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-11-01",
@@ -486,7 +485,7 @@
       "event_page": "https://wl.seetickets.us/event/postponed-chapelmania/705677?afflky=TheChapel",
       "room": null,
       "age_rating": null,
-      "note": null,
+      "note": "Postponed",
       "description": null
     },
     {
@@ -2140,18 +2139,18 @@
     },
     "apple_music": {
       "unique_artists": 99,
-      "found": 74,
-      "exact": 67,
+      "found": 73,
+      "exact": 66,
       "close": 1,
       "needs_review": 6,
-      "not_found": 25
+      "not_found": 26
     },
     "spotify": {
       "unique_artists": 99,
-      "linked": 74,
+      "linked": 73,
       "venue": 0,
-      "api": 74,
-      "shows_with_link": 35
+      "api": 73,
+      "shows_with_link": 34
     }
   }
 }

@@ -14,18 +14,19 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "POSTPONED",
-          "apple_music": "https://music.apple.com/us/artist/postponed/1438881174",
-          "spotify": null,
+          "name": "Sawyer Hill",
+          "apple_music": "https://music.apple.com/us/artist/sawyer-hill/1651349181",
+          "spotify": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG",
           "found": true,
           "confidence": 1.0,
-          "matched": "Postponed",
-          "match_label": null
+          "matched": "Sawyer Hill",
+          "match_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Sawyer Hill",
+      "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-10-20",
@@ -37,7 +38,7 @@
       "event_page": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
       "room": null,
       "age_rating": null,
-      "note": null,
+      "note": "Postponed",
       "description": null
     },
     {
@@ -45,18 +46,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "POSTPONED",
-          "apple_music": "https://music.apple.com/us/artist/postponed/1438881174",
+          "name": "City of the Sun",
+          "apple_music": "https://music.apple.com/us/artist/city-of-the-sun/847581105",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
-          "matched": "Postponed",
+          "matched": "City of the Sun",
           "match_label": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "City of the Sun",
+      "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-10-21",
@@ -68,7 +69,7 @@
       "event_page": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
       "room": null,
       "age_rating": null,
-      "note": null,
+      "note": "Postponed",
       "description": null
     },
     {
@@ -85,7 +86,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Gabby’s World",
+          "apple_music": "https://music.apple.com/us/artist/gabbys-world/970270861",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Gabby’s World",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "Celebrating 10 Years of Next Thing",
       "presenters": [],
@@ -863,11 +874,11 @@
       "support_artists": [
         {
           "name": "Runner",
-          "apple_music": "https://music.apple.com/us/artist/runner/1686298634",
+          "apple_music": "https://music.apple.com/us/artist/runner/1885542683",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
-          "matched": "runner",
+          "matched": "RUNNER",
           "match_label": null
         },
         {
@@ -997,6 +1008,15 @@
         }
       ],
       "support_artists": [
+        {
+          "name": "Etienne de Rocher (Haunted Shed) KATZROAR",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        },
         {
           "name": "KATZROAR",
           "apple_music": "https://music.apple.com/us/artist/katzroar/1566935035",
@@ -1387,7 +1407,7 @@
       "headline_artists": [
         {
           "name": "The Buttertones",
-          "apple_music": "https://music.apple.com/us/artist/the-buttertones/1151029360",
+          "apple_music": "https://music.apple.com/us/artist/1151029360",
           "spotify": "https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx",
           "found": true,
           "confidence": 1.0,
@@ -1429,7 +1449,7 @@
       "headline_artists": [
         {
           "name": "MEEK",
-          "apple_music": "https://music.apple.com/us/artist/meek/1784432868",
+          "apple_music": "https://music.apple.com/us/artist/1784432868",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1482,7 +1502,7 @@
       "support_artists": [
         {
           "name": "John Errol",
-          "apple_music": "https://music.apple.com/us/artist/john-errol/1313983782",
+          "apple_music": "https://music.apple.com/us/artist/1313983782",
           "spotify": "https://open.spotify.com/artist/7MU7z25m2sJNFKeFlNVIRP",
           "found": true,
           "confidence": 1.0,
@@ -1513,7 +1533,7 @@
       "headline_artists": [
         {
           "name": "Dragon Smoke",
-          "apple_music": "https://music.apple.com/us/artist/dragon-smoke/469444402",
+          "apple_music": "https://music.apple.com/us/artist/469444402",
           "spotify": "https://open.spotify.com/artist/1a4j8VJ5hdR1UZNzU6xsov",
           "found": true,
           "confidence": 1.0,
@@ -1555,7 +1575,7 @@
       "headline_artists": [
         {
           "name": "Fireworks",
-          "apple_music": "https://music.apple.com/us/artist/fireworks/6970663",
+          "apple_music": "https://music.apple.com/us/artist/6970663",
           "spotify": "https://open.spotify.com/artist/2FcxTTXQKgTdJzTeACMlVU",
           "found": true,
           "confidence": 1.0,
@@ -1597,7 +1617,7 @@
       "headline_artists": [
         {
           "name": "Wishy",
-          "apple_music": "https://music.apple.com/us/artist/wishy/1668476287",
+          "apple_music": "https://music.apple.com/us/artist/1668476287",
           "spotify": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe",
           "found": true,
           "confidence": 1.0,
@@ -1609,7 +1629,7 @@
       "support_artists": [
         {
           "name": "The Umbrellas",
-          "apple_music": "https://music.apple.com/us/artist/the-umbrellas/1569008421",
+          "apple_music": "https://music.apple.com/us/artist/1569008421",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1639,7 +1659,7 @@
       "headline_artists": [
         {
           "name": "feeble little horse",
-          "apple_music": "https://music.apple.com/us/artist/feeble-little-horse/1564273208",
+          "apple_music": "https://music.apple.com/us/artist/1564273208",
           "spotify": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8",
           "found": true,
           "confidence": 1.0,
@@ -1681,7 +1701,7 @@
       "headline_artists": [
         {
           "name": "feeble little horse",
-          "apple_music": "https://music.apple.com/us/artist/feeble-little-horse/1564273208",
+          "apple_music": "https://music.apple.com/us/artist/1564273208",
           "spotify": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8",
           "found": true,
           "confidence": 1.0,
@@ -1723,7 +1743,7 @@
       "headline_artists": [
         {
           "name": "THE BOBBY LEES",
-          "apple_music": "https://music.apple.com/us/artist/the-bobby-lees/1340751343",
+          "apple_music": "https://music.apple.com/us/artist/1340751343",
           "spotify": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI",
           "found": true,
           "confidence": 1.0,
@@ -1766,7 +1786,7 @@
       "headline_artists": [
         {
           "name": "the olllam",
-          "apple_music": "https://music.apple.com/us/artist/the-olllam/553254009",
+          "apple_music": "https://music.apple.com/us/artist/553254009",
           "spotify": "https://open.spotify.com/artist/6LtwY43IVeNpnireOVay0H",
           "found": true,
           "confidence": 1.0,
@@ -1798,7 +1818,7 @@
       "headline_artists": [
         {
           "name": "Swervedriver",
-          "apple_music": "https://music.apple.com/us/artist/swervedriver/388347",
+          "apple_music": "https://music.apple.com/us/artist/388347",
           "spotify": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu",
           "found": true,
           "confidence": 1.0,
@@ -1807,7 +1827,17 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Bleary Eyed",
+          "apple_music": "https://music.apple.com/us/artist/1073767610",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Bleary Eyed",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "Raise at 35",
       "presenters": [
@@ -1832,7 +1862,7 @@
       "headline_artists": [
         {
           "name": "Willi Carlisle",
-          "apple_music": "https://music.apple.com/us/artist/willi-carlisle/1166038141",
+          "apple_music": "https://music.apple.com/us/artist/1166038141",
           "spotify": "https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L",
           "found": true,
           "confidence": 1.0,
@@ -1844,7 +1874,7 @@
       "support_artists": [
         {
           "name": "Amelia Day",
-          "apple_music": "https://music.apple.com/us/artist/amelia-day/1552349264",
+          "apple_music": "https://music.apple.com/us/artist/1552349264",
           "spotify": "https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y",
           "found": true,
           "confidence": 1.0,
@@ -1883,7 +1913,35 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Charlene Kaye",
+          "apple_music": "https://music.apple.com/us/artist/163929428",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Charlene Kaye",
+          "match_label": null
+        },
+        {
+          "name": "Lena Hall",
+          "apple_music": "https://music.apple.com/us/artist/386034950",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Lena Hall",
+          "match_label": null
+        },
+        {
+          "name": "Meg Toohey",
+          "apple_music": "https://music.apple.com/us/artist/1489534182",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Meg Toohey",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "California Tour 2026 - 2 Nights",
       "presenters": [
@@ -1916,7 +1974,35 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Charlene Kaye",
+          "apple_music": "https://music.apple.com/us/artist/163929428",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Charlene Kaye",
+          "match_label": null
+        },
+        {
+          "name": "Lena Hall",
+          "apple_music": "https://music.apple.com/us/artist/386034950",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Lena Hall",
+          "match_label": null
+        },
+        {
+          "name": "Meg Toohey",
+          "apple_music": "https://music.apple.com/us/artist/1489534182",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Meg Toohey",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "California Tour 2026 - 2 Nights",
       "presenters": [
@@ -1941,7 +2027,7 @@
       "headline_artists": [
         {
           "name": "The Polish Ambassador",
-          "apple_music": "https://music.apple.com/us/artist/the-polish-ambassador/214826678",
+          "apple_music": "https://music.apple.com/us/artist/214826678",
           "spotify": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU",
           "found": true,
           "confidence": 1.0,
@@ -1983,7 +2069,7 @@
       "headline_artists": [
         {
           "name": "Petey USA",
-          "apple_music": "https://music.apple.com/us/artist/petey-usa/1789154025",
+          "apple_music": "https://music.apple.com/us/artist/1789154025",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -1994,7 +2080,7 @@
       "support_artists": [
         {
           "name": "Linus Hablot",
-          "apple_music": "https://music.apple.com/us/artist/linus-hablot/1148574775",
+          "apple_music": "https://music.apple.com/us/artist/1148574775",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -2024,7 +2110,7 @@
       "headline_artists": [
         {
           "name": "Ray and Paul",
-          "apple_music": "https://music.apple.com/us/artist/ray-paul/360138245",
+          "apple_music": "https://music.apple.com/us/artist/360138245",
           "spotify": "https://open.spotify.com/artist/4Z8ju2qdf7OhLNQtzQSk6o",
           "found": true,
           "confidence": 0.9,
@@ -2059,9 +2145,9 @@
           "apple_music": null,
           "spotify": null,
           "found": false,
-          "confidence": 0.545,
+          "confidence": 0.0,
           "matched": null,
-          "match_label": "no confident match (closest: Slightly Stoopid @ 55%)"
+          "match_label": null
         }
       ],
       "support_artists": [],
@@ -2087,7 +2173,7 @@
       "headline_artists": [
         {
           "name": "Com Truise",
-          "apple_music": "https://music.apple.com/us/artist/com-truise/407016659",
+          "apple_music": "https://music.apple.com/us/artist/407016659",
           "spotify": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX",
           "found": true,
           "confidence": 1.0,
@@ -2097,7 +2183,7 @@
         },
         {
           "name": "Matthew Dear",
-          "apple_music": "https://music.apple.com/us/artist/matthew-dear/6947989",
+          "apple_music": "https://music.apple.com/us/artist/6947989",
           "spotify": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto",
           "found": true,
           "confidence": 1.0,
@@ -2129,7 +2215,7 @@
       "headline_artists": [
         {
           "name": "Scott Pemberton",
-          "apple_music": "https://music.apple.com/us/artist/scott-pemberton/360571659",
+          "apple_music": "https://music.apple.com/us/artist/360571659",
           "spotify": "https://open.spotify.com/artist/7yCIya37BJdBMLcyj31BTb",
           "found": true,
           "confidence": 1.0,
@@ -2141,7 +2227,7 @@
       "support_artists": [
         {
           "name": "The Westones",
-          "apple_music": "https://music.apple.com/us/artist/westones/1777529954",
+          "apple_music": "https://music.apple.com/us/artist/1777529954",
           "spotify": "https://open.spotify.com/artist/4fOKVYLo6LYlBSeMvBu73D",
           "found": true,
           "confidence": 0.95,
@@ -2151,7 +2237,7 @@
         },
         {
           "name": "Boot Juice",
-          "apple_music": "https://music.apple.com/us/artist/boot-juice/1433812892",
+          "apple_music": "https://music.apple.com/us/artist/1433812892",
           "spotify": "https://open.spotify.com/artist/7n2Yn2i3HzGvXIPNDGsSGr",
           "found": true,
           "confidence": 1.0,
@@ -2182,7 +2268,7 @@
       "headline_artists": [
         {
           "name": "Sister Nancy & the Steady Rock Band",
-          "apple_music": "https://music.apple.com/us/artist/sister-nancy/2559829",
+          "apple_music": "https://music.apple.com/us/artist/2559829",
           "spotify": null,
           "found": true,
           "confidence": 0.95,
@@ -2193,7 +2279,7 @@
       "support_artists": [
         {
           "name": "Reggae Angels",
-          "apple_music": "https://music.apple.com/us/artist/reggae-angels/581706691",
+          "apple_music": "https://music.apple.com/us/artist/581706691",
           "spotify": "https://open.spotify.com/artist/03DAYY30oSGySGwfHm2tlk",
           "found": true,
           "confidence": 1.0,
@@ -2224,7 +2310,7 @@
       "headline_artists": [
         {
           "name": "Taper's Choice",
-          "apple_music": "https://music.apple.com/us/artist/tapers-choice/1838505039",
+          "apple_music": "https://music.apple.com/us/artist/1838505039",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -2255,7 +2341,7 @@
       "headline_artists": [
         {
           "name": "STS9",
-          "apple_music": "https://music.apple.com/us/artist/sts9/61286446",
+          "apple_music": "https://music.apple.com/us/artist/61286446",
           "spotify": "https://open.spotify.com/artist/1eZ4td9oadjw7GkW0LzxNK",
           "found": true,
           "confidence": 1.0,
@@ -2351,7 +2437,7 @@
       "headline_artists": [
         {
           "name": "The Flatliners",
-          "apple_music": "https://music.apple.com/us/artist/the-flatliners/41735804",
+          "apple_music": "https://music.apple.com/us/artist/41735804",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -2382,7 +2468,7 @@
       "headline_artists": [
         {
           "name": "Mollie Elizabeth",
-          "apple_music": "https://music.apple.com/us/artist/mollie-elizabeth/1780515318",
+          "apple_music": "https://music.apple.com/us/artist/1780515318",
           "spotify": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z",
           "found": true,
           "confidence": 1.0,
@@ -2414,7 +2500,7 @@
       "headline_artists": [
         {
           "name": "Winona Fighter",
-          "apple_music": "https://music.apple.com/us/artist/winona-fighter/1618260492",
+          "apple_music": "https://music.apple.com/us/artist/1618260492",
           "spotify": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ",
           "found": true,
           "confidence": 1.0,
@@ -2446,7 +2532,7 @@
       "headline_artists": [
         {
           "name": "Lotus",
-          "apple_music": "https://music.apple.com/us/artist/lotus/1504707429",
+          "apple_music": "https://music.apple.com/us/artist/1504707429",
           "spotify": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b",
           "found": true,
           "confidence": 1.0,
@@ -2458,7 +2544,7 @@
       "support_artists": [
         {
           "name": "Michael Wilbur (of Moon Hooch)",
-          "apple_music": "https://music.apple.com/us/artist/michael-wilbur/1300305454",
+          "apple_music": "https://music.apple.com/us/artist/1300305454",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -2488,7 +2574,7 @@
       "headline_artists": [
         {
           "name": "Odezenne",
-          "apple_music": "https://music.apple.com/us/artist/odezenne/422027690",
+          "apple_music": "https://music.apple.com/us/artist/422027690",
           "spotify": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp",
           "found": true,
           "confidence": 1.0,
@@ -2520,7 +2606,7 @@
       "headline_artists": [
         {
           "name": "Romare",
-          "apple_music": "https://music.apple.com/us/artist/romare/504834916",
+          "apple_music": "https://music.apple.com/us/artist/504834916",
           "spotify": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo",
           "found": true,
           "confidence": 1.0,
@@ -2552,7 +2638,7 @@
       "headline_artists": [
         {
           "name": "Ely Oaks",
-          "apple_music": "https://music.apple.com/us/artist/ely-oaks/1559720094",
+          "apple_music": "https://music.apple.com/us/artist/1559720094",
           "spotify": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my",
           "found": true,
           "confidence": 1.0,
@@ -2584,7 +2670,7 @@
       "headline_artists": [
         {
           "name": "Ikkimel",
-          "apple_music": "https://music.apple.com/us/artist/ikkimel/1595090263",
+          "apple_music": "https://music.apple.com/us/artist/1595090263",
           "spotify": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn",
           "found": true,
           "confidence": 1.0,
@@ -2616,7 +2702,7 @@
       "headline_artists": [
         {
           "name": "Fink",
-          "apple_music": "https://music.apple.com/us/artist/fink/2539498",
+          "apple_music": "https://music.apple.com/us/artist/2539498",
           "spotify": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf",
           "found": true,
           "confidence": 1.0,
@@ -2628,7 +2714,7 @@
       "support_artists": [
         {
           "name": "Maggie Koerner",
-          "apple_music": "https://music.apple.com/us/artist/maggie-koerner/480831917",
+          "apple_music": "https://music.apple.com/us/artist/480831917",
           "spotify": "https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe",
           "found": true,
           "confidence": 1.0,
@@ -2659,7 +2745,7 @@
       "headline_artists": [
         {
           "name": "Bella Poarch",
-          "apple_music": "https://music.apple.com/us/artist/bella-poarch/1567245769",
+          "apple_music": "https://music.apple.com/us/artist/1567245769",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -2724,7 +2810,7 @@
       "headline_artists": [
         {
           "name": "Way Dynamic",
-          "apple_music": "https://music.apple.com/us/artist/way-dynamic/1438475838",
+          "apple_music": "https://music.apple.com/us/artist/1438475838",
           "spotify": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk",
           "found": true,
           "confidence": 1.0,
@@ -2756,7 +2842,7 @@
       "headline_artists": [
         {
           "name": "Jack Kays and his Band",
-          "apple_music": "https://music.apple.com/us/artist/jack-kays/1421268766",
+          "apple_music": "https://music.apple.com/us/artist/1421268766",
           "spotify": null,
           "found": true,
           "confidence": 0.95,
@@ -2797,7 +2883,7 @@
       "headline_artists": [
         {
           "name": "Valley",
-          "apple_music": "https://music.apple.com/us/artist/valley/1004752984",
+          "apple_music": "https://music.apple.com/us/artist/1004752984",
           "spotify": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc",
           "found": true,
           "confidence": 1.0,
@@ -2809,7 +2895,7 @@
       "support_artists": [
         {
           "name": "Moody Joody",
-          "apple_music": "https://music.apple.com/us/artist/moody-joody/1523178182",
+          "apple_music": "https://music.apple.com/us/artist/1523178182",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -2870,7 +2956,7 @@
       "headline_artists": [
         {
           "name": "Tommy Lefroy",
-          "apple_music": "https://music.apple.com/us/artist/tommy-lefroy/1552366962",
+          "apple_music": "https://music.apple.com/us/artist/1552366962",
           "spotify": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP",
           "found": true,
           "confidence": 1.0,
@@ -2912,7 +2998,7 @@
       "headline_artists": [
         {
           "name": "Rayland Baxter",
-          "apple_music": "https://music.apple.com/us/artist/rayland-baxter/430112023",
+          "apple_music": "https://music.apple.com/us/artist/430112023",
           "spotify": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq",
           "found": true,
           "confidence": 1.0,
@@ -2944,7 +3030,7 @@
       "headline_artists": [
         {
           "name": "Danielle Ponder",
-          "apple_music": "https://music.apple.com/us/artist/danielle-ponder/1487289675",
+          "apple_music": "https://music.apple.com/us/artist/1487289675",
           "spotify": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ",
           "found": true,
           "confidence": 1.0,
@@ -2976,7 +3062,7 @@
       "headline_artists": [
         {
           "name": "strongboi",
-          "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
+          "apple_music": "https://music.apple.com/us/artist/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
           "found": true,
           "confidence": 1.0,
@@ -2985,7 +3071,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "apple_music": "https://music.apple.com/us/artist/1055288813",
+          "spotify": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Salami Rose Joe Louis",
+          "match_label": null,
+          "spotify_source": "venue"
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -3008,7 +3105,7 @@
       "headline_artists": [
         {
           "name": "Ruby Waters",
-          "apple_music": "https://music.apple.com/us/artist/ruby-waters/1441595388",
+          "apple_music": "https://music.apple.com/us/artist/1441595388",
           "spotify": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd",
           "found": true,
           "confidence": 1.0,
@@ -3040,7 +3137,7 @@
       "headline_artists": [
         {
           "name": "Dogma",
-          "apple_music": "https://music.apple.com/us/artist/dogma/1614009037",
+          "apple_music": "https://music.apple.com/us/artist/1614009037",
           "spotify": null,
           "found": true,
           "confidence": 1.0,
@@ -3071,7 +3168,7 @@
       "headline_artists": [
         {
           "name": "Hans Williams",
-          "apple_music": "https://music.apple.com/us/artist/hans-williams/1368674949",
+          "apple_music": "https://music.apple.com/us/artist/1368674949",
           "spotify": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj",
           "found": true,
           "confidence": 1.0,
@@ -3103,7 +3200,7 @@
       "headline_artists": [
         {
           "name": "Dan and Peggy Reeder",
-          "apple_music": "https://music.apple.com/us/artist/dan-and-peggy-reeder/1572607258",
+          "apple_music": "https://music.apple.com/us/artist/1572607258",
           "spotify": "https://open.spotify.com/album/5QlhgDiBLBsnpwL3gG80Ek",
           "found": true,
           "confidence": 1.0,
@@ -3135,7 +3232,7 @@
       "headline_artists": [
         {
           "name": "Camel Power Club",
-          "apple_music": "https://music.apple.com/us/artist/camel-power-club/922958922",
+          "apple_music": "https://music.apple.com/us/artist/922958922",
           "spotify": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG",
           "found": true,
           "confidence": 1.0,
@@ -3199,7 +3296,7 @@
       "headline_artists": [
         {
           "name": "Iceage",
-          "apple_music": "https://music.apple.com/us/artist/iceage/406846711",
+          "apple_music": "https://music.apple.com/us/artist/406846711",
           "spotify": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU",
           "found": true,
           "confidence": 1.0,
@@ -3263,7 +3360,7 @@
       "headline_artists": [
         {
           "name": "Too Many Zooz",
-          "apple_music": "https://music.apple.com/us/artist/too-many-zooz/885114063",
+          "apple_music": "https://music.apple.com/us/artist/885114063",
           "spotify": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr",
           "found": true,
           "confidence": 1.0,
@@ -3295,7 +3392,7 @@
       "headline_artists": [
         {
           "name": "cleopatrick",
-          "apple_music": "https://music.apple.com/us/artist/cleopatrick/1079055121",
+          "apple_music": "https://music.apple.com/us/artist/1079055121",
           "spotify": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW",
           "found": true,
           "confidence": 1.0,
@@ -3327,7 +3424,7 @@
       "headline_artists": [
         {
           "name": "Keo",
-          "apple_music": "https://music.apple.com/us/artist/keo/1636401744",
+          "apple_music": "https://music.apple.com/us/artist/1636401744",
           "spotify": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA",
           "found": true,
           "confidence": 1.0,
@@ -3358,7 +3455,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "CG5 Presents: The GAMER Tour",
+          "name": "CG5 Presents",
           "apple_music": null,
           "spotify": null,
           "found": false,
@@ -3369,8 +3466,10 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
+      "show_title": "The GAMER Tour",
+      "presenters": [
+        "CG5 Presents"
+      ],
       "set_format": null,
       "date": "2027-06-05",
       "date_label": "Sat 2027-06-05",
@@ -3390,7 +3489,7 @@
       "headline_artists": [
         {
           "name": "EVAN GIIA",
-          "apple_music": "https://music.apple.com/us/artist/evan-giia/1234698800",
+          "apple_music": "https://music.apple.com/us/artist/1234698800",
           "spotify": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t",
           "found": true,
           "confidence": 1.0,
@@ -3419,19 +3518,19 @@
   ],
   "stats": {
     "apple_music": {
-      "unique_artists": 131,
-      "found": 121,
-      "exact": 114,
+      "unique_artists": 139,
+      "found": 128,
+      "exact": 121,
       "close": 3,
       "needs_review": 4,
-      "not_found": 10
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 131,
-      "linked": 86,
-      "venue": 86,
+      "unique_artists": 139,
+      "linked": 88,
+      "venue": 88,
       "api": 0,
-      "shows_with_link": 72
+      "shows_with_link": 73
     }
   }
 }
