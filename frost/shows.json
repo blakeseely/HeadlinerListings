@@ -3,7 +3,10 @@
   "venue_id": "frost",
   "venue_url": "https://live.stanford.edu",
   "source_url": "https://live.stanford.edu/api/events/Live",
-  "scraped_at": "2026-10-20",
+  "city": "Palo Alto, CA",
+  "metro": "San Francisco",
+  "neighborhood": null,
+  "scraped_at": "2026-10-21",
   "count": 0,
   "shows": [],
   "stats": {
@@ -18,8 +21,5 @@
       "needs_review": 0,
       "not_found": 0
     }
-  },
-  "city": "Palo Alto, CA",
-  "metro": "San Francisco",
-  "neighborhood": null
+  }
 }

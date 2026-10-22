@@ -3,49 +3,12 @@
   "venue_id": "brickandmortar",
   "venue_url": "https://www.brickandmortarmusic.com/",
   "source_url": "https://www.brickandmortarmusic.com/",
-  "scraped_at": "2026-10-20",
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Mission District",
+  "scraped_at": "2026-10-21",
   "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tōth",
-          "apple_music": "https://music.apple.com/us/artist/t%C5%8Dth/1436900709",
-          "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Tōth",
-          "match_label": null
-        },
-        {
-          "name": "Sean Nicholas Savage",
-          "apple_music": "https://music.apple.com/us/artist/sean-nicholas-savage/398696204",
-          "spotify": "https://open.spotify.com/artist/6XC2sEBXW5xqpPSbYgMnvc",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Sean Nicholas Savage",
-          "match_label": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/tth-sean-nicholas-savage-brick-and-mortar-music-hall-tickets/14964683?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/toth/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Brooklyn-based songwriter and multi-instrumentalist Tōth (Alex Toth of Rubblebucket) returns with his third album, And The Voice Said. Known for emotionally potent songwriting shot through with wit and humor, Tōth creates live shows that feel less like performances and more like communal gatherings — heart-on-sleeve, deeply felt, and open to everyone. His stage presence is magnetic, his banter delightfully unhinged, and his trumpet playing soulful and expressive. Co-produced by Grammy-nominated artist Caroline Rose and featuring Kimbra, And The Voice Said captures Tōth in full bloom as both a singer and visionary artist."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -70,7 +33,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/yana-the-feelings-are-brick-and-mortar-music-hall-tickets/14269664?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/yana-the-feelings-are-forever-tour/",
       "room": null,
       "age_rating": "All Ages",
@@ -191,7 +154,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/natalie-jinju-chiabiee-brick-and-mortar-music-hall-tickets/14269634?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/natalie-jinju/",
       "room": null,
       "age_rating": "All Ages",
@@ -228,37 +191,6 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Felukah",
-          "apple_music": "https://music.apple.com/us/artist/felukah/1489020256",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Felukah",
-          "match_label": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "HibisKiss Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-28",
-      "date_label": "Wed 2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/felukah-hibiskiss-tour-brick-and-mortar-music-hall-tickets/15040813?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/felukah-hibiskiss-tour/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "In her latest collaboration, “AZÚCAR/رةكس” , releasing September 18, 2026, Felukah x Xiuhtezcatl capture their diasporic spirit through a multilingual blend of Arabic, Spanish, and English, weaving themes of movement, belonging, loyalty, and finding sweetness in the midst of a hard life."
     },
     {
       "event_type": "music",
@@ -836,6 +768,78 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Born on March 10, 1993, a “Grady Baby” from Atlanta’s southside, Hitchcock began rapping at 12, sharpening his skills through freestyles and early mixtapes. While attending Georgia Southern University as a pre-med student, he launched his New Atlanta Tuesdays freestyle series, viral dorm-room videos that ultimately pushed him to leave school and pursue music full-time. That leap resulted in a steady run of independent projects, including 19 Summers (2012), Wishful Thinking (2015), Good (2016), and So Much for Good Luck (2017), each sharpening his reputation as a thoughtful and technically gifted MC."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Denise Julia",
+          "apple_music": "https://music.apple.com/us/artist/denise-julia/1524523313",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Denise Julia",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "date_label": "Sat 2026-11-14",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/denise-julia-brick-and-mortar-music-hall-tickets/14283244?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "sold out",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/denise-julia/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OCT",
+          "apple_music": "https://music.apple.com/us/artist/oct/1704579464",
+          "spotify": "https://open.spotify.com/artist/0Hu0e77EIbeWB6ZpQCDrCw",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "OCT",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Billy Marchiafava",
+          "apple_music": "https://music.apple.com/us/artist/billy-marchiafava/1282069852",
+          "spotify": "https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Billy Marchiafava",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "date_label": "Sun 2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/oct-billy-marchiafava-brick-and-mortar-music-hall-tickets/14856963?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/oct/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -855,8 +859,5 @@
       "linked": 18,
       "shows_with_link": 11
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "Mission District"
+  }
 }

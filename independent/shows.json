@@ -3,35 +3,69 @@
   "venue_id": "independent",
   "venue_url": "https://www.theindependentsf.com/",
   "source_url": "https://www.theindependentsf.com/",
-  "scraped_at": "2026-10-20",
-  "count": 85,
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Mission District",
+  "scraped_at": "2026-10-21",
+  "count": 92,
   "shows": [
     {
       "event_type": null,
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Sawyer Hill",
-          "apple_music": "https://music.apple.com/us/artist/sawyer-hill/1651349181",
-          "spotify": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG",
+          "name": "POSTPONED",
+          "apple_music": "https://music.apple.com/us/artist/postponed/1438881174",
+          "spotify": null,
           "found": true,
           "confidence": 1.0,
-          "matched": "Sawyer Hill",
+          "matched": "Postponed",
           "match_label": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Everyone's Home, Nobody's Happy Tour",
+      "show_title": "Sawyer Hill",
       "presenters": [],
       "set_format": null,
       "date": "2026-10-20",
       "date_label": "Tue 2026-10-20",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/sawyer-hill-the-independent-tickets/14972813?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/postponed-sawyer-hill-the-independent-tickets/14972813?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "POSTPONED",
+          "apple_music": "https://music.apple.com/us/artist/postponed/1438881174",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Postponed",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "City of the Sun",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-21",
+      "date_label": "Wed 2026-10-21",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/postponed-city-of-the-independent-tickets/14249664?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -183,7 +217,7 @@
       "date_label": "Sun 2026-10-25",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/balthvs-the-independent-tickets/14975903?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/balthvs/",
       "room": null,
@@ -1903,6 +1937,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Brothers Comatose",
+          "apple_music": "https://music.apple.com/us/artist/the-brothers-comatose/351492807",
+          "spotify": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Brothers Comatose",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Two Nights",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "date_label": "Fri 2027-01-22",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-the-independent-tickets/14386564?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/the-brothers-comatose/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Brothers Comatose",
+          "apple_music": "https://music.apple.com/us/artist/the-brothers-comatose/351492807",
+          "spotify": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Brothers Comatose",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Two Nights",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "date_label": "Sat 2027-01-23",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-the-independent-tickets/14393624?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Flatliners",
           "apple_music": "https://music.apple.com/us/artist/the-flatliners/41735804",
           "spotify": null,
@@ -2215,6 +2311,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Lady Radiator",
+          "apple_music": "https://music.apple.com/us/artist/lady-radiator/270761882",
+          "spotify": "https://open.spotify.com/artist/0F45wT1y6hW3L9Zz8XyY5Z",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Lady Radiator",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-22",
+      "date_label": "Mon 2027-02-22",
+      "doors": "8:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/lady-radiator-the-independent-tickets/14392254?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/lady-radiator/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Way Dynamic",
           "apple_music": "https://music.apple.com/us/artist/way-dynamic/1438475838",
           "spotify": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk",
@@ -2298,6 +2425,37 @@
       "ticket_link": "https://www.ticketweb.com/event/valley-the-independent-tickets/14320594?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/valley/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Vincent Lima",
+          "apple_music": "https://music.apple.com/us/artist/vincent-lima/1435649835",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Vincent Lima",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Your World Is Big Enough Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-02",
+      "date_label": "Tue 2027-03-02",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/vincent-lima-the-independent-tickets/14386514?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/vincent-lima-2/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2587,6 +2745,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Rikas",
+          "apple_music": "https://music.apple.com/us/artist/rikas/1298523758",
+          "spotify": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Rikas",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "date_label": "Fri 2027-04-02",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/rikas-the-independent-tickets/14391504?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/rikas/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Iceage",
           "apple_music": "https://music.apple.com/us/artist/iceage/406846711",
           "spotify": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU",
@@ -2608,6 +2797,37 @@
       "ticket_link": "https://www.ticketweb.com/event/iceage-the-independent-tickets/15021433?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/iceage/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": null,
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clap Your Hands Say Yeah",
+          "apple_music": "https://music.apple.com/us/artist/clap-your-hands-say-yeah/81899300",
+          "spotify": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Clap Your Hands Say Yeah",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-14",
+      "date_label": "Wed 2027-04-14",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/clap-your-hands-say-yeah-the-independent-tickets/14393494?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah-2/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2771,20 +2991,17 @@
   ],
   "stats": {
     "apple_music": {
-      "unique_artists": 94,
-      "found": 89,
-      "exact": 84,
+      "unique_artists": 99,
+      "found": 94,
+      "exact": 89,
       "close": 3,
       "needs_review": 2,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 94,
-      "linked": 72,
-      "shows_with_link": 68
+      "unique_artists": 99,
+      "linked": 75,
+      "shows_with_link": 72
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "Mission District"
+  }
 }

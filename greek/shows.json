@@ -3,8 +3,11 @@
   "venue_id": "greek",
   "venue_url": "https://thegreekberkeley.com",
   "source_url": "https://thegreekberkeley.com/event-listing/",
-  "scraped_at": "2026-10-20",
-  "count": 3,
+  "city": "Berkeley, CA",
+  "metro": "San Francisco",
+  "neighborhood": null,
+  "scraped_at": "2026-10-21",
+  "count": 4,
   "shows": [
     {
       "event_type": "music",
@@ -127,28 +130,56 @@
       "age_rating": "all ages",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sienna Spiro",
+          "apple_music": "https://music.apple.com/us/artist/sienna-spiro/1745678083",
+          "spotify": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "SIENNA SPIRO",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "My House Tour (Extended)",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-07",
+      "date_label": "Tue 2027-09-07",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "PRESALE 10/22",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/sienna-spiro-270907",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 3,
+      "music": 4,
       "comedy": 0
     },
     "apple_music": {
-      "unique_artists": 6,
-      "found": 4,
-      "exact": 4,
+      "unique_artists": 7,
+      "found": 5,
+      "exact": 5,
       "close": 0,
       "needs_review": 0,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 6,
-      "linked": 4,
-      "shows_with_link": 2
+      "unique_artists": 7,
+      "linked": 5,
+      "shows_with_link": 3
     }
-  },
-  "city": "Berkeley, CA",
-  "metro": "San Francisco",
-  "neighborhood": null
+  }
 }

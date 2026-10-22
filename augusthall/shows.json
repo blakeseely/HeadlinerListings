@@ -3,8 +3,11 @@
   "venue_id": "augusthall",
   "venue_url": "https://www.augusthallsf.com/",
   "source_url": "https://www.augusthallsf.com/",
-  "scraped_at": "2026-10-20",
-  "count": 42,
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "South Beach",
+  "scraped_at": "2026-10-21",
+  "count": 41,
   "shows": [
     {
       "event_type": "music",
@@ -13,11 +16,12 @@
         {
           "name": "gnash",
           "apple_music": "https://music.apple.com/us/artist/gnash/299209053",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw",
           "found": true,
           "confidence": 1.0,
           "matched": "gnash",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -44,11 +48,12 @@
         {
           "name": "SLIFT",
           "apple_music": "https://music.apple.com/us/artist/slift/1227770048",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO",
           "found": true,
           "confidence": 1.0,
           "matched": "SLIFT",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -75,11 +80,12 @@
         {
           "name": "Protomartyr",
           "apple_music": "https://music.apple.com/us/artist/protomartyr/608692872",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ",
           "found": true,
           "confidence": 1.0,
           "matched": "Protomartyr",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -106,11 +112,12 @@
         {
           "name": "Lil Pete",
           "apple_music": "https://music.apple.com/us/artist/lil-pete/1293791713",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV",
           "found": true,
           "confidence": 1.0,
           "matched": "Lil Pete",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -137,11 +144,12 @@
         {
           "name": "Lil Pete",
           "apple_music": "https://music.apple.com/us/artist/lil-pete/1293791713",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV",
           "found": true,
           "confidence": 1.0,
           "matched": "Lil Pete",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -168,11 +176,12 @@
         {
           "name": "Ax and the Hatchetmen",
           "apple_music": "https://music.apple.com/us/artist/ax-and-the-hatchetmen/1471855465",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9",
           "found": true,
           "confidence": 1.0,
           "matched": "Ax and the Hatchetmen",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -199,11 +208,12 @@
         {
           "name": "Parra for Cuva",
           "apple_music": "https://music.apple.com/us/artist/parra-for-cuva/643936015",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr",
           "found": true,
           "confidence": 1.0,
           "matched": "Parra for Cuva",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -230,22 +240,24 @@
         {
           "name": "The Aces",
           "apple_music": "https://music.apple.com/us/artist/the-aces/1238525085",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe",
           "found": true,
           "confidence": 1.0,
           "matched": "The Aces",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Gatlin",
           "apple_music": "https://music.apple.com/us/artist/gatlin/1456307048",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9",
           "found": true,
           "confidence": 1.0,
           "matched": "Gatlin",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -271,11 +283,12 @@
         {
           "name": "Baby Smoove",
           "apple_music": "https://music.apple.com/us/artist/baby-smoove/1209282817",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy",
           "found": true,
           "confidence": 1.0,
           "matched": "Baby Smoove",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -302,11 +315,12 @@
         {
           "name": "Olivia O’Brien",
           "apple_music": "https://music.apple.com/us/artist/olivia-obrien/1023538468",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp",
           "found": true,
           "confidence": 1.0,
           "matched": "Olivia O'Brien",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -333,11 +347,12 @@
         {
           "name": "Josh Garrels",
           "apple_music": "https://music.apple.com/us/artist/josh-garrels/164055292",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8",
           "found": true,
           "confidence": 1.0,
           "matched": "Josh Garrels",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -364,11 +379,12 @@
         {
           "name": "Bahamas",
           "apple_music": "https://music.apple.com/us/artist/bahamas/323244975",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1sKGaT8Fh2bjT5BhVWVvs8",
           "found": true,
           "confidence": 1.0,
           "matched": "Bahamas",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -395,11 +411,12 @@
         {
           "name": "Pinhead Gunpowder",
           "apple_music": "https://music.apple.com/us/artist/pinhead-gunpowder/6800228",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3FV6RFbfc6do1nCakWsNBx",
           "found": true,
           "confidence": 1.0,
           "matched": "Pinhead Gunpowder",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -426,11 +443,12 @@
         {
           "name": "Countess Luann",
           "apple_music": "https://music.apple.com/us/artist/countess-luann/369024316",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF",
           "found": true,
           "confidence": 1.0,
           "matched": "Countess Luann",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -455,75 +473,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Louie TheSinger",
-          "apple_music": "https://music.apple.com/us/artist/louie-thesinger/1383382111",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Louie TheSinger",
-          "match_label": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "date_label": "Tue 2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/louie-thesinger-san-francisco-california-11-10-2026/event/1C0065394ED9BA3F",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/louie-thesinger/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "they are gutting a body of water",
-          "apple_music": "https://music.apple.com/us/artist/they-are-gutting-a-body-of-water/1410035866",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "They Are Gutting a Body of Water",
-          "match_label": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/they-are-gutting-a-body-of-san-francisco-california-11-12-2026/event/1C0064AED0ADBE15",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/they-are-gutting-a-body-of-water/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Tank and The Bangas",
           "apple_music": "https://music.apple.com/us/artist/tank-and-the-bangas/685630243",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7",
           "found": true,
           "confidence": 1.0,
           "matched": "Tank and the Bangas",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -550,11 +507,12 @@
         {
           "name": "INNA",
           "apple_music": "https://music.apple.com/us/artist/inna/269986851",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8",
           "found": true,
           "confidence": 1.0,
           "matched": "INNA",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -581,11 +539,12 @@
         {
           "name": "Son Volt",
           "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
           "found": true,
           "confidence": 1.0,
           "matched": "Son Volt",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -612,11 +571,12 @@
         {
           "name": "Jamila Woods",
           "apple_music": "https://music.apple.com/us/artist/jamila-woods/999077974",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B",
           "found": true,
           "confidence": 1.0,
           "matched": "Jamila Woods",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -643,11 +603,12 @@
         {
           "name": "Eivør",
           "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
           "found": true,
           "confidence": 1.0,
           "matched": "Eivør",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -674,11 +635,12 @@
         {
           "name": "Agriculture",
           "apple_music": "https://music.apple.com/us/artist/agriculture/1620725472",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY",
           "found": true,
           "confidence": 1.0,
           "matched": "Agriculture",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -705,11 +667,12 @@
         {
           "name": "Boston Manor",
           "apple_music": "https://music.apple.com/us/artist/boston-manor/453487358",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM",
           "found": true,
           "confidence": 1.0,
           "matched": "Boston Manor",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -736,11 +699,12 @@
         {
           "name": "DJ Raphi",
           "apple_music": "https://music.apple.com/us/artist/dj-raphi/1502761004",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5GxpQzJbmNhOYNV3ajcIjR",
           "found": true,
           "confidence": 1.0,
           "matched": "DJ Raphi",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -767,11 +731,12 @@
         {
           "name": "Vessbroz",
           "apple_music": "https://music.apple.com/us/artist/vessbroz/1083992905",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt",
           "found": true,
           "confidence": 1.0,
           "matched": "Vessbroz",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -798,11 +763,12 @@
         {
           "name": "Jalen Ngonda",
           "apple_music": "https://music.apple.com/us/artist/jalen-ngonda/1127697768",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
           "found": true,
           "confidence": 1.0,
           "matched": "Jalen Ngonda",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -833,7 +799,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Early Birds @ 67%)"
         }
       ],
       "support_artists": [],
@@ -860,11 +826,12 @@
         {
           "name": "The Pineapple Thief",
           "apple_music": "https://music.apple.com/us/artist/the-pineapple-thief/278648772",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk",
           "found": true,
           "confidence": 1.0,
           "matched": "The Pineapple Thief",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -891,11 +858,12 @@
         {
           "name": "Hunxho",
           "apple_music": "https://music.apple.com/us/artist/hunxho/1266800437",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br",
           "found": true,
           "confidence": 1.0,
           "matched": "Hunxho",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -922,11 +890,12 @@
         {
           "name": "Alexander James",
           "apple_music": "https://music.apple.com/us/artist/alexander-james/1218917678",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1qfP20ncfw3hJuJP9drLQN",
           "found": true,
           "confidence": 1.0,
           "matched": "Alexander James",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -953,11 +922,12 @@
         {
           "name": "Disappear Here",
           "apple_music": "https://music.apple.com/us/artist/disappear-here/1530317329",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7DqvtNoIQpI9nV6R777Dpi",
           "found": true,
           "confidence": 1.0,
           "matched": "Disappear Here",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -984,11 +954,12 @@
         {
           "name": "Disappear Here",
           "apple_music": "https://music.apple.com/us/artist/disappear-here/1530317329",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7DqvtNoIQpI9nV6R777Dpi",
           "found": true,
           "confidence": 1.0,
           "matched": "Disappear Here",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1015,11 +986,12 @@
         {
           "name": "Death From Above 1979",
           "apple_music": "https://music.apple.com/us/artist/death-from-above-1979/31683901",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj",
           "found": true,
           "confidence": 1.0,
           "matched": "Death from Above 1979",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1046,11 +1018,12 @@
         {
           "name": "James Marriott",
           "apple_music": "https://music.apple.com/us/artist/james-marriott/458203329",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL",
           "found": true,
           "confidence": 1.0,
           "matched": "James Marriott",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1077,11 +1050,12 @@
         {
           "name": "The Lemonheads",
           "apple_music": "https://music.apple.com/us/artist/the-lemonheads/312507",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X",
           "found": true,
           "confidence": 1.0,
           "matched": "The Lemonheads",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1106,13 +1080,45 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "49 Winchester",
+          "apple_music": "https://music.apple.com/us/artist/49-winchester/869425058",
+          "spotify": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "49 Winchester",
+          "match_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Change of Plans Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "date_label": "Tue 2027-03-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-san-francisco-california-03-09-2027/event/1C00654FBF94108F",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/49-winchester-change-of-plans-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Begging For Sax",
           "apple_music": null,
           "spotify": null,
           "found": false,
           "confidence": 0.293,
           "matched": null,
-          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%)"
+          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%); Spotify: no confident match (closest: Mint Condition @ 28%)"
         }
       ],
       "support_artists": [],
@@ -1139,11 +1145,12 @@
         {
           "name": "VNV Nation",
           "apple_music": "https://music.apple.com/us/artist/vnv-nation/49251259",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4KlYg0F5KG9QNDFKaeTNAy",
           "found": true,
           "confidence": 1.0,
           "matched": "VNV Nation",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1170,11 +1177,12 @@
         {
           "name": "Kid Francescoli",
           "apple_music": "https://music.apple.com/us/artist/kid-francescoli/166159962",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD",
           "found": true,
           "confidence": 1.0,
           "matched": "Kid Francescoli",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1201,11 +1209,12 @@
         {
           "name": "The Mary Wallopers",
           "apple_music": "https://music.apple.com/us/artist/the-mary-wallopers/1480009717",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2",
           "found": true,
           "confidence": 1.0,
           "matched": "The Mary Wallopers",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1236,7 +1245,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SiM",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Simply Red @ 46%)"
         }
       ],
       "support_artists": [],
@@ -1267,18 +1276,19 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Speakeasy Three @ 63%)"
         }
       ],
       "support_artists": [
         {
           "name": "Hazlett",
           "apple_music": "https://music.apple.com/us/artist/hazlett/274443511",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH",
           "found": true,
           "confidence": 1.0,
           "matched": "Hazlett",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -1304,11 +1314,12 @@
         {
           "name": "Hazlett",
           "apple_music": "https://music.apple.com/us/artist/hazlett/274443511",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH",
           "found": true,
           "confidence": 1.0,
           "matched": "Hazlett",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1331,18 +1342,15 @@
   ],
   "stats": {
     "event_types": {
-      "music": 42
+      "music": 41
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 38,
-      "exact": 38,
+      "unique_artists": 40,
+      "found": 37,
+      "exact": 37,
       "close": 0,
       "needs_review": 0,
       "not_found": 3
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "South Beach"
+  }
 }

@@ -3,50 +3,12 @@
   "venue_id": "foxoakland",
   "venue_url": "https://thefoxoakland.com",
   "source_url": "https://thefoxoakland.com/listing/",
-  "scraped_at": "2026-10-20",
-  "count": 31,
+  "city": "Oakland, CA",
+  "metro": "San Francisco",
+  "neighborhood": "West Oakland",
+  "scraped_at": "2026-10-21",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Geese",
-          "apple_music": "https://music.apple.com/us/artist/geese/1378038472",
-          "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Geese",
-          "match_label": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Bill Orcutt",
-          "apple_music": "https://music.apple.com/us/artist/bill-orcutt/413046961",
-          "spotify": "https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Bill Orcutt",
-          "match_label": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Getting Killed Again Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Sold Out!",
-      "ticket_status": "sold out",
-      "event_page": "https://thefoxoakland.com/events/geese-261020",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Ripping up the expected blueprint Geese set with their 2021 debut Projector and the cowboy rock follow-up of 2023’s 3D Country, Getting Killed puts the very idea of conventional rock structures in the band’s crosshairs. Working at a feverish clip with renowned producer Kenneth Blume over a month-long stretch, Geese emerged wielding a sharp, novel new vision for the genre, sporting wry smiles and a resolute confidence. The album was crowned the number one album of the year on numerous Best of 2025 lists including TIME, The New Yorker, The New York Times and more. The band began 2026 right where they left off, with an unwieldy, vexing SNL debut , a surprisingly intimate Tiny Desk concert and winning a BRIT Award for International Group of the Year ."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1029,6 +991,37 @@
       "description": "Sylvan Esso is a band from Durham, North Carolina. Across their career, Amelia Meath and Nick Sanborn have put out four acclaimed albums, been nominated for two GRAMMYs, and collaborated with a wide-ranging, eclectic community of artists including Arooj Aftab, Maggie Rogers, Tyler Childers, Reyna Tropical, Califone, and many more. Ushering in a new chapter of freedom and independence, comfort and consideration, expansive collaboration and complete control, new single “Hot Slob” follows Sylvan Esso’s choice to move their work to their own indie label Psychic Hotline this past fall – and previews much to come this summer."
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CHVRCHES",
+          "apple_music": "https://music.apple.com/us/artist/chvrches/566867492",
+          "spotify": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "CHVRCHES",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "LIVE 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-10",
+      "date_label": "Wed 2027-03-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/chvrches-270310",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "comedy",
       "needs_review": false,
       "headline_artists": [
@@ -1113,19 +1106,81 @@
       "date_label": "Thu 2027-05-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "PRESALE 10/20",
-      "ticket_status": "on sale",
+      "ticket_link": "Sold Out!",
+      "ticket_status": "sold out",
       "event_page": "https://thefoxoakland.com/events/tinashe-270513",
       "room": null,
       "age_rating": "all ages",
       "note": null,
       "description": "Tinashe is a multi-platinum-certified disruptor singer, writer, and dancer – but she also produces, mixes, engineers, creative directs, and edits. She is one of music’s most compelling artists, fusing innovative sounds from pop, R&B, hip-hop and dance that has generated a global cross-genre fanbase of over 13 million social media followers. Tinashe has headlined two world tours and accrued over 5.5 billion global streams all time. Her first album, Aquarius , came out in 2014 and debuted in the top 20 on the Billboard 200. Tinashe now welcomes a new era as she prepares to release her 8th studio album, Popstar . With Popstar , Tinashe immerses her fans into her current era: one filled with defiant and unapologetic anthems, paired with high-energy, choreography filled visuals to match that continue to show off her innate ability to flawlessly blend genres and pave her own path. In 2024, Tinashe released her seventh studio album, Quantum Baby which includes the hit track “Nasty,” which has"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tinashe",
+          "apple_music": "https://music.apple.com/us/artist/tinashe/464835513",
+          "spotify": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Tinashe",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE SHOW MUST GO ON",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-14",
+      "date_label": "Fri 2027-05-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "Buy Tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/tinashe-270514",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Tinashe is a multi-platinum-certified disruptor singer, writer, and dancer – but she also produces, mixes, engineers, creative directs, and edits. She is one of music’s most compelling artists, fusing innovative sounds from pop, R&B, hip-hop and dance that has generated a global cross-genre fanbase of over 13 million social media followers. Tinashe has headlined two world tours and accrued over 5.5 billion global streams all time. Her first album, Aquarius , came out in 2014 and debuted in the top 20 on the Billboard 200. Tinashe now welcomes a new era as she prepares to release her 8th studio album, Popstar . With Popstar , Tinashe immerses her fans into her current era: one filled with defiant and unapologetic anthems, paired with high-energy, choreography filled visuals to match that continue to show off her innate ability to flawlessly blend genres and pave her own path. In 2024, Tinashe released her seventh studio album, Quantum Baby which includes the hit track “Nasty,” which has"
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Eric Andre",
+          "apple_music": "https://music.apple.com/us/artist/eric-andre/1350134738",
+          "spotify": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Eric Andre",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Subtle",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-19",
+      "date_label": "Wed 2027-05-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "PRESALE 10/22",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/eric-andre-270519",
+      "room": null,
+      "age_rating": "18 and over",
+      "note": null,
+      "description": "ERIC ANDRE is an Emmy Award-winning comedian and creator of Adult Swim’s hit series “The Eric Andre Show.” He recently starred in the Netflix film LITTLE BROTHER, directed by Matt Spicer, and appeared in HAPPY GILMORE 2 and Peter Farrelly’s BALLS UP. Andre has received critical praise for his work, including HBO’s “The Righteous Gemstones,” FXX’s “Man Seeking Woman,” his Netflix standup special “Legalize Everything” and the comedy BAD TRIP, which he also produced and co-wrote, among others. Co-starring Lil Rel Howery and Tiffany Haddish, the film was the #1 most viewed feature world-wide on the platform the first week of its release. Andre’s voicework includes the animated features TROLLS BAND TOGETHER, SING 2, THE MITCHELLS VS. THE MACHINES and THE LION KING, as well as Matt Groening’s animated series “Disenchantment.” He was also featured as an expert panelist on ABC’s “The Prank Panel.”"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 30,
-      "comedy": 1
+      "music": 31,
+      "comedy": 2
     },
     "apple_music": {
       "unique_artists": 37,
@@ -1138,10 +1193,7 @@
     "spotify": {
       "unique_artists": 37,
       "linked": 35,
-      "shows_with_link": 30
+      "shows_with_link": 32
     }
-  },
-  "city": "Oakland, CA",
-  "metro": "San Francisco",
-  "neighborhood": "West Oakland"
+  }
 }

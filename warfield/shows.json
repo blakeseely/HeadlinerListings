@@ -3,7 +3,10 @@
   "venue_id": "warfield",
   "venue_url": "https://www.thewarfieldtheatre.com/",
   "source_url": "https://www.thewarfieldtheatre.com/events/all",
-  "scraped_at": "2026-10-20",
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "SoMa",
+  "scraped_at": "2026-10-21",
   "count": 12,
   "shows": [
     {
@@ -13,22 +16,24 @@
         {
           "name": "Julia Wolf",
           "apple_music": "https://music.apple.com/us/artist/julia-wolf/1482698876",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ",
           "found": true,
           "confidence": 1.0,
           "matched": "Julia Wolf",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Bee Blackwell",
           "apple_music": "https://music.apple.com/us/artist/bee-blackwell/1667747294",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/57BfDtCpiNRZeCDjtz6YLs",
           "found": true,
           "confidence": 1.0,
           "matched": "Bee Blackwell",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -56,11 +61,12 @@
         {
           "name": "HENRY",
           "apple_music": "https://music.apple.com/us/artist/henry/660560673",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq",
           "found": true,
           "confidence": 1.0,
           "matched": "HENRY",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -89,11 +95,12 @@
         {
           "name": "Rhye",
           "apple_music": "https://music.apple.com/us/artist/rhye/490808665",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN",
           "found": true,
           "confidence": 1.0,
           "matched": "Rhye",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -122,11 +129,12 @@
         {
           "name": "BOYNEXTDOOR",
           "apple_music": "https://music.apple.com/us/artist/boynextdoor/1687612559",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1",
           "found": true,
           "confidence": 1.0,
           "matched": "BOYNEXTDOOR",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -155,49 +163,54 @@
         {
           "name": "Brutalismus 3000",
           "apple_music": "https://music.apple.com/us/artist/brutalismus-3000/1530068480",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j",
           "found": true,
           "confidence": 1.0,
           "matched": "Brutalismus 3000",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Eurohead",
           "apple_music": "https://music.apple.com/us/artist/eurohead/1654942565",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f",
           "found": true,
           "confidence": 1.0,
           "matched": "Eurohead",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "ali rq",
           "apple_music": "https://music.apple.com/us/artist/ali-rq/1792477071",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5URh90Uk4qiV9xQnEJQ2zD",
           "found": true,
           "confidence": 1.0,
           "matched": "Ali Rq",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "deBasement",
           "apple_music": "https://music.apple.com/us/artist/debasement/1759285322",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl",
           "found": true,
           "confidence": 1.0,
           "matched": "deBasement",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "techno pagan",
           "apple_music": "https://music.apple.com/us/artist/technopagan/1368112910",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7BEZRD9LzvoqzJU6OMIOuB",
           "found": true,
           "confidence": 0.957,
           "matched": "Technopagan",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -225,11 +238,12 @@
         {
           "name": "ROA",
           "apple_music": "https://music.apple.com/us/artist/roa/1617105458",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH",
           "found": true,
           "confidence": 1.0,
           "matched": "ROA",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -258,11 +272,12 @@
         {
           "name": "Trippie Redd",
           "apple_music": "https://music.apple.com/us/artist/trippie-redd/1203172438",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax",
           "found": true,
           "confidence": 1.0,
           "matched": "Trippie Redd",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -291,31 +306,34 @@
         {
           "name": "Deltron 3030 performing \"Deltron 3030\"",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ",
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: close match (Deltron 3030)",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "DJ Prince Paul",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc",
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: close match (DJ Paul)",
+          "spotify_source": "api"
         },
         {
           "name": "Souls of Mischief",
           "apple_music": "https://music.apple.com/us/artist/souls-of-mischief/2319347",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt",
           "found": true,
           "confidence": 1.0,
           "matched": "Souls of Mischief",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -343,11 +361,12 @@
         {
           "name": "fakemink",
           "apple_music": "https://music.apple.com/us/artist/fakemink/1744500063",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
           "found": true,
           "confidence": 1.0,
           "matched": "fakemink",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -380,7 +399,7 @@
           "found": true,
           "confidence": 0.8,
           "matched": "RuPaul's Drag Race Live",
-          "match_label": "close match: RuPaul's Drag Race Live"
+          "match_label": "close match: RuPaul's Drag Race Live; Spotify: no confident match (closest: The Cast of RuPaul's Drag Race All Stars, Season 2 @ 70%)"
         }
       ],
       "support_artists": [],
@@ -409,22 +428,24 @@
         {
           "name": "Vacations",
           "apple_music": "https://music.apple.com/us/artist/vacations/350230773",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4",
           "found": true,
           "confidence": 1.0,
           "matched": "Vacations",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Twen",
           "apple_music": "https://music.apple.com/us/artist/twen/284936071",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO",
           "found": true,
           "confidence": 1.0,
           "matched": "twen",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -450,33 +471,45 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Valery Meladze",
-          "apple_music": "https://music.apple.com/us/artist/valery-meladze/1618150928",
-          "spotify": null,
+          "name": "The Warning",
+          "apple_music": "https://music.apple.com/us/artist/the-warning/260719953",
+          "spotify": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
           "found": true,
           "confidence": 1.0,
-          "matched": "Valery Meladze",
-          "match_label": null
+          "matched": "The Warning",
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "wilt",
+          "apple_music": "https://music.apple.com/us/artist/wilt/1653188857",
+          "spotify": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "wilt",
+          "match_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "Everything's Falling World Tour",
       "presenters": [
-        "Show Impulse Presents"
+        "Goldenvoice Presents"
       ],
       "set_format": null,
-      "date": "2027-05-16",
-      "date_label": "Sun 2027-05-16",
+      "date": "2027-04-20",
+      "date_label": "Tue 2027-04-20",
       "doors": "7:00 PM",
       "show_time": "8:00 PM",
-      "ticket_link": "https://www.axs.com/events/1378832/valery-meladze-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_link": "https://www.axs.com/events/1608434/the-warning-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
       "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1378832",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1608434",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
-      "description": "Event Information After the sold-out anniversary world tour, one of the most beloved voices of our time – Valery Meladze – returns to the US in 2027. On May 16, 2027, San Francisco will experience an unforgettable evening as Valery Meladze takes The Warfield stage. Audiences can expect deep emotions, meaningful lyrics, and iconic melodies – featuring the timeless hits loved by millions. Above all, it’s the exceptional atmosphere that makes every concert truly special – once you’ve experienced it, you can’t stop talking about it. Valery Meladze’s music bridges generations, and his songs are recognized from the very first note. Each performance is deeply personal and emotionally charged, as he gives his all on stage – delivering passion, energy, and an unforgettable connection with every audience. San Francisco, May 16, 2027 – save the date for the incredible memories!The show will be performed in Russian language"
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
     }
   ],
   "stats": {
@@ -484,15 +517,12 @@
       "music": 12
     },
     "apple_music": {
-      "unique_artists": 20,
-      "found": 18,
-      "exact": 16,
+      "unique_artists": 21,
+      "found": 19,
+      "exact": 17,
       "close": 1,
       "needs_review": 1,
       "not_found": 2
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "SoMa"
+  }
 }

@@ -3,8 +3,11 @@
   "venue_id": "chapel",
   "venue_url": "https://thechapelsf.com",
   "source_url": "https://thechapelsf.com/calendar/",
-  "scraped_at": "2026-10-20",
-  "count": 47,
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Mission District",
+  "scraped_at": "2026-10-21",
+  "count": 48,
   "shows": [
     {
       "event_type": "music",
@@ -13,75 +16,36 @@
         {
           "name": "The Devil Makes Three",
           "apple_music": "https://music.apple.com/us/artist/the-devil-makes-three/31268207",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte",
           "found": true,
           "confidence": 1.0,
           "matched": "The Devil Makes Three",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Two Runner",
           "apple_music": "https://music.apple.com/us/artist/two-runner/1554990781",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg",
           "found": true,
           "confidence": 1.0,
           "matched": "Two Runner",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
-      "date": "2026-10-15",
-      "date_label": "Thu 2026-10-15",
-      "doors": "7:00PM",
-      "show_time": "8:00PM",
-      "ticket_link": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Devil Makes Three",
-          "apple_music": "https://music.apple.com/us/artist/the-devil-makes-three/31268207",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "The Devil Makes Three",
-          "match_label": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Two Runner",
-          "apple_music": "https://music.apple.com/us/artist/two-runner/1554990781",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Two Runner",
-          "match_label": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
+      "date": "2026-10-16",
+      "date_label": "Fri 2026-10-16",
       "doors": "7:00PM",
       "show_time": "8:00PM",
       "ticket_link": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
       "room": null,
       "age_rating": null,
@@ -95,22 +59,24 @@
         {
           "name": "Justin Nozuka",
           "apple_music": "https://music.apple.com/us/artist/justin-nozuka/200914712",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t",
           "found": true,
           "confidence": 1.0,
           "matched": "Justin Nozuka",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Nimitt",
           "apple_music": "https://music.apple.com/us/artist/nimitt/1487034293",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2cA1A0m034jPnu6xK86O4n",
           "found": true,
           "confidence": 1.0,
           "matched": "Nimitt",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -136,40 +102,44 @@
         {
           "name": "Weatherday",
           "apple_music": "https://music.apple.com/us/artist/weatherday/1471517896",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK",
           "found": true,
           "confidence": 1.0,
           "matched": "Weatherday",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Founders Day",
           "apple_music": "https://music.apple.com/us/artist/founders-day/1772959650",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1skFN9tDwp6HiPmwRVWrLI",
           "found": true,
           "confidence": 1.0,
           "matched": "Founders Day",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Hit me",
           "apple_music": "https://music.apple.com/us/artist/hit-me/722856929",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4JUJ23VXhR7XOYLlXLB6ab",
           "found": true,
           "confidence": 1.0,
           "matched": "Hit Me",
-          "match_label": null
+          "match_label": "Spotify: close match (Hit Me, Harold)",
+          "spotify_source": "api"
         },
         {
           "name": "Harold",
           "apple_music": "https://music.apple.com/us/artist/harold/1478602604",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj",
           "found": true,
           "confidence": 1.0,
           "matched": "Harold",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -195,31 +165,34 @@
         {
           "name": "The War And Treaty",
           "apple_music": "https://music.apple.com/us/artist/the-war-and-treaty/951165936",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz",
           "found": true,
           "confidence": 1.0,
           "matched": "The War And Treaty",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Blank Page",
           "apple_music": "https://music.apple.com/us/artist/blank-page/1760131782",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1jE8tamGxNjrGNK2Vd2JHF",
           "found": true,
           "confidence": 1.0,
           "matched": "Blank Page",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Jordan Babbs",
           "apple_music": "https://music.apple.com/us/artist/jordan-babbs/1557921598",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/71ov9VRm0YacmRH0W9SfOE",
           "found": true,
           "confidence": 1.0,
           "matched": "Jordan Babbs",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -243,13 +216,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Theo Katzman (Solo)",
-          "apple_music": "https://music.apple.com/us/artist/theo-katzman/480667350",
+          "name": "An Evening With Theo Katzman (Solo)",
+          "apple_music": null,
           "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Theo Katzman",
-          "match_label": null
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": "Spotify: no confident match (closest: Theo Katzman @ 70%)"
         }
       ],
       "support_artists": [],
@@ -261,9 +234,9 @@
       "date_label": "Tue 2026-10-27",
       "doors": "7:00PM",
       "show_time": "8:00PM",
-      "ticket_link": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
+      "ticket_link": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
+      "event_page": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -276,22 +249,24 @@
         {
           "name": "Katie Pruitt",
           "apple_music": "https://music.apple.com/us/artist/katie-pruitt/1347498596",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s",
           "found": true,
           "confidence": 1.0,
           "matched": "Katie Pruitt",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Olivia Barton",
           "apple_music": "https://music.apple.com/us/artist/olivia-barton/1448417925",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1",
           "found": true,
           "confidence": 1.0,
           "matched": "Olivia Barton",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -321,45 +296,49 @@
           "found": true,
           "confidence": 0.9,
           "matched": "Night Of The Living Dead",
-          "match_label": "close match: Night Of The Living Dead"
+          "match_label": "close match: Night Of The Living Dead; Spotify: no confident match (closest: A Night In Texas @ 57%)"
         }
       ],
       "support_artists": [
         {
           "name": "Lebo",
           "apple_music": "https://music.apple.com/us/artist/lebo/1559609724",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx",
           "found": true,
           "confidence": 1.0,
           "matched": "LEBO",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Holly Bowling",
           "apple_music": "https://music.apple.com/us/artist/holly-bowling/1029218179",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r",
           "found": true,
           "confidence": 1.0,
           "matched": "Holly Bowling",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Wally Ingram",
           "apple_music": "https://music.apple.com/us/artist/wally-ingram/6941586",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2Z0ZG9VVHpsTwitCG5a75C",
           "found": true,
           "confidence": 1.0,
           "matched": "Wally Ingram",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Elliott Peck",
           "apple_music": "https://music.apple.com/us/artist/elliott-peck/481659673",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1x4GPwYFtuDPRzawYz7e8U",
           "found": true,
           "confidence": 1.0,
           "matched": "Elliott Peck",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Danny Luehring",
@@ -368,16 +347,17 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Danny Chung @ 72%)"
         },
         {
           "name": "Steve Adams",
           "apple_music": "https://music.apple.com/us/artist/steve-adams/491186303",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6JykFOrtdHpJA6qmfooPCU",
           "found": true,
           "confidence": 1.0,
           "matched": "Steve Adams",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -407,45 +387,58 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Paul Simon @ 70%)"
         }
       ],
       "support_artists": [
         {
           "name": "Reed Mathis",
           "apple_music": "https://music.apple.com/us/artist/reed-mathis/3877361",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5sb1SIDBdjRcXKTKOxcR3G",
           "found": true,
           "confidence": 1.0,
           "matched": "Reed Mathis",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Lebo",
           "apple_music": "https://music.apple.com/us/artist/lebo/1559609724",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx",
           "found": true,
           "confidence": 1.0,
           "matched": "LEBO",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Holly Bowling",
           "apple_music": "https://music.apple.com/us/artist/holly-bowling/1029218179",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r",
           "found": true,
           "confidence": 1.0,
           "matched": "Holly Bowling",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Scott Rager",
           "apple_music": "https://music.apple.com/us/artist/scott-cramer/1477851691",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/44kneN2t6ZkG8dEm7mfDXG",
           "found": true,
           "confidence": 0.87,
           "matched": "Scott Cramer",
-          "match_label": "close match: Scott Cramer"
+          "match_label": "close match: Scott Cramer; Spotify: Scott Rogers",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Mad Alchemy Liquid Lights",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": "Spotify: no confident match (closest: Saturn’s Yard Sale @ 28%)"
         }
       ],
       "multi_artist": true,
@@ -471,11 +464,12 @@
         {
           "name": "POSTPONED",
           "apple_music": "https://music.apple.com/us/artist/postponed/1438881174",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/10NfpJwbpCy3GLSYNNcbW7",
           "found": true,
           "confidence": 1.0,
           "matched": "Postponed",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -502,22 +496,24 @@
         {
           "name": "Squirrel Flower",
           "apple_music": "https://music.apple.com/us/artist/squirrel-flower/1016930777",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni",
           "found": true,
           "confidence": 1.0,
           "matched": "Squirrel Flower",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Sour Widows",
           "apple_music": "https://music.apple.com/us/artist/sour-widows/1474131660",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG",
           "found": true,
           "confidence": 1.0,
           "matched": "Sour Widows",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -547,7 +543,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Led Zeppelin @ 56%)"
         }
       ],
       "support_artists": [],
@@ -574,22 +570,24 @@
         {
           "name": "Alex Cameron",
           "apple_music": "https://music.apple.com/us/artist/alex-cameron/305609747",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG",
           "found": true,
           "confidence": 1.0,
           "matched": "Alex Cameron",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Josh da Costa",
           "apple_music": "https://music.apple.com/us/artist/josh-da-costa/1732335208",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1tXtrQXExzdyrNptNQLeZk",
           "found": true,
           "confidence": 1.0,
           "matched": "Josh da Costa",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -613,33 +611,26 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Celebrating 50 Years of Buzzcocks",
+          "name": "Buzzcocks, Modern English",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF",
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: close match (Modern English)",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
-          "name": "Modern English",
-          "apple_music": "https://music.apple.com/us/artist/modern-english/755615",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Modern English",
-          "match_label": null
-        },
-        {
           "name": "Grade 2",
           "apple_music": "https://music.apple.com/us/artist/grade-2/1434862753",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b",
           "found": true,
           "confidence": 1.0,
           "matched": "Grade 2",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -650,9 +641,9 @@
       "date_label": "Sun 2026-11-08",
       "doors": "7:00PM",
       "show_time": "8:00PM",
-      "ticket_link": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel",
+      "ticket_link": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel",
+      "event_page": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -663,33 +654,25 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Celebrating 50 Years of Buzzcocks",
+          "name": "Buzzcocks, Modern English",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF",
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: close match (Modern English)",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
-          "name": "Modern English",
-          "apple_music": "https://music.apple.com/us/artist/modern-english/755615",
+          "name": "Celebrating 50 years of Buzzcocks + Grade 2",
+          "apple_music": null,
           "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Modern English",
-          "match_label": null
-        },
-        {
-          "name": "Grade 2",
-          "apple_music": "https://music.apple.com/us/artist/grade-2/1434862753",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Grade 2",
-          "match_label": null
+          "found": false,
+          "confidence": 0.7,
+          "matched": null,
+          "match_label": "no confident match (closest: Grade 2 @ 70%); Spotify: no confident match (closest: Pearce Joza @ 22%)"
         }
       ],
       "multi_artist": true,
@@ -700,9 +683,9 @@
       "date_label": "Wed 2026-11-11",
       "doors": "7:00PM",
       "show_time": "8:00PM",
-      "ticket_link": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
+      "ticket_link": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
+      "event_page": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -715,22 +698,24 @@
         {
           "name": "Marc Broussard",
           "apple_music": "https://music.apple.com/us/artist/marc-broussard/16169749",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe",
           "found": true,
           "confidence": 1.0,
           "matched": "Marc Broussard",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Cristina Vane",
           "apple_music": "https://music.apple.com/us/artist/cristina-vane/1150607230",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD",
           "found": true,
           "confidence": 1.0,
           "matched": "Cristina Vane",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -756,22 +741,24 @@
         {
           "name": "Other Lives",
           "apple_music": "https://music.apple.com/us/artist/other-lives/289274617",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6",
           "found": true,
           "confidence": 1.0,
           "matched": "Other Lives",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Kelcey Ayer",
           "apple_music": "https://music.apple.com/us/artist/kelcey-ayer/1779812410",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4JGkrBhftea9A6352eBxcF",
           "found": true,
           "confidence": 1.0,
           "matched": "Kelcey Ayer",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -797,22 +784,24 @@
         {
           "name": "The Cactus Blossoms",
           "apple_music": "https://music.apple.com/us/artist/the-cactus-blossoms/514753852",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S",
           "found": true,
           "confidence": 1.0,
           "matched": "The Cactus Blossoms",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Margo Cilker",
           "apple_music": "https://music.apple.com/us/artist/margo-cilker/988096342",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7",
           "found": true,
           "confidence": 1.0,
           "matched": "Margo Cilker",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -842,7 +831,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Craig Finn @ 70%)"
         }
       ],
       "support_artists": [],
@@ -869,22 +858,24 @@
         {
           "name": "Margaret Glaspy",
           "apple_music": "https://music.apple.com/us/artist/margaret-glaspy/499970692",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb",
           "found": true,
           "confidence": 1.0,
           "matched": "Margaret Glaspy",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Anna Tivel",
           "apple_music": "https://music.apple.com/us/artist/anna-tivel/867325063",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs",
           "found": true,
           "confidence": 1.0,
           "matched": "Anna Tivel",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -910,11 +901,12 @@
         {
           "name": "John Carroll Kirby",
           "apple_music": "https://music.apple.com/us/artist/john-carroll-kirby/1213407268",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld",
           "found": true,
           "confidence": 1.0,
           "matched": "John Carroll Kirby",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -941,22 +933,24 @@
         {
           "name": "MADDIE ZAHM",
           "apple_music": "https://music.apple.com/us/artist/maddie-zahm/1397016641",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq",
           "found": true,
           "confidence": 1.0,
           "matched": "Maddie Zahm",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "OSTON",
           "apple_music": "https://music.apple.com/us/artist/oston/1437582601",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ",
           "found": true,
           "confidence": 1.0,
           "matched": "OSTON",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -982,22 +976,24 @@
         {
           "name": "Poi Dog Pondering",
           "apple_music": "https://music.apple.com/us/artist/poi-dog-pondering/919799",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/64ACyOIZtc7DIJw0uoaGn0",
           "found": true,
           "confidence": 1.0,
           "matched": "Poi Dog Pondering",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Archer Monk",
           "apple_music": "https://music.apple.com/us/artist/archer-monk/1023221811",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3CqGyC5A4eVQANgJu6WGpR",
           "found": true,
           "confidence": 1.0,
           "matched": "Archer Monk",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1023,11 +1019,12 @@
         {
           "name": "Moonalice",
           "apple_music": "https://music.apple.com/us/artist/moonalice/310479004",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e",
           "found": true,
           "confidence": 1.0,
           "matched": "Moonalice",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1038,7 +1035,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Saturn’s Yard Sale @ 26%)"
         }
       ],
       "multi_artist": true,
@@ -1068,27 +1065,29 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: X Ambassadors @ 19%)"
         }
       ],
       "support_artists": [
         {
           "name": "Bar Fight",
           "apple_music": "https://music.apple.com/us/artist/bar-fight/1084941693",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6nWn3E648fHiWtOdfp4jJD",
           "found": true,
           "confidence": 1.0,
           "matched": "Bar Fight",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Aaron Burnham & the Brushfires",
           "apple_music": "https://music.apple.com/us/artist/aaron-burnham-the-brushfires/1706614422",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6GiH3ilrS6EcQUdU6Bvvdt",
           "found": true,
           "confidence": 1.0,
           "matched": "Aaron Burnham & the Brushfires",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "East Bay Breeze",
@@ -1097,25 +1096,27 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Eastside Boyz @ 57%)"
         },
         {
           "name": "Paula Frazer & Tarnation",
           "apple_music": "https://music.apple.com/us/artist/paula-frazer-and-tarnation/213222631",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3F4JOlOetOauF1A3hhnrhj",
           "found": true,
           "confidence": 0.9,
           "matched": "Paula Frazer and Tarnation",
-          "match_label": "close match: Paula Frazer and Tarnation"
+          "match_label": "close match: Paula Frazer and Tarnation; Spotify: Paula Frazer and Tarnation",
+          "spotify_source": "api"
         },
         {
           "name": "Sweet Chariot",
           "apple_music": "https://music.apple.com/us/artist/sweet-chariot/1489682685",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6mgJLnjoNoIR6ddXbSdWrI",
           "found": true,
           "confidence": 1.0,
           "matched": "Sweet Chariot",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Brian Mello & the Afterglow",
@@ -1124,34 +1125,37 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Afters @ 49%)"
         },
         {
           "name": "Country Risqué",
           "apple_music": "https://music.apple.com/us/artist/country-risque/1630017278",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5RhYBTubnm7RcFUR9ijTeZ",
           "found": true,
           "confidence": 1.0,
           "matched": "Country Risque",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Nashville Honeymoon",
           "apple_music": "https://music.apple.com/us/artist/1305993911",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2k28ftIBYkCTU29Dr20vUB",
           "found": true,
           "confidence": 1.0,
           "matched": "Nashville Honeymoon",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Penelope Houston & the Jailbirds",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7jYngQpQ4iXVWFkXmaDl5g",
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: close match (Penelope Houston)",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1177,11 +1181,12 @@
         {
           "name": "Petty Theft",
           "apple_music": "https://music.apple.com/us/artist/1806836837",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5tqJZl9tSC3dsHFWKaXcaz",
           "found": true,
           "confidence": 1.0,
           "matched": "Petty Theft",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1212,7 +1217,7 @@
           "found": true,
           "confidence": 0.857,
           "matched": "Mauri B",
-          "match_label": "close match: Mauri B"
+          "match_label": "close match: Mauri B; Spotify: no confident match (closest: Gauri Bapat @ 78%)"
         }
       ],
       "support_artists": [],
@@ -1239,22 +1244,24 @@
         {
           "name": "Buck Meek",
           "apple_music": "https://music.apple.com/us/artist/945437033",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR",
           "found": true,
           "confidence": 1.0,
           "matched": "Buck Meek",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Kisser",
           "apple_music": "https://music.apple.com/us/artist/kisser/308589160",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7oSTBGTdRpwnvPLEOFB9bQ",
           "found": true,
           "confidence": 1.0,
           "matched": "Kisser",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1280,22 +1287,24 @@
         {
           "name": "RAMONES X",
           "apple_music": "https://music.apple.com/us/artist/ramones/60715",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm",
           "found": true,
           "confidence": 0.875,
           "matched": "Ramones",
-          "match_label": "close match: Ramones"
+          "match_label": "close match: Ramones; Spotify: Ramones",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Living Eyes",
           "apple_music": "https://music.apple.com/us/artist/458941913",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7HayfK9TdkzSojqCg20iRq",
           "found": true,
           "confidence": 1.0,
           "matched": "Living Eyes",
-          "match_label": null
+          "match_label": "Spotify: close match (The Living Eyes)",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1321,22 +1330,24 @@
         {
           "name": "RAMONES X",
           "apple_music": "https://music.apple.com/us/artist/ramones/60715",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm",
           "found": true,
           "confidence": 0.875,
           "matched": "Ramones",
-          "match_label": "close match: Ramones"
+          "match_label": "close match: Ramones; Spotify: Ramones",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Living Eyes",
           "apple_music": "https://music.apple.com/us/artist/458941913",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7HayfK9TdkzSojqCg20iRq",
           "found": true,
           "confidence": 1.0,
           "matched": "Living Eyes",
-          "match_label": null
+          "match_label": "Spotify: close match (The Living Eyes)",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1362,11 +1373,12 @@
         {
           "name": "Chuck Prophet",
           "apple_music": "https://music.apple.com/us/artist/6058892",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT",
           "found": true,
           "confidence": 1.0,
           "matched": "Chuck Prophet",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1391,42 +1403,97 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Lemon Twigs",
+          "apple_music": "https://music.apple.com/us/artist/the-lemon-twigs/1007996749",
+          "spotify": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Lemon Twigs",
+          "match_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Tchotchke",
+          "apple_music": "https://music.apple.com/us/artist/tchotchke/1597904288",
+          "spotify": "https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Tchotchke",
+          "match_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "DJ Matt Stout",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.455,
+          "matched": null,
+          "match_label": "no confident match (closest: MaxedOutQ @ 46%); Spotify: no confident match (closest: DJ Quik @ 40%)"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-27",
+      "date_label": "Sun 2026-12-27",
+      "doors": "8:00PM",
+      "show_time": "9:00PM",
+      "ticket_link": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Loved Ones - Latest Hits Record Release!",
           "apple_music": null,
           "spotify": null,
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Loved Ones @ 70%)"
         }
       ],
       "support_artists": [
         {
           "name": "The Vesuvians",
           "apple_music": "https://music.apple.com/us/artist/1843810566",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5SkLffq0BYqt5RB3JiStd1",
           "found": true,
           "confidence": 1.0,
           "matched": "The Vesuvians",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Karina Deniké",
           "apple_music": "https://music.apple.com/us/artist/329125947",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0KjeQOhXv2QIhkXEEL8AuV",
           "found": true,
           "confidence": 1.0,
           "matched": "Karina Denike",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Russell Quan",
           "apple_music": "https://music.apple.com/us/artist/882754",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/00UjhwImIUB9HpqExsjgUf",
           "found": true,
           "confidence": 0.833,
           "matched": "Russell Gunn",
-          "match_label": "close match: Russell Gunn"
+          "match_label": "close match: Russell Gunn; Spotify: Russell Brand",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1456,18 +1523,19 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Western Standard Time Ska Orchestra @ 70%)"
         }
       ],
       "support_artists": [
         {
           "name": "The Tectonics",
           "apple_music": "https://music.apple.com/us/artist/6806807110",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2vv5boF6Qgn5UOJNmKEkWh",
           "found": true,
           "confidence": 0.95,
           "matched": "tectonics",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "The Singapore Selector",
@@ -1476,7 +1544,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Singapore Sling @ 65%)"
         },
         {
           "name": "Sir Rudy Blackout",
@@ -1485,7 +1553,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Blackout @ 64%)"
         }
       ],
       "multi_artist": true,
@@ -1511,22 +1579,24 @@
         {
           "name": "Swirlies",
           "apple_music": "https://music.apple.com/us/artist/205714775",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D",
           "found": true,
           "confidence": 1.0,
           "matched": "Swirlies",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Seko",
           "apple_music": "https://music.apple.com/us/artist/1771342122",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5OxOS7Emweje69KG7yPz8M",
           "found": true,
           "confidence": 1.0,
           "matched": "Seko",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1556,7 +1626,7 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Nora Brown @ 70%)"
+          "match_label": "no confident match (closest: Nora Brown @ 70%); Spotify: no confident match (closest: Nora Brown @ 70%)"
         }
       ],
       "support_artists": [],
@@ -1583,11 +1653,12 @@
         {
           "name": "Book of Love",
           "apple_music": "https://music.apple.com/us/artist/903133",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo",
           "found": true,
           "confidence": 1.0,
           "matched": "Book of Love",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1598,7 +1669,7 @@
           "found": false,
           "confidence": 0.706,
           "matched": null,
-          "match_label": "no confident match (closest: Shindig @ 71%)"
+          "match_label": "no confident match (closest: Shindig @ 71%); Spotify: no confident match (closest: Shindig @ 71%)"
         }
       ],
       "multi_artist": true,
@@ -1624,11 +1695,12 @@
         {
           "name": "Book of Love",
           "apple_music": "https://music.apple.com/us/artist/903133",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo",
           "found": true,
           "confidence": 1.0,
           "matched": "Book of Love",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1639,7 +1711,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Dj Laz @ 53%)"
         }
       ],
       "multi_artist": true,
@@ -1665,22 +1737,24 @@
         {
           "name": "Fruition",
           "apple_music": "https://music.apple.com/us/artist/189732852",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8",
           "found": true,
           "confidence": 1.0,
           "matched": "Fruition",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Rainbow Girls",
           "apple_music": "https://music.apple.com/us/artist/944525452",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7",
           "found": true,
           "confidence": 1.0,
           "matched": "Rainbow Girls",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1710,7 +1784,7 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Pink Floyd @ 70%)"
+          "match_label": "no confident match (closest: Pink Floyd @ 70%); Spotify: no confident match (closest: Pete Flux @ 74%)"
         }
       ],
       "support_artists": [],
@@ -1737,11 +1811,12 @@
         {
           "name": "Ty Segall",
           "apple_music": "https://music.apple.com/us/artist/435800519",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx",
           "found": true,
           "confidence": 1.0,
           "matched": "Ty Segall",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1768,11 +1843,12 @@
         {
           "name": "Ty Segall",
           "apple_music": "https://music.apple.com/us/artist/435800519",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx",
           "found": true,
           "confidence": 1.0,
           "matched": "Ty Segall",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1803,7 +1879,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Rebirth Brass Band @ 70%)"
         }
       ],
       "support_artists": [
@@ -1814,7 +1890,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Rebirth Brass Band @ 70%)"
         }
       ],
       "multi_artist": true,
@@ -1840,22 +1916,24 @@
         {
           "name": "Lael Neale",
           "apple_music": "https://music.apple.com/us/artist/598757160",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF",
           "found": true,
           "confidence": 1.0,
           "matched": "Lael Neale",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Spacemoth",
           "apple_music": "https://music.apple.com/us/artist/1513764837",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3sr90MQWUwn8lHbzZfSGxA",
           "found": true,
           "confidence": 1.0,
           "matched": "Spacemoth",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1879,13 +1957,57 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Rockers (Thin Lizzy Tribute)",
+          "apple_music": "https://music.apple.com/us/artist/the-rockers/29292963",
+          "spotify": "https://open.spotify.com/artist/6QL8rOBHt4rTMTURxto2YV",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Rockers",
+          "match_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Coffin Hunters",
+          "apple_music": "https://music.apple.com/us/artist/coffin-hunters/1235161312",
+          "spotify": "https://open.spotify.com/artist/4CRtLshtoaeVWESm7rM1hs",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Coffin Hunters",
+          "match_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "date_label": "Fri 2027-03-12",
+      "doors": "7:00PM",
+      "show_time": "8:00PM",
+      "ticket_link": "https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Helena Deland",
           "apple_music": "https://music.apple.com/us/artist/961746386",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0",
           "found": true,
           "confidence": 1.0,
           "matched": "Helena Deland",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1893,8 +2015,8 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
-      "date": "2027-03-13",
-      "date_label": "Sat 2027-03-13",
+      "date": "2027-03-18",
+      "date_label": "Thu 2027-03-18",
       "doors": "7:00PM",
       "show_time": "8:00PM",
       "ticket_link": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
@@ -1916,7 +2038,7 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Tom Verlaine @ 70%)"
+          "match_label": "no confident match (closest: Tom Verlaine @ 70%); Spotify: no confident match (closest: Tom Verlaine @ 70%)"
         }
       ],
       "support_artists": [],
@@ -1943,11 +2065,12 @@
         {
           "name": "Jean-Michel Blais",
           "apple_music": "https://music.apple.com/us/artist/1079111475",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr",
           "found": true,
           "confidence": 1.0,
           "matched": "Jean-Michel Blais",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1974,22 +2097,24 @@
         {
           "name": "The Limiñanas",
           "apple_music": "https://music.apple.com/us/artist/389053777",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n",
           "found": true,
           "confidence": 1.0,
           "matched": "The Limiñanas",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Native Sun",
           "apple_music": "https://music.apple.com/us/artist/1282564579",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4brVz68WvAaXknF2qhCjOm",
           "found": true,
           "confidence": 1.0,
           "matched": "Native Sun",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -2011,18 +2136,15 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47
+      "music": 48
     },
     "apple_music": {
-      "unique_artists": 93,
-      "found": 72,
-      "exact": 65,
+      "unique_artists": 99,
+      "found": 74,
+      "exact": 67,
       "close": 1,
       "needs_review": 6,
-      "not_found": 21
+      "not_found": 25
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "Mission District"
+  }
 }

@@ -3,52 +3,12 @@
   "venue_id": "cafedunord",
   "venue_url": "https://cafedunord.com/",
   "source_url": "https://cafedunord.com/shows",
-  "scraped_at": "2026-10-20",
-  "count": 46,
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Presidio Heights",
+  "scraped_at": "2026-10-21",
+  "count": 51,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Laura Veirs",
-          "apple_music": "https://music.apple.com/us/artist/laura-veirs/6417520",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Laura Veirs",
-          "match_label": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Karl Blau",
-          "apple_music": "https://music.apple.com/us/artist/karl-blau/98210948",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Karl Blau",
-          "match_label": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Cafe du Nord presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
-      "doors": "7 PM",
-      "show_time": "8 PM",
-      "ticket_link": "https://www.ticketweb.com/event/laura-veirs-with-karl-blau-cafe-du-nord-tickets/14122504?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-10-20-laura-veirs",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": "Portland, OR-based singer-songwriter Laura Veirs has forged a career singing personal songs of romantic intoxication, everyday vignettes, and social commentary that are often heavy on introspection and intense character scrutiny. She is fascinated with the intersection of poetry and science and explores this in her lyrics. While 'Found Light' is technically the 12th studio LP from the esteemed…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -65,13 +25,13 @@
       ],
       "support_artists": [
         {
-          "name": "Salem Ilise",
+          "name": "salem ilese",
           "apple_music": "https://music.apple.com/us/artist/salem-ilese/1516431117",
           "spotify": null,
           "found": true,
-          "confidence": 0.909,
+          "confidence": 1.0,
           "matched": "salem ilese",
-          "match_label": "close match: salem ilese"
+          "match_label": null
         },
         {
           "name": "Brake",
@@ -93,7 +53,7 @@
       "date_label": "Wed 2026-10-21",
       "doors": "7 PM",
       "show_time": "8 PM",
-      "ticket_link": "https://www.ticketweb.com/event/gnash-with-salem-ilise-and-cafe-du-nord-tickets/14376294?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/gnash-with-salem-ilese-and-cafe-du-nord-tickets/14376294?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-21-gnash",
       "room": null,
@@ -201,7 +161,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Bailey Blanton",
+          "apple_music": "https://music.apple.com/us/artist/bailey-blanton/1653276701",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Bailey Blanton",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
@@ -363,7 +333,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Whalefall",
+          "apple_music": "https://music.apple.com/us/artist/whalefall/1864424522",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Whalefall",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
@@ -374,7 +354,7 @@
       "date_label": "Fri 2026-10-30",
       "doors": "7 PM",
       "show_time": "8 PM",
-      "ticket_link": "https://www.ticketweb.com/event/lime-garden-sold-out-cafe-du-nord-tickets/14781133?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/lime-garden-with-whalefall-sold-cafe-du-nord-tickets/14781133?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "waitlist",
       "event_page": "https://cafedunord.com/shows/2026-10-30-lime-garden",
       "room": null,
@@ -772,8 +752,8 @@
       "date_label": "Fri 2026-11-13",
       "doors": "8 PM",
       "show_time": "9 PM",
-      "ticket_link": "https://www.ticketweb.com/event/maris-cafe-du-nord-tickets/14952233?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://cafedunord.com/shows/2026-11-13-maris",
       "room": null,
       "age_rating": "All ages",
@@ -1396,6 +1376,115 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Devvy Dub",
+          "apple_music": "https://music.apple.com/us/artist/devvy-dub/1257899389",
+          "spotify": "https://open.spotify.com/artist/4UndKhphjAjPRF7e6j95V0",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Devvy Dub",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Noise Pop Festival 2027 presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-19",
+      "date_label": "Fri 2027-02-19",
+      "doors": "7 PM",
+      "show_time": "8 PM",
+      "ticket_link": null,
+      "ticket_status": "on-sale-soon",
+      "event_page": "https://cafedunord.com/shows/2027-02-19-devvy-dub",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": "Arkansas-born producer and artist Devvy Dub, now based in San Francisco, makes alternative music that pushes past traditional genre lines. Blending synths, guitars, and textured vocal effects, Devvy creates songs that feel both laid-back and slightly chaotic in the best way."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Cut Worms",
+          "apple_music": "https://music.apple.com/us/artist/cut-worms/1108168205",
+          "spotify": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Cut Worms",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Noise Pop Festival 2027 presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-22",
+      "date_label": "Mon 2027-02-22",
+      "doors": "6 PM",
+      "show_time": "7 PM",
+      "ticket_link": null,
+      "ticket_status": "on-sale-soon",
+      "event_page": "https://cafedunord.com/shows/2027-02-22-cut-worms",
+      "room": "Swedish American Hall (upstairs)",
+      "age_rating": "21+",
+      "note": null,
+      "description": "Cut Worms (solo) NYC singer/songwriter Max Clarke’s self-titled project tells all the right stories of an eternal, American pop identity with the ease of an old-timer and the fresh eyes of a modernist"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Alt Bloom",
+          "apple_music": "https://music.apple.com/us/artist/alt-bloom/1465970266",
+          "spotify": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Alt Bloom",
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "DOUBLECAMP",
+          "apple_music": "https://music.apple.com/us/artist/doublecamp/1461687702",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "DOUBLECAMP",
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-23",
+      "date_label": "Tue 2027-02-23",
+      "doors": "7 PM",
+      "show_time": "8 PM",
+      "ticket_link": null,
+      "ticket_status": "on-sale-soon",
+      "event_page": "https://cafedunord.com/shows/2027-02-23-alt-bloom",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Alt Bloom and Doublecamp are bringing you the Camp Bloom tour! Experience high emotion, light energy, and a heartfelt performance."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Hot Freaks",
           "apple_music": "https://music.apple.com/us/artist/hot-freaks/475970550",
           "spotify": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9",
@@ -1456,6 +1545,39 @@
       "age_rating": "All ages",
       "note": null,
       "description": "Brooke Alexx is reshaping modern pop with her infectious melodies, sharp wit, and deeply personal lyrics. The independent AAPI artist has won the hearts of millions, highlighted by the viral success of her hit single \"All My Exes’ Moms,\" which garnered 30 million streams and earned 1st place in the pop category of American Songwriter's 2023 contest. Known for her unique blend of humor…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Stone Foxes",
+          "apple_music": "https://music.apple.com/us/artist/the-stone-foxes/155759632",
+          "spotify": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "The Stone Foxes",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Noise Pop Festival 2027 presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-26",
+      "date_label": "Fri 2027-02-26",
+      "doors": "7 PM",
+      "show_time": "8 PM",
+      "ticket_link": null,
+      "ticket_status": "on-sale-soon",
+      "event_page": "https://cafedunord.com/shows/2027-02-26-the-stone-foxes",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": "Shannon and Spence Koehler are men of The West. Californians through and through, the brothers know that the Golden State encompasses two halves; abundance and pain. Fruit and fire. Their latest sound flaunts that dichotomy. It’s what they describe as “If Ennio Morricone and T. Rex had a baby.” To that, I say, yep. You can’t help but imagine them jamming out in spandex and spurs."
     },
     {
       "event_type": "music",
@@ -1580,6 +1702,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sarah Julia",
+          "apple_music": "https://music.apple.com/us/artist/sarah-julia/1720969719",
+          "spotify": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Sarah Julia",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-27",
+      "date_label": "Sat 2027-03-27",
+      "doors": "7 PM",
+      "show_time": "8 PM",
+      "ticket_link": "https://www.ticketweb.com/event/sarah-julia-2027-swedish-american-hall-tickets/14379054?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-03-27-sarah-julia",
+      "room": "Swedish American Hall (upstairs)",
+      "age_rating": "21+",
+      "note": null,
+      "description": "Sarah Julia brings music pockmarked with heartbreak, resignation, longing, hope, and pain. Sarah Julia approach each with self-awareness, gazing inward and outward with equal intensity."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Games We Play",
           "apple_music": "https://music.apple.com/us/artist/924630114",
           "spotify": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40",
@@ -1689,6 +1844,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Jack & Jack",
+          "apple_music": "https://music.apple.com/us/artist/jack-jack/944171951",
+          "spotify": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Jack & Jack",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Cafe du Nord presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-13",
+      "date_label": "Tue 2027-04-13",
+      "doors": "7 PM",
+      "show_time": "8 PM",
+      "ticket_link": "https://www.ticketweb.com/event/jack-jack-cafe-du-nord-tickets/14381474?pl=cdn&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-04-13-jack-and-jack",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Jack & Jack’s rise to success is rooted in the unbreakable bond between lifelong friends Jack Gilinsky and Jack Johnson. From viral sensations to Gold-certified artists, their journey has been defined by relentless passion, creative evolution, and a deep connection with their fans. After breaking free from major label deals, the duo made a triumphant return following a three-year hiatus, this…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Alex Sampson",
           "apple_music": "https://music.apple.com/us/artist/alex-sampson/1486112083",
           "spotify": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf",
@@ -1709,8 +1897,8 @@
       "date_label": "Fri 2027-04-23",
       "doors": "7 PM",
       "show_time": "8 PM",
-      "ticket_link": null,
-      "ticket_status": "on-sale-soon",
+      "ticket_link": "https://www.ticketweb.com/event/alex-sampson-cafe-du-nord-tickets/14353524?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-04-23-alex-sampson",
       "room": null,
       "age_rating": "All ages",
@@ -1753,23 +1941,20 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46
+      "music": 51
     },
     "apple_music": {
-      "unique_artists": 68,
-      "found": 66,
-      "exact": 63,
+      "unique_artists": 75,
+      "found": 73,
+      "exact": 71,
       "close": 1,
-      "needs_review": 2,
+      "needs_review": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 68,
-      "linked": 39,
-      "shows_with_link": 39
+      "unique_artists": 75,
+      "linked": 45,
+      "shows_with_link": 45
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "Presidio Heights"
+  }
 }

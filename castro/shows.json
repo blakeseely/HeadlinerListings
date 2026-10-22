@@ -3,50 +3,12 @@
   "venue_id": "castro",
   "venue_url": "https://thecastro.com/calendar/",
   "source_url": "https://thecastro.com/calendar/",
-  "scraped_at": "2026-10-20",
-  "count": 75,
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Castro",
+  "scraped_at": "2026-10-21",
+  "count": 78,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Shakey Graves",
-          "apple_music": "https://music.apple.com/us/artist/shakey-graves/355937614",
-          "spotify": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Shakey Graves",
-          "match_label": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Wild Pink",
-          "apple_music": "https://music.apple.com/us/artist/wild-pink/999873480",
-          "spotify": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ",
-          "found": true,
-          "confidence": 1.0,
-          "matched": "Wild Pink",
-          "match_label": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-san-francisco-california-10-20-2026/event/1C0064A6A0C52E03?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/shakey-graves-261020",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Fondness, Etc. Tour",
-      "description": "Across his career, Shakey Graves—a.k.a. the performance moniker of Austin, Texas-born Alejandro Rose-Garcia—has intentionally created thrilling musical adventures tailored to each fan: burning CDs and putting them in personalized decorated bags; building intricate scavenger hunts that send fans in search of unique tapes; and Bandcamp-exclusive releases. “The fans and musicians that really resonate with me—and the inexplicable ways that I find things that I like—are usually entirely through randomness and chaos and accident,” Rose-Garcia says. “I’ve always been on this quest to make people feel like my own music is a choose your own adventure.” In 2024 Rose-Garcia celebrated the ten year anniversary of his And The War Came album with a special 10 Year Anniversary Edition release featuring never before heard demos and b-sides from the recording process and inviting fans to enter the long-since abandoned Music House. His story continues to unfold, but Shakey Graves Is Still A Gentleman From Texas"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -646,7 +608,7 @@
       "date_label": "Sun 2026-11-08",
       "doors": "4:45 pm",
       "show_time": "5:45 pm",
-      "ticket_link": "https://aff30.arabfilmfestival.org?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_link": "https://aff30.arabfilmfestival.org/films/edward-said-between-worlds?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
       "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/edward-said-between-worlds",
       "room": null,
@@ -895,7 +857,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Wesley Joseph",
+          "apple_music": "https://music.apple.com/us/artist/wesley-joseph/1502543576",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Wesley Joseph",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -926,7 +898,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Emma Ogier",
+          "apple_music": "https://music.apple.com/us/artist/emma-ogier/1571801234",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Emma Ogier",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -2038,6 +2020,47 @@
     },
     {
       "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Stamptown with Zach Zucker",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Live at The Castro!",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "date_label": "Sat 2027-01-30",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/stamptown-with-zach-zucker-18-recommended-san-francisco-california-01-30-2027/event/1C006552EE98A8C3?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/stamptown-with-zach-zucker-270130",
+      "room": null,
+      "age_rating": null,
+      "note": "SF Sketchfest & Another Planet Entertainment present",
+      "description": null
+    },
+    {
+      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -2151,6 +2174,37 @@
     },
     {
       "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Caroline Rose",
+          "apple_music": "https://music.apple.com/us/artist/caroline-rose/436333749",
+          "spotify": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Caroline Rose",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "date_label": "Sat 2027-02-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/caroline-rose-uncle-carols-world-of-san-francisco-california-02-27-2027/event/1C006550EDCAB51C?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/caroline-rose-270227",
+      "room": null,
+      "age_rating": null,
+      "note": "Another Planet Entertainment & Noise Pop Festival 2027 present Uncle Carol's World of Fun Tour",
+      "description": null
+    },
+    {
+      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -2251,6 +2305,37 @@
       "age_rating": "all ages",
       "note": "Show Moved from The Independent on 11/15/2026 KALW presents",
       "description": "strongboi is a fresh project born in Berlin from a fiery collaboration between Ziv Yamin & Alice Phoebe Lou. Started as a passion project between two close friends, with a super lo-fi vision of using mainly casio keyboards & toys, strongboi has now evolved into a full band project that still emulates it’s lo-fi beginnings but whose live shows take you on a journey from disco dance tunes to jazzy ballads, all forms of expression are on the table. Having released 3 singles in 2020 that put them on the map, strongboi is returning with their debut self titled album, recorded at their studio, La Pot. The album is a fun and wild offering from the duo, spanning many emotions and influences but very much their own, as they ready themselves to take these songs to the stage"
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "30th SF Silent Film Festival",
+          "apple_music": null,
+          "spotify": null,
+          "found": false,
+          "confidence": 0.0,
+          "matched": null,
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "date_label": "Thu 2027-03-11",
+      "doors": null,
+      "show_time": "12:00 am",
+      "ticket_link": "https://tickets.silentfilm.org/websales/pages/catalogproductinfo.aspx?catinfo=6608~db04f21c-aba9-4e76-8194-5a8f01a6ddb0&epguid=c71720d7-41e4-4cba-9497-75443d97db42&?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thecastro.com/events/sf-silent-film-270311-14",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     },
     {
       "event_type": "music",
@@ -2443,6 +2528,37 @@
       "needs_review": true,
       "headline_artists": [
         {
+          "name": "deca joins",
+          "apple_music": "https://music.apple.com/us/artist/deca-joins/1251827822",
+          "spotify": "https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77",
+          "found": true,
+          "confidence": 1.0,
+          "matched": "deca joins",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-26",
+      "date_label": "Mon 2027-04-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/deca-joins-san-francisco-california-04-26-2027/event/1C006553FA8DDB23?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/deca-joins-270426",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
           "name": "Alaska Thunderf*ck",
           "apple_music": "https://music.apple.com/us/artist/594338626",
           "spotify": null,
@@ -2544,26 +2660,23 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 58,
       "comedy": 7,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 82,
-      "found": 64,
-      "exact": 60,
+      "unique_artists": 87,
+      "found": 66,
+      "exact": 62,
       "close": 0,
       "needs_review": 4,
-      "not_found": 18
+      "not_found": 21
     },
     "spotify": {
-      "unique_artists": 82,
+      "unique_artists": 87,
       "linked": 54,
-      "shows_with_link": 45
+      "shows_with_link": 46
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "Castro"
+  }
 }

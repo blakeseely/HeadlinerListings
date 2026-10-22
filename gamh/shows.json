@@ -3,7 +3,10 @@
   "venue_id": "gamh",
   "venue_url": "https://www.greatmusichall.com/events/",
   "source_url": "https://www.greatmusichall.com/events/",
-  "scraped_at": "2026-10-20",
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "SoMa",
+  "scraped_at": "2026-10-21",
   "count": 23,
   "shows": [
     {
@@ -13,11 +16,12 @@
         {
           "name": "Julia Wolf",
           "apple_music": "https://music.apple.com/us/artist/julia-wolf/1482698876",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ",
           "found": true,
           "confidence": 1.0,
           "matched": "Julia Wolf",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -48,7 +52,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "TR",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Troye Sivan @ 31%)"
         },
         {
           "name": "ST",
@@ -57,45 +61,49 @@
           "found": true,
           "confidence": 1.0,
           "matched": "ST",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Staind @ 50%)"
         }
       ],
       "support_artists": [
         {
           "name": "Buzz Kull",
           "apple_music": "https://music.apple.com/us/artist/buzz-kull/653685310",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl",
           "found": true,
           "confidence": 1.0,
           "matched": "Buzz Kull",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Zanias",
           "apple_music": "https://music.apple.com/us/artist/zanias/1156612707",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6ouPbOWchZ9U2ojCpMF9Vv",
           "found": true,
           "confidence": 1.0,
           "matched": "Zanias",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Ghost Cop",
           "apple_music": "https://music.apple.com/us/artist/ghost-cop/680580583",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7iEbbArmMhTBPk0YA3oI6b",
           "found": true,
           "confidence": 1.0,
           "matched": "Ghost Cop",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Aux Animaux",
           "apple_music": "https://music.apple.com/us/artist/aux-animaux/1334792020",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5jdlUKIbzsVj5TPXqq27SD",
           "found": true,
           "confidence": 1.0,
           "matched": "Aux Animaux",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -121,31 +129,34 @@
         {
           "name": "illuminati hotties",
           "apple_music": "https://music.apple.com/us/artist/illuminati-hotties/1264905232",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O",
           "found": true,
           "confidence": 1.0,
           "matched": "illuminati hotties",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Buzzed Lightbeer",
           "apple_music": "https://music.apple.com/us/artist/buzzed-lightbeer/1509387237",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7DH4ANOgB5wmNwRvm38KZi",
           "found": true,
           "confidence": 1.0,
           "matched": "Buzzed Lightbeer",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "swell foop",
           "apple_music": "https://music.apple.com/us/artist/swell-foop/1652702280",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r",
           "found": true,
           "confidence": 1.0,
           "matched": "Swell Foop",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -171,11 +182,12 @@
         {
           "name": "Desire",
           "apple_music": "https://music.apple.com/us/artist/desire/65513031",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0",
           "found": true,
           "confidence": 1.0,
           "matched": "Desire",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -202,11 +214,12 @@
         {
           "name": "Cold Cave",
           "apple_music": "https://music.apple.com/us/artist/cold-cave/324968216",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad",
           "found": true,
           "confidence": 1.0,
           "matched": "Cold Cave",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -233,11 +246,12 @@
         {
           "name": "Pain Of Truth",
           "apple_music": "https://music.apple.com/us/artist/pain-of-truth/1016853381",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql",
           "found": true,
           "confidence": 1.0,
           "matched": "Pain of Truth",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -264,11 +278,12 @@
         {
           "name": "Danny L. Harle",
           "apple_music": "https://music.apple.com/us/artist/danny-l-harle/985576556",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD",
           "found": true,
           "confidence": 0.9,
           "matched": "Danny L Harle",
-          "match_label": "close match: Danny L Harle"
+          "match_label": "close match: Danny L Harle; Spotify: Danny L Harle",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -295,11 +310,12 @@
         {
           "name": "Foy Vance",
           "apple_music": "https://music.apple.com/us/artist/foy-vance/68235486",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu",
           "found": true,
           "confidence": 1.0,
           "matched": "Foy Vance",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -326,22 +342,24 @@
         {
           "name": "Jake Xerxes Fussell",
           "apple_music": "https://music.apple.com/us/artist/jake-xerxes-fussell/941377755",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33",
           "found": true,
           "confidence": 1.0,
           "matched": "Jake Xerxes Fussell",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Dougie Poole",
           "apple_music": "https://music.apple.com/us/artist/dougie-poole/1073351658",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y",
           "found": true,
           "confidence": 1.0,
           "matched": "Dougie Poole",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -367,22 +385,24 @@
         {
           "name": "Russian Circles",
           "apple_music": "https://music.apple.com/us/artist/russian-circles/145624352",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF",
           "found": true,
           "confidence": 1.0,
           "matched": "Russian Circles",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Primitive Man",
           "apple_music": "https://music.apple.com/us/artist/primitive-man/419043546",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx",
           "found": true,
           "confidence": 1.0,
           "matched": "Primitive Man",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -408,31 +428,34 @@
         {
           "name": "Armored Saint",
           "apple_music": "https://music.apple.com/us/artist/armored-saint/54261072",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN",
           "found": true,
           "confidence": 1.0,
           "matched": "Armored Saint",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Metal Church",
           "apple_music": "https://music.apple.com/us/artist/metal-church/612150",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP",
           "found": true,
           "confidence": 1.0,
           "matched": "Metal Church",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Livekill",
           "apple_music": "https://music.apple.com/us/artist/livekill/1390384218",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/330IRFx1qCHR8seFfdsH4h",
           "found": true,
           "confidence": 1.0,
           "matched": "Livekill",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -458,11 +481,12 @@
         {
           "name": "Sueco The Child",
           "apple_music": "https://music.apple.com/us/artist/suecothechild/1438899012",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2S1rqQUNnw70QtMpPBNyjb",
           "found": true,
           "confidence": 0.929,
           "matched": "SuecoTheChild",
-          "match_label": "close match: SuecoTheChild"
+          "match_label": "close match: SuecoTheChild; Spotify: Sueco The Child",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -489,11 +513,12 @@
         {
           "name": "Andrew McMahon",
           "apple_music": "https://music.apple.com/us/artist/andrew-mcmahon/3193956",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4DkJSlXifrArtzO0Zf3OLk",
           "found": true,
           "confidence": 1.0,
           "matched": "Andrew McMahon",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -520,11 +545,12 @@
         {
           "name": "Emma Ruth Rundle",
           "apple_music": "https://music.apple.com/us/artist/emma-ruth-rundle/360994442",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC",
           "found": true,
           "confidence": 1.0,
           "matched": "Emma Ruth Rundle",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -551,11 +577,12 @@
         {
           "name": "A John Waters Christmas",
           "apple_music": "https://music.apple.com/us/artist/john-waters/1561860431",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3qeoYI3u0hMmvcmZGvZNcx",
           "found": true,
           "confidence": 0.8,
           "matched": "John Waters",
-          "match_label": "close match: John Waters"
+          "match_label": "close match: John Waters; Spotify: John Waters",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -582,11 +609,12 @@
         {
           "name": "John Zorn",
           "apple_music": "https://music.apple.com/us/artist/john-zorn/995599",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3gkJ7lXtLpE4KauFHpk2vK",
           "found": true,
           "confidence": 1.0,
           "matched": "John Zorn",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -613,11 +641,12 @@
         {
           "name": "Matt Hansen",
           "apple_music": "https://music.apple.com/us/artist/matt-hansen/1442658353",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ",
           "found": true,
           "confidence": 1.0,
           "matched": "Matt Hansen",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -644,11 +673,12 @@
         {
           "name": "Anna Von Hausswolff",
           "apple_music": "https://music.apple.com/us/artist/anna-von-hausswolff/351852229",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6",
           "found": true,
           "confidence": 1.0,
           "matched": "Anna von Hausswolff",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -675,11 +705,12 @@
         {
           "name": "AJJ",
           "apple_music": "https://music.apple.com/us/artist/ajj/265075519",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl",
           "found": true,
           "confidence": 1.0,
           "matched": "AJJ",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -706,11 +737,12 @@
         {
           "name": "Wolves In The Throne Room",
           "apple_music": "https://music.apple.com/us/artist/wolves-in-the-throne-room/146055657",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet",
           "found": true,
           "confidence": 1.0,
           "matched": "Wolves in the Throne Room",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -737,11 +769,12 @@
         {
           "name": "Jess Williamson",
           "apple_music": "https://music.apple.com/us/artist/jess-williamson/501248881",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9",
           "found": true,
           "confidence": 1.0,
           "matched": "Jess Williamson",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -768,20 +801,22 @@
         {
           "name": "Nile",
           "apple_music": "https://music.apple.com/us/artist/nile/65885099",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE",
           "found": true,
           "confidence": 1.0,
           "matched": "Nile",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Coroner",
           "apple_music": "https://music.apple.com/us/artist/coroner/191721935",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV",
           "found": true,
           "confidence": 1.0,
           "matched": "Coroner",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -793,13 +828,13 @@
       "date_label": "Thu 2027-03-18",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8269091/buy-tickets",
-      "ticket_status": null,
-      "event_page": "https://www.ticketsqueeze.com/tickets/8269091/buy-tickets",
+      "ticket_link": "https://www.greatmusichall.com/events/nile-coroner-18-march-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.greatmusichall.com/events/nile-coroner-18-march-2027/",
       "room": null,
       "age_rating": null,
-      "note": null,
-      "description": "Nile & Coroner at Great American Music Hall on Thursday 18th March 2027 in San Francisco..."
+      "note": "From $116",
+      "description": "Underworld Dissonance returns to the Great American Music Hall in San Francisco on Thursday, March..."
     },
     {
       "event_type": "music",
@@ -808,11 +843,12 @@
         {
           "name": "Saxsquatch",
           "apple_music": "https://music.apple.com/us/artist/saxsquatch/1273329937",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t",
           "found": true,
           "confidence": 1.0,
           "matched": "Saxsquatch",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -846,8 +882,5 @@
       "needs_review": 3,
       "not_found": 0
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "SoMa"
+  }
 }

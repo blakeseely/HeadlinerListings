@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:32:11.732815+00:00",
+  "generated_at": "2026-10-22T00:00:56.552931+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -7,44 +7,44 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-10-22",
-      "show_count": 42,
-      "sha256_16": "97f07745ea59dcb3"
+      "show_count": 41,
+      "sha256_16": "0847f44c30aedf96"
     },
     {
       "venue_id": "brickandmortar",
       "file": "brickandmortar/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-20",
+      "updated_at": "2026-10-21",
       "show_count": 21,
-      "sha256_16": "fa2b50ffb76e424d"
+      "sha256_16": "8f4d1fc237b357ae"
     },
     {
       "venue_id": "cafedunord",
       "file": "cafedunord/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-20",
-      "show_count": 46,
-      "sha256_16": "a34c58628a86ae1a"
+      "updated_at": "2026-10-21",
+      "show_count": 51,
+      "sha256_16": "e5ad6ca0fe1aa6b6"
     },
     {
       "venue_id": "castro",
       "file": "castro/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-20",
-      "show_count": 75,
-      "sha256_16": "0e49ac21a89db456"
+      "updated_at": "2026-10-21",
+      "show_count": 78,
+      "sha256_16": "d1fa3a6c6aa2d8a1"
     },
     {
       "venue_id": "chapel",
       "file": "chapel/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-15",
-      "show_count": 47,
-      "sha256_16": "dafdad6e4033fa9b"
+      "updated_at": "2026-10-16",
+      "show_count": 48,
+      "sha256_16": "25f70bb0c56fb6c7"
     },
     {
       "venue_id": "fillmore",
@@ -53,25 +53,25 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-23",
       "show_count": 35,
-      "sha256_16": "a59233917dcd0ff7"
+      "sha256_16": "544734edd0e84339"
     },
     {
       "venue_id": "foxoakland",
       "file": "foxoakland/shows.json",
       "city": "Oakland, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-20",
-      "show_count": 31,
-      "sha256_16": "e0407e85676ee0f6"
+      "updated_at": "2026-10-21",
+      "show_count": 33,
+      "sha256_16": "84b1985a366adee3"
     },
     {
       "venue_id": "frost",
       "file": "frost/shows.json",
       "city": "Palo Alto, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-20",
+      "updated_at": "2026-10-21",
       "show_count": 0,
-      "sha256_16": "ad4ce76bf4726216"
+      "sha256_16": "073583ba9e50b41e"
     },
     {
       "venue_id": "gamh",
@@ -80,7 +80,7 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-23",
       "show_count": 23,
-      "sha256_16": "7825ae8a030ea359"
+      "sha256_16": "a3cfe278d0e5ac8a"
     },
     {
       "venue_id": "greek",
@@ -88,8 +88,8 @@
       "city": "Berkeley, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-04",
-      "show_count": 3,
-      "sha256_16": "0551a0f8a910ea26"
+      "show_count": 4,
+      "sha256_16": "d3c80a1b0c90beb8"
     },
     {
       "venue_id": "independent",
@@ -97,17 +97,17 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-10-20",
-      "show_count": 85,
-      "sha256_16": "12a8eee1d0056ed8"
+      "show_count": 92,
+      "sha256_16": "9f13365d262b6c65"
     },
     {
       "venue_id": "regency",
       "file": "regency/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-20",
+      "updated_at": "2026-10-21",
       "show_count": 40,
-      "sha256_16": "d87f035131373a61"
+      "sha256_16": "cc42d210482a8cae"
     },
     {
       "venue_id": "warfield",
@@ -116,7 +116,7 @@
       "metro": "San Francisco",
       "updated_at": "2026-10-23",
       "show_count": 12,
-      "sha256_16": "27653c49c067deb3"
+      "sha256_16": "886a48dc852ce6ae"
     }
   ]
 }

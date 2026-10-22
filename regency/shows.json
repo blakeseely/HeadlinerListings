@@ -3,42 +3,12 @@
   "venue_id": "regency",
   "venue_url": "https://theregencyballroom.com/",
   "source_url": "https://aegwebprod.blob.core.windows.net/json/events/9/events.json",
-  "scraped_at": "2026-10-20",
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Castro",
+  "scraped_at": "2026-10-21",
   "count": 40,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "ARTMS",
-          "apple_music": "https://music.apple.com/us/artist/artms/1718505900",
-          "spotify": null,
-          "found": true,
-          "confidence": 1.0,
-          "matched": "ARTMS",
-          "match_label": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Art of Blue Blood World Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
-      "doors": "6:00 PM",
-      "show_time": "7:00 PM",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546589553",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1516673",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -212,7 +182,7 @@
       "doors": "7:00 PM",
       "show_time": "8:00 PM",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAD88iPHAgAAAACG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
+      "ticket_status": "Cancelled",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1528366",
       "room": null,
       "age_rating": "All Ages",
@@ -547,7 +517,17 @@
           "match_label": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "DRAM",
+          "apple_music": "https://music.apple.com/us/artist/dram/962129771",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "DRAM",
+          "match_label": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "First North America Headline Tour",
       "presenters": [
@@ -1364,10 +1344,10 @@
       "doors": "7:00 PM",
       "show_time": "8:00 PM",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546942691",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1660169",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "18 & Over",
       "note": null,
       "description": null
     },
@@ -1453,6 +1433,39 @@
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1608440",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jersey",
+          "apple_music": "https://music.apple.com/us/artist/jersey/1636705583",
+          "spotify": null,
+          "found": true,
+          "confidence": 1.0,
+          "matched": "Jersey",
+          "match_label": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-18",
+      "date_label": "Thu 2027-03-18",
+      "doors": "7:00 PM",
+      "show_time": "8:00 PM",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546964922",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1664487",
+      "room": null,
+      "age_rating": "18 & Over",
       "note": null,
       "description": null
     },
@@ -1623,20 +1636,17 @@
       "music": 40
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 62,
-      "exact": 61,
+      "unique_artists": 65,
+      "found": 63,
+      "exact": 62,
       "close": 0,
       "needs_review": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 64,
+      "unique_artists": 65,
       "linked": 6,
       "shows_with_link": 4
     }
-  },
-  "city": "San Francisco, CA",
-  "metro": "San Francisco",
-  "neighborhood": "Castro"
+  }
 }
