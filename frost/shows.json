@@ -6,14 +6,13 @@
   "city": "Palo Alto, CA",
   "metro": "San Francisco",
   "neighborhood": null,
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",

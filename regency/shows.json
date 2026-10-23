@@ -6,14 +6,13 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Castro",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "The Aquabats!",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -59,7 +56,6 @@
           "matched": "Mariachi El Bronx",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -70,7 +66,6 @@
           "matched": "Mrs. Magician",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -81,7 +76,6 @@
       ],
       "set_format": null,
       "date": "2026-10-22",
-      "date_label": "Thu 2026-10-22",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABBQtvGAgAAAAAr%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -104,7 +98,6 @@
           "matched": "Jai Wolf",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -117,7 +110,6 @@
           "matched": "Koastle",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -128,7 +120,6 @@
       ],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546472043",
@@ -151,7 +142,6 @@
           "matched": "Shyne",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "feed"
         }
       ],
@@ -164,7 +154,6 @@
           "matched": "Barrington Levy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -175,7 +164,6 @@
           "matched": "Lil' Cease",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "feed"
         }
       ],
@@ -186,7 +174,6 @@
       ],
       "set_format": null,
       "date": "2026-10-28",
-      "date_label": "Wed 2026-10-28",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAD88iPHAgAAAACG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -209,7 +196,6 @@
           "matched": "bleood",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "feed"
         }
       ],
@@ -221,7 +207,6 @@
       ],
       "set_format": null,
       "date": "2026-10-29",
-      "date_label": "Thu 2026-10-29",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546695744",
@@ -244,7 +229,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -256,7 +240,6 @@
       ],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": "9:00 pm",
       "show_time": "10:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABzxg7HAgAAAABb%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -279,7 +262,6 @@
           "matched": "Medium Build",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -292,7 +274,6 @@
           "matched": "The Scratch",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -303,7 +284,6 @@
       ],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546453324",
@@ -326,7 +306,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Genesis @ 27%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: Genesis @ 27%)",
           "spotify_source": null
         }
       ],
@@ -338,7 +317,6 @@
       ],
       "set_format": null,
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAA6Joe%2fAgAAAADG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -361,7 +339,6 @@
           "matched": "The Black Angels",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -374,7 +351,6 @@
           "matched": "GHOSTWOMAN",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -385,7 +361,6 @@
       ],
       "set_format": null,
       "date": "2026-11-05",
-      "date_label": "Thu 2026-11-05",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAC78S6%2bAgAAAAD6%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -408,7 +383,6 @@
           "matched": "Lucy Bedroque",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -421,7 +395,6 @@
           "matched": "pinponpanpon",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -432,7 +405,6 @@
       ],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546772061",
@@ -455,7 +427,6 @@
           "matched": "Lucy Bedroque",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -468,7 +439,6 @@
           "matched": "pinponpanpon",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -479,7 +449,6 @@
       ],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546673674",
@@ -502,7 +471,6 @@
           "matched": "Nia Archives",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -515,7 +483,6 @@
           "matched": "BAMBII",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "feed"
         }
       ],
@@ -526,7 +493,6 @@
       ],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546773403",
@@ -549,7 +515,6 @@
           "matched": "Yuki Chiba",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -562,7 +527,6 @@
           "matched": "DRAM",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -573,7 +537,6 @@
       ],
       "set_format": null,
       "date": "2026-11-10",
-      "date_label": "Tue 2026-11-10",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546599285",
@@ -596,7 +559,6 @@
           "matched": "Soft Cell",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -608,7 +570,6 @@
       ],
       "set_format": null,
       "date": "2026-11-11",
-      "date_label": "Wed 2026-11-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546596330",
@@ -631,7 +592,6 @@
           "matched": "Band of Horses",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -643,7 +603,6 @@
       ],
       "set_format": "An Evening With",
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546160098",
@@ -666,7 +625,6 @@
           "matched": "L7",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -679,7 +637,6 @@
           "matched": "NOBRO",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -690,7 +647,6 @@
           "matched": "Buzzed Lightbeer",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -701,7 +657,6 @@
       ],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAADHdpy%2fAgAAAACz%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -724,7 +679,6 @@
           "matched": "Headache",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -737,7 +691,6 @@
           "matched": "Baba Stiltz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -748,7 +701,6 @@
           "matched": "AMR*",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -759,7 +711,6 @@
       ],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABnA6XAAgAAAAAf%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -782,7 +733,6 @@
           "matched": "Manic Street Preachers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -794,7 +744,6 @@
       ],
       "set_format": null,
       "date": "2026-11-16",
-      "date_label": "Mon 2026-11-16",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABVFwPBAgAAAAA%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -817,7 +766,6 @@
           "matched": "Ninajirachi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -830,7 +778,6 @@
           "matched": "MGNA Crrrta",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -841,7 +788,6 @@
       ],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546879352",
@@ -864,7 +810,6 @@
           "matched": "Ninajirachi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -877,7 +822,6 @@
           "matched": "MGNA Crrrta",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -888,7 +832,6 @@
       ],
       "set_format": null,
       "date": "2026-11-18",
-      "date_label": "Wed 2026-11-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546874871",
@@ -911,7 +854,6 @@
           "matched": "Ninajirachi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -924,7 +866,6 @@
           "matched": "MGNA Crrrta",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -935,7 +876,6 @@
       ],
       "set_format": null,
       "date": "2026-11-19",
-      "date_label": "Thu 2026-11-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836611",
@@ -958,7 +898,6 @@
           "matched": "Layton Giordani",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -971,7 +910,6 @@
           "matched": "Greggio",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -982,7 +920,6 @@
       ],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546204228",
@@ -1005,7 +942,6 @@
           "matched": "Gary Numan",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1018,7 +954,6 @@
           "matched": "Tremours",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1029,7 +964,6 @@
       ],
       "set_format": null,
       "date": "2026-11-23",
-      "date_label": "Mon 2026-11-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABn1xC%2fAgAAAAC%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -1052,7 +986,6 @@
           "matched": "The Amity Affliction",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1065,7 +998,6 @@
           "matched": "blessthefall",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -1076,7 +1008,6 @@
           "matched": "Orthodox",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -1087,7 +1018,6 @@
           "matched": "Buried In Spring",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1098,7 +1028,6 @@
       ],
       "set_format": null,
       "date": "2026-11-24",
-      "date_label": "Tue 2026-11-24",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546587461",
@@ -1121,7 +1050,6 @@
           "matched": "The Wrecks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1134,7 +1062,6 @@
           "matched": "Worry Club",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -1145,7 +1072,6 @@
           "matched": "Kid Sistr",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1156,7 +1082,6 @@
       ],
       "set_format": null,
       "date": "2026-11-25",
-      "date_label": "Wed 2026-11-25",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546249301",
@@ -1179,7 +1104,6 @@
           "matched": "Amtrac",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1191,7 +1115,6 @@
       ],
       "set_format": null,
       "date": "2026-11-27",
-      "date_label": "Fri 2026-11-27",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546685009",
@@ -1214,7 +1137,6 @@
           "matched": "Devault",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1226,7 +1148,6 @@
       ],
       "set_format": null,
       "date": "2026-11-28",
-      "date_label": "Sat 2026-11-28",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546513535",
@@ -1249,7 +1170,6 @@
           "matched": "Ripe",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1261,7 +1181,6 @@
       ],
       "set_format": null,
       "date": "2026-12-06",
-      "date_label": "Sun 2026-12-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546786243",
@@ -1284,7 +1203,6 @@
           "matched": "Takuya Nakamura",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1296,7 +1214,6 @@
       ],
       "set_format": null,
       "date": "2026-12-19",
-      "date_label": "Sat 2026-12-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546803755",
@@ -1319,7 +1236,6 @@
           "matched": "MPH",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "feed"
         }
       ],
@@ -1331,7 +1247,6 @@
       ],
       "set_format": null,
       "date": "2027-01-15",
-      "date_label": "Fri 2027-01-15",
       "doors": "8:00 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836954",
@@ -1354,7 +1269,6 @@
           "matched": "Swimming Paul",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1366,7 +1280,6 @@
       ],
       "set_format": null,
       "date": "2027-01-22",
-      "date_label": "Fri 2027-01-22",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546930414",
@@ -1389,7 +1302,6 @@
           "matched": "TWINSICK",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1401,7 +1313,6 @@
       ],
       "set_format": null,
       "date": "2027-02-05",
-      "date_label": "Fri 2027-02-05",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546808835",
@@ -1424,7 +1335,6 @@
           "matched": "Interplanetary Criminal",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1437,7 +1347,6 @@
           "matched": "Riria",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1448,7 +1357,6 @@
       ],
       "set_format": null,
       "date": "2027-02-13",
-      "date_label": "Sat 2027-02-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546942691",
@@ -1471,7 +1379,6 @@
           "matched": "Blue October",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1483,7 +1390,6 @@
       ],
       "set_format": null,
       "date": "2027-02-18",
-      "date_label": "Thu 2027-02-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAACxMF7AAgAAAADX%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
@@ -1506,7 +1412,6 @@
           "matched": "Eluveitie",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1519,7 +1424,6 @@
           "matched": "NiNi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -1530,7 +1434,6 @@
           "matched": "ILLUMISHADE",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1541,7 +1444,6 @@
       ],
       "set_format": null,
       "date": "2027-03-03",
-      "date_label": "Wed 2027-03-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546815352",
@@ -1564,7 +1466,6 @@
           "matched": "Jersey",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1576,7 +1477,6 @@
       ],
       "set_format": null,
       "date": "2027-03-18",
-      "date_label": "Thu 2027-03-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546964922",
@@ -1599,7 +1499,6 @@
           "matched": "MASS OF THE FERMENTING DREGS",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1611,7 +1510,6 @@
       ],
       "set_format": null,
       "date": "2027-04-27",
-      "date_label": "Tue 2027-04-27",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546675156",
@@ -1634,7 +1532,6 @@
           "matched": "The Interrupters",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1647,7 +1544,6 @@
           "matched": "The Chin Chins",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -1658,7 +1554,6 @@
           "matched": "RAT BOY",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1669,7 +1564,6 @@
       ],
       "set_format": null,
       "date": "2027-04-28",
-      "date_label": "Wed 2027-04-28",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546810116",
@@ -1692,7 +1586,6 @@
           "matched": "The Wombats",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1705,7 +1598,6 @@
           "matched": "The Lathums",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1716,7 +1608,6 @@
       ],
       "set_format": null,
       "date": "2027-05-15",
-      "date_label": "Sat 2027-05-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546948181",
@@ -1739,7 +1630,6 @@
           "matched": "She Past Away",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "feed"
         }
       ],
@@ -1751,7 +1641,6 @@
       ],
       "set_format": null,
       "date": "2027-06-11",
-      "date_label": "Fri 2027-06-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546934277",

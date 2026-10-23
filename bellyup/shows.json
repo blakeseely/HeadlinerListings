@@ -6,14 +6,13 @@
   "city": "Solana Beach, CA",
   "metro": "San Diego",
   "neighborhood": "Solana Beach",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "Spyro Gyra",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -56,7 +53,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-01",
-      "date_label": "Thu 2026-10-01",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": null,
@@ -79,7 +75,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: Happy Hour",
-          "match_label": "close match: Happy Hour",
           "spotify_source": "api"
         }
       ],
@@ -89,7 +84,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-02",
-      "date_label": "Fri 2026-10-02",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": null,
@@ -112,7 +106,6 @@
           "matched": "Spafford",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -122,7 +115,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-02",
-      "date_label": "Fri 2026-10-02",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": null,
@@ -145,7 +137,6 @@
           "matched": "The Mother Hips",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -156,7 +147,6 @@
           "matched": "Billy Shaddox",
           "apple_label": "compound bill — links to Billy Shaddox only",
           "spotify_label": "no confident match (closest: Billy Currington @ 47%)",
-          "match_label": "compound bill — links to Billy Shaddox only | no confident match (closest: Billy Currington @ 47%)",
           "spotify_source": null
         }
       ],
@@ -166,7 +156,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-03",
-      "date_label": "Sat 2026-10-03",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -189,7 +178,6 @@
           "matched": "Jackie Greene",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -200,7 +188,6 @@
           "matched": "Alex Bergan",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -210,7 +197,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-04",
-      "date_label": "Sun 2026-10-04",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -233,7 +219,6 @@
           "matched": "Rickie Lee Jones",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -243,7 +228,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-06",
-      "date_label": "Tue 2026-10-06",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -266,7 +250,6 @@
           "matched": "Seun Kuti + Egypt 80",
           "apple_label": "close match: Seun Kuti + Egypt 80",
           "spotify_label": null,
-          "match_label": "close match: Seun Kuti + Egypt 80",
           "spotify_source": "api"
         },
         {
@@ -277,7 +260,6 @@
           "matched": "Dogo Du Togo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -288,7 +270,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: flyingfish @ 67%)",
-          "match_label": "no confident match (closest: flyingfish @ 67%)",
           "spotify_source": null
         }
       ],
@@ -298,7 +279,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-07",
-      "date_label": "Wed 2026-10-07",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -321,7 +301,6 @@
           "matched": "The Wallflowers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -332,7 +311,6 @@
           "matched": "The Whitmore Sisters",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -342,7 +320,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-08",
-      "date_label": "Thu 2026-10-08",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -365,7 +342,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Atomic Space @ 33%)",
-          "match_label": "no confident match (closest: Atomic Space @ 33%)",
           "spotify_source": null
         }
       ],
@@ -375,7 +351,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-09",
-      "date_label": "Fri 2026-10-09",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": null,
@@ -398,7 +373,6 @@
           "matched": "The Wallflowers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -411,7 +385,6 @@
           "matched": "The Whitmore Sisters",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -420,7 +393,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-09",
-      "date_label": "Fri 2026-10-09",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": null,
@@ -443,7 +415,6 @@
           "matched": "Wayward Sons",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -454,7 +425,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: MrTray80 @ 44%)",
           "spotify_label": "no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
-          "match_label": "no confident match (closest: MrTray80 @ 44%) | no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
           "spotify_source": null
         }
       ],
@@ -464,7 +434,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-10",
-      "date_label": "Sat 2026-10-10",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -487,7 +456,6 @@
           "matched": "Dinosaur Jr.",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -500,7 +468,6 @@
           "matched": "Stef Chura",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -509,7 +476,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-11",
-      "date_label": "Sun 2026-10-11",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": null,
@@ -532,7 +498,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: David Di Pietro",
-          "match_label": "close match: David Di Pietro",
           "spotify_source": "api"
         }
       ],
@@ -542,7 +507,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-12",
-      "date_label": "Mon 2026-10-12",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": null,
@@ -565,7 +529,6 @@
           "matched": "Deer Tick",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -578,7 +541,6 @@
           "matched": "Presley Haile",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -587,7 +549,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-13",
-      "date_label": "Tue 2026-10-13",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -610,7 +571,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: David Di Pietro",
-          "match_label": "close match: David Di Pietro",
           "spotify_source": "api"
         }
       ],
@@ -620,7 +580,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-14",
-      "date_label": "Wed 2026-10-14",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": null,
@@ -643,7 +602,6 @@
           "matched": "Easy Star All-Stars",
           "apple_label": "close match: Easy Star All-Stars",
           "spotify_label": "close match: Easy Star All-Stars",
-          "match_label": "close match: Easy Star All-Stars | close match: Easy Star All-Stars",
           "spotify_source": "api"
         }
       ],
@@ -656,7 +614,6 @@
           "matched": "Double Tiger",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -665,7 +622,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-15",
-      "date_label": "Thu 2026-10-15",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -688,7 +644,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Atomic Space @ 24%)",
-          "match_label": "no confident match (closest: Atomic Space @ 24%)",
           "spotify_source": null
         }
       ],
@@ -698,7 +653,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-16",
-      "date_label": "Fri 2026-10-16",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": null,
@@ -721,7 +675,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Prince & The Revolution @ 41%)",
           "spotify_label": "close match: Z-Trip",
-          "match_label": "no confident match (closest: Prince & The Revolution @ 41%) | close match: Z-Trip",
           "spotify_source": "api"
         },
         {
@@ -732,7 +685,6 @@
           "matched": "Murs",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -743,7 +695,6 @@
           "matched": "Honeycomb",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -754,7 +705,6 @@
           "matched": "Chris Karns",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -764,7 +714,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-16",
-      "date_label": "Fri 2026-10-16",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": null,
@@ -787,7 +736,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Mister Anderson @ 28%)",
-          "match_label": "no confident match (closest: Mister Anderson @ 28%)",
           "spotify_source": null
         }
       ],
@@ -797,7 +745,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-17",
-      "date_label": "Sat 2026-10-17",
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": null,
@@ -820,7 +767,6 @@
           "matched": "moe.",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -830,7 +776,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-18",
-      "date_label": "Sun 2026-10-18",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -853,7 +798,6 @@
           "matched": "The Core",
           "apple_label": null,
           "spotify_label": "close match: The Cure",
-          "match_label": "close match: The Cure",
           "spotify_source": "api"
         }
       ],
@@ -863,7 +807,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-19",
-      "date_label": "Mon 2026-10-19",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -886,7 +829,6 @@
           "matched": "Melvins",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -897,7 +839,6 @@
           "matched": "HEADSEND",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -907,7 +848,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -930,7 +870,6 @@
           "matched": "Automatic",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -943,7 +882,6 @@
           "matched": "Nuovo Testamento",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -952,7 +890,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -975,7 +912,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Statik Selektah @ 22%)",
-          "match_label": "no confident match (closest: Statik Selektah @ 22%)",
           "spotify_source": null
         }
       ],
@@ -985,7 +921,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-22",
-      "date_label": "Thu 2026-10-22",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/brewers-ball-ft-marujah-belly-up-tickets/14336444?REFID=bupwebsite",
@@ -1008,7 +943,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Happy Hour @ 70%)",
-          "match_label": "no confident match (closest: Happy Hour @ 70%)",
           "spotify_source": null
         }
       ],
@@ -1018,7 +952,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/toga-party-band-happy-hour-belly-up-tickets/15046423?REFID=bupwebsite",
@@ -1041,7 +974,6 @@
           "matched": "Kishi Bashi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1054,7 +986,6 @@
           "matched": "Geographer",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1063,7 +994,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kishi-bashi-sonderlust-belly-up-tickets/14807593?REFID=bupwebsite",
@@ -1086,7 +1016,6 @@
           "matched": "War",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1096,7 +1025,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/war-50th-anniversary-belly-up-tickets/14262524?REFID=bupwebsite",
@@ -1119,7 +1047,6 @@
           "matched": "Infinite Void",
           "apple_label": "close match: Infinite Void",
           "spotify_label": "close match: Infinite Flow",
-          "match_label": "close match: Infinite Void | close match: Infinite Flow",
           "spotify_source": "api"
         }
       ],
@@ -1129,7 +1056,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-25",
-      "date_label": "Sun 2026-10-25",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654?REFID=bupwebsite",
@@ -1152,7 +1078,6 @@
           "matched": "Michael Franti",
           "apple_label": "close match: Michael Franti",
           "spotify_label": "close match: Michael Franti",
-          "match_label": "close match: Michael Franti | close match: Michael Franti",
           "spotify_source": "api"
         }
       ],
@@ -1165,7 +1090,6 @@
           "matched": "Wheeland Brothers",
           "apple_label": "close match: Wheeland Brothers",
           "spotify_label": "close match: Wheeland Brothers",
-          "match_label": "close match: Wheeland Brothers | close match: Wheeland Brothers",
           "spotify_source": "api"
         }
       ],
@@ -1174,7 +1098,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-26",
-      "date_label": "Mon 2026-10-26",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/michael-franti-trio-belly-up-tickets/14262304?REFID=bupwebsite",
@@ -1197,7 +1120,6 @@
           "matched": "John Scofield",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1208,7 +1130,6 @@
           "matched": "Oteil Burbridge",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1219,7 +1140,6 @@
           "matched": "Larry Goldings",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1230,7 +1150,6 @@
           "matched": "Adam Deitch",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1240,7 +1159,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-27",
-      "date_label": "Tue 2026-10-27",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800693?REFID=bupwebsite",
@@ -1263,7 +1181,6 @@
           "matched": "John Scofield",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1274,7 +1191,6 @@
           "matched": "Oteil Burbridge",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1285,7 +1201,6 @@
           "matched": "Larry Goldings",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1296,7 +1211,6 @@
           "matched": "Adam Deitch",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1306,7 +1220,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-27",
-      "date_label": "Tue 2026-10-27",
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800703?REFID=bupwebsite",
@@ -1329,7 +1242,6 @@
           "matched": "Howie Day",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1340,7 +1252,6 @@
           "matched": "Matthew Phillips",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1350,7 +1261,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-28",
-      "date_label": "Wed 2026-10-28",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/howie-day-matthew-phillips-belly-up-tickets/15008973?REFID=bupwebsite",
@@ -1373,7 +1283,6 @@
           "matched": "Lizzy & The Triggermen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1384,7 +1293,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1394,7 +1302,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-29",
-      "date_label": "Thu 2026-10-29",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/lizzy-the-triggermen-grey-belly-up-tickets/15032413?REFID=bupwebsite",
@@ -1417,7 +1324,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Atomic Space @ 32%)",
-          "match_label": "no confident match (closest: Atomic Space @ 32%)",
           "spotify_source": null
         }
       ],
@@ -1427,7 +1333,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-halloween-boo-bash-belly-up-tickets/14999913?REFID=bupwebsite",
@@ -1450,7 +1355,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Dead Man's Bones @ 70%)",
-          "match_label": "no confident match (closest: Dead Man's Bones @ 70%)",
           "spotify_source": null
         }
       ],
@@ -1460,7 +1364,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dead-mans-party-halloween-bash-belly-up-tickets/14103374?REFID=bupwebsite",
@@ -1483,7 +1386,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Halloween Witches @ 77%)",
-          "match_label": "no confident match (closest: Halloween Witches @ 77%)",
           "spotify_source": null
         }
       ],
@@ -1496,7 +1398,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: 80s HeartBeat @ 73%)",
           "spotify_label": "no confident match (closest: Heart @ 57%)",
-          "match_label": "no confident match (closest: 80s HeartBeat @ 73%) | no confident match (closest: Heart @ 57%)",
           "spotify_source": null
         },
         {
@@ -1507,7 +1408,6 @@
           "matched": "Bella Lux",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1518,7 +1418,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Senzø @ 77%)",
           "spotify_label": "no confident match (closest: Senzø @ 77%)",
-          "match_label": "no confident match (closest: Senzø @ 77%) | no confident match (closest: Senzø @ 77%)",
           "spotify_source": null
         }
       ],
@@ -1527,7 +1426,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/halloween-heat-featuring-80s-heat-belly-up-tickets/15000673?REFID=bupwebsite",
@@ -1550,7 +1448,6 @@
           "matched": "Samantha Fish",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1563,7 +1460,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: North Mississippi Allstars @ 70%)",
-          "match_label": "no confident match (closest: North Mississippi Allstars @ 70%)",
           "spotify_source": null
         }
       ],
@@ -1572,7 +1468,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/samantha-fish-paper-belly-up-tickets/14203664?REFID=bupwebsite",
@@ -1595,7 +1490,6 @@
           "matched": "FITZ",
           "apple_label": "compound bill — links to FITZ only",
           "spotify_label": null,
-          "match_label": "compound bill — links to FITZ only",
           "spotify_source": "api"
         }
       ],
@@ -1605,7 +1499,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-03",
-      "date_label": "Tue 2026-11-03",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873?REFID=bupwebsite",
@@ -1628,7 +1521,6 @@
           "matched": "Fitz and The Tantrums",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1638,7 +1530,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "date_label": "Wed 2026-11-04",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903?REFID=bupwebsite",
@@ -1661,7 +1552,6 @@
           "matched": "Don McLean",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1671,7 +1561,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-05",
-      "date_label": "Thu 2026-11-05",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/don-mclean-celebrating-belly-up-tickets/14140644?REFID=bupwebsite",
@@ -1694,7 +1583,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Electric Wizard @ 53%)",
-          "match_label": "no confident match (closest: Electric Wizard @ 53%)",
           "spotify_source": null
         }
       ],
@@ -1704,7 +1592,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/electric-waste-band-happy-hour-belly-up-tickets/14336674?REFID=bupwebsite",
@@ -1727,7 +1614,6 @@
           "matched": "Ozomatli",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1738,7 +1624,6 @@
           "matched": "Seapoodle",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1748,7 +1633,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ozomatli-seapoodle-belly-up-tickets/14288554?REFID=bupwebsite",
@@ -1771,7 +1655,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Mustard @ 55%)",
-          "match_label": "no confident match (closest: Mustard @ 55%)",
           "spotify_source": null
         }
       ],
@@ -1784,7 +1667,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: ATEEZ @ 13%)",
           "spotify_label": "close match: 80's Midnight Radio",
-          "match_label": "no confident match (closest: ATEEZ @ 13%) | close match: 80's Midnight Radio",
           "spotify_source": "api"
         }
       ],
@@ -1793,7 +1675,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mustache-harbor-yacht-belly-up-tickets/14264904?REFID=bupwebsite",
@@ -1816,7 +1697,6 @@
           "matched": "Bahamas",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1829,7 +1709,6 @@
           "matched": "Sister Ray",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1838,7 +1717,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bahamas-industrial-sport-belly-up-tickets/14757683?REFID=bupwebsite",
@@ -1861,7 +1739,6 @@
           "matched": "King Buffalo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1874,7 +1751,6 @@
           "matched": "L.A. WITCH",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1883,7 +1759,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-09",
-      "date_label": "Mon 2026-11-09",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/king-buffalo-north-belly-up-tickets/14918073?REFID=bupwebsite",
@@ -1906,7 +1781,6 @@
           "matched": "Nick Shoulders",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1919,7 +1793,6 @@
           "matched": "Creekbed Carter Hogan",
           "apple_label": "close match: Creekbed Carter Hogan",
           "spotify_label": "close match: Creekbed Carter Hogan",
-          "match_label": "close match: Creekbed Carter Hogan | close match: Creekbed Carter Hogan",
           "spotify_source": "api"
         }
       ],
@@ -1928,7 +1801,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-11",
-      "date_label": "Wed 2026-11-11",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/nick-shoulders-apocalypse-belly-up-tickets/14837403?REFID=bupwebsite",
@@ -1951,7 +1823,6 @@
           "matched": "The Last Waltz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1963,7 +1834,6 @@
       ],
       "set_format": null,
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/chest-fever-presents-the-last-belly-up-tickets/14232964?REFID=bupwebsite",
@@ -1986,7 +1856,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Atomic Space @ 32%)",
-          "match_label": "no confident match (closest: Atomic Space @ 32%)",
           "spotify_source": null
         }
       ],
@@ -1996,7 +1865,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-peace-love-belly-up-tickets/14999933?REFID=bupwebsite",
@@ -2019,7 +1887,6 @@
           "matched": "Donavon Frankenreiter",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2030,7 +1897,6 @@
           "matched": "The Band of Heathens",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2040,7 +1906,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275514?REFID=bupwebsite",
@@ -2063,7 +1928,6 @@
           "matched": "Donavon Frankenreiter",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2074,7 +1938,6 @@
           "matched": "The Band of Heathens",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2084,7 +1947,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275554?REFID=bupwebsite",
@@ -2107,7 +1969,6 @@
           "matched": "Marc Broussard",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2120,7 +1981,6 @@
           "matched": "Cristina Vane",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2129,7 +1989,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-15",
-      "date_label": "Sun 2026-11-15",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/marc-broussard-west-belly-up-tickets/14856253?REFID=bupwebsite",
@@ -2152,7 +2011,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Cheyenne Jackson @ 39%)",
-          "match_label": "no confident match (closest: Cheyenne Jackson @ 39%)",
           "spotify_source": null
         }
       ],
@@ -2162,7 +2020,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-16",
-      "date_label": "Mon 2026-11-16",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": null,
@@ -2185,7 +2042,6 @@
           "matched": "Rachael & Vilray",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2196,7 +2052,6 @@
           "matched": "Taylor Ashton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2206,7 +2061,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rachael-vilray-taylor-ashton-belly-up-tickets/14235644?REFID=bupwebsite",
@@ -2229,7 +2083,6 @@
           "matched": "BERTHA: Grateful Drag",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2239,7 +2092,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-18",
-      "date_label": "Wed 2026-11-18",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bertha-grateful-drag-belly-up-tickets/14989283?REFID=bupwebsite",
@@ -2262,7 +2114,6 @@
           "matched": "Jammy Buffet",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2272,7 +2123,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-19",
-      "date_label": "Thu 2026-11-19",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-lakes-belly-up-tickets/14288634?REFID=bupwebsite",
@@ -2295,7 +2145,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Atomic Heart @ 23%)",
-          "match_label": "no confident match (closest: Atomic Heart @ 23%)",
           "spotify_source": null
         }
       ],
@@ -2305,7 +2154,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-here-comes-the-belly-up-tickets/14999903?REFID=bupwebsite",
@@ -2328,7 +2176,6 @@
           "matched": "KBong",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2339,7 +2186,6 @@
           "matched": "Johnny Cosmic",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2350,7 +2196,6 @@
           "matched": "Swooon",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2360,7 +2205,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kbong-johnny-cosmic-swooon-belly-up-tickets/14250234?REFID=bupwebsite",
@@ -2383,7 +2227,6 @@
           "matched": "KBong",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2394,7 +2237,6 @@
           "matched": "Johnny Cosmic",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2405,7 +2247,6 @@
           "matched": "Brendan Clemente",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2415,7 +2256,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
-      "date_label": "Sat 2026-11-21",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kbong-johnny-cosmic-brendan-clemente-belly-up-tickets/14250254?REFID=bupwebsite",
@@ -2438,7 +2278,6 @@
           "matched": "Andrew McMahon",
           "apple_label": "compound bill — links to Andrew McMahon only",
           "spotify_label": null,
-          "match_label": "compound bill — links to Andrew McMahon only",
           "spotify_source": "api"
         }
       ],
@@ -2451,7 +2290,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Ivory Layne @ 70%)",
-          "match_label": "no confident match (closest: Ivory Layne @ 70%)",
           "spotify_source": null
         }
       ],
@@ -2460,7 +2298,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-22",
-      "date_label": "Sun 2026-11-22",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153?REFID=bupwebsite",
@@ -2483,7 +2320,6 @@
           "matched": "Jimi Hendrix",
           "apple_label": "compound bill — links to Jimi Hendrix only",
           "spotify_label": "close match: Jimi Hendrix",
-          "match_label": "compound bill — links to Jimi Hendrix only | close match: Jimi Hendrix",
           "spotify_source": "api"
         }
       ],
@@ -2496,7 +2332,6 @@
           "matched": "Jeff Moore",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2507,7 +2342,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Anthony Evans @ 44%)",
-          "match_label": "no confident match (closest: Anthony Evans @ 44%)",
           "spotify_source": null
         }
       ],
@@ -2516,7 +2350,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-24",
-      "date_label": "Tue 2026-11-24",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite",
@@ -2539,7 +2372,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Happy Hour @ 70%)",
-          "match_label": "no confident match (closest: Happy Hour @ 70%)",
           "spotify_source": null
         }
       ],
@@ -2549,7 +2381,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
-      "date_label": "Wed 2026-11-25",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833?REFID=bupwebsite",
@@ -2572,7 +2403,6 @@
           "matched": "Queen of Nation",
           "apple_label": "close match: Queen of Nation",
           "spotify_label": "close match: Queen of Nation",
-          "match_label": "close match: Queen of Nation | close match: Queen of Nation",
           "spotify_source": "api"
         },
         {
@@ -2583,7 +2413,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: DJ Morphius @ 53%)",
-          "match_label": "no confident match (closest: DJ Morphius @ 53%)",
           "spotify_source": null
         }
       ],
@@ -2593,7 +2422,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
-      "date_label": "Wed 2026-11-25",
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/queen-nation-dj-organic-hispanic-belly-up-tickets/14265204?REFID=bupwebsite",
@@ -2616,7 +2444,6 @@
           "matched": "APRIL",
           "apple_label": "compound bill — links to APRIL only",
           "spotify_label": "no confident match (closest: Con Funk Shun @ 36%)",
-          "match_label": "compound bill — links to APRIL only | no confident match (closest: Con Funk Shun @ 36%)",
           "spotify_source": null
         }
       ],
@@ -2626,7 +2453,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-27",
-      "date_label": "Fri 2026-11-27",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/april-and-the-funk-junkies-belly-up-tickets/14993293?REFID=bupwebsite",
@@ -2649,7 +2475,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Baby Mel @ 42%)",
           "spotify_label": "no confident match (closest: Saved By Scars @ 70%)",
-          "match_label": "no confident match (closest: Baby Mel @ 42%) | no confident match (closest: Saved By Scars @ 70%)",
           "spotify_source": null
         },
         {
@@ -2660,7 +2485,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Total @ 46%)",
-          "match_label": "no confident match (closest: Total @ 46%)",
           "spotify_source": null
         }
       ],
@@ -2670,7 +2494,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-27",
-      "date_label": "Fri 2026-11-27",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/saved-by-the-90s-totally-belly-up-tickets/14236984?REFID=bupwebsite",
@@ -2693,7 +2516,6 @@
           "matched": "B.o.B",
           "apple_label": null,
           "spotify_label": "no confident match (closest: Bad Bunny @ 20%)",
-          "match_label": "no confident match (closest: Bad Bunny @ 20%)",
           "spotify_source": null
         }
       ],
@@ -2703,7 +2525,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-28",
-      "date_label": "Sat 2026-11-28",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/b-side-players-elijah-emanuel-belly-up-tickets/14219064?REFID=bupwebsite",
@@ -2726,7 +2547,6 @@
           "matched": "The Blind Boys of Alabama",
           "apple_label": "close match: The Blind Boys of Alabama",
           "spotify_label": "close match: The Blind Boys Of Alabama",
-          "match_label": "close match: The Blind Boys of Alabama | close match: The Blind Boys Of Alabama",
           "spotify_source": "api"
         }
       ],
@@ -2739,7 +2559,6 @@
           "matched": "Shemekia Copeland",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2748,7 +2567,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-29",
-      "date_label": "Sun 2026-11-29",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/blind-boys-of-alabama-belly-up-tickets/14219674?REFID=bupwebsite",
@@ -2771,7 +2589,6 @@
           "matched": "The James Hunter Six",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2781,7 +2598,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-30",
-      "date_label": "Mon 2026-11-30",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-james-hunter-six-belly-up-tickets/14304484?REFID=bupwebsite",
@@ -2804,7 +2620,6 @@
           "matched": "The Residents",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2817,7 +2632,6 @@
           "matched": "Rushadicus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2826,7 +2640,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-01",
-      "date_label": "Tue 2026-12-01",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-residents-eskimo-belly-up-tickets/14256704?REFID=bupwebsite",
@@ -2849,7 +2662,6 @@
           "matched": "Squirrel Nut Zippers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2859,7 +2671,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-02",
-      "date_label": "Wed 2026-12-02",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/squirrel-nut-zippers-belly-up-tickets/14203904?REFID=bupwebsite",
@@ -2882,7 +2693,6 @@
           "matched": "Glen Phillips",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2895,7 +2705,6 @@
           "matched": "Matt the Electrician",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2904,7 +2713,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-03",
-      "date_label": "Thu 2026-12-03",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/glen-phillips-of-toad-the-belly-up-tickets/14300114?REFID=bupwebsite",
@@ -2927,7 +2735,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
-          "match_label": "no confident match (closest: Private Agenda @ 74%)",
           "spotify_source": null
         }
       ],
@@ -2937,7 +2744,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-04",
-      "date_label": "Fri 2026-12-04",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": null,
@@ -2960,7 +2766,6 @@
           "matched": "Poncho Sanchez",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -2971,7 +2776,6 @@
           "matched": "The Sleepwalkers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -2981,7 +2785,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-05",
-      "date_label": "Sat 2026-12-05",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/poncho-sanchez-the-sleepwalkers-belly-up-tickets/14993023?REFID=bupwebsite",
@@ -3004,7 +2807,6 @@
           "matched": "Mack Geiger",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3017,7 +2819,6 @@
           "matched": "Colton Dawson",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3026,7 +2827,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-07",
-      "date_label": "Mon 2026-12-07",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mack-geiger-when-belly-up-tickets/15018693?REFID=bupwebsite",
@@ -3049,7 +2849,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
-          "match_label": "no confident match (closest: Private Agenda @ 74%)",
           "spotify_source": null
         }
       ],
@@ -3059,7 +2858,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-09",
-      "date_label": "Wed 2026-12-09",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": null,
@@ -3082,7 +2880,6 @@
           "matched": "JD McPherson",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3095,7 +2892,6 @@
           "matched": "Melissa Carper",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3104,7 +2900,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-10",
-      "date_label": "Thu 2026-12-10",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jd-mcpherson-socks-belly-up-tickets/14300424?REFID=bupwebsite",
@@ -3127,7 +2922,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 24%)",
-          "match_label": "no confident match (closest: TomChris JHouseGroove @ 24%)",
           "spotify_source": null
         }
       ],
@@ -3137,7 +2931,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-11",
-      "date_label": "Fri 2026-12-11",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-a-very-merry-belly-up-tickets/14328174?REFID=bupwebsite",
@@ -3160,7 +2953,6 @@
           "matched": "The Jayhawks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3173,7 +2965,6 @@
           "matched": "Mary Gauthier",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3182,7 +2973,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-11",
-      "date_label": "Fri 2026-12-11",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-jayhawks-sanctuary-belly-up-tickets/14204024?REFID=bupwebsite",
@@ -3205,7 +2995,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: The Fabus Four @ 46%)",
-          "match_label": "no confident match (closest: The Fabus Four @ 46%)",
           "spotify_source": null
         }
       ],
@@ -3218,7 +3007,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Britney Spears @ 58%)",
-          "match_label": "no confident match (closest: Britney Spears @ 58%)",
           "spotify_source": null
         }
       ],
@@ -3227,7 +3015,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-12",
-      "date_label": "Sat 2026-12-12",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-fabba-disco-christmas-show-belly-up-tickets/14219394?REFID=bupwebsite",
@@ -3250,7 +3037,6 @@
           "matched": "THE BOBBY LEES",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -3261,7 +3047,6 @@
           "matched": "MUTTLEE",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -3272,7 +3057,6 @@
           "matched": "Doc Hammer",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3282,7 +3066,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-13",
-      "date_label": "Sun 2026-12-13",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-bobby-lees-muttlee-doc-belly-up-tickets/14907153?REFID=bupwebsite",
@@ -3305,7 +3088,6 @@
           "matched": "David Benoit",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3318,7 +3100,6 @@
           "matched": "Jimmy Patton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3327,7 +3108,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-14",
-      "date_label": "Mon 2026-12-14",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/david-benoit-christmas-belly-up-tickets/14276134?REFID=bupwebsite",
@@ -3350,7 +3130,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
-          "match_label": "no confident match (closest: Private Agenda @ 74%)",
           "spotify_source": null
         }
       ],
@@ -3360,7 +3139,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-15",
-      "date_label": "Tue 2026-12-15",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": null,
@@ -3383,7 +3161,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: The Christmas Collective @ 61%)",
-          "match_label": "no confident match (closest: The Christmas Collective @ 61%)",
           "spotify_source": null
         }
       ],
@@ -3393,7 +3170,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-16",
-      "date_label": "Wed 2026-12-16",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-venice-christmas-show-belly-up-tickets/14219864?REFID=bupwebsite",
@@ -3416,7 +3192,6 @@
           "matched": "The Milk Carton Kids",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3429,7 +3204,6 @@
           "matched": "Rosi Golan",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3438,7 +3212,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-17",
-      "date_label": "Thu 2026-12-17",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-milk-carton-kids-belly-up-tickets/14311904?REFID=bupwebsite",
@@ -3461,7 +3234,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Betamax @ 54%)",
           "spotify_label": "close match: Happy Hour",
-          "match_label": "no confident match (closest: Betamax @ 54%) | close match: Happy Hour",
           "spotify_source": "api"
         }
       ],
@@ -3471,7 +3243,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-18",
-      "date_label": "Fri 2026-12-18",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/betamaxx-happy-hour-belly-up-tickets/14328624?REFID=bupwebsite",
@@ -3494,7 +3265,6 @@
           "matched": "Gin Blossoms",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3504,7 +3274,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-18",
-      "date_label": "Fri 2026-12-18",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gin-blossoms-belly-up-tickets/14262904?REFID=bupwebsite",
@@ -3527,7 +3296,6 @@
           "matched": "Gin Blossoms",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -3538,7 +3306,6 @@
           "matched": "Honeygirl",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3548,7 +3315,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-19",
-      "date_label": "Sat 2026-12-19",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gin-blossoms-honeygirl-belly-up-tickets/14262924?REFID=bupwebsite",
@@ -3571,7 +3337,6 @@
           "matched": "Daring Greatly",
           "apple_label": "compound bill — links to Daring Greatly only",
           "spotify_label": "close match: Daring Greatly",
-          "match_label": "compound bill — links to Daring Greatly only | close match: Daring Greatly",
           "spotify_source": "api"
         }
       ],
@@ -3584,7 +3349,6 @@
           "matched": "Patch & Maggi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3593,7 +3357,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-20",
-      "date_label": "Sun 2026-12-20",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/daring-greatly-and-friends-w-belly-up-tickets/14291494?REFID=bupwebsite",
@@ -3616,7 +3379,6 @@
           "matched": "Nancarrow",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -3627,7 +3389,6 @@
           "matched": "Brawley",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -3638,7 +3399,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: Matt Axton",
-          "match_label": "close match: Matt Axton",
           "spotify_source": "api"
         }
       ],
@@ -3648,7 +3408,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-21",
-      "date_label": "Mon 2026-12-21",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/nancarrow-brawley-matt-axton-belly-up-tickets/14342244?REFID=bupwebsite",
@@ -3671,7 +3430,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3681,7 +3439,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-22",
-      "date_label": "Tue 2026-12-22",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/never-die-young-belly-up-tickets/14300534?REFID=bupwebsite",
@@ -3704,7 +3461,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: The Abbey Road Ensemble @ 70%)",
           "spotify_label": "no confident match (closest: Abbey Road Ensemble @ 70%)",
-          "match_label": "no confident match (closest: The Abbey Road Ensemble @ 70%) | no confident match (closest: Abbey Road Ensemble @ 70%)",
           "spotify_source": null
         }
       ],
@@ -3714,7 +3470,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-23",
-      "date_label": "Wed 2026-12-23",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/abbey-road-christmas-show-belly-up-tickets/14221404?REFID=bupwebsite",
@@ -3737,7 +3492,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: Jimmy Buffett",
-          "match_label": "close match: Jimmy Buffett",
           "spotify_source": "api"
         }
       ],
@@ -3747,7 +3501,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-26",
-      "date_label": "Sat 2026-12-26",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jimmys-buffet-3rd-belly-up-tickets/14221484?REFID=bupwebsite",
@@ -3770,7 +3523,6 @@
           "matched": "of easy wind",
           "apple_label": "close match: of easy wind",
           "spotify_label": "no confident match (closest: Easykid @ 75%)",
-          "match_label": "close match: of easy wind | no confident match (closest: Easykid @ 75%)",
           "spotify_source": null
         }
       ],
@@ -3780,7 +3532,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-27",
-      "date_label": "Sun 2026-12-27",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/easy-wind-a-belly-up-tickets/15000693?REFID=bupwebsite",
@@ -3803,7 +3554,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Steely Dan @ 69%)",
-          "match_label": "no confident match (closest: Steely Dan @ 69%)",
           "spotify_source": null
         }
       ],
@@ -3813,7 +3563,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-28",
-      "date_label": "Mon 2026-12-28",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-steely-damned-2-belly-up-tickets/15000833?REFID=bupwebsite",
@@ -3836,7 +3585,6 @@
           "matched": "Steel Pulse",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3846,7 +3594,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-29",
-      "date_label": "Tue 2026-12-29",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steel-pulse-reggae-belly-up-tickets/14382744?REFID=bupwebsite",
@@ -3869,7 +3616,6 @@
           "matched": "Steel Pulse",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3879,7 +3625,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-30",
-      "date_label": "Wed 2026-12-30",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steel-pulse-reggae-belly-up-tickets/14382754?REFID=bupwebsite",
@@ -3902,7 +3647,6 @@
           "matched": "The Floozies",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3912,7 +3656,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-31",
-      "date_label": "Thu 2026-12-31",
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-floozies-nye-belly-up-tickets/14369984?REFID=bupwebsite",
@@ -3935,7 +3678,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Atomic Space @ 36%)",
-          "match_label": "no confident match (closest: Atomic Space @ 36%)",
           "spotify_source": null
         }
       ],
@@ -3945,7 +3687,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-01",
-      "date_label": "Fri 2027-01-01",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-nye-after-party-belly-up-tickets/14351694?REFID=bupwebsite",
@@ -3968,7 +3709,6 @@
           "matched": "No Duh",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -3979,7 +3719,6 @@
           "matched": "Foo Fighters",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -3989,7 +3728,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-01",
-      "date_label": "Fri 2027-01-01",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/no-duh-fooz-fighters-belly-up-tickets/14366524?REFID=bupwebsite",
@@ -4012,7 +3750,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4023,7 +3760,6 @@
           "matched": "Fleetwood Mac",
           "apple_label": "close match: Fleetwood Mac",
           "spotify_label": "close match: Fleetwood Mac",
-          "match_label": "close match: Fleetwood Mac | close match: Fleetwood Mac",
           "spotify_source": "api"
         }
       ],
@@ -4033,7 +3769,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-02",
-      "date_label": "Sat 2027-01-02",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/desperado-the-nations-premier-eagles-belly-up-tickets/14300064?REFID=bupwebsite",
@@ -4056,7 +3791,6 @@
           "matched": "Patrick Warburton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4069,7 +3803,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Tyler Barbour @ 57%)",
-          "match_label": "no confident match (closest: Tyler Barbour @ 57%)",
           "spotify_source": null
         }
       ],
@@ -4078,7 +3811,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-03",
-      "date_label": "Sun 2027-01-03",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/patrick-warburton-patrick-belly-up-tickets/14890173?REFID=bupwebsite",
@@ -4101,7 +3833,6 @@
           "matched": "The Staples",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4111,7 +3842,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-07",
-      "date_label": "Thu 2027-01-07",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-staples-chris-belly-up-tickets/14360074?REFID=bupwebsite",
@@ -4134,7 +3864,6 @@
           "matched": "The English Beat",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4144,7 +3873,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-08",
-      "date_label": "Fri 2027-01-08",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-english-beat-belly-up-tickets/14359954?REFID=bupwebsite",
@@ -4167,7 +3895,6 @@
           "matched": "The English Beat",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4177,7 +3904,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-09",
-      "date_label": "Sat 2027-01-09",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-english-beat-belly-up-tickets/14359964?REFID=bupwebsite",
@@ -4200,7 +3926,6 @@
           "matched": "The Jam Berries",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4211,7 +3936,6 @@
           "matched": "Band of Gringos",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4222,7 +3946,6 @@
           "matched": "Box Chevy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4233,7 +3956,6 @@
           "matched": "The Wide Eyed Kids",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4243,7 +3965,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-10",
-      "date_label": "Sun 2027-01-10",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-jam-berries-band-of-belly-up-tickets/14384764?REFID=bupwebsite",
@@ -4266,7 +3987,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Fiestas del Sol @ 70%)",
           "spotify_label": "no confident match (closest: Fiestas del Sol @ 70%)",
-          "match_label": "no confident match (closest: Fiestas del Sol @ 70%) | no confident match (closest: Fiestas del Sol @ 70%)",
           "spotify_source": null
         }
       ],
@@ -4276,7 +3996,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-11",
-      "date_label": "Mon 2027-01-11",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/fiesta-del-sol-belly-up-tickets/14359514?REFID=bupwebsite",
@@ -4299,7 +4018,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
-          "match_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
           "spotify_source": null
         }
       ],
@@ -4309,7 +4027,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-15",
-      "date_label": "Fri 2027-01-15",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351714?REFID=bupwebsite",
@@ -4332,7 +4049,6 @@
           "matched": "The Record Company",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4342,7 +4058,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-15",
-      "date_label": "Fri 2027-01-15",
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-record-company-belly-up-tickets/14303484?REFID=bupwebsite",
@@ -4365,7 +4080,6 @@
           "matched": "Tommy Castro",
           "apple_label": null,
           "spotify_label": "close match: Tommy Castro",
-          "match_label": "close match: Tommy Castro",
           "spotify_source": "api"
         },
         {
@@ -4376,7 +4090,6 @@
           "matched": "Ana Popovic",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4386,7 +4099,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-16",
-      "date_label": "Sat 2027-01-16",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tommy-castro-the-painkillers-belly-up-tickets/15000783?REFID=bupwebsite",
@@ -4409,7 +4121,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
-          "match_label": "no confident match (closest: Private Agenda @ 74%)",
           "spotify_source": null
         }
       ],
@@ -4419,7 +4130,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-17",
-      "date_label": "Sun 2027-01-17",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -4442,7 +4152,6 @@
           "matched": "Dogs In A Pile",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4453,7 +4162,6 @@
           "matched": "Three Legged Dog",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4463,7 +4171,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-21",
-      "date_label": "Thu 2027-01-21",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dogs-in-a-pile-three-belly-up-tickets/14367574?REFID=bupwebsite",
@@ -4486,7 +4193,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
-          "match_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
           "spotify_source": null
         }
       ],
@@ -4496,7 +4202,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-22",
-      "date_label": "Fri 2027-01-22",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351704?REFID=bupwebsite",
@@ -4519,7 +4224,6 @@
           "matched": "Dogs In A Pile",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4530,7 +4234,6 @@
           "matched": "Audio Perdisco",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4540,7 +4243,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-22",
-      "date_label": "Fri 2027-01-22",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dogs-in-a-pile-audio-belly-up-tickets/14367584?REFID=bupwebsite",
@@ -4563,7 +4265,6 @@
           "matched": "The Tainted Love",
           "apple_label": "close match: The Tainted Love",
           "spotify_label": "close match: The Tainted Love",
-          "match_label": "close match: The Tainted Love | close match: The Tainted Love",
           "spotify_source": "api"
         }
       ],
@@ -4573,7 +4274,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-23",
-      "date_label": "Sat 2027-01-23",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tainted-love-belly-up-tickets/15000743?REFID=bupwebsite",
@@ -4596,7 +4296,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: COFFEE MUSIC MODE @ 20%)",
           "spotify_label": "no confident match (closest: Billy Joel @ 70%)",
-          "match_label": "no confident match (closest: COFFEE MUSIC MODE @ 20%) | no confident match (closest: Billy Joel @ 70%)",
           "spotify_source": null
         }
       ],
@@ -4609,7 +4308,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Tony Metcalfe @ 37%)",
           "spotify_label": "no confident match (closest: Billy Graham @ 31%)",
-          "match_label": "no confident match (closest: Tony Metcalfe @ 37%) | no confident match (closest: Billy Graham @ 31%)",
           "spotify_source": null
         }
       ],
@@ -4618,7 +4316,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-24",
-      "date_label": "Sun 2027-01-24",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/billy-joel-2-elton-john-belly-up-tickets/14369104?REFID=bupwebsite",
@@ -4641,7 +4338,6 @@
           "matched": "Five for Fighting",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4654,7 +4350,6 @@
           "matched": "String Quartet",
           "apple_label": null,
           "spotify_label": "close match: Vitamin String Quartet",
-          "match_label": "close match: Vitamin String Quartet",
           "spotify_source": "api"
         }
       ],
@@ -4663,7 +4358,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-26",
-      "date_label": "Tue 2027-01-26",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/five-for-fighting-with-string-belly-up-tickets/14236474?REFID=bupwebsite",
@@ -4686,7 +4380,6 @@
           "matched": "Fred Tackett & Scott Sharrard",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -4697,7 +4390,6 @@
           "matched": "Dylan Salfer",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4707,7 +4399,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-27",
-      "date_label": "Wed 2027-01-27",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/fred-tackett-scott-sharrard-belly-up-tickets/15046453?REFID=bupwebsite",
@@ -4730,7 +4421,6 @@
           "matched": "Five for Fighting",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4743,7 +4433,6 @@
           "matched": "String Quartet",
           "apple_label": null,
           "spotify_label": "close match: Vitamin String Quartet",
-          "match_label": "close match: Vitamin String Quartet",
           "spotify_source": "api"
         }
       ],
@@ -4752,7 +4441,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-28",
-      "date_label": "Thu 2027-01-28",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/five-for-fighting-with-string-belly-up-tickets/15008623?REFID=bupwebsite",
@@ -4775,7 +4463,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
-          "match_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
           "spotify_source": null
         }
       ],
@@ -4785,7 +4472,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-29",
-      "date_label": "Fri 2027-01-29",
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351724?REFID=bupwebsite",
@@ -4808,7 +4494,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: The Pretty Reckless @ 78%)",
-          "match_label": "no confident match (closest: The Pretty Reckless @ 78%)",
           "spotify_source": null
         }
       ],
@@ -4818,7 +4503,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-29",
-      "date_label": "Fri 2027-01-29",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-pettybreakers-a-belly-up-tickets/14288964?REFID=bupwebsite",
@@ -4841,7 +4525,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
-          "match_label": "no confident match (closest: Private Agenda @ 74%)",
           "spotify_source": null
         }
       ],
@@ -4851,7 +4534,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-30",
-      "date_label": "Sat 2027-01-30",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": null,
@@ -4874,7 +4556,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Lauren Leigh @ 70%)",
           "spotify_label": "no confident match (closest: The Laurie Berkner Band @ 21%)",
-          "match_label": "no confident match (closest: Lauren Leigh @ 70%) | no confident match (closest: The Laurie Berkner Band @ 21%)",
           "spotify_source": null
         }
       ],
@@ -4884,7 +4565,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-31",
-      "date_label": "Sun 2027-01-31",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sounds-of-laurel-canyon-a-belly-up-tickets/14368694?REFID=bupwebsite",
@@ -4907,7 +4587,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
-          "match_label": "no confident match (closest: Private Agenda @ 74%)",
           "spotify_source": null
         }
       ],
@@ -4917,7 +4596,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-04",
-      "date_label": "Thu 2027-02-04",
       "doors": null,
       "show_time": "5:00 pm",
       "ticket_link": null,
@@ -4940,7 +4618,6 @@
           "matched": "SUPER DIAMOND",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4950,7 +4627,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-05",
-      "date_label": "Fri 2027-02-05",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288704?REFID=bupwebsite",
@@ -4973,7 +4649,6 @@
           "matched": "SUPER DIAMOND",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -4983,7 +4658,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-06",
-      "date_label": "Sat 2027-02-06",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288724?REFID=bupwebsite",
@@ -5006,7 +4680,6 @@
           "matched": "Ladysmith Black Mambazo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5016,7 +4689,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-07",
-      "date_label": "Sun 2027-02-07",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/ladysmith-black-mambazo-belly-up-tickets/14219734?REFID=bupwebsite",
@@ -5039,7 +4711,6 @@
           "matched": "Rebirth Brass Band",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -5050,7 +4721,6 @@
           "matched": "Nathan & The Zydeco Cha-Chas",
           "apple_label": "close match: Nathan & The Zydeco Cha-Chas",
           "spotify_label": null,
-          "match_label": "close match: Nathan & The Zydeco Cha-Chas",
           "spotify_source": "api"
         }
       ],
@@ -5060,7 +4730,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-11",
-      "date_label": "Thu 2027-02-11",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/rebirth-brass-band-nathan-belly-up-tickets/14339024?REFID=bupwebsite",
@@ -5083,7 +4752,6 @@
           "matched": "Richard Thompson",
           "apple_label": null,
           "spotify_label": "close match: Richard Thompson",
-          "match_label": "close match: Richard Thompson",
           "spotify_source": "api"
         }
       ],
@@ -5096,7 +4764,6 @@
           "matched": "Clayton Linthicum",
           "apple_label": "compound bill — links to Clayton Linthicum only",
           "spotify_label": "no confident match (closest: Clayton Kennedy @ 44%)",
-          "match_label": "compound bill — links to Clayton Linthicum only | no confident match (closest: Clayton Kennedy @ 44%)",
           "spotify_source": null
         }
       ],
@@ -5105,7 +4772,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-16",
-      "date_label": "Tue 2027-02-16",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/richard-thompson-band-belly-up-tickets/14368204?REFID=bupwebsite",
@@ -5128,7 +4794,6 @@
           "matched": "Richard Thompson",
           "apple_label": null,
           "spotify_label": "close match: Richard Thompson",
-          "match_label": "close match: Richard Thompson",
           "spotify_source": "api"
         }
       ],
@@ -5141,7 +4806,6 @@
           "matched": "Clayton Linthicum",
           "apple_label": "compound bill — links to Clayton Linthicum only",
           "spotify_label": "no confident match (closest: Clayton Kennedy @ 44%)",
-          "match_label": "compound bill — links to Clayton Linthicum only | no confident match (closest: Clayton Kennedy @ 44%)",
           "spotify_source": null
         }
       ],
@@ -5150,7 +4814,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-17",
-      "date_label": "Wed 2027-02-17",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/richard-thompson-band-belly-up-tickets/14368214?REFID=bupwebsite",
@@ -5173,7 +4836,6 @@
           "matched": "Wade Bowen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5183,7 +4845,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-18",
-      "date_label": "Thu 2027-02-18",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wade-bowen-the-belly-up-tickets/14339334?REFID=bupwebsite",
@@ -5206,7 +4867,6 @@
           "matched": "Through the Roots",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5216,7 +4876,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-19",
-      "date_label": "Fri 2027-02-19",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/through-the-roots-belly-up-tickets/14325644?REFID=bupwebsite",
@@ -5239,7 +4898,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: Steve Poltz",
-          "match_label": "close match: Steve Poltz",
           "spotify_source": "api"
         }
       ],
@@ -5249,7 +4907,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-20",
-      "date_label": "Sat 2027-02-20",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steve-poltz-the-rugburns-belly-up-tickets/14219554?REFID=bupwebsite",
@@ -5272,7 +4929,6 @@
           "matched": "Steve Poltz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5282,7 +4938,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-21",
-      "date_label": "Sun 2027-02-21",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steve-poltz-belly-up-tickets/14219604?REFID=bupwebsite",
@@ -5305,7 +4960,6 @@
           "matched": "L.A.B",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5318,7 +4972,6 @@
           "matched": "Seven Suns",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5327,7 +4980,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-24",
-      "date_label": "Wed 2027-02-24",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lab-usa-belly-up-tickets/14325574?REFID=bupwebsite",
@@ -5350,7 +5002,6 @@
           "matched": "Paco Versailles",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5360,7 +5011,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-25",
-      "date_label": "Thu 2027-02-25",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/paco-versailles-the-belly-up-tickets/14339154?REFID=bupwebsite",
@@ -5383,7 +5033,6 @@
           "matched": "Melvin Seals",
           "apple_label": "compound bill — links to Melvin Seals only",
           "spotify_label": "close match: Melvin Seals",
-          "match_label": "compound bill — links to Melvin Seals only | close match: Melvin Seals",
           "spotify_source": "api"
         }
       ],
@@ -5393,7 +5042,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-27",
-      "date_label": "Sat 2027-02-27",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/melvin-seals-and-jgb-belly-up-tickets/14291384?REFID=bupwebsite",
@@ -5416,7 +5064,6 @@
           "matched": "Marian Hill",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5426,7 +5073,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-02",
-      "date_label": "Tue 2027-03-02",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/marian-hill-act-belly-up-tickets/15002063?REFID=bupwebsite",
@@ -5449,7 +5095,6 @@
           "matched": "Umphrey's McGee",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5459,7 +5104,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-03",
-      "date_label": "Wed 2027-03-03",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/umphreys-mcgee-fresh-belly-up-tickets/14368774?REFID=bupwebsite",
@@ -5482,7 +5126,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Journey @ 78%)",
-          "match_label": "no confident match (closest: Journey @ 78%)",
           "spotify_source": null
         },
         {
@@ -5493,7 +5136,6 @@
           "matched": "Hair Force One",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5503,7 +5145,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-05",
-      "date_label": "Fri 2027-03-05",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/journey-usa-hair-force-one-belly-up-tickets/14359364?REFID=bupwebsite",
@@ -5526,7 +5167,6 @@
           "matched": "49 Winchester",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5539,7 +5179,6 @@
           "matched": "Kenny Whitmire",
           "apple_label": "close match: Kenny Whitmire",
           "spotify_label": "close match: Kenny Whitmire",
-          "match_label": "close match: Kenny Whitmire | close match: Kenny Whitmire",
           "spotify_source": "api"
         }
       ],
@@ -5548,7 +5187,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-06",
-      "date_label": "Sat 2027-03-06",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/49-winchester-change-belly-up-tickets/14381134?REFID=bupwebsite",
@@ -5571,7 +5209,6 @@
           "matched": "Pete Yorn",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5581,7 +5218,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-07",
-      "date_label": "Sun 2027-03-07",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/pete-yorn-solo-acoustic-belly-up-tickets/14313814?REFID=bupwebsite",
@@ -5604,7 +5240,6 @@
           "matched": "G. Love & Special Sauce",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5617,7 +5252,6 @@
           "matched": "Todd Carey",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5626,7 +5260,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-11",
-      "date_label": "Thu 2027-03-11",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/g-love-special-sauce-belly-up-tickets/14314544?REFID=bupwebsite",
@@ -5649,7 +5282,6 @@
           "matched": "Wayward Sons",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -5660,7 +5292,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: MrTray80 @ 44%)",
           "spotify_label": "no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
-          "match_label": "no confident match (closest: MrTray80 @ 44%) | no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
           "spotify_source": null
         }
       ],
@@ -5670,7 +5301,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-12",
-      "date_label": "Fri 2027-03-12",
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/wayward-sons-dj-mr-80s-belly-up-tickets/14370524?REFID=bupwebsite",
@@ -5693,7 +5323,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Daniel Donato @ 70%)",
           "spotify_label": "no confident match (closest: Daniel Donato @ 70%)",
-          "match_label": "no confident match (closest: Daniel Donato @ 70%) | no confident match (closest: Daniel Donato @ 70%)",
           "spotify_source": null
         }
       ],
@@ -5703,7 +5332,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-14",
-      "date_label": "Sun 2027-03-14",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/daniel-donatos-cosmic-country-belly-up-tickets/14381034?REFID=bupwebsite",
@@ -5726,7 +5354,6 @@
           "matched": "The Young Dubliners",
           "apple_label": "close match: The Young Dubliners",
           "spotify_label": null,
-          "match_label": "close match: The Young Dubliners",
           "spotify_source": "api"
         }
       ],
@@ -5736,7 +5363,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-15",
-      "date_label": "Mon 2027-03-15",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/young-dubliners-belly-up-tickets/14370314?REFID=bupwebsite",
@@ -5759,7 +5385,6 @@
           "matched": "Chasing Abbey",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5769,7 +5394,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-27",
-      "date_label": "Sat 2027-03-27",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/chasing-abbey-north-belly-up-tickets/14303254?REFID=bupwebsite",
@@ -5792,7 +5416,6 @@
           "matched": "Jerry's Middle Finger",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5802,7 +5425,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-10",
-      "date_label": "Sat 2027-04-10",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jerrys-middle-finger-belly-up-tickets/15000943?REFID=bupwebsite",
@@ -5825,7 +5447,6 @@
           "matched": "Martin Sexton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5835,7 +5456,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-11",
-      "date_label": "Sun 2027-04-11",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/martin-sexton-live-belly-up-tickets/14381354?REFID=bupwebsite",
@@ -5858,7 +5478,6 @@
           "matched": "Al Stewart",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5871,7 +5490,6 @@
           "matched": "The Empty Pockets",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5880,7 +5498,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-04",
-      "date_label": "Tue 2027-05-04",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/al-stewart-farewell-belly-up-tickets/14359424?REFID=bupwebsite",
@@ -5903,7 +5520,6 @@
           "matched": "John Splithoff",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5913,7 +5529,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-14",
-      "date_label": "Fri 2027-05-14",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-splithoff-2027-belly-up-tickets/14367924?REFID=bupwebsite",
@@ -5936,7 +5551,6 @@
           "matched": "Ambrosia",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -5946,7 +5560,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-07-07",
-      "date_label": "Wed 2027-07-07",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/ambrosia-belly-up-tickets/14370254?REFID=bupwebsite",

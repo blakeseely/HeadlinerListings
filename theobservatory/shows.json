@@ -6,14 +6,13 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "North Park",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: David Di Pietro",
-          "match_label": "close match: David Di Pietro",
           "spotify_source": "api"
         }
       ],
@@ -56,7 +53,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-13",
-      "date_label": "Tue 2026-10-13",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": null,
@@ -79,7 +75,6 @@
           "matched": "Pigeons Playing Ping Pong",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -92,7 +87,6 @@
           "matched": "Dizgo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -101,7 +95,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": null,
       "show_time": "6:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/pigeons-playing-ping-pong-the-observatory-north-park-tickets/14981773?REFID=bupwebsite",
@@ -124,7 +117,6 @@
           "matched": "The Black Angels",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -134,7 +126,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-black-angels-passover-2026-the-observatory-north-park-tickets/14845983?REFID=bupwebsite",
@@ -157,7 +148,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Armin van Buuren @ 35%)",
           "spotify_label": "no confident match (closest: Kingdom Of Giants @ 47%)",
-          "match_label": "no confident match (closest: Armin van Buuren @ 35%) | no confident match (closest: Kingdom Of Giants @ 47%)",
           "spotify_source": null
         }
       ],
@@ -170,7 +160,6 @@
           "matched": "The Scratch",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -181,7 +170,6 @@
       ],
       "set_format": null,
       "date": "2026-11-02",
-      "date_label": "Mon 2026-11-02",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/medium-build-presents-the-king-the-observatory-north-park-tickets/14216064?REFID=bupwebsite",

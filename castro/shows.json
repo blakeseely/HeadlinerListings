@@ -6,14 +6,13 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Castro",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "George Clanton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -59,7 +56,6 @@
           "matched": "ideasforconversations",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -68,7 +64,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-22",
-      "date_label": "Thu 2026-10-22",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/george-clanton-san-francisco-california-10-22-2026/event/1C0064FE771960AD?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -91,7 +86,6 @@
           "matched": "Julia Jacklin",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -104,7 +98,6 @@
           "matched": "Jordan Patterson",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -113,7 +106,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -136,7 +128,6 @@
           "matched": "Julia Jacklin",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -149,7 +140,6 @@
           "matched": "Jordan Patterson",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -158,7 +148,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/julia-jacklin-north-america-tour-2026-san-francisco-california-10-24-2026/event/1C0064BBBF6DB976?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -181,7 +170,6 @@
           "matched": "Joy Oladokun",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -194,7 +182,6 @@
           "matched": "Madeline Edwards",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -203,7 +190,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-25",
-      "date_label": "Sun 2026-10-25",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/joy-oladokun-the-heavy-things-tour-san-francisco-california-10-25-2026/event/1C0064F7E974D20F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -226,7 +212,6 @@
           "matched": "Fred Armisen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -236,7 +221,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-26",
-      "date_label": "Mon 2026-10-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -259,7 +243,6 @@
           "matched": "Fred Armisen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -269,7 +252,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-27",
-      "date_label": "Tue 2026-10-27",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -292,7 +274,6 @@
           "matched": "Fred Armisen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -302,7 +283,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-28",
-      "date_label": "Wed 2026-10-28",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -325,7 +305,6 @@
           "matched": "Daði Freyr",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -338,7 +317,6 @@
           "matched": "BRÍET",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -347,7 +325,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-29",
-      "date_label": "Thu 2026-10-29",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/dai-freyr-too-much-not-enough-san-francisco-california-10-29-2026/event/1C006476AD559439?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -370,7 +347,6 @@
           "matched": "Montell Fish",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -380,7 +356,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/montell-fish-the-nest-tour-san-francisco-california-10-30-2026/event/1C00650EF5541CD0?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -403,7 +378,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -413,7 +387,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/dj-mandy-san-francisco-california-10-31-2026/event/1C006509C34B2BEA?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -436,7 +409,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -446,7 +418,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-02",
-      "date_label": "Mon 2026-11-02",
       "doors": "5:30 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://sffilm.org/event/club-kid?utm_source=partner&utm_medium=partner&utm_campaign=2026_sffilm_club_kid_castro_ape",
@@ -469,7 +440,6 @@
           "matched": "Rebecca Black",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -482,7 +452,6 @@
           "matched": "BAYLI",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -491,7 +460,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-03",
-      "date_label": "Tue 2026-11-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -514,7 +482,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -524,7 +491,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-05",
-      "date_label": "Thu 2026-11-05",
       "doors": "6:30 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.frameline.org/films/frameline-year-round/elsinore",
@@ -547,7 +513,6 @@
           "matched": "SYML",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -560,7 +525,6 @@
           "matched": "Olivia Vedder",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -569,7 +533,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/syml-san-francisco-california-11-06-2026/event/1C00648E9B6C9370?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -592,7 +555,6 @@
           "matched": "PJ Morton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -605,7 +567,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -614,7 +575,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/pj-morton-san-francisco-california-11-07-2026/event/1C00648EFCDB5569?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -637,7 +597,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -647,7 +606,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": "4:45 pm",
       "show_time": "5:45 pm",
       "ticket_link": "https://aff30.arabfilmfestival.org/films/edward-said-between-worlds?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -670,7 +628,6 @@
           "matched": "SIENNA SPIRO",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -683,7 +640,6 @@
           "matched": "Summer Joy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -692,7 +648,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-09",
-      "date_label": "Mon 2026-11-09",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -715,7 +670,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -725,7 +679,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-10",
-      "date_label": "Tue 2026-11-10",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/claudio-simonettis-goblin-performs-the-live-san-francisco-california-11-10-2026/event/1C00650DE154A68E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -748,7 +701,6 @@
           "matched": "Ólafur Arnalds",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -758,7 +710,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-11",
-      "date_label": "Wed 2026-11-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/olafur-arnalds-san-francisco-california-11-11-2026/event/1C006425D688A714?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -781,7 +732,6 @@
           "matched": "Ólafur Arnalds",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -791,7 +741,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/olafur-arnalds-san-francisco-california-11-12-2026/event/1C006425D68AA716?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -814,7 +763,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -824,7 +772,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-moth-grandslam-championship-the-castro-theatre-tickets/14309104?pl=APESPCASTRO&REFID=clientsitewp",
@@ -847,7 +794,6 @@
           "matched": "Paul Cauthen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -857,7 +803,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/paul-cauthen-san-francisco-california-11-14-2026/event/1C0064D8D0C858E5?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -880,7 +825,6 @@
           "matched": "Rodrigo y Gabriela",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -890,7 +834,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-15",
-      "date_label": "Sun 2026-11-15",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-san-francisco-california-11-15-2026/event/1C0064C3B0EC40B2?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -913,7 +856,6 @@
           "matched": "Jorja Smith",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -926,7 +868,6 @@
           "matched": "Wesley Joseph",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -935,7 +876,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-16",
-      "date_label": "Mon 2026-11-16",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -958,7 +898,6 @@
           "matched": "Hamilton Leithauser + Rostam",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -971,7 +910,6 @@
           "matched": "Emma Ogier",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -980,7 +918,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-18",
-      "date_label": "Wed 2026-11-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/hamilton-leithauser-rostam-san-francisco-california-11-18-2026/event/1C00652C13A2FD7F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1003,7 +940,6 @@
           "matched": "DANNA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1013,7 +949,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/an-evening-with-danna-san-francisco-california-11-20-2026/event/1C00651CD920BD0F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1036,7 +971,6 @@
           "matched": "BERTHA: Grateful Drag",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1046,7 +980,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
-      "date_label": "Sat 2026-11-21",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/bertha-grateful-drag-san-francisco-california-11-21-2026/event/1C0064A6C24BC3D5?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1069,7 +1002,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1079,7 +1011,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-22",
-      "date_label": "Sun 2026-11-22",
       "doors": "6:00 pm",
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/legends-awards-the-castro-theatre-tickets/14337194?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1102,7 +1033,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1112,7 +1042,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-23",
-      "date_label": "Mon 2026-11-23",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/la-bola-negra-the-castro-theatre-tickets/14360464?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1135,7 +1064,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: P.S. 118 @ 16%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: P.S. 118 @ 16%)",
           "spotify_source": null
         }
       ],
@@ -1148,7 +1076,6 @@
           "matched": "Craig Bartlett",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1157,7 +1084,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-24",
-      "date_label": "Tue 2026-11-24",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -1180,7 +1106,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: P.S. 118 @ 16%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: P.S. 118 @ 16%)",
           "spotify_source": null
         }
       ],
@@ -1193,7 +1118,6 @@
           "matched": "Craig Bartlett",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1202,7 +1126,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
-      "date_label": "Wed 2026-11-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-music-of-hey-arnold-live-san-francisco-california-11-25-2026/event/1C00651AE4982589?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1225,7 +1148,6 @@
           "matched": "Dweezil Zappa",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1235,7 +1157,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-29",
-      "date_label": "Sun 2026-11-29",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/dweezil-zappa-dz20-like-father-like-san-francisco-california-11-29-2026/event/1C0064B4EA76E0D6?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1258,7 +1179,6 @@
           "matched": "Julio Torres",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1268,7 +1188,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-30",
-      "date_label": "Mon 2026-11-30",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -1291,7 +1210,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1301,7 +1219,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-01",
-      "date_label": "Tue 2026-12-01",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/small-town-gay-bar-hosted-the-castro-theatre-tickets/14371694?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1324,7 +1241,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1334,7 +1250,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-02",
-      "date_label": "Wed 2026-12-02",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": null,
@@ -1357,7 +1272,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1367,7 +1281,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-02",
-      "date_label": "Wed 2026-12-02",
       "doors": "9:15 pm",
       "show_time": "9:45 pm",
       "ticket_link": "https://www.ticketweb.com/event/cameron-winter-at-carnegie-hall-the-castro-theatre-tickets/14369034?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1390,7 +1303,6 @@
           "matched": "Sandra Bernhard",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1400,7 +1312,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-03",
-      "date_label": "Thu 2026-12-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/sandra-bernhard-caught-off-guard-san-francisco-california-12-03-2026/event/1C00649BEC2C3458?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1423,7 +1334,6 @@
           "matched": "Marc Maron",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1433,7 +1343,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-05",
-      "date_label": "Sat 2026-12-05",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": null,
@@ -1456,7 +1365,6 @@
           "matched": "Marc Maron",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1466,7 +1374,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-05",
-      "date_label": "Sat 2026-12-05",
       "doors": "9:00 pm",
       "show_time": "9:30 pm",
       "ticket_link": null,
@@ -1489,7 +1396,6 @@
           "matched": "Circle Jerks",
           "apple_label": "compound bill — links to Circle Jerks only",
           "spotify_label": null,
-          "match_label": "compound bill — links to Circle Jerks only",
           "spotify_source": null
         }
       ],
@@ -1499,7 +1405,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-06",
-      "date_label": "Sun 2026-12-06",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": null,
@@ -1522,7 +1427,6 @@
           "matched": "Angine de Poitrine",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1535,7 +1439,6 @@
           "matched": "zouz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1544,7 +1447,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-07",
-      "date_label": "Mon 2026-12-07",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -1567,7 +1469,6 @@
           "matched": "Frost Children",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1580,7 +1481,6 @@
           "matched": "kuru",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1589,7 +1489,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-08",
-      "date_label": "Tue 2026-12-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -1612,7 +1511,6 @@
           "matched": "Lucius",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1622,7 +1520,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-11",
-      "date_label": "Fri 2026-12-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/a-history-worth-repeating-songs-and-san-francisco-california-12-11-2026/event/1C00653106441D00?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1645,7 +1542,6 @@
           "matched": "Tiny Habits",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1658,7 +1554,6 @@
           "matched": "Marie Dresselhuis",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1667,7 +1562,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-12",
-      "date_label": "Sat 2026-12-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/tiny-habits-the-keepers-tour-san-francisco-california-12-12-2026/event/1C0064C4BD3A93E7?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1690,7 +1584,6 @@
           "matched": "Yaelokre",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1703,7 +1596,6 @@
           "matched": "Ben Caplan",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1712,7 +1604,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-13",
-      "date_label": "Sun 2026-12-13",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/yaelokre-san-francisco-california-12-13-2026/event/1C0064CF8D5A6CA1?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1735,7 +1626,6 @@
           "matched": "Syd",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1745,7 +1635,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-15",
-      "date_label": "Tue 2026-12-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/syd-san-francisco-california-12-15-2026/event/1C00652CF6CA7DE9?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1768,7 +1657,6 @@
           "matched": "Venna",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1781,7 +1669,6 @@
           "matched": "Khal!l",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1790,7 +1677,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-18",
-      "date_label": "Fri 2026-12-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/venna-san-francisco-california-12-18-2026/event/1C0065044E87CABE?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1813,7 +1699,6 @@
           "matched": "David Archuleta",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1823,7 +1708,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-19",
-      "date_label": "Sat 2026-12-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/david-archuleta-the-warm-me-up-san-francisco-california-12-19-2026/event/1C0064FD46CA471D?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1846,7 +1730,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1856,7 +1739,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-20",
-      "date_label": "Sun 2026-12-20",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/alyssa-edwards-a-very-alyssa-christmas-san-francisco-california-12-20-2026/event/1C006544B3CE425E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1879,7 +1761,6 @@
           "matched": "San Francisco Gay Men's Chorus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1889,7 +1770,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-24",
-      "date_label": "Thu 2026-12-24",
       "doors": "2:30 pm",
       "show_time": "3:00 pm",
       "ticket_link": "https://www.ticketmaster.com/san-francisco-gay-mens-chorus-holiday-san-francisco-california-12-24-2026/event/1C006514EC49B01B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1912,7 +1792,6 @@
           "matched": "San Francisco Gay Men's Chorus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1922,7 +1801,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-24",
-      "date_label": "Thu 2026-12-24",
       "doors": "5:00 pm",
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketmaster.com/san-francisco-gay-mens-chorus-holiday-san-francisco-california-12-24-2026/event/1C006514EC4CB029?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1945,7 +1823,6 @@
           "matched": "San Francisco Gay Men's Chorus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1955,7 +1832,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-24",
-      "date_label": "Thu 2026-12-24",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/san-francisco-gay-mens-chorus-holiday-san-francisco-california-12-24-2026/event/1C006514EC4FB03C?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -1978,7 +1854,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1988,7 +1863,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-07",
-      "date_label": "Thu 2027-01-07",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/sleepaway-camp-the-midnight-mass-the-castro-theatre-tickets/14321104?pl=APESPCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2011,7 +1885,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2021,7 +1894,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-08",
-      "date_label": "Fri 2027-01-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/2001-a-space-odyssey-in-the-castro-theatre-tickets/14371424?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2044,7 +1916,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2054,7 +1925,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-09",
-      "date_label": "Sat 2027-01-09",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/chicago-25th-anniversary-sing-along-the-castro-theatre-tickets/14371514?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2077,7 +1947,6 @@
           "matched": "STS9",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2087,7 +1956,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-15",
-      "date_label": "Fri 2027-01-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/sts9-115-san-francisco-california-01-15-2027/event/1C006519D1229AEE?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2110,7 +1978,6 @@
           "matched": "STS9",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2120,7 +1987,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-16",
-      "date_label": "Sat 2027-01-16",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/sts9-116-san-francisco-california-01-16-2027/event/1C006519D1269AFE?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2143,7 +2009,6 @@
           "matched": "DJ Meredith Marks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2153,7 +2018,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-20",
-      "date_label": "Wed 2027-01-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/dj-meredith-marks-you-can-dance-san-francisco-california-01-20-2027/event/1C00652CF0AF693F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2176,7 +2040,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2189,7 +2052,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2198,7 +2060,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-30",
-      "date_label": "Sat 2027-01-30",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/stamptown-with-zach-zucker-18-recommended-san-francisco-california-01-30-2027/event/1C006552EE98A8C3?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2221,7 +2082,6 @@
           "matched": "The Hip Abduction",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2234,7 +2094,6 @@
           "matched": "Surf Hat",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2243,7 +2102,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-12",
-      "date_label": "Fri 2027-02-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-hip-abduction-san-francisco-california-02-12-2027/event/1C006549D25A5536?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2266,7 +2124,6 @@
           "matched": "Richard Thompson",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2279,7 +2136,6 @@
           "matched": "Clayton Linthicum",
           "apple_label": "compound bill — links to Clayton Linthicum only",
           "spotify_label": null,
-          "match_label": "compound bill — links to Clayton Linthicum only",
           "spotify_source": null
         }
       ],
@@ -2288,7 +2144,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-13",
-      "date_label": "Sat 2027-02-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/richard-thompson-band-san-francisco-california-02-13-2027/event/1C006549038EC419?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2311,7 +2166,6 @@
           "matched": "La Roux",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2321,7 +2175,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-20",
-      "date_label": "Sat 2027-02-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/la-roux-san-francisco-california-02-20-2027/event/1C006537B73E5D71?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2344,7 +2197,6 @@
           "matched": "Ashe",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2357,7 +2209,6 @@
           "matched": "Claire Rosinkranz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2366,7 +2217,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-26",
-      "date_label": "Fri 2027-02-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-san-francisco-california-02-26-2027/event/1C006553E0249B43?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2389,7 +2239,6 @@
           "matched": "Caroline Rose",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2399,7 +2248,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-27",
-      "date_label": "Sat 2027-02-27",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/caroline-rose-uncle-carols-world-of-san-francisco-california-02-27-2027/event/1C006550EDCAB51C?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2422,7 +2270,6 @@
           "matched": "Wasia Project",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2432,7 +2279,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-02",
-      "date_label": "Tue 2027-03-02",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/wasia-project-nocturne-live-2027-san-francisco-california-03-02-2027/event/1C006539B2F556A4?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2455,7 +2301,6 @@
           "matched": "Blondshell",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2465,7 +2310,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-03",
-      "date_label": "Wed 2027-03-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/blondshell-scaring-strangers-tour-san-francisco-california-10-17-2026/event/1C0064ABA4DFDD2D?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2488,7 +2332,6 @@
           "matched": "strongboi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2501,7 +2344,6 @@
           "matched": "Salami Rose Joe Louis",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2510,7 +2352,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-09",
-      "date_label": "Tue 2027-03-09",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/strongboi-san-francisco-california-03-09-2027/event/1C00652FE40F6173?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2533,7 +2374,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2543,7 +2383,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-11",
-      "date_label": "Thu 2027-03-11",
       "doors": null,
       "show_time": "12:00 am",
       "ticket_link": "https://tickets.silentfilm.org/websales/pages/catalogproductinfo.aspx?catinfo=6608~db04f21c-aba9-4e76-8194-5a8f01a6ddb0&epguid=c71720d7-41e4-4cba-9497-75443d97db42&?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2566,7 +2405,6 @@
           "matched": "Aaron Chen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2576,7 +2414,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-20",
-      "date_label": "Sat 2027-03-20",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/aaron-chen-technology-san-francisco-california-03-20-2027/event/1C00652BE5427597?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2599,7 +2436,6 @@
           "matched": "Aaron Chen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2609,7 +2445,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-20",
-      "date_label": "Sat 2027-03-20",
       "doors": "9:00 pm",
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketmaster.com/aaron-chen-technology-san-francisco-california-03-20-2027/event/1C00652BE544759B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2632,7 +2467,6 @@
           "matched": "Chris Fleming",
           "apple_label": "close match: Chris Fleming",
           "spotify_label": null,
-          "match_label": "close match: Chris Fleming",
           "spotify_source": null
         }
       ],
@@ -2642,7 +2476,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-08",
-      "date_label": "Thu 2027-04-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -2665,7 +2498,6 @@
           "matched": "Chris Fleming",
           "apple_label": "close match: Chris Fleming",
           "spotify_label": null,
-          "match_label": "close match: Chris Fleming",
           "spotify_source": null
         }
       ],
@@ -2675,7 +2507,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-09",
-      "date_label": "Fri 2027-04-09",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": null,
@@ -2698,7 +2529,6 @@
           "matched": "Chris Fleming",
           "apple_label": "close match: Chris Fleming",
           "spotify_label": null,
-          "match_label": "close match: Chris Fleming",
           "spotify_source": null
         }
       ],
@@ -2708,7 +2538,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-09",
-      "date_label": "Fri 2027-04-09",
       "doors": "9:00 pm",
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketmaster.com/chris-fleming-live-san-francisco-california-04-09-2027/event/1C006528050CC31E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2731,7 +2560,6 @@
           "matched": "Mei Semones",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2741,7 +2569,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-24",
-      "date_label": "Sat 2027-04-24",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/mei-semones-san-francisco-california-04-24-2027/event/1C00653C3E82D186?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2764,7 +2591,6 @@
           "matched": "deca joins",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2774,7 +2600,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-26",
-      "date_label": "Mon 2027-04-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/deca-joins-san-francisco-california-04-26-2027/event/1C006553FA8DDB23?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2797,7 +2622,6 @@
           "matched": "Alaska Thunderfuck",
           "apple_label": "close match: Alaska Thunderfuck",
           "spotify_label": null,
-          "match_label": "close match: Alaska Thunderfuck",
           "spotify_source": null
         }
       ],
@@ -2807,7 +2631,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-09",
-      "date_label": "Sun 2027-05-09",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/alaska-thunderfuck-the-revolution-tour-san-francisco-california-05-09-2027/event/1C006526234EB229?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2830,7 +2653,6 @@
           "matched": "Palaye Royale",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2843,7 +2665,6 @@
           "matched": "BEAUTY SCHOOL DROPOUT",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2852,7 +2673,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-12",
-      "date_label": "Wed 2027-05-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/palaye-royale-san-francisco-california-05-12-2027/event/1C00653E47221DA8?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -2875,7 +2695,6 @@
           "matched": "Agnes Obel",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2885,7 +2704,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-20",
-      "date_label": "Thu 2027-05-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/agnes-obel-san-francisco-california-05-20-2027/event/1C00653580816028?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",

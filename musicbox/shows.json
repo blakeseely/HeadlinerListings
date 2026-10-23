@@ -6,14 +6,13 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Little Italy",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "Failure",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -59,7 +56,6 @@
           "matched": "quannnic",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -68,7 +64,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-29",
-      "date_label": "Thu 2026-10-29",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/failure-the-rising-music-box-tickets/14865793?REFID=bupwebsite",
@@ -91,7 +86,6 @@
           "matched": "Theo Katzman",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -101,7 +95,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/theo-katzman-music-box-tickets/14902843?REFID=bupwebsite",
@@ -124,7 +117,6 @@
           "matched": "INOHA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -137,7 +129,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -146,7 +137,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764?REFID=bupwebsite",
@@ -169,7 +159,6 @@
           "matched": "Yuki Chiba",
           "apple_label": null,
           "spotify_label": "no confident match (closest: Yuki Hayashi @ 64%)",
-          "match_label": "no confident match (closest: Yuki Hayashi @ 64%)",
           "spotify_source": null
         }
       ],
@@ -182,7 +171,6 @@
           "matched": "DRAM",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -191,7 +179,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-03",
-      "date_label": "Tue 2026-11-03",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764?REFID=bupwebsite",
@@ -214,7 +201,6 @@
           "matched": "SIX60",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -224,7 +210,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "date_label": "Wed 2026-11-04",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494?REFID=bupwebsite",
@@ -247,7 +232,6 @@
           "matched": "Paul Oakenfold",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -258,7 +242,6 @@
           "matched": "The Crystal Method",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -271,7 +254,6 @@
           "matched": "Liquid Todd",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -280,7 +262,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124?REFID=bupwebsite",
@@ -303,7 +284,6 @@
           "matched": "Stephen Day",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -316,7 +296,6 @@
           "matched": "Emily Brimlow",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -325,7 +304,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/stephen-day-the-music-box-tickets/14973783?REFID=bupwebsite",
@@ -348,7 +326,6 @@
           "matched": "Thomas Dolby",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -361,7 +338,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: DJ Ravion @ 54%)",
-          "match_label": "no confident match (closest: DJ Ravion @ 54%)",
           "spotify_source": null
         }
       ],
@@ -370,7 +346,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-09",
-      "date_label": "Mon 2026-11-09",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053?REFID=bupwebsite",
@@ -393,7 +368,6 @@
           "matched": "Jervis Campbell",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -406,7 +380,6 @@
           "matched": "Allie Paige",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -415,7 +388,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753?REFID=bupwebsite",
@@ -438,7 +410,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Calma Caribe @ 39%)",
-          "match_label": "no confident match (closest: Calma Caribe @ 39%)",
           "spotify_source": null
         }
       ],
@@ -451,7 +422,6 @@
           "matched": "Prayers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -462,7 +432,6 @@
           "matched": "DEVORA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -473,7 +442,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Red Hot Lover Tone @ 47%)",
           "spotify_label": "close match: Ex Lover",
-          "match_label": "no confident match (closest: Red Hot Lover Tone @ 47%) | close match: Ex Lover",
           "spotify_source": "api"
         }
       ],
@@ -482,7 +450,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/no-tengo-calma-tour-2026-music-box-tickets/15013573?REFID=bupwebsite",
@@ -505,7 +472,6 @@
           "matched": "BoomBox",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -518,7 +484,6 @@
           "matched": "Dgtl Clr",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -527,7 +492,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513?REFID=bupwebsite",
@@ -550,7 +514,6 @@
           "matched": "John Craigie",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -563,7 +526,6 @@
           "matched": "Lucy Clearwater",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -572,7 +534,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-craigie-with-special-guest-music-box-tickets/14264344?REFID=bupwebsite",
@@ -595,7 +556,6 @@
           "matched": "Son Volt",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -606,7 +566,6 @@
           "matched": "Kelly Willis",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -616,7 +575,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
-      "date_label": "Sat 2026-11-21",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/son-volt-kelly-willis-music-box-tickets/14891433?REFID=bupwebsite",
@@ -639,7 +597,6 @@
           "matched": "The Wrecks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -652,7 +609,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Dire Straits @ 29%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: Dire Straits @ 29%)",
           "spotify_source": "api"
         }
       ],
@@ -661,7 +617,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-22",
-      "date_label": "Sun 2026-11-22",
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254?REFID=bupwebsite",
@@ -684,7 +639,6 @@
           "matched": "Pretty Sick",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -697,7 +651,6 @@
           "matched": "Sex Week",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -706,7 +659,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-23",
-      "date_label": "Mon 2026-11-23",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/pretty-sick-usa-music-box-tickets/15000573?REFID=bupwebsite",
@@ -729,7 +681,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Thurl Ravenscroft @ 23%)",
           "spotify_label": "no confident match (closest: Oscar the Grouch @ 47%)",
-          "match_label": "no confident match (closest: Thurl Ravenscroft @ 23%) | no confident match (closest: Oscar the Grouch @ 47%)",
           "spotify_source": null
         }
       ],
@@ -742,7 +693,6 @@
           "matched": "Brother Ali",
           "apple_label": "compound bill — links to Brother Ali only",
           "spotify_label": null,
-          "match_label": "compound bill — links to Brother Ali only",
           "spotify_source": "api"
         }
       ],
@@ -751,7 +701,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-27",
-      "date_label": "Fri 2026-11-27",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/how-the-grouch-stole-christmas-music-box-tickets/14296694?REFID=bupwebsite",
@@ -774,7 +723,6 @@
           "matched": "Amtrac",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -784,7 +732,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-28",
-      "date_label": "Sat 2026-11-28",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/amtrac-dream-live-music-box-tickets/15032493?REFID=bupwebsite",
@@ -807,7 +754,6 @@
           "matched": "AVELLO",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -817,7 +763,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-02",
-      "date_label": "Wed 2026-12-02",
       "doors": null,
       "show_time": "8:15 pm",
       "ticket_link": "https://www.ticketweb.com/event/avello-music-box-tickets/14381114?REFID=bupwebsite",
@@ -840,7 +785,6 @@
           "matched": "Ripe",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -850,7 +794,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-03",
-      "date_label": "Thu 2026-12-03",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ripe-play-the-music-box-tickets/14283964?REFID=bupwebsite",
@@ -873,7 +816,6 @@
           "matched": "Emancipator",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -886,7 +828,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "close match: Shrimpnose",
-          "match_label": "close match: Shrimpnose",
           "spotify_source": "api"
         }
       ],
@@ -895,7 +836,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-04",
-      "date_label": "Fri 2026-12-04",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/emancipator-chrysalis-tour-music-box-tickets/14275804?REFID=bupwebsite",
@@ -918,7 +858,6 @@
           "matched": "Anuhea",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -928,7 +867,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-06",
-      "date_label": "Sun 2026-12-06",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/anuhea-all-is-music-box-tickets/14359604?REFID=bupwebsite",
@@ -951,7 +889,6 @@
           "matched": "The Womack Sisters",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -961,7 +898,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-08",
-      "date_label": "Tue 2026-12-08",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-womack-sisters-music-box-tickets/14280444?REFID=bupwebsite",
@@ -984,7 +920,6 @@
           "matched": "feeble little horse",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -997,7 +932,6 @@
           "matched": "Mop",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1006,7 +940,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-15",
-      "date_label": "Tue 2026-12-15",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-music-box-tickets/14936783?REFID=bupwebsite",
@@ -1029,7 +962,6 @@
           "matched": "Venna",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1039,7 +971,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-16",
-      "date_label": "Wed 2026-12-16",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/venna-music-box-tickets/15018503?REFID=bupwebsite",
@@ -1062,7 +993,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Social Distortion @ 41%)",
-          "match_label": "no confident match (closest: Social Distortion @ 41%)",
           "spotify_source": null
         }
       ],
@@ -1075,7 +1005,6 @@
           "matched": "Beastboi",
           "apple_label": "compound bill — links to Beastboi only",
           "spotify_label": "close match: Careless Castle",
-          "match_label": "compound bill — links to Beastboi only | close match: Careless Castle",
           "spotify_source": "api"
         }
       ],
@@ -1086,7 +1015,6 @@
       ],
       "set_format": null,
       "date": "2026-12-18",
-      "date_label": "Fri 2026-12-18",
       "doors": null,
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kompany-in-the-round-presents-music-box-tickets/14376214?REFID=bupwebsite",
@@ -1109,7 +1037,6 @@
           "matched": "Buckethead",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1119,7 +1046,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-22",
-      "date_label": "Tue 2026-12-22",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/buckethead-music-box-tickets/14265074?REFID=bupwebsite",
@@ -1142,7 +1068,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Effin @ 36%)",
-          "match_label": "no confident match (closest: Effin @ 36%)",
           "spotify_source": null
         }
       ],
@@ -1155,7 +1080,6 @@
           "matched": "NIKITA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -1166,7 +1090,6 @@
           "matched": "The Wicked",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1175,7 +1098,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-23",
-      "date_label": "Sat 2027-01-23",
       "doors": null,
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/effin-heartbeats-tour-w-music-box-tickets/14393764?REFID=bupwebsite",
@@ -1198,7 +1120,6 @@
           "matched": "Ballyhoo!",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1211,7 +1132,6 @@
           "matched": "Chad Tepper",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1220,7 +1140,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-29",
-      "date_label": "Fri 2027-01-29",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084?REFID=bupwebsite",
@@ -1243,7 +1162,6 @@
           "matched": "Surfer Girl",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1256,7 +1174,6 @@
           "matched": "South Summit",
           "apple_label": "compound bill — links to South Summit only",
           "spotify_label": "no confident match (closest: South Park Mexican @ 50%)",
-          "match_label": "compound bill — links to South Summit only | no confident match (closest: South Park Mexican @ 50%)",
           "spotify_source": null
         }
       ],
@@ -1265,7 +1182,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-05",
-      "date_label": "Fri 2027-02-05",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-the-music-box-tickets/14384244?REFID=bupwebsite",
@@ -1288,7 +1204,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Beezus Taylor and The Funeral Party @ 70%)",
-          "match_label": "no confident match (closest: Beezus Taylor and The Funeral Party @ 70%)",
           "spotify_source": null
         }
       ],
@@ -1298,7 +1213,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-13",
-      "date_label": "Sat 2027-02-13",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-taylor-party-taylor-swift-music-box-tickets/14381584?REFID=bupwebsite",
@@ -1321,7 +1235,6 @@
           "matched": "Led Zepagain",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1331,7 +1244,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-20",
-      "date_label": "Sat 2027-02-20",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/led-zepagain-music-box-tickets/14352054?REFID=bupwebsite",
@@ -1354,7 +1266,6 @@
           "matched": "James Marriott",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1364,7 +1275,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-02",
-      "date_label": "Tue 2027-03-02",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/james-marriott-world-music-box-tickets/14328374?REFID=bupwebsite",
@@ -1387,7 +1297,6 @@
           "matched": "The Garcia Project",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1397,7 +1306,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-05",
-      "date_label": "Fri 2027-03-05",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-garcia-project-tribute-to-music-box-tickets/14325354?REFID=bupwebsite",
@@ -1420,7 +1328,6 @@
           "matched": "Lúnasa",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1430,7 +1337,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-10",
-      "date_label": "Wed 2027-03-10",
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/lunasa-music-box-tickets/15043003?REFID=bupwebsite",
@@ -1453,7 +1359,6 @@
           "matched": "Saxsquatch",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1463,7 +1368,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-16",
-      "date_label": "Tue 2027-03-16",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/saxsquatch-the-conspiracy-music-box-tickets/14369004?REFID=bupwebsite",
@@ -1486,7 +1390,6 @@
           "matched": "Mei Semones",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1496,7 +1399,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-21",
-      "date_label": "Wed 2027-04-21",
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mei-semones-music-box-tickets/14344984?REFID=bupwebsite",
@@ -1519,7 +1421,6 @@
           "matched": "Michael Shannon",
           "apple_label": "compound bill — links to Michael Shannon only",
           "spotify_label": "no confident match (closest: R.E.M. @ 70%)",
-          "match_label": "compound bill — links to Michael Shannon only | no confident match (closest: R.E.M. @ 70%)",
           "spotify_source": null
         }
       ],
@@ -1529,7 +1430,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-30",
-      "date_label": "Fri 2027-04-30",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/michael-shannon-jason-narducy-music-box-tickets/14341544?REFID=bupwebsite",
@@ -1552,7 +1452,6 @@
           "matched": "Too Many Zooz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1562,7 +1461,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-07",
-      "date_label": "Fri 2027-05-07",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/too-many-zooz-music-box-tickets/14325454?REFID=bupwebsite",
@@ -1585,7 +1483,6 @@
           "matched": "Hazlett",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1595,7 +1492,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-06-04",
-      "date_label": "Fri 2027-06-04",
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/hazlett-the-comeback-music-box-tickets/14348784?REFID=bupwebsite",

@@ -6,14 +6,13 @@
   "city": "Oakland, CA",
   "metro": "San Francisco",
   "neighborhood": "West Oakland",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "Malcolm Todd",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -59,7 +56,6 @@
           "matched": "54 Ultra",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -68,7 +64,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-22",
-      "date_label": "Thu 2026-10-22",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Sold Out!",
@@ -91,7 +86,6 @@
           "matched": "Gary Clark Jr.",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -104,7 +98,6 @@
           "matched": "Xavier Lynn",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -113,7 +106,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -136,7 +128,6 @@
           "matched": "William Black",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -149,7 +140,6 @@
           "matched": "Vincent",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -160,7 +150,6 @@
           "matched": "Afinity",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -171,7 +160,6 @@
           "matched": "IKU",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -180,7 +168,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -203,7 +190,6 @@
           "matched": "Lenny Pearce",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -213,7 +199,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-27",
-      "date_label": "Tue 2026-10-27",
       "doors": "5:00 pm",
       "show_time": "6:00 pm",
       "ticket_link": "Buy Tickets",
@@ -236,7 +221,6 @@
           "matched": "Shpongle",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -249,7 +233,6 @@
           "matched": "Mindex",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -260,7 +243,6 @@
           "matched": "Cosmic Trigger",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -271,7 +253,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -280,7 +261,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -303,7 +283,6 @@
           "matched": "Shpongle",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -316,7 +295,6 @@
           "matched": "Supersillyus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -327,7 +305,6 @@
           "matched": "Cosmic Trigger",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -338,7 +315,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -347,7 +323,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -370,7 +345,6 @@
           "matched": "Jessie Reyez",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -380,7 +354,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Sold Out!",
@@ -403,7 +376,6 @@
           "matched": "Brandi Carlile",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -413,7 +385,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Sold Out!",
@@ -436,7 +407,6 @@
           "matched": "Isaiah Rashad",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -446,7 +416,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -469,7 +438,6 @@
           "matched": "Tyla",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -479,7 +447,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -502,7 +469,6 @@
           "matched": "Bonobo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -515,7 +481,6 @@
           "matched": "Sofia Kourtesis",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -524,7 +489,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -547,7 +511,6 @@
           "matched": "Thundercat",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -560,7 +523,6 @@
           "matched": "Fera",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -569,7 +531,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -592,7 +553,6 @@
           "matched": "Pretty Lights",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -602,7 +562,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-19",
-      "date_label": "Thu 2026-11-19",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "Buy Tickets",
@@ -625,7 +584,6 @@
           "matched": "Pretty Lights",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -635,7 +593,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "Buy Tickets",
@@ -658,7 +615,6 @@
           "matched": "Pretty Lights",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -668,7 +624,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
-      "date_label": "Sat 2026-11-21",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "Buy Tickets",
@@ -691,7 +646,6 @@
           "matched": "The String Cheese Incident",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -701,7 +655,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-04",
-      "date_label": "Fri 2026-12-04",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "Buy Tickets",
@@ -724,7 +677,6 @@
           "matched": "The String Cheese Incident",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -734,7 +686,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-05",
-      "date_label": "Sat 2026-12-05",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "Buy Tickets",
@@ -757,7 +708,6 @@
           "matched": "Angine de Poitrine",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -770,7 +720,6 @@
           "matched": "Secret Chiefs 3",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -779,7 +728,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-08",
-      "date_label": "Tue 2026-12-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Sold Out!",
@@ -802,7 +750,6 @@
           "matched": "Ali Siddiq",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -812,7 +759,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-19",
-      "date_label": "Sat 2026-12-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -835,7 +781,6 @@
           "matched": "Primus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -845,7 +790,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-30",
-      "date_label": "Wed 2026-12-30",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -868,7 +812,6 @@
           "matched": "Primus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -878,7 +821,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-31",
-      "date_label": "Thu 2026-12-31",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "Buy Tickets",
@@ -901,7 +843,6 @@
           "matched": "Lord Huron",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -911,7 +852,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-03",
-      "date_label": "Sun 2027-01-03",
       "doors": "6:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Sold Out!",
@@ -934,7 +874,6 @@
           "matched": "fakemink",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -944,7 +883,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-22",
-      "date_label": "Fri 2027-01-22",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -967,7 +905,6 @@
           "matched": "Dark Star Orchestra",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -977,7 +914,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-12",
-      "date_label": "Fri 2027-02-12",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "Buy Tickets",
@@ -1000,7 +936,6 @@
           "matched": "Dark Star Orchestra",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1010,7 +945,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-13",
-      "date_label": "Sat 2027-02-13",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "Buy Tickets",
@@ -1033,7 +967,6 @@
           "matched": "Sylvan Esso",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1043,7 +976,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-25",
-      "date_label": "Thu 2027-02-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -1066,7 +998,6 @@
           "matched": "CHVRCHES",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1076,7 +1007,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-10",
-      "date_label": "Wed 2027-03-10",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "PRESALE 10/29",
@@ -1099,7 +1029,6 @@
           "matched": "Alok",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1109,7 +1038,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-13",
-      "date_label": "Sat 2027-03-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -1132,7 +1060,6 @@
           "matched": "Nothing But Thieves",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1142,7 +1069,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-03",
-      "date_label": "Sat 2027-04-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -1165,7 +1091,6 @@
           "matched": "Tinashe",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1175,7 +1100,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-13",
-      "date_label": "Thu 2027-05-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Sold Out!",
@@ -1198,7 +1122,6 @@
           "matched": "Tinashe",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1208,7 +1131,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-14",
-      "date_label": "Fri 2027-05-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "Buy Tickets",
@@ -1231,7 +1153,6 @@
           "matched": "Eric Andre",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1241,7 +1162,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-19",
-      "date_label": "Wed 2027-05-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "PRESALE 10/22",

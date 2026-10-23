@@ -6,14 +6,13 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "REZN",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -57,7 +54,6 @@
           "matched": "lowheaven",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -68,7 +64,6 @@
           "matched": "Mountaineer",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -78,7 +73,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rezn-lowheaven-mountaineer-brick-and-mortar-music-hall-tickets/14907393?pl=bnm&REFID=clientsitewp",
@@ -101,7 +95,6 @@
           "matched": "she's green",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -111,7 +104,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/shes-green-brick-and-mortar-music-hall-tickets/14250864?pl=bnm&REFID=clientsitewp",
@@ -134,7 +126,6 @@
           "matched": "natalie jinju",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -147,7 +138,6 @@
           "matched": "chiabiee",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -156,7 +146,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-25",
-      "date_label": "Sun 2026-10-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/natalie-jinju-chiabiee-brick-and-mortar-music-hall-tickets/14269634?pl=bnm&REFID=clientsitewp",
@@ -179,7 +168,6 @@
           "matched": "jackzebra",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -189,7 +177,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-27",
-      "date_label": "Tue 2026-10-27",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jackzebra-zhuang-zhuang-2026-brick-and-mortar-music-hall-tickets/14325814?pl=bnm&REFID=clientsitewp",
@@ -212,7 +199,6 @@
           "matched": "Hayden Everett",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -225,7 +211,6 @@
           "matched": "Jackson Lundy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -234,7 +219,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-29",
-      "date_label": "Thu 2026-10-29",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/hayden-everett-jackson-lundy-brick-and-mortar-music-hall-tickets/15030633?pl=bnm&REFID=clientsitewp",
@@ -257,7 +241,6 @@
           "matched": "Coral 9",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -270,7 +253,6 @@
           "matched": "Bazooka",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -281,7 +263,6 @@
           "matched": "Dogwater",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -292,7 +273,6 @@
           "matched": "Kalamansi",
           "apple_label": "close match: Kalamansi",
           "spotify_label": null,
-          "match_label": "close match: Kalamansi",
           "spotify_source": null
         }
       ],
@@ -301,7 +281,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/coral-9-bazooka-dogwater-dj-brick-and-mortar-music-hall-tickets/14354754?pl=bnm&REFID=clientsitewp",
@@ -324,7 +303,6 @@
           "matched": "Improvement Movement",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -337,7 +315,6 @@
           "matched": "Adron",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -346,7 +323,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/improvement-movement-adron-brick-and-mortar-music-hall-tickets/14244894?pl=bnm&REFID=clientsitewp",
@@ -369,7 +345,6 @@
           "matched": "Cardinal Bloom",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -382,7 +357,6 @@
           "matched": "the Gontiks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -391,7 +365,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/cardinal-bloom-the-gontiks-brick-and-mortar-music-hall-tickets/14209254?pl=bnm&REFID=clientsitewp",
@@ -414,7 +387,6 @@
           "matched": "MISSIO",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -427,7 +399,6 @@
           "matched": "Fifteen0eight",
           "apple_label": "close match: Fifteen0eight",
           "spotify_label": null,
-          "match_label": "close match: Fifteen0eight",
           "spotify_source": null
         },
         {
@@ -438,7 +409,6 @@
           "matched": "Kent Osborne",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -447,7 +417,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-03",
-      "date_label": "Tue 2026-11-03",
       "doors": "7:30 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/missio-love-heartbreak-tour-brick-and-mortar-music-hall-tickets/15027043?pl=bnm&REFID=clientsitewp",
@@ -470,7 +439,6 @@
           "matched": "Blue Light",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -483,7 +451,6 @@
           "matched": "Sassy 009",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -494,7 +461,6 @@
           "matched": "Swordes",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -505,7 +471,6 @@
           "matched": "Tricky FM",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -514,7 +479,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "date_label": "Wed 2026-11-04",
       "doors": "6:00 pm",
       "show_time": "6:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/blue-light-with-sassy-009-brick-and-mortar-music-hall-tickets/14968513?pl=bnm&REFID=clientsitewp",
@@ -537,7 +501,6 @@
           "matched": "AZ Chike",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -547,7 +510,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-05",
-      "date_label": "Thu 2026-11-05",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-tickets/14287724?pl=bnm&REFID=clientsitewp",
@@ -570,7 +532,6 @@
           "matched": "Clay Street Unit",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -583,7 +544,6 @@
           "matched": "Maxwell Oaks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -592,7 +552,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/clay-street-unit-maxwell-oaks-brick-and-mortar-music-hall-tickets/14244714?pl=bnm&REFID=clientsitewp",
@@ -615,7 +574,6 @@
           "matched": "Supertaste",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -626,7 +584,6 @@
           "matched": "3kelves",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -636,7 +593,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524?pl=bnm&REFID=clientsitewp",
@@ -659,7 +615,6 @@
           "matched": "Triptides",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -669,7 +624,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/triptides-brick-and-mortar-music-hall-tickets/14273794?pl=bnm&REFID=clientsitewp",
@@ -692,7 +646,6 @@
           "matched": "past self",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -705,7 +658,6 @@
           "matched": "Creux Lies",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -716,7 +668,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -725,7 +676,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-09",
-      "date_label": "Mon 2026-11-09",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/past-self-creux-lies-hot-brick-and-mortar-music-hall-tickets/15048253?pl=bnm&REFID=clientsitewp",
@@ -748,7 +698,6 @@
           "matched": "Mad Tsai",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -758,7 +707,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-11",
-      "date_label": "Wed 2026-11-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mad-tsai-brick-and-mortar-music-hall-tickets/14213254?pl=bnm&REFID=clientsitewp",
@@ -781,7 +729,6 @@
           "matched": "Natanya",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -791,7 +738,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/natanya-brick-and-mortar-music-hall-tickets/14980533?pl=bnm&REFID=clientsitewp",
@@ -814,7 +760,6 @@
           "matched": "Deante' Hitchcock",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -824,7 +769,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:30 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/deante-hitchcock-brick-and-mortar-music-hall-tickets/14303374?pl=bnm&REFID=clientsitewp",
@@ -847,7 +791,6 @@
           "matched": "Denise Julia",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -857,7 +800,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/denise-julia-brick-and-mortar-music-hall-tickets/14283244?pl=bnm&REFID=clientsitewp",
@@ -880,7 +822,6 @@
           "matched": "OCT",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -893,7 +834,6 @@
           "matched": "Billy Marchiafava",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -902,7 +842,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-15",
-      "date_label": "Sun 2026-11-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/oct-billy-marchiafava-brick-and-mortar-music-hall-tickets/14856963?pl=bnm&REFID=clientsitewp",
@@ -925,7 +864,6 @@
           "matched": "Brokencyde",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -938,7 +876,6 @@
           "matched": "Dot Dot Curve",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -949,7 +886,6 @@
           "matched": "9aradox",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -958,7 +894,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/brokencyde-dot-dot-curve-9aradox-brick-and-mortar-music-hall-tickets/14372464?pl=bnm&REFID=clientsitewp",

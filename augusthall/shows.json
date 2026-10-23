@@ -6,14 +6,13 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "South Beach",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "gnash",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -56,7 +53,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-22",
-      "date_label": "Thu 2026-10-22",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -79,7 +75,6 @@
           "matched": "SLIFT",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -89,7 +84,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/slift-san-francisco-california-10-23-2026/event/1C00648EDED013FE",
@@ -112,7 +106,6 @@
           "matched": "Protomartyr",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -122,7 +115,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/protomartyr-san-francisco-california-10-24-2026/event/1C0064E3A259ADCA",
@@ -145,7 +137,6 @@
           "matched": "Lil Pete",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -155,7 +146,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-25",
-      "date_label": "Sun 2026-10-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/lil-pete-real-is-back-tour-san-francisco-california-10-25-2026/event/1C006513C9B2B4B3",
@@ -178,7 +168,6 @@
           "matched": "Lil Pete",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -188,7 +177,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-26",
-      "date_label": "Mon 2026-10-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/lil-pete-real-is-back-tour-san-francisco-california-10-26-2026/event/1C006530CFB532BA",
@@ -211,7 +199,6 @@
           "matched": "Ax and the Hatchetmen",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -221,7 +208,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-28",
-      "date_label": "Wed 2026-10-28",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/ax-and-the-hatchetmen-the-late-san-francisco-california-10-28-2026/event/1C0064ABAD33F4FD",
@@ -244,7 +230,6 @@
           "matched": "Parra for Cuva",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -254,7 +239,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketmaster.com/parra-for-cuva-san-francisco-california-10-30-2026/event/1C006483DCA563DE",
@@ -277,7 +261,6 @@
           "matched": "The Aces",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -290,7 +273,6 @@
           "matched": "Gatlin",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -299,7 +281,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/introducing-the-aces-with-special-guest-san-francisco-california-10-31-2026/event/1C0064FB1539D112",
@@ -322,7 +303,6 @@
           "matched": "Baby Smoove",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -332,7 +312,6 @@
       "presenters": [],
       "set_format": "Live",
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/baby-smoove-live-the-purple-heart-san-francisco-california-11-01-2026/event/1C006532269EDBCF",
@@ -355,7 +334,6 @@
           "matched": "Olivia O'Brien",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -365,7 +343,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-03",
-      "date_label": "Tue 2026-11-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/olivia-obrien-san-francisco-california-11-03-2026/event/1C0064B3E6211880",
@@ -388,7 +365,6 @@
           "matched": "Josh Garrels",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -398,7 +374,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "date_label": "Wed 2026-11-04",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/josh-garrels-san-francisco-california-11-04-2026/event/1C006465EA678C29",
@@ -421,7 +396,6 @@
           "matched": "Bahamas",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -431,7 +405,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-san-francisco-california-11-06-2026/event/1C006464D18357F4",
@@ -454,7 +427,6 @@
           "matched": "Pinhead Gunpowder",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -464,7 +436,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/pinhead-gunpowder-san-francisco-california-11-07-2026/event/1C0064B2A01FB78E",
@@ -487,7 +458,6 @@
           "matched": "Countess Luann",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -497,7 +467,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/countess-luann-san-francisco-california-11-08-2026/event/1C0064BDCB1DAB67",
@@ -520,7 +489,6 @@
           "matched": "Tank and the Bangas",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -530,7 +498,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-san-francisco-california-11-13-2026/event/1C006472DF4545A5",
@@ -553,7 +520,6 @@
           "matched": "INNA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -563,7 +529,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/inna-san-francisco-california-11-14-2026/event/1C006443CD36ECA8",
@@ -586,7 +551,6 @@
           "matched": "Son Volt",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -596,7 +560,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/son-volt-san-francisco-california-11-17-2026/event/1C00649DE6724A26",
@@ -619,7 +582,6 @@
           "matched": "Jamila Woods",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -629,7 +591,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-18",
-      "date_label": "Wed 2026-11-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jamila-woods-10-years-of-heavn-san-francisco-california-11-18-2026/event/1C006505B4884946",
@@ -652,7 +613,6 @@
           "matched": "Eivør",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -662,7 +622,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/eivr-san-francisco-california-11-20-2026/event/1C006497C83DDA61",
@@ -685,7 +644,6 @@
           "matched": "Agriculture",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -695,7 +653,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
-      "date_label": "Sat 2026-11-21",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/agriculture-san-francisco-california-11-21-2026/event/1C0064D8E4628954",
@@ -718,7 +675,6 @@
           "matched": "Boston Manor",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -728,7 +684,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-22",
-      "date_label": "Sun 2026-11-22",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/boston-manor-san-francisco-california-11-22-2026/event/1C0064B5D4474F7F",
@@ -751,7 +706,6 @@
           "matched": "DJ Raphi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -761,7 +715,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
-      "date_label": "Wed 2026-11-25",
       "doors": "5:00 pm",
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketmaster.com/dj-raphi-hype-tour-usa-20-san-francisco-california-11-25-2026/event/1C0064EF11D69868",
@@ -784,7 +737,6 @@
           "matched": "Vessbroz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -794,7 +746,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-28",
-      "date_label": "Sat 2026-11-28",
       "doors": null,
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketmaster.com/vessbroz-san-francisco-california-11-28-2026/event/1C006537DA29DC8C",
@@ -817,7 +768,6 @@
           "matched": "Jalen Ngonda",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -827,7 +777,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-01",
-      "date_label": "Tue 2026-12-01",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jalen-ngonda-doctrine-of-love-tour-san-francisco-california-12-01-2026/event/1C0064C299BF1246",
@@ -850,7 +799,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: The Early Birds @ 67%)",
-          "match_label": "no confident match (closest: The Early Birds @ 67%)",
           "spotify_source": null
         }
       ],
@@ -860,7 +808,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-05",
-      "date_label": "Sat 2026-12-05",
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketmaster.com/earlybirds-club-san-francisco-california-12-05-2026/event/1C00653D7D47768F",
@@ -883,7 +830,6 @@
           "matched": "The Pineapple Thief",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -893,7 +839,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-09",
-      "date_label": "Wed 2026-12-09",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-pineapple-thief-san-francisco-california-12-09-2026/event/1C00648ADC5A5F27",
@@ -916,7 +861,6 @@
           "matched": "Hunxho",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -926,7 +870,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-14",
-      "date_label": "Mon 2026-12-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/hunxho-san-francisco-california-12-14-2026/event/1C006536D0E89103",
@@ -949,7 +892,6 @@
           "matched": "Alexander James",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -959,7 +901,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-13",
-      "date_label": "Wed 2027-01-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/alexander-james-the-better-man-tour-san-francisco-california-01-13-2027/event/1C00653D33E36BE3",
@@ -982,7 +923,6 @@
           "matched": "Disappear Here",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -992,7 +932,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-25",
-      "date_label": "Mon 2027-01-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/disappear-here-a-ten-year-celebration-san-francisco-california-01-25-2027/event/1C00653CCC8470B9",
@@ -1015,7 +954,6 @@
           "matched": "Disappear Here",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1025,7 +963,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-26",
-      "date_label": "Tue 2027-01-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/disappear-here-a-ten-year-celebration-san-francisco-california-01-26-2027/event/1C0065291C169683",
@@ -1048,7 +985,6 @@
           "matched": "Death from Above 1979",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1058,7 +994,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-11",
-      "date_label": "Thu 2027-02-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/death-from-above-1979-san-francisco-california-02-11-2027/event/1C0065321E60C107",
@@ -1081,7 +1016,6 @@
           "matched": "James Marriott",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1091,7 +1025,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-28",
-      "date_label": "Sun 2027-02-28",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/james-marriott-san-francisco-california-02-28-2027/event/1C006532C56E5748",
@@ -1114,7 +1047,6 @@
           "matched": "The Lemonheads",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1124,7 +1056,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-07",
-      "date_label": "Sun 2027-03-07",
       "doors": "7:30 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketmaster.com/the-lemonheads-the-love-chant-tour-san-francisco-california-03-07-2027/event/1C00652AAC82BF11",
@@ -1147,7 +1078,6 @@
           "matched": "49 Winchester",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1157,7 +1087,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-09",
-      "date_label": "Tue 2027-03-09",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-san-francisco-california-03-09-2027/event/1C00654FBF94108F",
@@ -1180,7 +1109,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%)",
           "spotify_label": "no confident match (closest: Saxl Rose @ 25%)",
-          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%) | no confident match (closest: Saxl Rose @ 25%)",
           "spotify_source": null
         }
       ],
@@ -1190,7 +1118,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-13",
-      "date_label": "Sat 2027-03-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/begging-for-sax-tour-ii-san-francisco-california-03-13-2027/event/1C00650BA1FBBD9D",
@@ -1213,7 +1140,6 @@
           "matched": "VNV Nation",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1223,7 +1149,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-21",
-      "date_label": "Sun 2027-03-21",
       "doors": "7:00 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-03-21-2027/event/1C00634EC8F3AEF3",
@@ -1246,7 +1171,6 @@
           "matched": "Kid Francescoli",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1256,7 +1180,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-25",
-      "date_label": "Thu 2027-03-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/kid-francescoli-a-kind-wave-tour-san-francisco-california-03-25-2027/event/1C0065129A0DB9EC",
@@ -1279,7 +1202,6 @@
           "matched": "The Mary Wallopers",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1289,7 +1211,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-01",
-      "date_label": "Thu 2027-04-01",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mary-wallopers-san-francisco-california-04-01-2027/event/1C006503CCDA6182",
@@ -1312,7 +1233,6 @@
           "matched": "SiM",
           "apple_label": null,
           "spotify_label": "no confident match (closest: Simply Red @ 46%)",
-          "match_label": "no confident match (closest: Simply Red @ 46%)",
           "spotify_source": null
         }
       ],
@@ -1322,7 +1242,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-18",
-      "date_label": "Sun 2027-04-18",
       "doors": "7:00 pm",
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketmaster.com/sim-hooman-world-tour-san-francisco-california-04-18-2027/event/1C0064AF09A75C9E",
@@ -1345,7 +1264,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: The Speakeasy Three @ 63%)",
-          "match_label": "no confident match (closest: The Speakeasy Three @ 63%)",
           "spotify_source": null
         }
       ],
@@ -1358,7 +1276,6 @@
           "matched": "Hazlett",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1367,7 +1284,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-06-01",
-      "date_label": "Tue 2027-06-01",
       "doors": "6:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-preshow-speakeasy-with-hazlett-san-francisco-california-06-01-2027/event/1C0064F4ED409957",
@@ -1390,7 +1306,6 @@
           "matched": "Hazlett",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -1400,7 +1315,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-06-01",
-      "date_label": "Tue 2027-06-01",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/hazlett-san-francisco-california-06-01-2027/event/1C0064CBAD9F0CBD",

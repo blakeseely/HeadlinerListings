@@ -6,14 +6,13 @@
   "city": "Berkeley, CA",
   "metro": "San Francisco",
   "neighborhood": null,
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "Lauryn Hill",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -56,7 +53,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "date_label": "Wed 2026-11-04",
       "doors": "5:30 pm",
       "show_time": "7:00 pm",
       "ticket_link": "Buy Tickets",
@@ -79,7 +75,6 @@
           "matched": "HUGEL",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -92,7 +87,6 @@
           "matched": "Ochok",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -103,7 +97,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -112,7 +105,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "5:00 pm",
       "show_time": "6:00 pm",
       "ticket_link": "Buy Tickets",
@@ -135,7 +127,6 @@
           "matched": "The Red Clay Strays",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -148,7 +139,6 @@
           "matched": "St. Paul & The Broken Bones",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -157,7 +147,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-08-12",
-      "date_label": "Thu 2027-08-12",
       "doors": "5:30 pm",
       "show_time": "7:00 pm",
       "ticket_link": "Buy Tickets",
@@ -180,7 +169,6 @@
           "matched": "SIENNA SPIRO",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -190,7 +178,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-09-07",
-      "date_label": "Tue 2027-09-07",
       "doors": "5:30 pm",
       "show_time": "7:00 pm",
       "ticket_link": "PRESALE 10/22",

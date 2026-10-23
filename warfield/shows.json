@@ -6,14 +6,13 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "SoMa",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "The Buena Vista Orchestra",
           "apple_label": "close match: The Buena Vista Orchestra",
           "spotify_label": "close match: The Buena Vista Orchestra",
-          "match_label": "close match: The Buena Vista Orchestra | close match: The Buena Vista Orchestra",
           "spotify_source": "api"
         }
       ],
@@ -58,7 +55,6 @@
       ],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1428072/buena-vista-orchestra-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -81,7 +77,6 @@
           "matched": "Kino",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -93,7 +88,6 @@
       ],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1394481/kino-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -116,7 +110,6 @@
           "matched": "Vince Staples",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -129,7 +122,6 @@
           "matched": "Glare",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -140,7 +132,6 @@
       ],
       "set_format": null,
       "date": "2026-11-15",
-      "date_label": "Sun 2026-11-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1486743/vince-staples-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -163,7 +154,6 @@
           "matched": "RØZ",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -175,7 +165,6 @@
       ],
       "set_format": null,
       "date": "2026-11-19",
-      "date_label": "Thu 2026-11-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1556908/roz-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -198,7 +187,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Song Wongeun @ 78%)",
-          "match_label": "no confident match (closest: Song Wongeun @ 78%)",
           "spotify_source": null
         }
       ],
@@ -208,7 +196,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-23",
-      "date_label": "Mon 2026-11-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1613808/song-dongye-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -231,7 +218,6 @@
           "matched": "Cookies",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -244,7 +230,6 @@
           "matched": "Berner",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -255,7 +240,6 @@
           "matched": "Paul Wall",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -266,7 +250,6 @@
           "matched": "Baby Bash",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -277,7 +260,6 @@
       ],
       "set_format": null,
       "date": "2026-12-04",
-      "date_label": "Fri 2026-12-04",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1640656/cookies-christmas-2026-ft-berner-paul-wall-baby-bash-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -300,7 +282,6 @@
           "matched": "XLOV",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -310,7 +291,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-15",
-      "date_label": "Tue 2026-12-15",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.axs.com/events/1651188/xlov-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -333,7 +313,6 @@
           "matched": "ALLEYCVT",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -346,7 +325,6 @@
           "matched": "SIPPY",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         },
         {
@@ -357,7 +335,6 @@
           "matched": "MACHAKI",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -368,7 +345,6 @@
       ],
       "set_format": null,
       "date": "2027-01-21",
-      "date_label": "Thu 2027-01-21",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1649341/alleycvt-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -391,7 +367,6 @@
           "matched": "Foil Arms and Hog",
           "apple_label": null,
           "spotify_label": "no confident match (closest: Arm's Length @ 48%)",
-          "match_label": "no confident match (closest: Arm's Length @ 48%)",
           "spotify_source": null
         }
       ],
@@ -403,7 +378,6 @@
       ],
       "set_format": null,
       "date": "2027-03-13",
-      "date_label": "Sat 2027-03-13",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.axs.com/events/1633750/foil-arms-and-hog-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -426,7 +400,6 @@
           "matched": "Calema",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -438,7 +411,6 @@
       ],
       "set_format": null,
       "date": "2027-03-20",
-      "date_label": "Sat 2027-03-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1518697/calema-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -461,7 +433,6 @@
           "matched": "Lucky Daye",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -473,7 +444,6 @@
       ],
       "set_format": null,
       "date": "2027-04-08",
-      "date_label": "Thu 2027-04-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1656986/lucky-daye-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
@@ -496,7 +466,6 @@
           "matched": "Valery Meladze",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "api"
         }
       ],
@@ -508,7 +477,6 @@
       ],
       "set_format": null,
       "date": "2027-05-16",
-      "date_label": "Sun 2027-05-16",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1378832/valery-meladze-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",

@@ -6,14 +6,13 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "schema": 3,
+  "schema": 4,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
     "show_title": "free_string",
     "set_format": "free_string",
     "date": "date",
-    "date_label": "date_label",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
@@ -28,7 +27,6 @@
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
     "artist.spotify_label": "free_string",
-    "artist.match_label": "free_string",
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-23",
@@ -46,7 +44,6 @@
           "matched": "Sawyer Hill",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -59,7 +56,6 @@
           "matched": "Never Ending Fall",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -68,7 +64,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-20",
-      "date_label": "Tue 2026-10-20",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/postponed-sawyer-hill-the-independent-tickets/14972813?pl=independentsf&REFID=clientsitewp",
@@ -91,7 +86,6 @@
           "matched": "City of the Sun",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -104,7 +98,6 @@
           "matched": "Valley Wolf",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -113,7 +106,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-21",
-      "date_label": "Wed 2026-10-21",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/postponed-city-of-the-independent-tickets/14249664?pl=independentsf&REFID=clientsitewp",
@@ -136,7 +128,6 @@
           "matched": "Frankie Cosmos",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -149,7 +140,6 @@
           "matched": "Gabby’s World",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -158,7 +148,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-22",
-      "date_label": "Thu 2026-10-22",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/frankie-cosmos-celebrating-the-independent-tickets/14919283?pl=independentsf&REFID=clientsitewp",
@@ -181,7 +170,6 @@
           "matched": "Frog",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -194,7 +182,6 @@
           "matched": "mildred",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -203,7 +190,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-23",
-      "date_label": "Fri 2026-10-23",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": null,
@@ -226,7 +212,6 @@
           "matched": "Everclear",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -239,7 +224,6 @@
           "matched": "American Hi-Fi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -248,7 +232,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-24",
-      "date_label": "Sat 2026-10-24",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/everclear-with-american-hi-fi-the-independent-tickets/14924703?pl=independentsf&REFID=clientsitewp",
@@ -271,7 +254,6 @@
           "matched": "BALTHVS",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -284,7 +266,6 @@
           "matched": "Slow Coast",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -293,7 +274,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-25",
-      "date_label": "Sun 2026-10-25",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -316,7 +296,6 @@
           "matched": "The Wldlfe",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -329,7 +308,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -338,7 +316,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-27",
-      "date_label": "Tue 2026-10-27",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-wldlfe-the-independent-tickets/14202564?pl=independentsf&REFID=clientsitewp",
@@ -361,7 +338,6 @@
           "matched": "Freak Slug",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -374,7 +350,6 @@
           "matched": "Mamalarky",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -383,7 +358,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-28",
-      "date_label": "Wed 2026-10-28",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/freak-slug-the-independent-tickets/14234574?pl=independentsf&REFID=clientsitewp",
@@ -406,7 +380,6 @@
           "matched": "Patrick Wolf",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -419,7 +392,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: 8D Ahora @ 71%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: 8D Ahora @ 71%)",
           "spotify_source": null
         }
       ],
@@ -428,7 +400,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-29",
-      "date_label": "Thu 2026-10-29",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/patrick-wolf-the-independent-tickets/14993743?pl=independentsf&REFID=clientsitewp",
@@ -451,7 +422,6 @@
           "matched": "High Step Society",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -464,7 +434,6 @@
           "matched": "Habitaat",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -473,7 +442,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-10-30",
-      "date_label": "Fri 2026-10-30",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/high-step-society-the-independent-tickets/14202524?pl=independentsf&REFID=clientsitewp",
@@ -496,7 +464,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -508,7 +475,6 @@
       ],
       "set_format": null,
       "date": "2026-10-31",
-      "date_label": "Sat 2026-10-31",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14303504?pl=independentsf&REFID=clientsitewp",
@@ -531,7 +497,6 @@
           "matched": "SIX60",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -541,7 +506,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-01",
-      "date_label": "Sun 2026-11-01",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/six60-the-independent-tickets/14250904?pl=independentsf&REFID=clientsitewp",
@@ -564,7 +528,6 @@
           "matched": "Lexi Jayde",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -577,7 +540,6 @@
           "matched": "Ally Salort",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -586,7 +548,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-02",
-      "date_label": "Mon 2026-11-02",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lexi-jayde-the-independent-tickets/14289744?pl=independentsf&REFID=clientsitewp",
@@ -609,7 +570,6 @@
           "matched": "Gilla Band",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -622,7 +582,6 @@
           "matched": "Annie-Claude Deschênes",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -631,7 +590,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-03",
-      "date_label": "Tue 2026-11-03",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gilla-band-the-independent-tickets/14941553?pl=independentsf&REFID=clientsitewp",
@@ -654,7 +612,6 @@
           "matched": "INOHA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -667,7 +624,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -676,7 +632,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "date_label": "Wed 2026-11-04",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/inoha-the-independent-tickets/14208834?pl=independentsf&REFID=clientsitewp",
@@ -699,7 +654,6 @@
           "matched": "Greg Freeman",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -712,7 +666,6 @@
           "matched": "Trinity Ace",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -721,7 +674,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-05",
-      "date_label": "Thu 2026-11-05",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/greg-freeman-the-independent-tickets/14256774?pl=independentsf&REFID=clientsitewp",
@@ -744,7 +696,6 @@
           "matched": "King Buffalo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -757,7 +708,6 @@
           "matched": "L.A. WITCH",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -766,7 +716,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
-      "date_label": "Fri 2026-11-06",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/king-buffalo-the-independent-tickets/14925533?pl=independentsf&REFID=clientsitewp",
@@ -789,7 +738,6 @@
           "matched": "Karina Rykman",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -802,7 +750,6 @@
           "matched": "Roni Kaspi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -811,7 +758,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
-      "date_label": "Sat 2026-11-07",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/karina-rykman-the-independent-tickets/14202474?pl=independentsf&REFID=clientsitewp",
@@ -834,7 +780,6 @@
           "matched": "THAO",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -847,7 +792,6 @@
           "matched": "Agouti",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -856,7 +800,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
-      "date_label": "Sun 2026-11-08",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/thao-the-independent-tickets/14995473?pl=independentsf&REFID=clientsitewp",
@@ -879,7 +822,6 @@
           "matched": "Weston Estate",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -892,7 +834,6 @@
           "matched": "Hojean",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -901,7 +842,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-09",
-      "date_label": "Mon 2026-11-09",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/14310194?pl=independentsf&REFID=clientsitewp",
@@ -924,7 +864,6 @@
           "matched": "Weston Estate",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -937,7 +876,6 @@
           "matched": "Hojean",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -946,7 +884,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-10",
-      "date_label": "Tue 2026-11-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -969,7 +906,6 @@
           "matched": "Stop Light Observations",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -982,7 +918,6 @@
           "matched": "RUNNER",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -993,7 +928,6 @@
           "matched": "BOBBY",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1002,7 +936,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-11",
-      "date_label": "Wed 2026-11-11",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/stop-light-observations-the-independent-tickets/14936543?pl=independentsf&REFID=clientsitewp",
@@ -1025,7 +958,6 @@
           "matched": "Stephen Day",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1038,7 +970,6 @@
           "matched": "Elysia Biro",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1047,7 +978,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
-      "date_label": "Thu 2026-11-12",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/stephen-day-the-independent-tickets/14975963?pl=independentsf&REFID=clientsitewp",
@@ -1070,7 +1000,6 @@
           "matched": "Whitmer Thomas",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1083,7 +1012,6 @@
           "matched": "La Tatum",
           "apple_label": "close match: La Tatum",
           "spotify_label": null,
-          "match_label": "close match: La Tatum",
           "spotify_source": null
         }
       ],
@@ -1092,7 +1020,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
-      "date_label": "Fri 2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/whitmer-thomas-the-independent-tickets/15036013?pl=independentsf&REFID=clientsitewp",
@@ -1115,7 +1042,6 @@
           "matched": "Sean Hayes",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1128,7 +1054,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -1139,7 +1064,6 @@
           "matched": "Katzroar",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -1150,7 +1074,6 @@
           "matched": "Etienne de Rocher",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1159,7 +1082,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
-      "date_label": "Sat 2026-11-14",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sean-hayes-with-katzroar-and-the-independent-tickets/14978523?pl=independentsf&REFID=clientsitewp",
@@ -1182,7 +1104,6 @@
           "matched": "Silverada",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1195,7 +1116,6 @@
           "matched": "Emily Nenni",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1204,7 +1124,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-17",
-      "date_label": "Tue 2026-11-17",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/silverada-the-independent-tickets/14985543?pl=independentsf&REFID=clientsitewp",
@@ -1227,7 +1146,6 @@
           "matched": "Icona Pop",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1237,7 +1155,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-18",
-      "date_label": "Wed 2026-11-18",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/icona-pop-the-independent-tickets/15047023?pl=independentsf&REFID=clientsitewp",
@@ -1260,7 +1177,6 @@
           "matched": "Pretty Sick",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1273,7 +1189,6 @@
           "matched": "Sex Week",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1282,7 +1197,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-19",
-      "date_label": "Thu 2026-11-19",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/pretty-sick-the-independent-tickets/15030033?pl=independentsf&REFID=clientsitewp",
@@ -1305,7 +1219,6 @@
           "matched": "Nick Cheo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1315,7 +1228,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
-      "date_label": "Fri 2026-11-20",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/nickcheo-the-tour-the-movie-the-independent-tickets/14287224?pl=independentsf&REFID=clientsitewp",
@@ -1338,7 +1250,6 @@
           "matched": "Q Marsden",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1351,7 +1262,6 @@
           "matched": "Rahm",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1360,7 +1270,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
-      "date_label": "Sat 2026-11-21",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/q-marsden-the-independent-tickets/15020333?pl=independentsf&REFID=clientsitewp",
@@ -1383,7 +1292,6 @@
           "matched": "mark william lewis",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1393,7 +1301,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-22",
-      "date_label": "Sun 2026-11-22",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mark-william-lewis-the-independent-tickets/14271174?pl=independentsf&REFID=clientsitewp",
@@ -1416,7 +1323,6 @@
           "matched": "1 Umbrella",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1426,7 +1332,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
-      "date_label": "Wed 2026-11-25",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/1-umbrella-the-independent-tickets/14316614?pl=independentsf&REFID=clientsitewp",
@@ -1449,7 +1354,6 @@
           "matched": "O'Flynn",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1459,7 +1363,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-27",
-      "date_label": "Fri 2026-11-27",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/oflynn-the-independent-tickets/15043633?pl=independentsf&REFID=clientsitewp",
@@ -1482,7 +1385,6 @@
           "matched": "Oden & Fatzo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1492,7 +1394,6 @@
       "presenters": [],
       "set_format": "Live",
       "date": "2026-11-28",
-      "date_label": "Sat 2026-11-28",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/oden-fatzo-live-the-independent-tickets/14330754?pl=independentsf&REFID=clientsitewp",
@@ -1515,7 +1416,6 @@
           "matched": "UNKLE",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1525,7 +1425,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-30",
-      "date_label": "Mon 2026-11-30",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/unkle-the-independent-tickets/14322434?pl=independentsf&REFID=clientsitewp",
@@ -1548,7 +1447,6 @@
           "matched": "The Buttertones",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1561,7 +1459,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Ale Sergi @ 36%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: Ale Sergi @ 36%)",
           "spotify_source": null
         }
       ],
@@ -1570,7 +1467,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-02",
-      "date_label": "Wed 2026-12-02",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-buttertones-the-independent-tickets/14308734?pl=independentsf&REFID=clientsitewp",
@@ -1593,7 +1489,6 @@
           "matched": "MEEK",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1606,7 +1501,6 @@
           "matched": "The Blushes",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1615,7 +1509,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-03",
-      "date_label": "Thu 2026-12-03",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/meek-the-independent-tickets/14941923?pl=independentsf&REFID=clientsitewp",
@@ -1638,7 +1531,6 @@
           "matched": "Nirosta Steel",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1651,7 +1543,6 @@
           "matched": "John Errol",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1660,7 +1551,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-04",
-      "date_label": "Fri 2026-12-04",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/nirosta-steel-the-independent-tickets/14372924?pl=independentsf&REFID=clientsitewp",
@@ -1683,7 +1573,6 @@
           "matched": "Dragon Smoke",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1696,7 +1585,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1705,7 +1593,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-05",
-      "date_label": "Sat 2026-12-05",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dragon-smoke-the-independent-tickets/14242194?pl=independentsf&REFID=clientsitewp",
@@ -1728,7 +1615,6 @@
           "matched": "Fireworks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1741,7 +1627,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1750,7 +1635,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-06",
-      "date_label": "Sun 2026-12-06",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/fireworks-the-independent-tickets/14256724?pl=independentsf&REFID=clientsitewp",
@@ -1773,7 +1657,6 @@
           "matched": "Wishy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1786,7 +1669,6 @@
           "matched": "The Umbrellas",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1795,7 +1677,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-08",
-      "date_label": "Tue 2026-12-08",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wishy-the-independent-tickets/15032533?pl=independentsf&REFID=clientsitewp",
@@ -1818,7 +1699,6 @@
           "matched": "feeble little horse",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1831,7 +1711,6 @@
           "matched": "Mop",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1840,7 +1719,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-09",
-      "date_label": "Wed 2026-12-09",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14244224?pl=independentsf&REFID=clientsitewp",
@@ -1863,7 +1741,6 @@
           "matched": "feeble little horse",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1876,7 +1753,6 @@
           "matched": "Mop",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -1885,7 +1761,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-10",
-      "date_label": "Thu 2026-12-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -1908,7 +1783,6 @@
           "matched": "THE BOBBY LEES",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1921,7 +1795,6 @@
           "matched": "MUTTLEE",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1930,7 +1803,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-11",
-      "date_label": "Fri 2026-12-11",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-bobby-lees-the-independent-tickets/14911093?pl=independentsf&REFID=clientsitewp",
@@ -1953,7 +1825,6 @@
           "matched": "the olllam",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1963,7 +1834,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-12",
-      "date_label": "Sat 2026-12-12",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-olllam-the-independent-tickets/15016313?pl=independentsf&REFID=clientsitewp",
@@ -1986,7 +1856,6 @@
           "matched": "Swervedriver",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -1999,7 +1868,6 @@
           "matched": "Bleary Eyed",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2010,7 +1878,6 @@
       ],
       "set_format": null,
       "date": "2026-12-13",
-      "date_label": "Sun 2026-12-13",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/swervedriver-raise-at-35-the-independent-tickets/14914723?pl=independentsf&REFID=clientsitewp",
@@ -2033,7 +1900,6 @@
           "matched": "Willi Carlisle",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2046,7 +1912,6 @@
           "matched": "Amelia Day",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2055,7 +1920,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-14",
-      "date_label": "Mon 2026-12-14",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/willi-carlisle-the-independent-tickets/14249684?pl=independentsf&REFID=clientsitewp",
@@ -2078,7 +1942,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2091,7 +1954,6 @@
           "matched": "Charlene Kaye",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -2102,7 +1964,6 @@
           "matched": "Lena Hall",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -2113,7 +1974,6 @@
           "matched": "Meg Toohey",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2124,7 +1984,6 @@
       ],
       "set_format": null,
       "date": "2026-12-15",
-      "date_label": "Tue 2026-12-15",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -2147,7 +2006,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2160,7 +2018,6 @@
           "matched": "Charlene Kaye",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -2171,7 +2028,6 @@
           "matched": "Lena Hall",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         },
         {
@@ -2182,7 +2038,6 @@
           "matched": "Meg Toohey",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2193,7 +2048,6 @@
       ],
       "set_format": null,
       "date": "2026-12-16",
-      "date_label": "Wed 2026-12-16",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/labiahead-california-tour-the-independent-tickets/14339454?pl=independentsf&REFID=clientsitewp",
@@ -2216,7 +2070,6 @@
           "matched": "The Polish Ambassador",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2229,7 +2082,6 @@
           "matched": "Elysian Moon",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2238,7 +2090,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-17",
-      "date_label": "Thu 2026-12-17",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-polish-ambassador-the-independent-tickets/14368804?pl=independentsf&REFID=clientsitewp",
@@ -2261,7 +2112,6 @@
           "matched": "Petey USA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2274,7 +2124,6 @@
           "matched": "Linus Hablot",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2283,7 +2132,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-18",
-      "date_label": "Fri 2026-12-18",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/petey-usa-the-independent-tickets/14323854?pl=independentsf&REFID=clientsitewp",
@@ -2306,7 +2154,6 @@
           "matched": "Ray & Paul",
           "apple_label": "close match: Ray & Paul",
           "spotify_label": null,
-          "match_label": "close match: Ray & Paul",
           "spotify_source": "venue"
         }
       ],
@@ -2316,7 +2163,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-23",
-      "date_label": "Wed 2026-12-23",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ray-and-paul-the-independent-tickets/14380014?pl=independentsf&REFID=clientsitewp",
@@ -2339,7 +2185,6 @@
           "matched": null,
           "apple_label": "no confident match (closest: Slightly Stoopid @ 55%)",
           "spotify_label": null,
-          "match_label": "no confident match (closest: Slightly Stoopid @ 55%)",
           "spotify_source": null
         }
       ],
@@ -2349,7 +2194,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-07",
-      "date_label": "Thu 2027-01-07",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/live-on-the-stoop-the-independent-tickets/14316534?pl=independentsf&REFID=clientsitewp",
@@ -2372,7 +2216,6 @@
           "matched": "Com Truise",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -2383,7 +2226,6 @@
           "matched": "Matthew Dear",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2393,7 +2235,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-08",
-      "date_label": "Fri 2027-01-08",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/com-truise-b2b-matthew-dear-the-independent-tickets/14244884?pl=independentsf&REFID=clientsitewp",
@@ -2416,7 +2257,6 @@
           "matched": "Scott Pemberton",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2429,7 +2269,6 @@
           "matched": "Westones",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         },
         {
@@ -2440,7 +2279,6 @@
           "matched": "Boot Juice",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2449,7 +2287,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-09",
-      "date_label": "Sat 2027-01-09",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/scott-pemberton-the-westones-the-independent-tickets/14372974?pl=independentsf&REFID=clientsitewp",
@@ -2472,7 +2309,6 @@
           "matched": "Sister Nancy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2485,7 +2321,6 @@
           "matched": "Reggae Angels",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2494,7 +2329,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-15",
-      "date_label": "Fri 2027-01-15",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sister-nancy-the-steady-the-independent-tickets/14337734?pl=independentsf&REFID=clientsitewp",
@@ -2517,7 +2351,6 @@
           "matched": "Taper's Choice",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2527,7 +2360,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-16",
-      "date_label": "Sat 2027-01-16",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tapers-choice-the-independent-tickets/14376584?pl=independentsf&REFID=clientsitewp",
@@ -2550,7 +2382,6 @@
           "matched": "STS9",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2560,7 +2391,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-17",
-      "date_label": "Sun 2027-01-17",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -2583,7 +2413,6 @@
           "matched": "The Brothers Comatose",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2593,7 +2422,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-22",
-      "date_label": "Fri 2027-01-22",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-the-independent-tickets/14386564?pl=independentsf&REFID=clientsitewp",
@@ -2616,7 +2444,6 @@
           "matched": "The Brothers Comatose",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2626,7 +2453,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-23",
-      "date_label": "Sat 2027-01-23",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-the-independent-tickets/14393624?pl=independentsf&REFID=clientsitewp",
@@ -2649,7 +2475,6 @@
           "matched": "The Flatliners",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2659,7 +2484,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-26",
-      "date_label": "Tue 2027-01-26",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-flatliners-the-independent-tickets/14376674?pl=independentsf&REFID=clientsitewp",
@@ -2682,7 +2506,6 @@
           "matched": "Mollie Elizabeth",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2692,7 +2515,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-27",
-      "date_label": "Wed 2027-01-27",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mollie-elizabeth-the-independent-tickets/14378904?pl=independentsf&REFID=clientsitewp",
@@ -2715,7 +2537,6 @@
           "matched": "Winona Fighter",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2725,7 +2546,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-31",
-      "date_label": "Sun 2027-01-31",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/winona-fighter-the-independent-tickets/14371464?pl=independentsf&REFID=clientsitewp",
@@ -2748,7 +2568,6 @@
           "matched": "Lotus",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2761,7 +2580,6 @@
           "matched": "Michael Wilbur",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2770,7 +2588,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-04",
-      "date_label": "Thu 2027-02-04",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lotus-the-independent-tickets/14371534?pl=independentsf&REFID=clientsitewp",
@@ -2793,7 +2610,6 @@
           "matched": "Odezenne",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2803,7 +2619,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-05",
-      "date_label": "Fri 2027-02-05",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/odezenne-the-independent-tickets/14377563?pl=independentsf&REFID=clientsitewp",
@@ -2826,7 +2641,6 @@
           "matched": "Romare",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2836,7 +2650,6 @@
       "presenters": [],
       "set_format": "Live + DJ",
       "date": "2027-02-06",
-      "date_label": "Sat 2027-02-06",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/romare-live-dj-the-independent-tickets/14330644?pl=independentsf&REFID=clientsitewp",
@@ -2859,7 +2672,6 @@
           "matched": "Ely Oaks",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2869,7 +2681,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-12",
-      "date_label": "Fri 2027-02-12",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ely-oaks-the-independent-tickets/14334634?pl=independentsf&REFID=clientsitewp",
@@ -2892,7 +2703,6 @@
           "matched": "Ikkimel",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2902,7 +2712,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-14",
-      "date_label": "Sun 2027-02-14",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": null,
@@ -2925,7 +2734,6 @@
           "matched": "Fink",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2938,7 +2746,6 @@
           "matched": "Maggie Koerner",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -2947,7 +2754,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-19",
-      "date_label": "Fri 2027-02-19",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/fink-the-independent-tickets/14283824?pl=independentsf&REFID=clientsitewp",
@@ -2970,7 +2776,6 @@
           "matched": "Bella Poarch",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -2982,7 +2787,6 @@
       ],
       "set_format": null,
       "date": "2027-02-21",
-      "date_label": "Sun 2027-02-21",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bella-poarch-the-independent-tickets/14360184?pl=independentsf&REFID=clientsitewp",
@@ -3005,7 +2809,6 @@
           "matched": "Lady Radiator",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3015,7 +2818,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-22",
-      "date_label": "Mon 2027-02-22",
       "doors": "8:00 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/lady-radiator-the-independent-tickets/14392254?pl=independentsf&REFID=clientsitewp",
@@ -3038,7 +2840,6 @@
           "matched": "Way Dynamic",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3048,7 +2849,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-24",
-      "date_label": "Wed 2027-02-24",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/way-dynamic-the-independent-tickets/14940163?pl=independentsf&REFID=clientsitewp",
@@ -3071,7 +2871,6 @@
           "matched": "Jack Kays",
           "apple_label": "compound bill — links to Jack Kays only",
           "spotify_label": null,
-          "match_label": "compound bill — links to Jack Kays only",
           "spotify_source": null
         }
       ],
@@ -3084,7 +2883,6 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -3093,7 +2891,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-26",
-      "date_label": "Fri 2027-02-26",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jack-kays-and-his-band-the-independent-tickets/14343254?pl=independentsf&REFID=clientsitewp",
@@ -3116,7 +2913,6 @@
           "matched": "Valley",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3129,7 +2925,6 @@
           "matched": "Moody Joody",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -3138,7 +2933,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-01",
-      "date_label": "Mon 2027-03-01",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/valley-the-independent-tickets/14320594?pl=independentsf&REFID=clientsitewp",
@@ -3161,7 +2955,6 @@
           "matched": "Vincent Lima",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -3171,7 +2964,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-02",
-      "date_label": "Tue 2027-03-02",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/vincent-lima-the-independent-tickets/14386514?pl=independentsf&REFID=clientsitewp",
@@ -3194,7 +2986,6 @@
           "matched": "Tommy Lefroy",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3207,7 +2998,6 @@
           "matched": "Al Olender",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -3216,7 +3006,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-03",
-      "date_label": "Wed 2027-03-03",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tommy-lefroy-the-independent-tickets/14386114?pl=independentsf&REFID=clientsitewp",
@@ -3239,7 +3028,6 @@
           "matched": "Rayland Baxter",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3249,7 +3037,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-06",
-      "date_label": "Sat 2027-03-06",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rayland-baxter-the-independent-tickets/14330704?pl=independentsf&REFID=clientsitewp",
@@ -3272,7 +3059,6 @@
           "matched": "Danielle Ponder",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3282,7 +3068,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-07",
-      "date_label": "Sun 2027-03-07",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/danielle-ponder-the-independent-tickets/14372874?pl=independentsf&REFID=clientsitewp",
@@ -3305,7 +3090,6 @@
           "matched": "strongboi",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3318,7 +3102,6 @@
           "matched": "Salami Rose Joe Louis",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3327,7 +3110,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-09",
-      "date_label": "Tue 2027-03-09",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/strongboi-san-francisco-california-03-09-2027/event/1C00652FE40F6173?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
@@ -3350,7 +3132,6 @@
           "matched": "Ruby Waters",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3360,7 +3141,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-13",
-      "date_label": "Sat 2027-03-13",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ruby-waters-the-independent-tickets/14383214?pl=independentsf&REFID=clientsitewp",
@@ -3383,7 +3163,6 @@
           "matched": "Dogma",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -3396,7 +3175,6 @@
           "matched": "Frayle",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": null
         }
       ],
@@ -3405,7 +3183,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-17",
-      "date_label": "Wed 2027-03-17",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/postponed-dogma-the-independent-tickets/14097354?pl=independentsf&REFID=clientsitewp",
@@ -3428,7 +3205,6 @@
           "matched": "Hans Williams",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3438,7 +3214,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-24",
-      "date_label": "Wed 2027-03-24",
       "doors": "8:00 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/hans-williams-the-independent-tickets/14363934?pl=independentsf&REFID=clientsitewp",
@@ -3461,7 +3236,6 @@
           "matched": "dan and peggy reeder",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3471,7 +3245,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-25",
-      "date_label": "Thu 2027-03-25",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dan-and-peggy-reeder-the-independent-tickets/14246554?pl=independentsf&REFID=clientsitewp",
@@ -3494,7 +3267,6 @@
           "matched": "Camel Power Club",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3504,7 +3276,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-31",
-      "date_label": "Wed 2027-03-31",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/camel-power-club-the-independent-tickets/14373164?pl=independentsf&REFID=clientsitewp",
@@ -3527,7 +3298,6 @@
           "matched": "Rikas",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3537,7 +3307,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-02",
-      "date_label": "Fri 2027-04-02",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rikas-the-independent-tickets/14391504?pl=independentsf&REFID=clientsitewp",
@@ -3560,7 +3329,6 @@
           "matched": "Iceage",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3570,7 +3338,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-05",
-      "date_label": "Mon 2027-04-05",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/iceage-the-independent-tickets/15021433?pl=independentsf&REFID=clientsitewp",
@@ -3593,7 +3360,6 @@
           "matched": "Clap Your Hands Say Yeah",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3603,7 +3369,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-14",
-      "date_label": "Wed 2027-04-14",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/clap-your-hands-say-yeah-the-independent-tickets/14393494?pl=independentsf&REFID=clientsitewp",
@@ -3626,7 +3391,6 @@
           "matched": "Too Many Zooz",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3636,7 +3400,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-09",
-      "date_label": "Sun 2027-05-09",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/too-many-zooz-the-independent-tickets/14331044?pl=independentsf&REFID=clientsitewp",
@@ -3659,7 +3422,6 @@
           "matched": "cleopatrick",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3669,7 +3431,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-10",
-      "date_label": "Mon 2027-05-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/cleopatrick-the-independent-tickets/14369154?pl=independentsf&REFID=clientsitewp",
@@ -3692,7 +3453,6 @@
           "matched": "Keo",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3702,7 +3462,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-05-17",
-      "date_label": "Mon 2027-05-17",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/keo-the-independent-tickets/14356984?pl=independentsf&REFID=clientsitewp",
@@ -3725,7 +3484,6 @@
           "matched": "CTE Presents",
           "apple_label": "close match: CTE Presents",
           "spotify_label": null,
-          "match_label": "close match: CTE Presents",
           "spotify_source": null
         }
       ],
@@ -3737,7 +3495,6 @@
       ],
       "set_format": null,
       "date": "2027-06-05",
-      "date_label": "Sat 2027-06-05",
       "doors": "2:00 pm",
       "show_time": "2:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/cg5-presents-the-gamer-tour-the-independent-tickets/14386654?pl=independentsf&REFID=clientsitewp",
@@ -3760,7 +3517,6 @@
           "matched": "EVAN GIIA",
           "apple_label": null,
           "spotify_label": null,
-          "match_label": null,
           "spotify_source": "venue"
         }
       ],
@@ -3770,7 +3526,6 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-07-10",
-      "date_label": "Sat 2027-07-10",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/evan-giia-the-independent-tickets/14207294?pl=independentsf&REFID=clientsitewp",
