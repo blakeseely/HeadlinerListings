@@ -38,7 +38,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 | `count` | int | `len(shows)` |
 | `shows` | array | sorted ascending by date; no duplicates within a file |
 
-## Venue file: show record (17 keys, every show)
+## Venue file: show record (18 keys, every show)
 | field | hint | vocabulary |
 |---|---|---|
 | `event_type` | **controlled** | `music` \| `comedy` \| `film` \| `other` \| null |
@@ -120,5 +120,5 @@ a per-file `value_domains`; these are the union):
 - **3** (2026-10-23) — removed the per-artist `found` key (redundant with
   `apple_music`).
 - **4** (2026-10-23) — removed `date_label` (show) and `match_label` (artist);
-  both are pure projections of other fields. Shows are now 17 keys, artists
+  both are pure projections of other fields. Shows are now 18 keys, artists
   8 keys.
