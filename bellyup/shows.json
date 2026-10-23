@@ -6,6 +6,32 @@
   "city": "Solana Beach, CA",
   "metro": "San Diego",
   "neighborhood": "Solana Beach",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 150,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Spyro Gyra",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -52,7 +80,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (Happy Hour)",
+          "apple_label": null,
+          "spotify_label": "close match: Happy Hour",
+          "match_label": "close match: Happy Hour",
           "spotify_source": "api"
         }
       ],
@@ -84,6 +114,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Spafford",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -116,6 +148,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mother Hips",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -126,7 +160,10 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Billy Shaddox",
-          "match_label": "compound bill — links to Billy Shaddox only; Spotify: no confident match (closest: Billy Currington @ 47%)"
+          "apple_label": "compound bill — links to Billy Shaddox only",
+          "spotify_label": "no confident match (closest: Billy Currington @ 47%)",
+          "match_label": "compound bill — links to Billy Shaddox only | no confident match (closest: Billy Currington @ 47%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -157,6 +194,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jackie Greene",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -167,6 +206,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Alex Bergan",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -199,6 +240,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Rickie Lee Jones",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -231,7 +274,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "Seun Kuti + Egypt 80",
-          "match_label": "close match: Seun Kuti + Egypt 80; Spotify: Seun Kuti",
+          "apple_label": "close match: Seun Kuti + Egypt 80",
+          "spotify_label": null,
+          "match_label": "close match: Seun Kuti + Egypt 80",
           "spotify_source": "api"
         },
         {
@@ -241,6 +286,8 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Dogo Du Togo",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -251,7 +298,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: flyingfish @ 67%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: flyingfish @ 67%)",
+          "match_label": "no confident match (closest: flyingfish @ 67%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -282,6 +332,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wallflowers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -292,6 +344,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Whitmore Sisters",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -324,7 +378,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Atomic Space @ 33%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Space @ 33%)",
+          "match_label": "no confident match (closest: Atomic Space @ 33%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -355,6 +412,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wallflowers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -367,6 +426,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Whitmore Sisters",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -398,6 +459,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wayward Sons",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -408,7 +471,10 @@
           "found": false,
           "confidence": 0.444,
           "matched": null,
-          "match_label": "no confident match (closest: MrTray80 @ 44%); Spotify: no confident match (closest: DJ MR. STONES - O MAGO @ 70%)"
+          "apple_label": "no confident match (closest: MrTray80 @ 44%)",
+          "spotify_label": "no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
+          "match_label": "no confident match (closest: MrTray80 @ 44%) | no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -439,6 +505,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dinosaur Jr.",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -451,6 +519,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Stef Chura",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -482,7 +552,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (David Di Pietro)",
+          "apple_label": null,
+          "spotify_label": "close match: David Di Pietro",
+          "match_label": "close match: David Di Pietro",
           "spotify_source": "api"
         }
       ],
@@ -514,6 +586,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Deer Tick",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -526,6 +600,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Presley Haile",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -557,7 +633,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (David Di Pietro)",
+          "apple_label": null,
+          "spotify_label": "close match: David Di Pietro",
+          "match_label": "close match: David Di Pietro",
           "spotify_source": "api"
         }
       ],
@@ -589,7 +667,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Easy Star All-Stars",
-          "match_label": "close match: Easy Star All-Stars; Spotify: Easy Star All-Stars",
+          "apple_label": "close match: Easy Star All-Stars",
+          "spotify_label": "close match: Easy Star All-Stars",
+          "match_label": "close match: Easy Star All-Stars | close match: Easy Star All-Stars",
           "spotify_source": "api"
         }
       ],
@@ -601,6 +681,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Double Tiger",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -632,7 +714,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Atomic Space @ 24%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Space @ 24%)",
+          "match_label": "no confident match (closest: Atomic Space @ 24%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -663,7 +748,9 @@
           "found": false,
           "confidence": 0.41,
           "matched": null,
-          "match_label": "no confident match (closest: Prince & The Revolution @ 41%); Spotify: Z-Trip",
+          "apple_label": "no confident match (closest: Prince & The Revolution @ 41%)",
+          "spotify_label": "close match: Z-Trip",
+          "match_label": "no confident match (closest: Prince & The Revolution @ 41%) | close match: Z-Trip",
           "spotify_source": "api"
         },
         {
@@ -673,6 +760,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Murs",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -683,6 +772,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Honeycomb",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -693,6 +784,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Chris Karns",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -725,7 +818,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Mister Anderson @ 28%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mister Anderson @ 28%)",
+          "match_label": "no confident match (closest: Mister Anderson @ 28%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -756,6 +852,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "moe.",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -788,7 +886,9 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Core",
-          "match_label": "Spotify: close match (The Cure)",
+          "apple_label": null,
+          "spotify_label": "close match: The Cure",
+          "match_label": "close match: The Cure",
           "spotify_source": "api"
         }
       ],
@@ -820,6 +920,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Melvins",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -830,6 +932,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "HEADSEND",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -862,6 +966,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Automatic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -874,6 +980,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Nuovo Testamento",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -905,7 +1013,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Statik Selektah @ 22%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Statik Selektah @ 22%)",
+          "match_label": "no confident match (closest: Statik Selektah @ 22%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -918,7 +1029,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/brewers-ball-ft-marujah-belly-up-tickets/14336444?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14336444/brewers-ball-ft-marujah-soulseller-lesser-works-hood",
       "room": null,
       "age_rating": null,
@@ -936,7 +1047,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Happy Hour @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Happy Hour @ 70%)",
+          "match_label": "no confident match (closest: Happy Hour @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -949,7 +1063,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/toga-party-band-happy-hour-belly-up-tickets/15046423?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15046423/toga-party-band-happy-hour",
       "room": null,
       "age_rating": null,
@@ -967,6 +1081,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kishi Bashi",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -979,6 +1095,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Geographer",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -992,7 +1110,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kishi-bashi-sonderlust-belly-up-tickets/14807593?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14807593/kishi-bashi-sonderlust-10th-anniversary-tour-w-geographer",
       "room": null,
       "age_rating": null,
@@ -1010,6 +1128,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "War",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1024,7 +1144,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/war-50th-anniversary-belly-up-tickets/14262524?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14262524/war-50th-anniversary-greatest-hits-tour",
       "room": null,
       "age_rating": null,
@@ -1042,7 +1162,9 @@
           "found": true,
           "confidence": 0.815,
           "matched": "Infinite Void",
-          "match_label": "close match: Infinite Void; Spotify: Infinite Flow",
+          "apple_label": "close match: Infinite Void",
+          "spotify_label": "close match: Infinite Flow",
+          "match_label": "close match: Infinite Void | close match: Infinite Flow",
           "spotify_source": "api"
         }
       ],
@@ -1056,7 +1178,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14371654/infinite-floyd-the-essential-hits",
       "room": null,
       "age_rating": null,
@@ -1074,7 +1196,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Michael Franti",
-          "match_label": "close match: Michael Franti; Spotify: Michael Franti",
+          "apple_label": "close match: Michael Franti",
+          "spotify_label": "close match: Michael Franti",
+          "match_label": "close match: Michael Franti | close match: Michael Franti",
           "spotify_source": "api"
         }
       ],
@@ -1086,7 +1210,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "Wheeland Brothers",
-          "match_label": "close match: Wheeland Brothers; Spotify: Wheeland Brothers",
+          "apple_label": "close match: Wheeland Brothers",
+          "spotify_label": "close match: Wheeland Brothers",
+          "match_label": "close match: Wheeland Brothers | close match: Wheeland Brothers",
           "spotify_source": "api"
         }
       ],
@@ -1099,7 +1225,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/michael-franti-trio-belly-up-tickets/14262304?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14262304/michael-franti-trio-heartstrings-dynamite-w-the-wheeland-brothers-acoustic",
       "room": null,
       "age_rating": null,
@@ -1117,6 +1243,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "John Scofield",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1127,6 +1255,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Oteil Burbridge",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1137,6 +1267,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Larry Goldings",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1147,6 +1279,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Adam Deitch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1161,7 +1295,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800693?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14800693/john-scofield-oteil-burbridge-larry-goldings-adam-deitch",
       "room": null,
       "age_rating": null,
@@ -1179,6 +1313,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "John Scofield",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1189,6 +1325,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Oteil Burbridge",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1199,6 +1337,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Larry Goldings",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1209,6 +1349,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Adam Deitch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1223,7 +1365,7 @@
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800703?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14800703/john-scofield-oteil-burbridge-larry-goldings-adam-deitch",
       "room": null,
       "age_rating": null,
@@ -1241,6 +1383,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Howie Day",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1251,6 +1395,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Matthew Phillips",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1265,7 +1411,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/howie-day-matthew-phillips-belly-up-tickets/15008973?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15008973/howie-day-matthew-phillips",
       "room": null,
       "age_rating": null,
@@ -1283,6 +1429,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lizzy & The Triggermen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1293,6 +1441,8 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1307,7 +1457,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/lizzy-the-triggermen-grey-belly-up-tickets/15032413?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15032413/lizzy-the-triggermen-grey-delisle-the-blue-ribbon-boys",
       "room": null,
       "age_rating": null,
@@ -1325,7 +1475,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Atomic Space @ 32%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Space @ 32%)",
+          "match_label": "no confident match (closest: Atomic Space @ 32%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1338,7 +1491,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-halloween-boo-bash-belly-up-tickets/14999913?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14999913/atomic-grooves-halloween-boo-bash-dance-party-happy-hour",
       "room": null,
       "age_rating": null,
@@ -1356,7 +1509,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Dead Man's Bones @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dead Man's Bones @ 70%)",
+          "match_label": "no confident match (closest: Dead Man's Bones @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1369,7 +1525,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dead-mans-party-halloween-bash-belly-up-tickets/14103374?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14103374/dead-mans-party-halloween-bash",
       "room": null,
       "age_rating": null,
@@ -1387,7 +1543,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Halloween Witches @ 77%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Halloween Witches @ 77%)",
+          "match_label": "no confident match (closest: Halloween Witches @ 77%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1398,7 +1557,10 @@
           "found": false,
           "confidence": 0.727,
           "matched": null,
-          "match_label": "no confident match (closest: 80s HeartBeat @ 73%); Spotify: no confident match (closest: Heart @ 57%)"
+          "apple_label": "no confident match (closest: 80s HeartBeat @ 73%)",
+          "spotify_label": "no confident match (closest: Heart @ 57%)",
+          "match_label": "no confident match (closest: 80s HeartBeat @ 73%) | no confident match (closest: Heart @ 57%)",
+          "spotify_source": null
         },
         {
           "name": "Bella Lux",
@@ -1407,6 +1569,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bella Lux",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1417,7 +1581,10 @@
           "found": false,
           "confidence": 0.769,
           "matched": null,
-          "match_label": "no confident match (closest: Senzø @ 77%); Spotify: no confident match (closest: Senzø @ 77%)"
+          "apple_label": "no confident match (closest: Senzø @ 77%)",
+          "spotify_label": "no confident match (closest: Senzø @ 77%)",
+          "match_label": "no confident match (closest: Senzø @ 77%) | no confident match (closest: Senzø @ 77%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1429,7 +1596,7 @@
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/halloween-heat-featuring-80s-heat-belly-up-tickets/15000673?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000673/halloween-heat-featuring-80s-heat-bella-lux-dj-senzo",
       "room": null,
       "age_rating": null,
@@ -1447,6 +1614,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Samantha Fish",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1459,7 +1628,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: North Mississippi Allstars @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: North Mississippi Allstars @ 70%)",
+          "match_label": "no confident match (closest: North Mississippi Allstars @ 70%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1471,7 +1643,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/samantha-fish-paper-belly-up-tickets/14203664?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14203664/samantha-fish-paper-doll-live-world-tour-w-cody-dickinson-of-north-mississippi-allstars",
       "room": null,
       "age_rating": null,
@@ -1489,7 +1661,9 @@
           "found": true,
           "confidence": 0.95,
           "matched": "FITZ",
-          "match_label": "compound bill — links to FITZ only; Spotify: FITZ",
+          "apple_label": "compound bill — links to FITZ only",
+          "spotify_label": null,
+          "match_label": "compound bill — links to FITZ only",
           "spotify_source": "api"
         }
       ],
@@ -1503,7 +1677,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14935873/fitz-and-the-tantrums-picking-up-the-pieces-in-its-entirety",
       "room": null,
       "age_rating": null,
@@ -1521,6 +1695,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Fitz and The Tantrums",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1535,7 +1711,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14935903/fitz-and-the-tantrums-greatest-hits-show",
       "room": null,
       "age_rating": null,
@@ -1553,6 +1729,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Don McLean",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1567,7 +1745,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/don-mclean-celebrating-belly-up-tickets/14140644?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14140644/don-mclean-celebrating-americas-250th-birthday",
       "room": null,
       "age_rating": null,
@@ -1585,7 +1763,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Electric Wizard @ 53%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Electric Wizard @ 53%)",
+          "match_label": "no confident match (closest: Electric Wizard @ 53%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1598,7 +1779,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/electric-waste-band-happy-hour-belly-up-tickets/14336674?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14336674/electric-waste-band-happy-hour-a-benefit-for-the-bill-walton-foundation",
       "room": null,
       "age_rating": null,
@@ -1616,6 +1797,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ozomatli",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1626,6 +1809,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Seapoodle",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1640,7 +1825,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ozomatli-seapoodle-belly-up-tickets/14288554?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14288554/ozomatli-seapoodle",
       "room": null,
       "age_rating": null,
@@ -1658,7 +1843,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Mustard @ 55%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mustard @ 55%)",
+          "match_label": "no confident match (closest: Mustard @ 55%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1669,7 +1857,9 @@
           "found": false,
           "confidence": 0.133,
           "matched": null,
-          "match_label": "no confident match (closest: ATEEZ @ 13%); Spotify: 80's Midnight Radio",
+          "apple_label": "no confident match (closest: ATEEZ @ 13%)",
+          "spotify_label": "close match: 80's Midnight Radio",
+          "match_label": "no confident match (closest: ATEEZ @ 13%) | close match: 80's Midnight Radio",
           "spotify_source": "api"
         }
       ],
@@ -1682,7 +1872,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mustache-harbor-yacht-belly-up-tickets/14264904?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14264904/mustache-harbor-yacht-rock-forever-w-radio-80s",
       "room": null,
       "age_rating": null,
@@ -1700,6 +1890,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bahamas",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1712,6 +1904,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sister Ray",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1725,7 +1919,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bahamas-industrial-sport-belly-up-tickets/14757683?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14757683/bahamas-industrial-sport-sound-w-sister-ray",
       "room": null,
       "age_rating": null,
@@ -1743,6 +1937,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "King Buffalo",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1755,6 +1951,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "L.A. WITCH",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1768,7 +1966,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/king-buffalo-north-belly-up-tickets/14918073?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14918073/king-buffalo-north-america-tour-2026-with-special-guests-l-a-witch",
       "room": null,
       "age_rating": null,
@@ -1786,6 +1984,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Nick Shoulders",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1798,7 +1998,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Creekbed Carter Hogan",
-          "match_label": "close match: Creekbed Carter Hogan; Spotify: Creekbed Carter Hogan",
+          "apple_label": "close match: Creekbed Carter Hogan",
+          "spotify_label": "close match: Creekbed Carter Hogan",
+          "match_label": "close match: Creekbed Carter Hogan | close match: Creekbed Carter Hogan",
           "spotify_source": "api"
         }
       ],
@@ -1811,7 +2013,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/nick-shoulders-apocalypse-belly-up-tickets/14837403?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14837403/nick-shoulders-apocalypse-never-tour-w-creekbed-carter",
       "room": null,
       "age_rating": null,
@@ -1829,6 +2031,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Last Waltz",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1845,7 +2049,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/chest-fever-presents-the-last-belly-up-tickets/14232964?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14232964/chest-fever-presents-the-last-waltz",
       "room": null,
       "age_rating": null,
@@ -1863,7 +2067,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Atomic Space @ 32%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Space @ 32%)",
+          "match_label": "no confident match (closest: Atomic Space @ 32%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1876,7 +2083,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-peace-love-belly-up-tickets/14999933?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14999933/atomic-grooves-peace-love-good-vibez-dance-party-happy-hour",
       "room": null,
       "age_rating": null,
@@ -1894,6 +2101,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Donavon Frankenreiter",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1904,6 +2113,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Band of Heathens",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1918,7 +2129,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275514?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14275514/donavon-frankenreiter-the-band-of-heathens-rolling-together-revue",
       "room": null,
       "age_rating": null,
@@ -1936,6 +2147,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Donavon Frankenreiter",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1946,6 +2159,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Band of Heathens",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1960,7 +2175,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275554?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14275554/donavon-frankenreiter-the-band-of-heathens-rolling-together-revue",
       "room": null,
       "age_rating": null,
@@ -1978,6 +2193,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Marc Broussard",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1990,6 +2207,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Cristina Vane",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2003,7 +2222,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/marc-broussard-west-belly-up-tickets/14856253?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14856253/marc-broussard-west-coast-tour-w-cristina-vane",
       "room": null,
       "age_rating": null,
@@ -2021,7 +2240,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Cheyenne Jackson @ 39%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Cheyenne Jackson @ 39%)",
+          "match_label": "no confident match (closest: Cheyenne Jackson @ 39%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2052,6 +2274,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Rachael & Vilray",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2062,6 +2286,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Taylor Ashton",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2076,7 +2302,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rachael-vilray-taylor-ashton-belly-up-tickets/14235644?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14235644/rachael-vilray-taylor-ashton",
       "room": null,
       "age_rating": null,
@@ -2094,6 +2320,8 @@
           "found": true,
           "confidence": 0.95,
           "matched": "BERTHA: Grateful Drag",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2108,7 +2336,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bertha-grateful-drag-belly-up-tickets/14989283?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14989283/bertha-grateful-drag",
       "room": null,
       "age_rating": null,
@@ -2126,6 +2354,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jammy Buffet",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2140,7 +2370,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-lakes-belly-up-tickets/14288634?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14288634/jammy-buffet-lakes-below-the-mountains-tour",
       "room": null,
       "age_rating": null,
@@ -2158,7 +2388,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Atomic Heart @ 23%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Heart @ 23%)",
+          "match_label": "no confident match (closest: Atomic Heart @ 23%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2171,7 +2404,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-here-comes-the-belly-up-tickets/14999903?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14999903/atomic-grooves-here-comes-the-holidays-benefit-for-the-red-nose-run-dance-party-happy-hour",
       "room": null,
       "age_rating": null,
@@ -2189,6 +2422,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "KBong",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2199,6 +2434,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Johnny Cosmic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2209,6 +2446,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Swooon",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2223,7 +2462,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kbong-johnny-cosmic-swooon-belly-up-tickets/14250234?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14250234/kbong-johnny-cosmic-swooon",
       "room": null,
       "age_rating": null,
@@ -2241,6 +2480,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "KBong",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2251,6 +2492,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Johnny Cosmic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2261,6 +2504,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Brendan Clemente",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2275,7 +2520,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kbong-johnny-cosmic-brendan-clemente-belly-up-tickets/14250254?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14250254/kbong-johnny-cosmic-brendan-clemente",
       "room": null,
       "age_rating": null,
@@ -2293,7 +2538,9 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Andrew McMahon",
-          "match_label": "compound bill — links to Andrew McMahon only; Spotify: Andrew McMahon",
+          "apple_label": "compound bill — links to Andrew McMahon only",
+          "spotify_label": null,
+          "match_label": "compound bill — links to Andrew McMahon only",
           "spotify_source": "api"
         }
       ],
@@ -2305,7 +2552,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Ivory Layne @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Ivory Layne @ 70%)",
+          "match_label": "no confident match (closest: Ivory Layne @ 70%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -2317,7 +2567,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14974153/andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
       "room": null,
       "age_rating": null,
@@ -2335,7 +2585,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Jimi Hendrix",
-          "match_label": "compound bill — links to Jimi Hendrix only; Spotify: Jimi Hendrix",
+          "apple_label": "compound bill — links to Jimi Hendrix only",
+          "spotify_label": "close match: Jimi Hendrix",
+          "match_label": "compound bill — links to Jimi Hendrix only | close match: Jimi Hendrix",
           "spotify_source": "api"
         }
       ],
@@ -2347,6 +2599,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jeff Moore",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2357,7 +2611,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Anthony Evans @ 44%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Anthony Evans @ 44%)",
+          "match_label": "no confident match (closest: Anthony Evans @ 44%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -2369,7 +2626,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14246294/jimi-hendrix-celebration-featuring-jeff-moore-isaiah-mitchell-anthony-cullins-with-special-guests-jeff-ruiz-marc-ford",
       "room": null,
       "age_rating": null,
@@ -2387,7 +2644,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Happy Hour @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Happy Hour @ 70%)",
+          "match_label": "no confident match (closest: Happy Hour @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2400,7 +2660,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15029833/oceans-the-imposters-happy-hour",
       "room": null,
       "age_rating": null,
@@ -2418,7 +2678,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Queen of Nation",
-          "match_label": "close match: Queen of Nation; Spotify: Queen of Nation",
+          "apple_label": "close match: Queen of Nation",
+          "spotify_label": "close match: Queen of Nation",
+          "match_label": "close match: Queen of Nation | close match: Queen of Nation",
           "spotify_source": "api"
         },
         {
@@ -2428,7 +2690,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: DJ Morphius @ 53%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DJ Morphius @ 53%)",
+          "match_label": "no confident match (closest: DJ Morphius @ 53%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2441,7 +2706,7 @@
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/queen-nation-dj-organic-hispanic-belly-up-tickets/14265204?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14265204/queen-nation-dj-organic-hispanic",
       "room": null,
       "age_rating": null,
@@ -2459,7 +2724,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "APRIL",
-          "match_label": "compound bill — links to APRIL only; Spotify: no confident match (closest: Con Funk Shun @ 36%)"
+          "apple_label": "compound bill — links to APRIL only",
+          "spotify_label": "no confident match (closest: Con Funk Shun @ 36%)",
+          "match_label": "compound bill — links to APRIL only | no confident match (closest: Con Funk Shun @ 36%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2472,7 +2740,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/april-and-the-funk-junkies-belly-up-tickets/14993293?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14993293/april-and-the-funk-junkies-happy-hour-aprils-birthday-bash",
       "room": null,
       "age_rating": null,
@@ -2490,7 +2758,10 @@
           "found": false,
           "confidence": 0.417,
           "matched": null,
-          "match_label": "no confident match (closest: Baby Mel @ 42%); Spotify: no confident match (closest: Saved By Scars @ 70%)"
+          "apple_label": "no confident match (closest: Baby Mel @ 42%)",
+          "spotify_label": "no confident match (closest: Saved By Scars @ 70%)",
+          "match_label": "no confident match (closest: Baby Mel @ 42%) | no confident match (closest: Saved By Scars @ 70%)",
+          "spotify_source": null
         },
         {
           "name": "Totally 80's Band",
@@ -2499,7 +2770,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Total @ 46%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Total @ 46%)",
+          "match_label": "no confident match (closest: Total @ 46%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2512,7 +2786,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/saved-by-the-90s-totally-belly-up-tickets/14236984?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14236984/saved-by-the-90s-totally-80s-band",
       "room": null,
       "age_rating": null,
@@ -2530,7 +2804,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "B.o.B",
-          "match_label": "Spotify: no confident match (closest: Bad Bunny @ 20%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Bad Bunny @ 20%)",
+          "match_label": "no confident match (closest: Bad Bunny @ 20%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2543,7 +2820,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/b-side-players-elijah-emanuel-belly-up-tickets/14219064?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219064/b-side-players-elijah-emanuel",
       "room": null,
       "age_rating": null,
@@ -2561,7 +2838,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "The Blind Boys of Alabama",
-          "match_label": "close match: The Blind Boys of Alabama; Spotify: The Blind Boys Of Alabama",
+          "apple_label": "close match: The Blind Boys of Alabama",
+          "spotify_label": "close match: The Blind Boys Of Alabama",
+          "match_label": "close match: The Blind Boys of Alabama | close match: The Blind Boys Of Alabama",
           "spotify_source": "api"
         }
       ],
@@ -2573,6 +2852,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Shemekia Copeland",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2586,7 +2867,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/blind-boys-of-alabama-belly-up-tickets/14219674?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219674/blind-boys-of-alabama-christmas-show-featuring-special-guest-shemekia-copeland",
       "room": null,
       "age_rating": null,
@@ -2604,6 +2885,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The James Hunter Six",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2618,7 +2901,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-james-hunter-six-belly-up-tickets/14304484?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14304484/the-james-hunter-six-off-the-fence-tour",
       "room": null,
       "age_rating": null,
@@ -2636,6 +2919,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Residents",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2648,6 +2933,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Rushadicus",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2661,7 +2948,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-residents-eskimo-belly-up-tickets/14256704?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14256704/the-residents-eskimo-live-w-rushadicus",
       "room": null,
       "age_rating": null,
@@ -2679,6 +2966,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Squirrel Nut Zippers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2693,7 +2982,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/squirrel-nut-zippers-belly-up-tickets/14203904?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14203904/squirrel-nut-zippers-christmas-caravan-2026",
       "room": null,
       "age_rating": null,
@@ -2711,6 +3000,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Glen Phillips",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2723,6 +3014,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Matt the Electrician",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2736,7 +3029,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/glen-phillips-of-toad-the-belly-up-tickets/14300114?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14300114/glen-phillips-of-toad-the-wet-sprocket-with-special-guest-matt-the-electrician",
       "room": null,
       "age_rating": null,
@@ -2754,7 +3047,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Private Agenda @ 74%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
+          "match_label": "no confident match (closest: Private Agenda @ 74%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2785,6 +3081,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Poncho Sanchez",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -2795,6 +3093,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Sleepwalkers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2809,7 +3109,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/poncho-sanchez-the-sleepwalkers-belly-up-tickets/14993023?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14993023/poncho-sanchez-the-sleepwalkers",
       "room": null,
       "age_rating": null,
@@ -2827,6 +3127,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mack Geiger",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2839,6 +3141,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Colton Dawson",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2852,7 +3156,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mack-geiger-when-belly-up-tickets/15018693?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/15018693/mack-geiger-when-its-pouring-2026-tour-w-colton-dawson",
       "room": null,
       "age_rating": null,
@@ -2870,7 +3174,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Private Agenda @ 74%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
+          "match_label": "no confident match (closest: Private Agenda @ 74%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2901,6 +3208,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "JD McPherson",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2913,6 +3222,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Melissa Carper",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2926,7 +3237,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jd-mcpherson-socks-belly-up-tickets/14300424?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14300424/jd-mcpherson-socks-a-rock-n-roll-christmas-tour-w-melissa-carper",
       "room": null,
       "age_rating": null,
@@ -2944,7 +3255,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: TomChris JHouseGroove @ 24%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 24%)",
+          "match_label": "no confident match (closest: TomChris JHouseGroove @ 24%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -2957,7 +3271,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-a-very-merry-belly-up-tickets/14328174?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14328174/atomic-grooves-a-very-merry-groovemas-holiday-dance-party-happy-hour",
       "room": null,
       "age_rating": null,
@@ -2975,6 +3289,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Jayhawks",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -2987,6 +3303,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mary Gauthier",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3000,7 +3318,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-jayhawks-sanctuary-belly-up-tickets/14204024?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14204024/the-jayhawks-sanctuary-park-tour-celebrating-40-years-of-the-jayhawks-w-mary-gauthier",
       "room": null,
       "age_rating": null,
@@ -3018,7 +3336,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Fabus Four @ 46%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Fabus Four @ 46%)",
+          "match_label": "no confident match (closest: The Fabus Four @ 46%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -3029,7 +3350,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Britney Spears @ 58%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Britney Spears @ 58%)",
+          "match_label": "no confident match (closest: Britney Spears @ 58%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -3041,7 +3365,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-fabba-disco-christmas-show-belly-up-tickets/14219394?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219394/the-fabba-disco-christmas-show-w-its-britney-beep",
       "room": null,
       "age_rating": null,
@@ -3059,6 +3383,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "THE BOBBY LEES",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3069,6 +3395,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MUTTLEE",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3079,6 +3407,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Doc Hammer",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3093,7 +3423,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-bobby-lees-muttlee-doc-belly-up-tickets/14907153?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14907153/the-bobby-lees-muttlee-doc-hammer",
       "room": null,
       "age_rating": null,
@@ -3111,6 +3441,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "David Benoit",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3123,6 +3455,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jimmy Patton",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3136,7 +3470,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/david-benoit-christmas-belly-up-tickets/14276134?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14276134/david-benoit-christmas-tribute-to-charlie-brown-ft-special-guest-courtney-fortune-w-jimmy-patton",
       "room": null,
       "age_rating": null,
@@ -3154,7 +3488,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Private Agenda @ 74%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
+          "match_label": "no confident match (closest: Private Agenda @ 74%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -3185,7 +3522,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Christmas Collective @ 61%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Christmas Collective @ 61%)",
+          "match_label": "no confident match (closest: The Christmas Collective @ 61%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -3198,7 +3538,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-venice-christmas-show-belly-up-tickets/14219864?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219864/the-venice-christmas-show",
       "room": null,
       "age_rating": null,
@@ -3216,6 +3556,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Milk Carton Kids",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3228,6 +3570,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Rosi Golan",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3241,7 +3585,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-milk-carton-kids-belly-up-tickets/14311904?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14311904/the-milk-carton-kids-lost-cause-lover-fool-holiday-tour-w-rosi-golan",
       "room": null,
       "age_rating": null,
@@ -3259,7 +3603,9 @@
           "found": false,
           "confidence": 0.538,
           "matched": null,
-          "match_label": "no confident match (closest: Betamax @ 54%); Spotify: Happy Hour",
+          "apple_label": "no confident match (closest: Betamax @ 54%)",
+          "spotify_label": "close match: Happy Hour",
+          "match_label": "no confident match (closest: Betamax @ 54%) | close match: Happy Hour",
           "spotify_source": "api"
         }
       ],
@@ -3273,7 +3619,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/betamaxx-happy-hour-belly-up-tickets/14328624?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14328624/betamaxx-happy-hour",
       "room": null,
       "age_rating": null,
@@ -3291,6 +3637,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Gin Blossoms",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3305,7 +3653,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gin-blossoms-belly-up-tickets/14262904?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14262904/gin-blossoms",
       "room": null,
       "age_rating": null,
@@ -3323,6 +3671,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Gin Blossoms",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3333,6 +3683,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Honeygirl",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3347,7 +3699,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gin-blossoms-honeygirl-belly-up-tickets/14262924?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14262924/gin-blossoms-honeygirl",
       "room": null,
       "age_rating": null,
@@ -3365,7 +3717,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Daring Greatly",
-          "match_label": "compound bill — links to Daring Greatly only; Spotify: Daring Greatly",
+          "apple_label": "compound bill — links to Daring Greatly only",
+          "spotify_label": "close match: Daring Greatly",
+          "match_label": "compound bill — links to Daring Greatly only | close match: Daring Greatly",
           "spotify_source": "api"
         }
       ],
@@ -3377,6 +3731,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Patch & Maggi",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3390,7 +3746,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/daring-greatly-and-friends-w-belly-up-tickets/14291494?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14291494/daring-greatly-and-friends-w-patch-maggi",
       "room": null,
       "age_rating": null,
@@ -3408,6 +3764,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Nancarrow",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3418,6 +3776,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Brawley",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3428,7 +3788,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (Matt Axton)",
+          "apple_label": null,
+          "spotify_label": "close match: Matt Axton",
+          "match_label": "close match: Matt Axton",
           "spotify_source": "api"
         }
       ],
@@ -3442,7 +3804,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/nancarrow-brawley-matt-axton-belly-up-tickets/14342244?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14342244/nancarrow-brawley-matt-axton-badmoon",
       "room": null,
       "age_rating": null,
@@ -3460,6 +3822,8 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3474,7 +3838,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/never-die-young-belly-up-tickets/14300534?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14300534/never-die-young-the-james-taylor-and-carole-king-holiday-show",
       "room": null,
       "age_rating": null,
@@ -3492,7 +3856,10 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: The Abbey Road Ensemble @ 70%); Spotify: no confident match (closest: Abbey Road Ensemble @ 70%)"
+          "apple_label": "no confident match (closest: The Abbey Road Ensemble @ 70%)",
+          "spotify_label": "no confident match (closest: Abbey Road Ensemble @ 70%)",
+          "match_label": "no confident match (closest: The Abbey Road Ensemble @ 70%) | no confident match (closest: Abbey Road Ensemble @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -3505,7 +3872,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/abbey-road-christmas-show-belly-up-tickets/14221404?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14221404/abbey-road-christmas-show",
       "room": null,
       "age_rating": null,
@@ -3523,7 +3890,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (Jimmy Buffett)",
+          "apple_label": null,
+          "spotify_label": "close match: Jimmy Buffett",
+          "match_label": "close match: Jimmy Buffett",
           "spotify_source": "api"
         }
       ],
@@ -3537,7 +3906,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jimmys-buffet-3rd-belly-up-tickets/14221484?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14221484/jimmys-buffet-3rd-annual-buffett-birthday-bash",
       "room": null,
       "age_rating": null,
@@ -3555,7 +3924,10 @@
           "found": true,
           "confidence": 0.8,
           "matched": "of easy wind",
-          "match_label": "close match: of easy wind; Spotify: no confident match (closest: Easykid @ 75%)"
+          "apple_label": "close match: of easy wind",
+          "spotify_label": "no confident match (closest: Easykid @ 75%)",
+          "match_label": "close match: of easy wind | no confident match (closest: Easykid @ 75%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -3568,7 +3940,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/easy-wind-a-belly-up-tickets/15000693?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000693/easy-wind-a-jerry-christmas",
       "room": null,
       "age_rating": null,
@@ -3586,7 +3958,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Steely Dan @ 69%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Steely Dan @ 69%)",
+          "match_label": "no confident match (closest: Steely Dan @ 69%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -3599,7 +3974,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-steely-damned-2-belly-up-tickets/15000833?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000833/the-steely-damned-2-holiday-show",
       "room": null,
       "age_rating": null,
@@ -3617,6 +3992,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Steel Pulse",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3631,7 +4008,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steel-pulse-reggae-belly-up-tickets/14382744?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14382744/steel-pulse-reggae-against-racism-tour",
       "room": null,
       "age_rating": null,
@@ -3649,6 +4026,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Steel Pulse",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3663,7 +4042,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steel-pulse-reggae-belly-up-tickets/14382754?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14382754/steel-pulse-reggae-against-racism-tour",
       "room": null,
       "age_rating": null,
@@ -3681,6 +4060,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Floozies",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3695,7 +4076,7 @@
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-floozies-nye-belly-up-tickets/14369984?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14369984/the-floozies-nye",
       "room": null,
       "age_rating": null,
@@ -3713,7 +4094,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Atomic Space @ 36%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Space @ 36%)",
+          "match_label": "no confident match (closest: Atomic Space @ 36%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -3726,7 +4110,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-nye-after-party-belly-up-tickets/14351694?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14351694/atomic-grooves-nye-after-party-dance-party-happy-hour",
       "room": null,
       "age_rating": null,
@@ -3744,6 +4128,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "No Duh",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3754,6 +4140,8 @@
           "found": true,
           "confidence": 0.96,
           "matched": "Foo Fighters",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3768,7 +4156,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/no-duh-fooz-fighters-belly-up-tickets/14366524?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14366524/no-duh-fooz-fighters",
       "room": null,
       "age_rating": null,
@@ -3786,6 +4174,8 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3796,7 +4186,9 @@
           "found": true,
           "confidence": 0.923,
           "matched": "Fleetwood Mac",
-          "match_label": "close match: Fleetwood Mac; Spotify: Fleetwood Mac",
+          "apple_label": "close match: Fleetwood Mac",
+          "spotify_label": "close match: Fleetwood Mac",
+          "match_label": "close match: Fleetwood Mac | close match: Fleetwood Mac",
           "spotify_source": "api"
         }
       ],
@@ -3810,7 +4202,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/desperado-the-nations-premier-eagles-belly-up-tickets/14300064?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14300064/desperado-the-nations-premier-eagles-tribute-fleetwood-max",
       "room": null,
       "age_rating": null,
@@ -3828,6 +4220,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Patrick Warburton",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3840,7 +4234,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Tyler Barbour @ 57%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Tyler Barbour @ 57%)",
+          "match_label": "no confident match (closest: Tyler Barbour @ 57%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -3852,7 +4249,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/patrick-warburton-patrick-belly-up-tickets/14890173?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14890173/patrick-warburton-patrick-warburton-is-still-catholic-w-talon-warburton",
       "room": null,
       "age_rating": null,
@@ -3870,6 +4267,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Staples",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3884,7 +4283,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-staples-chris-belly-up-tickets/14360074?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14360074/the-staples-chris-stapleton-tribute-cassie-b",
       "room": null,
       "age_rating": null,
@@ -3902,6 +4301,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The English Beat",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3916,7 +4317,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-english-beat-belly-up-tickets/14359954?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14359954/the-english-beat",
       "room": null,
       "age_rating": null,
@@ -3934,6 +4335,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The English Beat",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -3948,7 +4351,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-english-beat-belly-up-tickets/14359964?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14359964/the-english-beat",
       "room": null,
       "age_rating": null,
@@ -3966,6 +4369,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Jam Berries",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3976,6 +4381,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Band of Gringos",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3986,6 +4393,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Box Chevy",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -3996,6 +4405,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wide Eyed Kids",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4010,7 +4421,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-jam-berries-band-of-belly-up-tickets/14384764?REFID=bupwebsite",
-      "ticket_status": "On Sale Soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://bellyup.com/calendar/14384764/the-jam-berries-band-of-gringos-box-chevy-the-wide-eyed-kids",
       "room": null,
       "age_rating": null,
@@ -4028,7 +4439,10 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Fiestas del Sol @ 70%); Spotify: no confident match (closest: Fiestas del Sol @ 70%)"
+          "apple_label": "no confident match (closest: Fiestas del Sol @ 70%)",
+          "spotify_label": "no confident match (closest: Fiestas del Sol @ 70%)",
+          "match_label": "no confident match (closest: Fiestas del Sol @ 70%) | no confident match (closest: Fiestas del Sol @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4041,7 +4455,7 @@
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/fiesta-del-sol-belly-up-tickets/14359514?REFID=bupwebsite",
-      "ticket_status": "On Sale Soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://bellyup.com/calendar/14359514/fiesta-del-sol-battle-of-the-bands",
       "room": null,
       "age_rating": null,
@@ -4059,7 +4473,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: TomChris JHouseGroove @ 49%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "match_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4072,7 +4489,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351714?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14351714/atomic-groove-happy-hour",
       "room": null,
       "age_rating": null,
@@ -4090,6 +4507,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Record Company",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4104,7 +4523,7 @@
       "doors": null,
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-record-company-belly-up-tickets/14303484?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14303484/the-record-company",
       "room": null,
       "age_rating": null,
@@ -4122,7 +4541,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Tommy Castro",
-          "match_label": "Spotify: close match (Tommy Castro)",
+          "apple_label": null,
+          "spotify_label": "close match: Tommy Castro",
+          "match_label": "close match: Tommy Castro",
           "spotify_source": "api"
         },
         {
@@ -4132,6 +4553,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ana Popovic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4146,7 +4569,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tommy-castro-the-painkillers-belly-up-tickets/15000783?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000783/tommy-castro-the-painkillers-ana-popovic",
       "room": null,
       "age_rating": null,
@@ -4164,7 +4587,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Private Agenda @ 74%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
+          "match_label": "no confident match (closest: Private Agenda @ 74%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4195,6 +4621,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dogs In A Pile",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -4205,6 +4633,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Three Legged Dog",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4219,7 +4649,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dogs-in-a-pile-three-belly-up-tickets/14367574?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14367574/dogs-in-a-pile-three-legged-dog",
       "room": null,
       "age_rating": null,
@@ -4237,7 +4667,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: TomChris JHouseGroove @ 49%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "match_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4250,7 +4683,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351704?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14351704/atomic-groove-happy-hour",
       "room": null,
       "age_rating": null,
@@ -4268,6 +4701,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dogs In A Pile",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -4278,6 +4713,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Audio Perdisco",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4292,7 +4729,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dogs-in-a-pile-audio-belly-up-tickets/14367584?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14367584/dogs-in-a-pile-audio-perdisco",
       "room": null,
       "age_rating": null,
@@ -4310,7 +4747,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "The Tainted Love",
-          "match_label": "close match: The Tainted Love; Spotify: The Tainted Love",
+          "apple_label": "close match: The Tainted Love",
+          "spotify_label": "close match: The Tainted Love",
+          "match_label": "close match: The Tainted Love | close match: The Tainted Love",
           "spotify_source": "api"
         }
       ],
@@ -4324,7 +4763,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tainted-love-belly-up-tickets/15000743?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000743/tainted-love",
       "room": null,
       "age_rating": null,
@@ -4342,7 +4781,10 @@
           "found": false,
           "confidence": 0.2,
           "matched": null,
-          "match_label": "no confident match (closest: COFFEE MUSIC MODE @ 20%); Spotify: no confident match (closest: Billy Joel @ 70%)"
+          "apple_label": "no confident match (closest: COFFEE MUSIC MODE @ 20%)",
+          "spotify_label": "no confident match (closest: Billy Joel @ 70%)",
+          "match_label": "no confident match (closest: COFFEE MUSIC MODE @ 20%) | no confident match (closest: Billy Joel @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -4353,7 +4795,10 @@
           "found": false,
           "confidence": 0.373,
           "matched": null,
-          "match_label": "no confident match (closest: Tony Metcalfe @ 37%); Spotify: no confident match (closest: Billy Graham @ 31%)"
+          "apple_label": "no confident match (closest: Tony Metcalfe @ 37%)",
+          "spotify_label": "no confident match (closest: Billy Graham @ 31%)",
+          "match_label": "no confident match (closest: Tony Metcalfe @ 37%) | no confident match (closest: Billy Graham @ 31%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -4365,7 +4810,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/billy-joel-2-elton-john-belly-up-tickets/14369104?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14369104/billy-joel-2-elton-john-featuring-adam-shapiro-of-billy-nation-and-kenny-metcalf",
       "room": null,
       "age_rating": null,
@@ -4383,6 +4828,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Five for Fighting",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4395,7 +4842,9 @@
           "found": true,
           "confidence": 1.0,
           "matched": "String Quartet",
-          "match_label": "Spotify: close match (Vitamin String Quartet)",
+          "apple_label": null,
+          "spotify_label": "close match: Vitamin String Quartet",
+          "match_label": "close match: Vitamin String Quartet",
           "spotify_source": "api"
         }
       ],
@@ -4408,7 +4857,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/five-for-fighting-with-string-belly-up-tickets/14236474?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14236474/five-for-fighting-with-string-quartet",
       "room": null,
       "age_rating": null,
@@ -4426,6 +4875,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Fred Tackett & Scott Sharrard",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -4436,6 +4887,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dylan Salfer",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4450,7 +4903,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/fred-tackett-scott-sharrard-belly-up-tickets/15046453?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15046453/fred-tackett-scott-sharrard-from-little-feat-dylan-salfer",
       "room": null,
       "age_rating": null,
@@ -4468,6 +4921,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Five for Fighting",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4480,7 +4935,9 @@
           "found": true,
           "confidence": 1.0,
           "matched": "String Quartet",
-          "match_label": "Spotify: close match (Vitamin String Quartet)",
+          "apple_label": null,
+          "spotify_label": "close match: Vitamin String Quartet",
+          "match_label": "close match: Vitamin String Quartet",
           "spotify_source": "api"
         }
       ],
@@ -4493,7 +4950,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/five-for-fighting-with-string-belly-up-tickets/15008623?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15008623/five-for-fighting-with-string-quartet",
       "room": null,
       "age_rating": null,
@@ -4511,7 +4968,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: TomChris JHouseGroove @ 49%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "match_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4524,7 +4984,7 @@
       "doors": null,
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351724?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14351724/atomic-groove-happy-hour",
       "room": null,
       "age_rating": null,
@@ -4542,7 +5002,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Pretty Reckless @ 78%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Pretty Reckless @ 78%)",
+          "match_label": "no confident match (closest: The Pretty Reckless @ 78%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4555,7 +5018,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-pettybreakers-a-belly-up-tickets/14288964?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14288964/the-pettybreakers-a-tribute-to-tom-petty-the-heartbreakers-sammy-listoe-band",
       "room": null,
       "age_rating": null,
@@ -4573,7 +5036,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Private Agenda @ 74%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
+          "match_label": "no confident match (closest: Private Agenda @ 74%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4604,7 +5070,10 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Lauren Leigh @ 70%); Spotify: no confident match (closest: The Laurie Berkner Band @ 21%)"
+          "apple_label": "no confident match (closest: Lauren Leigh @ 70%)",
+          "spotify_label": "no confident match (closest: The Laurie Berkner Band @ 21%)",
+          "match_label": "no confident match (closest: Lauren Leigh @ 70%) | no confident match (closest: The Laurie Berkner Band @ 21%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4617,7 +5086,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sounds-of-laurel-canyon-a-belly-up-tickets/14368694?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14368694/sounds-of-laurel-canyon-a-back-to-the-garden-storyconcert-special-guests-calman-hart-and-lauren-leigh",
       "room": null,
       "age_rating": null,
@@ -4635,7 +5104,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Private Agenda @ 74%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Private Agenda @ 74%)",
+          "match_label": "no confident match (closest: Private Agenda @ 74%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -4666,6 +5138,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SUPER DIAMOND",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4680,7 +5154,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288704?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14288704/super-diamond",
       "room": null,
       "age_rating": null,
@@ -4698,6 +5172,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SUPER DIAMOND",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4712,7 +5188,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288724?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14288724/super-diamond",
       "room": null,
       "age_rating": null,
@@ -4730,6 +5206,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ladysmith Black Mambazo",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4744,7 +5222,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/ladysmith-black-mambazo-belly-up-tickets/14219734?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219734/ladysmith-black-mambazo",
       "room": null,
       "age_rating": null,
@@ -4762,6 +5240,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Rebirth Brass Band",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -4772,7 +5252,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "Nathan & The Zydeco Cha-Chas",
-          "match_label": "close match: Nathan & The Zydeco Cha-Chas; Spotify: Nathan & the Zydeco Cha Chas",
+          "apple_label": "close match: Nathan & The Zydeco Cha-Chas",
+          "spotify_label": null,
+          "match_label": "close match: Nathan & The Zydeco Cha-Chas",
           "spotify_source": "api"
         }
       ],
@@ -4786,7 +5268,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/rebirth-brass-band-nathan-belly-up-tickets/14339024?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14339024/rebirth-brass-band-nathan-the-zydeco-cha-chas",
       "room": null,
       "age_rating": null,
@@ -4804,7 +5286,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Richard Thompson",
-          "match_label": "Spotify: close match (Richard Thompson)",
+          "apple_label": null,
+          "spotify_label": "close match: Richard Thompson",
+          "match_label": "close match: Richard Thompson",
           "spotify_source": "api"
         }
       ],
@@ -4816,7 +5300,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Clayton Linthicum",
-          "match_label": "compound bill — links to Clayton Linthicum only; Spotify: no confident match (closest: Clayton Kennedy @ 44%)"
+          "apple_label": "compound bill — links to Clayton Linthicum only",
+          "spotify_label": "no confident match (closest: Clayton Kennedy @ 44%)",
+          "match_label": "compound bill — links to Clayton Linthicum only | no confident match (closest: Clayton Kennedy @ 44%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -4828,7 +5315,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/richard-thompson-band-belly-up-tickets/14368204?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14368204/richard-thompson-band-hippies-thugs-and-heroes-tour-w-special-guests-clayton-linthicum-and-quinn-bachand",
       "room": null,
       "age_rating": null,
@@ -4846,7 +5333,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Richard Thompson",
-          "match_label": "Spotify: close match (Richard Thompson)",
+          "apple_label": null,
+          "spotify_label": "close match: Richard Thompson",
+          "match_label": "close match: Richard Thompson",
           "spotify_source": "api"
         }
       ],
@@ -4858,7 +5347,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Clayton Linthicum",
-          "match_label": "compound bill — links to Clayton Linthicum only; Spotify: no confident match (closest: Clayton Kennedy @ 44%)"
+          "apple_label": "compound bill — links to Clayton Linthicum only",
+          "spotify_label": "no confident match (closest: Clayton Kennedy @ 44%)",
+          "match_label": "compound bill — links to Clayton Linthicum only | no confident match (closest: Clayton Kennedy @ 44%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -4870,7 +5362,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/richard-thompson-band-belly-up-tickets/14368214?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14368214/richard-thompson-band-hippies-thugs-and-heroes-tour-w-special-guests-clayton-linthicum-and-quinn-bachand",
       "room": null,
       "age_rating": null,
@@ -4888,6 +5380,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wade Bowen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4902,7 +5396,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wade-bowen-the-belly-up-tickets/14339334?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14339334/wade-bowen-the-version-of-me-you-get-tour",
       "room": null,
       "age_rating": null,
@@ -4920,6 +5414,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Through the Roots",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4934,7 +5430,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/through-the-roots-belly-up-tickets/14325644?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14325644/through-the-roots",
       "room": null,
       "age_rating": null,
@@ -4952,7 +5448,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (Steve Poltz)",
+          "apple_label": null,
+          "spotify_label": "close match: Steve Poltz",
+          "match_label": "close match: Steve Poltz",
           "spotify_source": "api"
         }
       ],
@@ -4966,7 +5464,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steve-poltz-the-rugburns-belly-up-tickets/14219554?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14219554/steve-poltz-the-rugburns-18th-annual-50th-birthday-bash",
       "room": null,
       "age_rating": null,
@@ -4984,6 +5482,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Steve Poltz",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -4998,7 +5498,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/steve-poltz-belly-up-tickets/14219604?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219604/steve-poltz",
       "room": null,
       "age_rating": null,
@@ -5016,6 +5516,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "L.A.B",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5028,6 +5530,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Seven Suns",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5041,7 +5545,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lab-usa-belly-up-tickets/14325574?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14325574/l-a-b-usa-canada-tour-2027-w-seven-suns",
       "room": null,
       "age_rating": null,
@@ -5059,6 +5563,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Paco Versailles",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5073,7 +5579,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/paco-versailles-the-belly-up-tickets/14339154?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14339154/paco-versailles-the-azucar-tour-2027",
       "room": null,
       "age_rating": null,
@@ -5091,7 +5597,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Melvin Seals",
-          "match_label": "compound bill — links to Melvin Seals only; Spotify: Melvin Seals",
+          "apple_label": "compound bill — links to Melvin Seals only",
+          "spotify_label": "close match: Melvin Seals",
+          "match_label": "compound bill — links to Melvin Seals only | close match: Melvin Seals",
           "spotify_source": "api"
         }
       ],
@@ -5105,7 +5613,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/melvin-seals-and-jgb-belly-up-tickets/14291384?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14291384/melvin-seals-and-jgb",
       "room": null,
       "age_rating": null,
@@ -5123,6 +5631,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Marian Hill",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5137,7 +5647,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/marian-hill-act-belly-up-tickets/15002063?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour",
       "room": null,
       "age_rating": null,
@@ -5155,6 +5665,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Umphrey's McGee",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5169,7 +5681,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/umphreys-mcgee-fresh-belly-up-tickets/14368774?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14368774/umphreys-mcgee-fresh-cut-2027",
       "room": null,
       "age_rating": null,
@@ -5187,7 +5699,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Journey @ 78%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Journey @ 78%)",
+          "match_label": "no confident match (closest: Journey @ 78%)",
+          "spotify_source": null
         },
         {
           "name": "Hair Force One",
@@ -5196,6 +5711,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hair Force One",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5210,7 +5727,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/journey-usa-hair-force-one-belly-up-tickets/14359364?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14359364/journey-usa-hair-force-one",
       "room": null,
       "age_rating": null,
@@ -5228,6 +5745,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "49 Winchester",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5240,7 +5759,9 @@
           "found": true,
           "confidence": 0.929,
           "matched": "Kenny Whitmire",
-          "match_label": "close match: Kenny Whitmire; Spotify: Kenny Whitmire",
+          "apple_label": "close match: Kenny Whitmire",
+          "spotify_label": "close match: Kenny Whitmire",
+          "match_label": "close match: Kenny Whitmire | close match: Kenny Whitmire",
           "spotify_source": "api"
         }
       ],
@@ -5253,7 +5774,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/49-winchester-change-belly-up-tickets/14381134?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14381134/49-winchester-change-of-plans-tour-w-kenny-whitmore",
       "room": null,
       "age_rating": null,
@@ -5271,6 +5792,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pete Yorn",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5285,7 +5808,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/pete-yorn-solo-acoustic-belly-up-tickets/14313814?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14313814/pete-yorn-solo-acoustic-25th-anniversary-of-musicforthemorningafter",
       "room": null,
       "age_rating": null,
@@ -5303,6 +5826,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "G. Love & Special Sauce",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5315,6 +5840,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Todd Carey",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5328,7 +5855,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/g-love-special-sauce-belly-up-tickets/14314544?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14314544/g-love-special-sauce-yeah-its-that-easy-30th-anniversary-tour-w-todd-carey",
       "room": null,
       "age_rating": null,
@@ -5346,6 +5873,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wayward Sons",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -5356,7 +5885,10 @@
           "found": false,
           "confidence": 0.444,
           "matched": null,
-          "match_label": "no confident match (closest: MrTray80 @ 44%); Spotify: no confident match (closest: DJ MR. STONES - O MAGO @ 70%)"
+          "apple_label": "no confident match (closest: MrTray80 @ 44%)",
+          "spotify_label": "no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
+          "match_label": "no confident match (closest: MrTray80 @ 44%) | no confident match (closest: DJ MR. STONES - O MAGO @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -5369,7 +5901,7 @@
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/wayward-sons-dj-mr-80s-belly-up-tickets/14370524?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14370524/wayward-sons-dj-mr-80s",
       "room": null,
       "age_rating": null,
@@ -5387,7 +5919,10 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Daniel Donato @ 70%); Spotify: no confident match (closest: Daniel Donato @ 70%)"
+          "apple_label": "no confident match (closest: Daniel Donato @ 70%)",
+          "spotify_label": "no confident match (closest: Daniel Donato @ 70%)",
+          "match_label": "no confident match (closest: Daniel Donato @ 70%) | no confident match (closest: Daniel Donato @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -5400,7 +5935,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/daniel-donatos-cosmic-country-belly-up-tickets/14381034?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14381034/daniel-donatos-cosmic-country-along-the-trail-tour-winter-spring-2027",
       "room": null,
       "age_rating": null,
@@ -5418,7 +5953,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "The Young Dubliners",
-          "match_label": "close match: The Young Dubliners; Spotify: Young Dubliners",
+          "apple_label": "close match: The Young Dubliners",
+          "spotify_label": null,
+          "match_label": "close match: The Young Dubliners",
           "spotify_source": "api"
         }
       ],
@@ -5432,7 +5969,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/young-dubliners-belly-up-tickets/14370314?REFID=bupwebsite",
-      "ticket_status": "On Sale Soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://bellyup.com/calendar/14370314/young-dubliners",
       "room": null,
       "age_rating": null,
@@ -5450,6 +5987,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Chasing Abbey",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5464,7 +6003,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/chasing-abbey-north-belly-up-tickets/14303254?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14303254/chasing-abbey-north-america-tour-spring-2027",
       "room": null,
       "age_rating": null,
@@ -5482,6 +6021,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jerry's Middle Finger",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5496,7 +6037,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jerrys-middle-finger-belly-up-tickets/15000943?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000943/jerrys-middle-finger",
       "room": null,
       "age_rating": null,
@@ -5514,6 +6055,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Martin Sexton",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5528,7 +6071,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/martin-sexton-live-belly-up-tickets/14381354?REFID=bupwebsite",
-      "ticket_status": "On Sale Soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://bellyup.com/calendar/14381354/martin-sexton-live-wide-open-tour-2027",
       "room": null,
       "age_rating": null,
@@ -5546,6 +6089,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Al Stewart",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5558,6 +6103,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Empty Pockets",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5571,7 +6118,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/al-stewart-farewell-belly-up-tickets/14359424?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14359424/al-stewart-farewell-tour-w-special-guests-the-empty-pockets",
       "room": null,
       "age_rating": null,
@@ -5589,6 +6136,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "John Splithoff",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5603,7 +6152,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-splithoff-2027-belly-up-tickets/14367924?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14367924/john-splithoff-2027-tour",
       "room": null,
       "age_rating": null,
@@ -5621,6 +6170,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ambrosia",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -5635,7 +6186,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/ambrosia-belly-up-tickets/14370254?REFID=bupwebsite",
-      "ticket_status": "On Sale Soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://bellyup.com/calendar/14370254/ambrosia",
       "room": null,
       "age_rating": null,
@@ -5646,14 +6197,16 @@
   "stats": {
     "event_types": {
       "music": 149,
-      "comedy": 1
+      "comedy": 1,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 206,
       "found": 154,
-      "exact": 124,
-      "close": 1,
-      "needs_review": 27,
+      "exact": 126,
+      "close": 6,
+      "flagged": 22,
       "not_found": 52
     },
     "spotify": {
@@ -5661,7 +6214,8 @@
       "linked": 160,
       "venue": 0,
       "api": 160,
-      "shows_with_link": 112
+      "feed": 0,
+      "shows_with_link": 114
     }
   }
 }

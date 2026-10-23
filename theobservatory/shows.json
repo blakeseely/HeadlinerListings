@@ -6,6 +6,32 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "North Park",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 4,
   "shows": [
@@ -20,7 +46,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (David Di Pietro)",
+          "apple_label": null,
+          "spotify_label": "close match: David Di Pietro",
+          "match_label": "close match: David Di Pietro",
           "spotify_source": "api"
         }
       ],
@@ -52,6 +80,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pigeons Playing Ping Pong",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -64,6 +94,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dizgo",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -77,7 +109,7 @@
       "doors": null,
       "show_time": "6:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/pigeons-playing-ping-pong-the-observatory-north-park-tickets/14981773?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14981773/pigeons-playing-ping-pong-fall-tour-2026-w-dizgo",
       "room": null,
       "age_rating": null,
@@ -95,6 +127,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Black Angels",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -109,7 +143,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-black-angels-passover-2026-the-observatory-north-park-tickets/14845983?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14845983/the-black-angels-passover-2026-tour",
       "room": null,
       "age_rating": null,
@@ -127,7 +161,10 @@
           "found": false,
           "confidence": 0.348,
           "matched": null,
-          "match_label": "no confident match (closest: Armin van Buuren @ 35%); Spotify: no confident match (closest: Kingdom Of Giants @ 47%)"
+          "apple_label": "no confident match (closest: Armin van Buuren @ 35%)",
+          "spotify_label": "no confident match (closest: Kingdom Of Giants @ 47%)",
+          "match_label": "no confident match (closest: Armin van Buuren @ 35%) | no confident match (closest: Kingdom Of Giants @ 47%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -138,6 +175,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Scratch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -153,7 +192,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/medium-build-presents-the-king-the-observatory-north-park-tickets/14216064?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14216064/medium-build-presents-the-king-of-having-fun-on-tour-w-the-scratch",
       "room": null,
       "age_rating": null,
@@ -163,14 +202,17 @@
   ],
   "stats": {
     "event_types": {
-      "music": 4
+      "music": 4,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 6,
       "found": 4,
       "exact": 4,
       "close": 0,
-      "needs_review": 0,
+      "flagged": 0,
       "not_found": 2
     },
     "spotify": {
@@ -178,7 +220,8 @@
       "linked": 5,
       "venue": 0,
       "api": 5,
-      "shows_with_link": 3
+      "feed": 0,
+      "shows_with_link": 4
     }
   }
 }

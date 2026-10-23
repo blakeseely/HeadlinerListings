@@ -6,6 +6,32 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Castro",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 39,
   "shows": [
@@ -20,7 +46,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Aquabats!",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -31,7 +60,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mariachi El Bronx",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Mrs. Magician",
@@ -40,7 +72,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mrs. Magician",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -51,8 +86,8 @@
       "set_format": null,
       "date": "2026-10-22",
       "date_label": "Thu 2026-10-22",
-      "doors": "6:00 PM",
-      "show_time": "7:00 PM",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABBQtvGAgAAAAAr%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1513757",
@@ -72,7 +107,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jai Wolf",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -83,7 +121,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Koastle",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -94,8 +135,8 @@
       "set_format": null,
       "date": "2026-10-24",
       "date_label": "Sat 2026-10-24",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546472043",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1496243",
@@ -115,7 +156,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Shyne",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": "feed"
         }
       ],
       "support_artists": [
@@ -126,7 +170,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Barrington Levy",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Lil' Cease",
@@ -135,7 +182,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lil' Cease",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": "feed"
         }
       ],
       "multi_artist": false,
@@ -146,10 +196,10 @@
       "set_format": null,
       "date": "2026-10-28",
       "date_label": "Wed 2026-10-28",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAD88iPHAgAAAACG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "Cancelled",
+      "ticket_status": "cancelled",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1528366",
       "room": null,
       "age_rating": "All Ages",
@@ -167,7 +217,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "bleood",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": "feed"
         }
       ],
       "support_artists": [],
@@ -179,8 +232,8 @@
       "set_format": null,
       "date": "2026-10-29",
       "date_label": "Thu 2026-10-29",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546695744",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1575409",
@@ -200,7 +253,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -212,8 +268,8 @@
       "set_format": null,
       "date": "2026-10-30",
       "date_label": "Fri 2026-10-30",
-      "doors": "9:00 PM",
-      "show_time": "10:00 PM",
+      "doors": "9:00 pm",
+      "show_time": "10:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABzxg7HAgAAAABb%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1528369",
@@ -233,7 +289,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Medium Build",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -244,7 +303,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Scratch",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -255,8 +317,8 @@
       "set_format": null,
       "date": "2026-10-31",
       "date_label": "Sat 2026-10-31",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546453324",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1494104",
@@ -276,7 +338,10 @@
           "found": false,
           "confidence": 0.273,
           "matched": null,
-          "match_label": "no confident match (closest: Genesis @ 27%)"
+          "apple_label": "no confident match (closest: Genesis @ 27%)",
+          "spotify_label": null,
+          "match_label": "no confident match (closest: Genesis @ 27%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -288,8 +353,8 @@
       "set_format": null,
       "date": "2026-11-01",
       "date_label": "Sun 2026-11-01",
-      "doors": "6:00 PM",
-      "show_time": "7:00 PM",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAA6Joe%2fAgAAAADG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1434571",
@@ -309,7 +374,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Black Angels",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -320,7 +388,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "GHOSTWOMAN",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -331,8 +402,8 @@
       "set_format": null,
       "date": "2026-11-05",
       "date_label": "Thu 2026-11-05",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAAC78S6%2bAgAAAAD6%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1408471",
@@ -352,7 +423,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lucy Bedroque",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -363,7 +437,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "pinponpanpon",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -374,8 +451,8 @@
       "set_format": null,
       "date": "2026-11-06",
       "date_label": "Fri 2026-11-06",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546772061",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1580816",
@@ -395,7 +472,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lucy Bedroque",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -406,7 +486,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "pinponpanpon",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -417,8 +500,8 @@
       "set_format": null,
       "date": "2026-11-07",
       "date_label": "Sat 2026-11-07",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546673674",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1547252",
@@ -438,7 +521,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Nia Archives",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -449,7 +535,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "BAMBII",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": "feed"
         }
       ],
       "multi_artist": false,
@@ -460,8 +549,8 @@
       "set_format": null,
       "date": "2026-11-08",
       "date_label": "Sun 2026-11-08",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546773403",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1581521",
@@ -481,7 +570,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Yuki Chiba",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -492,7 +584,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DRAM",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -503,8 +598,8 @@
       "set_format": null,
       "date": "2026-11-10",
       "date_label": "Tue 2026-11-10",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546599285",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1528365",
@@ -524,7 +619,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Soft Cell",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -536,8 +634,8 @@
       "set_format": null,
       "date": "2026-11-11",
       "date_label": "Wed 2026-11-11",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546596330",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1527107",
@@ -557,7 +655,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Band of Horses",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -569,8 +670,8 @@
       "set_format": "An Evening With",
       "date": "2026-11-12",
       "date_label": "Thu 2026-11-12",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546160098",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1444971",
@@ -590,7 +691,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "L7",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -601,7 +705,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "NOBRO",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Buzzed Lightbeer",
@@ -610,7 +717,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Buzzed Lightbeer",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -621,8 +731,8 @@
       "set_format": null,
       "date": "2026-11-13",
       "date_label": "Fri 2026-11-13",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAADHdpy%2fAgAAAACz%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1435452",
@@ -642,7 +752,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Headache",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -653,7 +766,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Baba Stiltz",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "amr*",
@@ -662,7 +778,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "AMR*",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -673,8 +792,8 @@
       "set_format": null,
       "date": "2026-11-14",
       "date_label": "Sat 2026-11-14",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABnA6XAAgAAAAAf%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1447645",
@@ -694,7 +813,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Manic Street Preachers",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -706,8 +828,8 @@
       "set_format": null,
       "date": "2026-11-16",
       "date_label": "Mon 2026-11-16",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABVFwPBAgAAAAA%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1463683",
@@ -727,7 +849,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ninajirachi",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -738,7 +863,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MGNA Crrrta",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -749,8 +877,8 @@
       "set_format": null,
       "date": "2026-11-17",
       "date_label": "Tue 2026-11-17",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546879352",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1638942",
@@ -770,7 +898,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ninajirachi",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -781,7 +912,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MGNA Crrrta",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -792,8 +926,8 @@
       "set_format": null,
       "date": "2026-11-18",
       "date_label": "Wed 2026-11-18",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546874871",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1629413",
@@ -813,7 +947,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ninajirachi",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -824,7 +961,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MGNA Crrrta",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -835,8 +975,8 @@
       "set_format": null,
       "date": "2026-11-19",
       "date_label": "Thu 2026-11-19",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836611",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1629381",
@@ -856,7 +996,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Layton Giordani",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -867,7 +1010,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Greggio",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -878,8 +1024,8 @@
       "set_format": null,
       "date": "2026-11-20",
       "date_label": "Fri 2026-11-20",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546204228",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1464359",
@@ -899,7 +1045,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Gary Numan",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -910,7 +1059,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Tremours",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -921,8 +1073,8 @@
       "set_format": null,
       "date": "2026-11-23",
       "date_label": "Mon 2026-11-23",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAABn1xC%2fAgAAAAC%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1423298",
@@ -942,7 +1094,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Amity Affliction",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -953,7 +1108,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "blessthefall",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Orthodox",
@@ -962,7 +1120,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Orthodox",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Buried In Spring",
@@ -971,7 +1132,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Buried In Spring",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -982,8 +1146,8 @@
       "set_format": null,
       "date": "2026-11-24",
       "date_label": "Tue 2026-11-24",
-      "doors": "6:00 PM",
-      "show_time": "7:00 PM",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546587461",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1516665",
@@ -1003,7 +1167,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wrecks",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1014,7 +1181,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Worry Club",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Kid Sistr",
@@ -1023,7 +1193,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kid Sistr",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1034,8 +1207,8 @@
       "set_format": null,
       "date": "2026-11-25",
       "date_label": "Wed 2026-11-25",
-      "doors": "6:00 PM",
-      "show_time": "7:00 PM",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546249301",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1474827",
@@ -1055,7 +1228,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Amtrac",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1067,8 +1243,8 @@
       "set_format": null,
       "date": "2026-11-27",
       "date_label": "Fri 2026-11-27",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546685009",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1566122",
@@ -1088,7 +1264,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Devault",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1100,8 +1279,8 @@
       "set_format": null,
       "date": "2026-11-28",
       "date_label": "Sat 2026-11-28",
-      "doors": "8:00 PM",
-      "show_time": "9:00 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546513535",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1497641",
@@ -1121,7 +1300,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ripe",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1133,8 +1315,8 @@
       "set_format": null,
       "date": "2026-12-06",
       "date_label": "Sun 2026-12-06",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546786243",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1587666",
@@ -1154,7 +1336,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Takuya Nakamura",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1166,8 +1351,8 @@
       "set_format": null,
       "date": "2026-12-19",
       "date_label": "Sat 2026-12-19",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546803755",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1601808",
@@ -1187,7 +1372,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MPH",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": "feed"
         }
       ],
       "support_artists": [],
@@ -1199,8 +1387,8 @@
       "set_format": null,
       "date": "2027-01-15",
       "date_label": "Fri 2027-01-15",
-      "doors": "8:00 PM",
-      "show_time": "8:30 PM",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836954",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1629410",
@@ -1220,7 +1408,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Swimming Paul",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1232,8 +1423,8 @@
       "set_format": null,
       "date": "2027-01-22",
       "date_label": "Fri 2027-01-22",
-      "doors": "8:00 PM",
-      "show_time": "9:00 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546930414",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1646135",
@@ -1253,7 +1444,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "TWINSICK",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1265,8 +1459,8 @@
       "set_format": null,
       "date": "2027-02-05",
       "date_label": "Fri 2027-02-05",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546808835",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1601209",
@@ -1286,7 +1480,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Interplanetary Criminal",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1297,7 +1494,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Riria",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1308,8 +1508,8 @@
       "set_format": null,
       "date": "2027-02-13",
       "date_label": "Sat 2027-02-13",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546942691",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1660169",
@@ -1329,7 +1529,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Blue October",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1341,8 +1544,8 @@
       "set_format": null,
       "date": "2027-02-18",
       "date_label": "Thu 2027-02-18",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://tix.axs.com/BTg4EgAAAACxMF7AAgAAAADX%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1442684",
@@ -1362,7 +1565,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Eluveitie",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1373,7 +1579,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "NiNi",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Illumishade",
@@ -1382,7 +1591,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "ILLUMISHADE",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1393,8 +1605,8 @@
       "set_format": null,
       "date": "2027-03-03",
       "date_label": "Wed 2027-03-03",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546815352",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1608440",
@@ -1414,7 +1626,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jersey",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1426,8 +1641,8 @@
       "set_format": null,
       "date": "2027-03-18",
       "date_label": "Thu 2027-03-18",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546964922",
       "ticket_status": "coming soon",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1664487",
@@ -1447,7 +1662,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MASS OF THE FERMENTING DREGS",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1459,8 +1677,8 @@
       "set_format": null,
       "date": "2027-04-27",
       "date_label": "Tue 2027-04-27",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546675156",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1551450",
@@ -1480,7 +1698,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Interrupters",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1491,7 +1712,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Chin Chins",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Rat Boy",
@@ -1500,7 +1724,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "RAT BOY",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1511,8 +1738,8 @@
       "set_format": null,
       "date": "2027-04-28",
       "date_label": "Wed 2027-04-28",
-      "doors": "6:00 PM",
-      "show_time": "7:00 PM",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546810116",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1607316",
@@ -1532,7 +1759,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wombats",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1543,7 +1773,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Lathums",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1554,8 +1787,8 @@
       "set_format": null,
       "date": "2027-05-15",
       "date_label": "Sat 2027-05-15",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546948181",
       "ticket_status": "coming soon",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1664440",
@@ -1575,7 +1808,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "She Past Away",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": "feed"
         }
       ],
       "support_artists": [],
@@ -1587,8 +1823,8 @@
       "set_format": null,
       "date": "2027-06-11",
       "date_label": "Fri 2027-06-11",
-      "doors": "7:00 PM",
-      "show_time": "8:00 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546934277",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1655580",
@@ -1600,22 +1836,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39
+      "music": 39,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 64,
       "found": 62,
       "exact": 62,
       "close": 0,
-      "needs_review": 0,
+      "flagged": 0,
       "not_found": 2
     },
     "spotify": {
       "unique_artists": 64,
       "linked": 6,
-      "venue": 6,
+      "venue": 0,
       "api": 0,
-      "shows_with_link": 4
+      "feed": 6,
+      "shows_with_link": 5
     }
   }
 }

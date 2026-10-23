@@ -6,19 +6,48 @@
   "city": "Palo Alto, CA",
   "metro": "San Francisco",
   "neighborhood": null,
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 0,
   "shows": [],
   "stats": {
     "event_types": {
-      "music": 0
+      "music": 0,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 0,
       "found": 0,
       "exact": 0,
       "close": 0,
-      "needs_review": 0,
+      "flagged": 0,
       "not_found": 0
     },
     "spotify": {
@@ -26,6 +55,7 @@
       "linked": 0,
       "venue": 0,
       "api": 0,
+      "feed": 0,
       "shows_with_link": 0
     }
   }

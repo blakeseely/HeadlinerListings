@@ -6,6 +6,32 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "South Beach",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 41,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "gnash",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -52,6 +80,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SLIFT",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -84,6 +114,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Protomartyr",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -116,6 +148,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lil Pete",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -148,6 +182,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lil Pete",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -180,6 +216,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ax and the Hatchetmen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -212,6 +250,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Parra for Cuva",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -244,6 +284,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Aces",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -256,6 +298,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Gatlin",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -287,6 +331,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Baby Smoove",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -319,6 +365,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Olivia O'Brien",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -351,6 +399,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Josh Garrels",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -383,6 +433,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bahamas",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -415,6 +467,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pinhead Gunpowder",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -447,6 +501,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Countess Luann",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -479,6 +535,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Tank and the Bangas",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -511,6 +569,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "INNA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -543,6 +603,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Son Volt",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -575,6 +637,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jamila Woods",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -607,6 +671,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Eivør",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -639,6 +705,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Agriculture",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -671,6 +739,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Boston Manor",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -703,6 +773,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DJ Raphi",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -735,6 +807,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Vessbroz",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -767,6 +841,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jalen Ngonda",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -799,7 +875,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Early Birds @ 67%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Early Birds @ 67%)",
+          "match_label": "no confident match (closest: The Early Birds @ 67%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -830,6 +909,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Pineapple Thief",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -862,6 +943,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hunxho",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -894,6 +977,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Alexander James",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -926,6 +1011,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Disappear Here",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -958,6 +1045,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Disappear Here",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -990,6 +1079,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Death from Above 1979",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1022,6 +1113,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "James Marriott",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1054,6 +1147,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Lemonheads",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1086,6 +1181,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "49 Winchester",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1118,7 +1215,10 @@
           "found": false,
           "confidence": 0.293,
           "matched": null,
-          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%); Spotify: no confident match (closest: Saxl Rose @ 25%)"
+          "apple_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%)",
+          "spotify_label": "no confident match (closest: Saxl Rose @ 25%)",
+          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%) | no confident match (closest: Saxl Rose @ 25%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1149,6 +1249,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "VNV Nation",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1181,6 +1283,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kid Francescoli",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1213,6 +1317,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mary Wallopers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1245,7 +1351,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SiM",
-          "match_label": "Spotify: no confident match (closest: Simply Red @ 46%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Simply Red @ 46%)",
+          "match_label": "no confident match (closest: Simply Red @ 46%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1276,7 +1385,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Speakeasy Three @ 63%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Speakeasy Three @ 63%)",
+          "match_label": "no confident match (closest: The Speakeasy Three @ 63%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1287,6 +1399,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hazlett",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1318,6 +1432,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hazlett",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1342,14 +1458,17 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41
+      "music": 41,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 40,
       "found": 37,
       "exact": 37,
       "close": 0,
-      "needs_review": 0,
+      "flagged": 0,
       "not_found": 3
     },
     "spotify": {
@@ -1357,7 +1476,8 @@
       "linked": 36,
       "venue": 0,
       "api": 36,
-      "shows_with_link": 37
+      "feed": 0,
+      "shows_with_link": 38
     }
   }
 }

@@ -6,6 +6,32 @@
   "city": "Del Mar, CA",
   "metro": "San Diego",
   "neighborhood": "Del Mar Fairgrounds",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 30,
   "shows": [
@@ -20,7 +46,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Phil Collins",
-          "match_label": "close match: Phil Collins; Spotify: Phil Collins",
+          "apple_label": "close match: Phil Collins",
+          "spotify_label": "close match: Phil Collins",
+          "match_label": "close match: Phil Collins | close match: Phil Collins",
           "spotify_source": "api"
         }
       ],
@@ -52,6 +80,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sammy Rae & The Friends",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -64,6 +94,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Melt",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -95,6 +127,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Michelle Branch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -107,6 +141,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SASAMI",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -138,6 +174,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mastodon",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -148,6 +186,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Deafheaven",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -158,6 +198,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Alcest",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -190,6 +232,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "LP",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -222,6 +266,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Shakey Graves",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -234,6 +280,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wild Pink",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -265,6 +313,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Boy Harsher",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -275,6 +325,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "True Blue",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -285,6 +337,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kassie Krut",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -317,6 +371,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kylie Cantrall",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -329,6 +385,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "GIRLSET",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -360,6 +418,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Switchfoot",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -372,6 +432,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Anberlin",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -385,7 +447,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/switchfoot-with-anberlin-the-sound-tickets/14900413?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14900413/switchfoot-with-anberlin-forever-now-tour",
       "room": null,
       "age_rating": null,
@@ -403,6 +465,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Todd Rundgren",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -417,7 +481,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/todd-rundgren-damned-if-i-the-sound-tickets/14233784?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14233784/todd-rundgren-damned-if-i-do-tour",
       "room": null,
       "age_rating": null,
@@ -435,7 +499,9 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Lyle Lovett",
-          "match_label": "compound bill — links to Lyle Lovett only; Spotify: Lyle Lovett",
+          "apple_label": "compound bill — links to Lyle Lovett only",
+          "spotify_label": null,
+          "match_label": "compound bill — links to Lyle Lovett only",
           "spotify_source": "api"
         }
       ],
@@ -449,7 +515,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lyle-lovett-and-his-small-the-sound-tickets/14215064?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14215064/lyle-lovett-and-his-small-large-band",
       "room": null,
       "age_rating": null,
@@ -467,7 +533,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (Billy Joel)",
+          "apple_label": null,
+          "spotify_label": "close match: Billy Joel",
+          "match_label": "close match: Billy Joel",
           "spotify_source": "api"
         }
       ],
@@ -481,7 +549,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-billy-joel-legacy-the-sound-tickets/14248134?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14248134/the-billy-joel-legacy-a-tribute-experience",
       "room": null,
       "age_rating": null,
@@ -499,6 +567,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Psychedelic Furs",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -511,6 +581,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "We Are Scientists",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -524,7 +596,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-psychedelic-furs-with-special-the-sound-tickets/14964383?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14964383/the-psychedelic-furs-with-special-guests-we-are-scientists",
       "room": null,
       "age_rating": null,
@@ -542,7 +614,9 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DJ Meredith Marks",
-          "match_label": "Spotify: close match (Dj Meredith)",
+          "apple_label": null,
+          "spotify_label": "close match: Dj Meredith",
+          "match_label": "close match: Dj Meredith",
           "spotify_source": "api"
         }
       ],
@@ -556,7 +630,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dj-meredith-marks-the-sound-tickets/14312544?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14312544/dj-meredith-marks-you-can-dance-tour",
       "room": null,
       "age_rating": null,
@@ -574,6 +648,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Houndmouth",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -586,6 +662,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dogpark",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -599,7 +677,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/houndmouth-the-lordy-the-sound-tickets/14262974?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14262974/houndmouth-the-lordy-tour-w-dogpark",
       "room": null,
       "age_rating": null,
@@ -617,6 +695,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Clara La San",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -629,6 +709,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SAUSHA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -642,7 +724,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/clara-la-san-the-sound-tickets/15035903?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/15035903/clara-la-san-chosen-silences-tour-fall-2026-w-sausha",
       "room": null,
       "age_rating": null,
@@ -660,14 +742,17 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Decemberists @ 44%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Decemberists @ 44%)",
+          "match_label": "no confident match (closest: The Decemberists @ 44%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
-        "Young the Giant -"
+        "Young the Giant"
       ],
       "set_format": null,
       "date": "2026-12-08",
@@ -675,7 +760,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/young-the-giant-the-sound-tickets/14339864?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14339864/young-the-giant-presented-by-alt-94-9s-december-to-remember",
       "room": null,
       "age_rating": null,
@@ -693,14 +778,17 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Decemberists @ 44%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Decemberists @ 44%)",
+          "match_label": "no confident match (closest: The Decemberists @ 44%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
-        "Cannons -"
+        "Cannons"
       ],
       "set_format": null,
       "date": "2026-12-09",
@@ -708,7 +796,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/cannons-presented-by-the-sound-tickets/14339904?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14339904/cannons-presented-by-alt-94-9s-december-to-remember",
       "room": null,
       "age_rating": null,
@@ -726,6 +814,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The String Cheese Incident",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -740,7 +830,7 @@
       "doors": null,
       "show_time": "7:15 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-string-cheese-incident-just-the-sound-tickets/15018633?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/15018633/the-string-cheese-incident-just-keep-spinning-tour",
       "room": null,
       "age_rating": null,
@@ -758,6 +848,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The String Cheese Incident",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -772,7 +864,7 @@
       "doors": null,
       "show_time": "7:15 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-string-cheese-incident-just-the-sound-tickets/15029263?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/15029263/the-string-cheese-incident-just-keep-spinning-tour-2-day-tickets",
       "room": null,
       "age_rating": null,
@@ -790,6 +882,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The String Cheese Incident",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -804,7 +898,7 @@
       "doors": null,
       "show_time": "7:15 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-string-cheese-incident-just-the-sound-tickets/15018643?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/15018643/the-string-cheese-incident-just-keep-spinning-tour",
       "room": null,
       "age_rating": null,
@@ -822,6 +916,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "nimino",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -836,7 +932,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/nimino-keep-me-awake-tour-the-sound-tickets/14974573?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14974573/nimino-keep-me-awake-tour",
       "room": null,
       "age_rating": null,
@@ -854,6 +950,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Tribal Seeds",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -864,6 +962,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dubbest",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -874,6 +974,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Eureka Sound",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -888,7 +990,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/tribal-seeds-dubbest-eureka-sound-the-sound-tickets/15035993?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/15035993/tribal-seeds-dubbest-eureka-sound",
       "room": null,
       "age_rating": null,
@@ -906,6 +1008,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dark Star Orchestra",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -920,7 +1024,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dark-star-orchestra-the-sound-tickets/14341784?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14341784/dark-star-orchestra-winter-2027-tour",
       "room": null,
       "age_rating": null,
@@ -938,6 +1042,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dropkick Murphys",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -950,6 +1056,8 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Spiritual Cramp",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -963,7 +1071,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dropkick-murphys-st-the-sound-tickets/14339974?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14339974/dropkick-murphys-st-patricks-day-2027-tour-w-spiritual-cramp-home-front",
       "room": null,
       "age_rating": null,
@@ -981,7 +1089,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Top Orchestra @ 48%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Top Orchestra @ 48%)",
+          "match_label": "no confident match (closest: The Top Orchestra @ 48%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -994,7 +1105,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/top-of-the-world-the-sound-tickets/14996013?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14996013/top-of-the-world-a-tribute-to-the-carpenters",
       "room": null,
       "age_rating": null,
@@ -1012,6 +1123,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sylvan Esso",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1026,7 +1139,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sylvan-esso-the-sound-tickets/14978503?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14978503/sylvan-esso",
       "room": null,
       "age_rating": null,
@@ -1044,6 +1157,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wheeler Walker Jr.",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1058,7 +1173,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wheeler-walker-jr-the-sound-tickets/14972463?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14972463/wheeler-walker-jr-pullin-out-the-farewell-tour",
       "room": null,
       "age_rating": null,
@@ -1076,7 +1191,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Simon & Garfunkel",
-          "match_label": "close match: Simon & Garfunkel; Spotify: Simon & Garfunkel",
+          "apple_label": "close match: Simon & Garfunkel",
+          "spotify_label": "close match: Simon & Garfunkel",
+          "match_label": "close match: Simon & Garfunkel | close match: Simon & Garfunkel",
           "spotify_source": "api"
         }
       ],
@@ -1090,7 +1207,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-simon-garfunkel-story-the-sound-tickets/14314664?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14314664/the-simon-garfunkel-story",
       "room": null,
       "age_rating": null,
@@ -1108,6 +1225,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Slash",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1120,7 +1239,9 @@
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Myles Kennedy And The Conspirators @ 70%); Spotify: Myles Kennedy",
+          "apple_label": "no confident match (closest: Myles Kennedy And The Conspirators @ 70%)",
+          "spotify_label": null,
+          "match_label": "no confident match (closest: Myles Kennedy And The Conspirators @ 70%)",
           "spotify_source": "api"
         }
       ],
@@ -1133,7 +1254,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/slash-featuring-myles-kennedy-and-the-sound-tickets/14356274?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14356274/slash-featuring-myles-kennedy-and-the-conspirators-flying-blind-world-tour-2027",
       "room": null,
       "age_rating": null,
@@ -1143,14 +1264,17 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30
+      "music": 30,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 43,
       "found": 39,
-      "exact": 34,
-      "close": 0,
-      "needs_review": 4,
+      "exact": 35,
+      "close": 1,
+      "flagged": 3,
       "not_found": 4
     },
     "spotify": {
@@ -1158,6 +1282,7 @@
       "linked": 41,
       "venue": 0,
       "api": 41,
+      "feed": 0,
       "shows_with_link": 27
     }
   }

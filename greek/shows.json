@@ -6,6 +6,32 @@
   "city": "Berkeley, CA",
   "metro": "San Francisco",
   "neighborhood": null,
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 4,
   "shows": [
@@ -20,7 +46,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Lauryn Hill",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -51,6 +80,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "HUGEL",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -63,6 +94,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ochok",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         },
@@ -73,7 +106,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
@@ -103,6 +139,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Red Clay Strays",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -115,6 +153,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "St. Paul & The Broken Bones",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -146,6 +186,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SIENNA SPIRO",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -171,14 +213,16 @@
   "stats": {
     "event_types": {
       "music": 4,
-      "comedy": 0
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 7,
       "found": 6,
       "exact": 5,
       "close": 1,
-      "needs_review": 0,
+      "flagged": 0,
       "not_found": 1
     },
     "spotify": {
@@ -186,6 +230,7 @@
       "linked": 5,
       "venue": 5,
       "api": 0,
+      "feed": 0,
       "shows_with_link": 3
     }
   }

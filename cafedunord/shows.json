@@ -6,6 +6,32 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Presidio Heights",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 50,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Rose Hips",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -32,7 +60,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sun Casino",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -43,8 +74,8 @@
       "set_format": null,
       "date": "2026-10-22",
       "date_label": "Thu 2026-10-22",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-rose-hips-with-sun-cafe-du-nord-tickets/15026343?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-22-the-rose-hips",
@@ -64,6 +95,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kelsey Kindall",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -76,7 +109,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "kailnoa",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -87,8 +123,8 @@
       "set_format": null,
       "date": "2026-10-24",
       "date_label": "Sat 2026-10-24",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kelsey-kindall-cafe-du-nord-tickets/14275454?pl=cdn&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-24-kelsey-kindall",
@@ -108,6 +144,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Blessing Offor",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -120,7 +158,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bailey Blanton",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -131,8 +172,8 @@
       "set_format": null,
       "date": "2026-10-25",
       "date_label": "Sun 2026-10-25",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/blessing-offor-heart-cafe-du-nord-tickets/14262054?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-25-blessing-offor",
@@ -152,6 +193,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Blu DeTiger",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -164,7 +207,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -175,8 +221,8 @@
       "set_format": null,
       "date": "2026-10-26",
       "date_label": "Mon 2026-10-26",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/blu-detiger-the-cafe-du-nord-tickets/15030133?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-26-blu-detiger",
@@ -196,7 +242,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Great Lake Swimmers",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -207,7 +256,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jesse Sykes & The Sweet Hereafter",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -218,8 +270,8 @@
       "set_format": null,
       "date": "2026-10-28",
       "date_label": "Wed 2026-10-28",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/great-lake-swimmers-with-jesse-cafe-du-nord-tickets/14195574?pl=cdn&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-28-great-lake-swimmers",
@@ -239,6 +291,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Francis of Delirium",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -251,7 +305,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Swell Foop",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -262,8 +319,8 @@
       "set_format": null,
       "date": "2026-10-29",
       "date_label": "Thu 2026-10-29",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/francis-of-delirium-with-swell-cafe-du-nord-tickets/14859953?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-10-29-francis-of-delirium",
@@ -283,6 +340,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lime Garden",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -295,7 +354,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Whalefall",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -306,8 +368,8 @@
       "set_format": null,
       "date": "2026-10-30",
       "date_label": "Fri 2026-10-30",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lime-garden-with-whalefall-sold-cafe-du-nord-tickets/14781133?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "waitlist",
       "event_page": "https://cafedunord.com/shows/2026-10-30-lime-garden",
@@ -327,6 +389,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Token",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -339,7 +403,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Clark D",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Delivery Boys",
@@ -348,7 +415,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Delivery Boys",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
@@ -359,8 +429,8 @@
       "set_format": null,
       "date": "2026-11-01",
       "date_label": "Sun 2026-11-01",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/token-im-leaving-cafe-du-nord-tickets/14250674?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-01-token",
@@ -380,6 +450,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sobs",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -392,7 +464,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "lace",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -403,8 +478,8 @@
       "set_format": null,
       "date": "2026-11-03",
       "date_label": "Tue 2026-11-03",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sobs-with-lace-cafe-du-nord-tickets/15035033?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-03-sobs",
@@ -424,6 +499,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DICE",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -436,7 +513,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Back Alley",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -447,8 +527,8 @@
       "set_format": null,
       "date": "2026-11-04",
       "date_label": "Wed 2026-11-04",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dice-with-the-back-alley-cafe-du-nord-tickets/14908043?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-04-dice",
@@ -468,6 +548,8 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Dave Hause",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -481,8 +563,8 @@
       "set_format": null,
       "date": "2026-11-05",
       "date_label": "Thu 2026-11-05",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dave-hause-and-the-mermaid-cafe-du-nord-tickets/14887413?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-05-dave-hause-and-the-mermaid",
@@ -502,7 +584,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -514,8 +599,8 @@
       "set_format": null,
       "date": "2026-11-06",
       "date_label": "Fri 2026-11-06",
-      "doors": "6:30 PM",
-      "show_time": "7:30 PM",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-poetry-swedish-american-hall-tickets/14293834?pl=cdn&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-06-san-francisco-leonard-cohen-festival",
@@ -535,6 +620,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "IAN SWEET",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -547,7 +634,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "LUELLA",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -558,8 +648,8 @@
       "set_format": null,
       "date": "2026-11-06",
       "date_label": "Fri 2026-11-06",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ian-sweet-with-luella-cafe-du-nord-tickets/14851843?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-06-ian-sweet",
@@ -579,7 +669,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -590,7 +683,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Conspiracy of Beards",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Daniel Kahn and Jake Shulman-Ment",
@@ -599,7 +695,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Daniel Kahn",
-          "match_label": "compound bill — links to Daniel Kahn only"
+          "apple_label": "compound bill — links to Daniel Kahn only",
+          "spotify_label": null,
+          "match_label": "compound bill — links to Daniel Kahn only",
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
@@ -610,8 +709,8 @@
       "set_format": null,
       "date": "2026-11-07",
       "date_label": "Sat 2026-11-07",
-      "doors": "6:30 PM",
-      "show_time": "7:30 PM",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-song-swedish-american-hall-tickets/14293844?pl=cdn&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-festival",
@@ -631,6 +730,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "454",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -644,8 +745,8 @@
       "set_format": null,
       "date": "2026-11-08",
       "date_label": "Sun 2026-11-08",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/454-cafe-du-nord-tickets/14351274?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-08-454",
@@ -665,7 +766,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wyatt Waddell",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -677,8 +781,8 @@
       "set_format": null,
       "date": "2026-11-12",
       "date_label": "Thu 2026-11-12",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wyatt-waddell-cafe-du-nord-tickets/14935233?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-12-wyatt-waddell",
@@ -698,6 +802,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MARIS",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -711,8 +817,8 @@
       "set_format": null,
       "date": "2026-11-13",
       "date_label": "Fri 2026-11-13",
-      "doors": "8 PM",
-      "show_time": "9 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": null,
       "ticket_status": "sold out",
       "event_page": "https://cafedunord.com/shows/2026-11-13-maris",
@@ -732,6 +838,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kate Nash",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -745,8 +853,8 @@
       "set_format": null,
       "date": "2026-11-15",
       "date_label": "Sun 2026-11-15",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kate-nash-swedish-american-hall-tickets/14313314?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-15-kate-nash",
@@ -766,6 +874,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jammy Buffet",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -779,8 +889,8 @@
       "set_format": null,
       "date": "2026-11-17",
       "date_label": "Tue 2026-11-17",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-cafe-du-nord-tickets/14287124?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-17-jammy-buffet",
@@ -800,6 +910,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "LAYA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -813,8 +925,8 @@
       "set_format": null,
       "date": "2026-11-18",
       "date_label": "Wed 2026-11-18",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/laya-lipstick-n-cafe-du-nord-tickets/14371104?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-18-laya",
@@ -834,6 +946,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Internet Girl",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -847,8 +961,8 @@
       "set_format": null,
       "date": "2026-11-19",
       "date_label": "Thu 2026-11-19",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/internet-girl-cafe-du-nord-tickets/15010183?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-19-internet-girl",
@@ -868,6 +982,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Memphis LK",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -880,7 +996,10 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Adda Cstr",
-          "match_label": "close match: Adda Cstr"
+          "apple_label": "close match: Adda Cstr",
+          "spotify_label": null,
+          "match_label": "close match: Adda Cstr",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -891,8 +1010,8 @@
       "set_format": null,
       "date": "2026-11-20",
       "date_label": "Fri 2026-11-20",
-      "doors": "8 PM",
-      "show_time": "9 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/memphis-lk-with-cstr-cafe-du-nord-tickets/14259744?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-20-memphis-lk",
@@ -912,6 +1031,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Frances Whitney",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -924,7 +1045,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Abby Walker",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -935,8 +1059,8 @@
       "set_format": null,
       "date": "2026-11-21",
       "date_label": "Sat 2026-11-21",
-      "doors": "8 PM",
-      "show_time": "9 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/frances-whitney-presents-daisys-mixtape-cafe-du-nord-tickets/14341944?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-21-frances-whitney",
@@ -956,6 +1080,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Elijah Fox",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -969,8 +1095,8 @@
       "set_format": null,
       "date": "2026-12-03",
       "date_label": "Thu 2026-12-03",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/elijah-fox-trio-tour-ft-swedish-american-hall-tickets/14314314?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-03-elijah-fox",
@@ -990,6 +1116,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Keenan TreVon",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1003,8 +1131,8 @@
       "set_format": null,
       "date": "2026-12-07",
       "date_label": "Mon 2026-12-07",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/keenan-trevon-cafe-du-nord-tickets/14329424?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-07-keenan-trevon",
@@ -1024,6 +1152,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "HARBOUR",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1036,7 +1166,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Silkies",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1047,8 +1180,8 @@
       "set_format": null,
       "date": "2026-12-08",
       "date_label": "Tue 2026-12-08",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/harbour-with-the-silkies-cafe-du-nord-tickets/14206784?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-08-harbour",
@@ -1068,6 +1201,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "WHY?",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1081,8 +1216,8 @@
       "set_format": null,
       "date": "2026-12-08",
       "date_label": "Tue 2026-12-08",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/why-swedish-american-hall-tickets/15003283?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-08-why",
@@ -1102,6 +1237,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Josie Edwards",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1115,8 +1252,8 @@
       "set_format": null,
       "date": "2026-12-15",
       "date_label": "Tue 2026-12-15",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/josie-edwards-cafe-du-nord-tickets/14296744?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-15-josie-edwards",
@@ -1136,6 +1273,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Youth Fountain",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1148,7 +1287,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Relate.",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1159,8 +1301,8 @@
       "set_format": null,
       "date": "2027-01-26",
       "date_label": "Tue 2027-01-26",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/youth-fountain-with-relate-cafe-du-nord-tickets/14302564?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-01-26-youth-fountain",
@@ -1180,6 +1322,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Zach Seabaugh",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1193,8 +1337,8 @@
       "set_format": null,
       "date": "2027-01-30",
       "date_label": "Sat 2027-01-30",
-      "doors": "8 PM",
-      "show_time": "9 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/zach-seabaugh-cafe-du-nord-tickets/14354054?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "presale",
       "event_page": "https://cafedunord.com/shows/2027-01-30-zach-seabaugh",
@@ -1214,6 +1358,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Arcadian Wild",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1227,8 +1373,8 @@
       "set_format": null,
       "date": "2027-01-30",
       "date_label": "Sat 2027-01-30",
-      "doors": "8 PM",
-      "show_time": "9 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-arcadian-wild-swedish-american-hall-tickets/14348954?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-01-30-the-arcadian-wild",
@@ -1248,6 +1394,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Sways",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1261,8 +1409,8 @@
       "set_format": null,
       "date": "2027-02-06",
       "date_label": "Sat 2027-02-06",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-sways-cafe-du-nord-tickets/14364964?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "presale",
       "event_page": "https://cafedunord.com/shows/2027-02-06-the-sways",
@@ -1282,6 +1430,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Aubory Bugg",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1295,8 +1445,8 @@
       "set_format": null,
       "date": "2027-02-13",
       "date_label": "Sat 2027-02-13",
-      "doors": "8 PM",
-      "show_time": "9 PM",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/aubory-bugg-cafe-du-nord-tickets/14325124?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-13-aubory-bugg",
@@ -1316,6 +1466,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "L.A.B",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1328,7 +1480,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Seven Suns",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1339,8 +1494,8 @@
       "set_format": null,
       "date": "2027-02-17",
       "date_label": "Wed 2027-02-17",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lab-with-seven-suns-cafe-du-nord-tickets/14314574?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-17-lab",
@@ -1360,6 +1515,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Devvy Dub",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1373,10 +1530,10 @@
       "set_format": null,
       "date": "2027-02-19",
       "date_label": "Fri 2027-02-19",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": null,
-      "ticket_status": "on-sale-soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://cafedunord.com/shows/2027-02-19-devvy-dub",
       "room": null,
       "age_rating": "21+",
@@ -1394,6 +1551,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Cut Worms",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1407,10 +1566,10 @@
       "set_format": null,
       "date": "2027-02-22",
       "date_label": "Mon 2027-02-22",
-      "doors": "6 PM",
-      "show_time": "7 PM",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": null,
-      "ticket_status": "on-sale-soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://cafedunord.com/shows/2027-02-22-cut-worms",
       "room": "Swedish American Hall (upstairs)",
       "age_rating": "21+",
@@ -1428,6 +1587,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Alt Bloom",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1440,7 +1601,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DOUBLECAMP",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1451,10 +1615,10 @@
       "set_format": null,
       "date": "2027-02-23",
       "date_label": "Tue 2027-02-23",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": null,
-      "ticket_status": "on-sale-soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://cafedunord.com/shows/2027-02-23-alt-bloom",
       "room": null,
       "age_rating": "All ages",
@@ -1472,6 +1636,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hot Freaks",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1485,8 +1651,8 @@
       "set_format": null,
       "date": "2027-02-24",
       "date_label": "Wed 2027-02-24",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/hot-freaks-cafe-du-nord-tickets/14340764?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-24-hot-freaks",
@@ -1506,6 +1672,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Brooke Alexx",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1519,8 +1687,8 @@
       "set_format": null,
       "date": "2027-02-25",
       "date_label": "Thu 2027-02-25",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/brooke-alexx-dream-girl-tour-cafe-du-nord-tickets/14288904?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-25-brooke-alexx",
@@ -1540,6 +1708,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Stone Foxes",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1553,10 +1723,10 @@
       "set_format": null,
       "date": "2027-02-26",
       "date_label": "Fri 2027-02-26",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": null,
-      "ticket_status": "on-sale-soon",
+      "ticket_status": "on sale soon",
       "event_page": "https://cafedunord.com/shows/2027-02-26-the-stone-foxes",
       "room": null,
       "age_rating": "21+",
@@ -1574,6 +1744,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Surfer Girl",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1586,7 +1758,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Holdup",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "JOBY!",
@@ -1595,7 +1770,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "JOBY!",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
@@ -1606,8 +1784,8 @@
       "set_format": null,
       "date": "2027-03-13",
       "date_label": "Sat 2027-03-13",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-with-the-holdup-cafe-du-nord-tickets/14335194?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-03-13-surfer-girl",
@@ -1627,6 +1805,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bo Staloch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1640,8 +1820,8 @@
       "set_format": null,
       "date": "2027-03-19",
       "date_label": "Fri 2027-03-19",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bo-staloch-the-cafe-du-nord-tickets/14328434?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-03-19-bo-staloch",
@@ -1661,6 +1841,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Rowena Wise",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1674,8 +1856,8 @@
       "set_format": null,
       "date": "2027-03-25",
       "date_label": "Thu 2027-03-25",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rowena-wise-bad-cafe-du-nord-tickets/14351494?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-03-25-rowena-wise",
@@ -1695,6 +1877,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sarah Julia",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1708,8 +1892,8 @@
       "set_format": null,
       "date": "2027-03-27",
       "date_label": "Sat 2027-03-27",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sarah-julia-2027-swedish-american-hall-tickets/14379054?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "presale",
       "event_page": "https://cafedunord.com/shows/2027-03-27-sarah-julia",
@@ -1729,6 +1913,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Games We Play",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1741,7 +1927,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bears in Trees",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1752,8 +1941,8 @@
       "set_format": null,
       "date": "2027-03-30",
       "date_label": "Tue 2027-03-30",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/games-we-play-cafe-du-nord-tickets/14321934?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-03-30-games-we-play",
@@ -1773,6 +1962,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Victoryland",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1786,8 +1977,8 @@
       "set_format": null,
       "date": "2027-04-05",
       "date_label": "Mon 2027-04-05",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/victoryland-cafe-du-nord-tickets/14378204?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-04-05-victoryland",
@@ -1807,7 +1998,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Arthur Hill",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1819,8 +2013,8 @@
       "set_format": null,
       "date": "2027-04-07",
       "date_label": "Wed 2027-04-07",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/arthur-hill-cafe-du-nord-tickets/15016263?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-04-07-arthur-hill",
@@ -1840,6 +2034,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jack & Jack",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1853,8 +2049,8 @@
       "set_format": null,
       "date": "2027-04-13",
       "date_label": "Tue 2027-04-13",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jack-jack-cafe-du-nord-tickets/14381474?pl=cdn&REFID=clientsitewp",
       "ticket_status": "presale",
       "event_page": "https://cafedunord.com/shows/2027-04-13-jack-and-jack",
@@ -1874,6 +2070,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Alex Sampson",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -1887,8 +2085,8 @@
       "set_format": null,
       "date": "2027-04-23",
       "date_label": "Fri 2027-04-23",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/alex-sampson-cafe-du-nord-tickets/14353524?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-04-23-alex-sampson",
@@ -1908,7 +2106,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "gavn!",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1920,8 +2121,8 @@
       "set_format": null,
       "date": "2027-05-23",
       "date_label": "Sun 2027-05-23",
-      "doors": "7 PM",
-      "show_time": "8 PM",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gavn-new-date-cafe-du-nord-tickets/14206234?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-05-23-gavn",
@@ -1933,14 +2134,17 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50
+      "music": 50,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 72,
       "found": 70,
       "exact": 66,
       "close": 2,
-      "needs_review": 2,
+      "flagged": 2,
       "not_found": 2
     },
     "spotify": {
@@ -1948,6 +2152,7 @@
       "linked": 44,
       "venue": 44,
       "api": 0,
+      "feed": 0,
       "shows_with_link": 44
     }
   }

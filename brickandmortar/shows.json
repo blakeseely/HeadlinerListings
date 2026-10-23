@@ -6,6 +6,32 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 21,
   "shows": [
@@ -20,7 +46,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "REZN",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "lowheaven",
@@ -29,7 +58,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "lowheaven",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Mountaineer",
@@ -38,6 +70,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mountaineer",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -70,7 +104,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "she's green",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -101,6 +138,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "natalie jinju",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -113,6 +152,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "chiabiee",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -144,7 +185,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "jackzebra",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -175,6 +219,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hayden Everett",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -187,7 +233,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jackson Lundy",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -217,7 +266,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Coral 9",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -228,7 +280,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Bazooka",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Dogwater",
@@ -237,7 +292,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dogwater",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "DJ Kalamansi",
@@ -246,7 +304,10 @@
           "found": true,
           "confidence": 0.857,
           "matched": "Kalamansi",
-          "match_label": "close match: Kalamansi"
+          "apple_label": "close match: Kalamansi",
+          "spotify_label": null,
+          "match_label": "close match: Kalamansi",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -276,7 +337,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Improvement Movement",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -287,6 +351,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Adron",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -318,7 +384,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Cardinal Bloom",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -329,6 +398,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "the Gontiks",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -360,6 +431,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "MISSIO",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -372,7 +445,10 @@
           "found": true,
           "confidence": 0.923,
           "matched": "Fifteen0eight",
-          "match_label": "close match: Fifteen0eight"
+          "apple_label": "close match: Fifteen0eight",
+          "spotify_label": null,
+          "match_label": "close match: Fifteen0eight",
+          "spotify_source": null
         },
         {
           "name": "Kent Osborne",
@@ -381,6 +457,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kent Osborne",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -412,7 +490,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Blue Light",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -423,6 +504,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sassy 009",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         },
@@ -433,7 +516,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Swordes",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Tricky FM",
@@ -442,7 +528,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Tricky FM",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -472,7 +561,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "AZ Chike",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -503,6 +595,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Clay Street Unit",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -515,6 +609,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Maxwell Oaks",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -546,7 +642,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Supertaste",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "3kelves",
@@ -555,6 +654,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "3kelves",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -587,7 +688,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Triptides",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -618,6 +722,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "past self",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -630,7 +736,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Creux Lies",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "Hot Goth GF",
@@ -639,7 +748,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -669,7 +781,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mad Tsai",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -700,6 +815,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Natanya",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -732,6 +849,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Deante' Hitchcock",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -764,7 +883,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Denise Julia",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -795,6 +917,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "OCT",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -807,6 +931,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Billy Marchiafava",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "venue"
         }
@@ -838,7 +964,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Brokencyde",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -849,7 +978,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dot Dot Curve",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         },
         {
           "name": "9aradox",
@@ -858,7 +990,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "9aradox",
-          "match_label": null
+          "apple_label": null,
+          "spotify_label": null,
+          "match_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -880,14 +1015,17 @@
   ],
   "stats": {
     "event_types": {
-      "music": 21
+      "music": 21,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 42,
       "found": 41,
       "exact": 39,
       "close": 0,
-      "needs_review": 2,
+      "flagged": 2,
       "not_found": 1
     },
     "spotify": {
@@ -895,7 +1033,8 @@
       "linked": 17,
       "venue": 17,
       "api": 0,
-      "shows_with_link": 10
+      "feed": 0,
+      "shows_with_link": 13
     }
   }
 }

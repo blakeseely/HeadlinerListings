@@ -6,6 +6,32 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Downtown",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 1,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Clay Street Unit",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -30,6 +58,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Poor Thing",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -44,7 +74,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/clay-street-unit-poor-thing-casbah-tickets/14221724?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14221724/clay-street-unit-poor-thing",
       "room": null,
       "age_rating": null,
@@ -54,14 +84,17 @@
   ],
   "stats": {
     "event_types": {
-      "music": 1
+      "music": 1,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 2,
       "found": 2,
       "exact": 2,
       "close": 0,
-      "needs_review": 0,
+      "flagged": 0,
       "not_found": 0
     },
     "spotify": {
@@ -69,6 +102,7 @@
       "linked": 2,
       "venue": 0,
       "api": 2,
+      "feed": 0,
       "shows_with_link": 1
     }
   }

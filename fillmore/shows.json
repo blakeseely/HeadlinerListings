@@ -6,6 +6,32 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Fillmore",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 35,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pouya",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -32,6 +60,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ramirez",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -42,6 +72,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Fat Nick",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -52,6 +84,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "comehelpglo",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -62,6 +96,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Black Smurf",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -72,8 +108,8 @@
       "set_format": null,
       "date": "2026-10-23",
       "date_label": "Fri 2026-10-23",
-      "doors": "Doors 6:00pm",
-      "show_time": "7:00pm",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/pouya-the-forever-glades-tour-2026-san-francisco-california-10-23-2026/event/1C0064C4FF6A8769",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/pouya-the-forever-glades-tour-2026-san-francisco-california-10-23-2026/event/1C0064C4FF6A8769",
@@ -93,6 +129,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Amble",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -105,6 +143,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Vincent Lima",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -115,8 +155,8 @@
       "set_format": null,
       "date": "2026-10-24",
       "date_label": "Sat 2026-10-24",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/amble-san-francisco-california-10-24-2026/event/1C0064CABFC98DA4",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/amble-san-francisco-california-10-24-2026/event/1C0064CABFC98DA4",
@@ -136,6 +176,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kishi Bashi",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -148,6 +190,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Geographer",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -158,8 +202,8 @@
       "set_format": null,
       "date": "2026-10-25",
       "date_label": "Sun 2026-10-25",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/kishi-bashi-sonderlust-10th-anniversary-tour-san-francisco-california-10-25-2026/event/1C006470E74207E3",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/kishi-bashi-sonderlust-10th-anniversary-tour-san-francisco-california-10-25-2026/event/1C006470E74207E3",
@@ -179,6 +223,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Slow Pulp",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -191,6 +237,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Snuggle",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -201,8 +249,8 @@
       "set_format": null,
       "date": "2026-10-27",
       "date_label": "Tue 2026-10-27",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE",
@@ -222,6 +270,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Slow Pulp",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -233,8 +283,8 @@
       "set_format": null,
       "date": "2026-10-28",
       "date_label": "Wed 2026-10-28",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-28-2026/event/1C0064E690EF7D86",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-28-2026/event/1C0064E690EF7D86",
@@ -254,6 +304,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dilated Peoples",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -266,6 +318,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Coyote",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -276,6 +330,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DJ Shortkut",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -286,8 +342,8 @@
       "set_format": null,
       "date": "2026-10-29",
       "date_label": "Thu 2026-10-29",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/dilated-peoples-san-francisco-california-10-29-2026/event/1C00648F95D78073",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/dilated-peoples-san-francisco-california-10-29-2026/event/1C00648F95D78073",
@@ -307,6 +363,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Galactic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -319,7 +377,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "Bella Rayne",
-          "match_label": "close match: Bella Rayne; Spotify: Bella Rayne Band",
+          "apple_label": "close match: Bella Rayne",
+          "spotify_label": null,
+          "match_label": "close match: Bella Rayne",
           "spotify_source": "api"
         }
       ],
@@ -329,8 +389,8 @@
       "set_format": null,
       "date": "2026-10-30",
       "date_label": "Fri 2026-10-30",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/galactic-san-francisco-california-10-30-2026/event/1C0064E1AF3FC808",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/galactic-san-francisco-california-10-30-2026/event/1C0064E1AF3FC808",
@@ -350,6 +410,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Galactic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -362,6 +424,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Parlor Greens",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -372,8 +436,8 @@
       "set_format": null,
       "date": "2026-10-31",
       "date_label": "Sat 2026-10-31",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/galactic-san-francisco-california-10-31-2026/event/1C0064E1AF3BC802",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/galactic-san-francisco-california-10-31-2026/event/1C0064E1AF3BC802",
@@ -393,6 +457,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "José Madero",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -405,6 +471,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wonderfox",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -415,8 +483,8 @@
       "set_format": null,
       "date": "2026-11-01",
       "date_label": "Sun 2026-11-01",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-francisco-california-11-01-2026/event/1C0064D18D5F88F0",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-francisco-california-11-01-2026/event/1C0064D18D5F88F0",
@@ -436,6 +504,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Thee Sinseers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -448,6 +518,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Charities",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -458,8 +530,8 @@
       "set_format": null,
       "date": "2026-11-06",
       "date_label": "Fri 2026-11-06",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/thee-sinseers-love-stories-tour-san-francisco-california-11-06-2026/event/1C0064A7C0CACE11",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/thee-sinseers-love-stories-tour-san-francisco-california-11-06-2026/event/1C0064A7C0CACE11",
@@ -479,7 +551,9 @@
           "found": false,
           "confidence": 0.267,
           "matched": null,
-          "match_label": "no confident match (closest: Lionel Hampton & His Just Jazz All Stars @ 27%); Spotify: Big Star",
+          "apple_label": "no confident match (closest: Lionel Hampton & His Just Jazz All Stars @ 27%)",
+          "spotify_label": "close match: Big Star",
+          "match_label": "no confident match (closest: Lionel Hampton & His Just Jazz All Stars @ 27%) | close match: Big Star",
           "spotify_source": "api"
         }
       ],
@@ -490,8 +564,8 @@
       "set_format": null,
       "date": "2026-11-07",
       "date_label": "Sat 2026-11-07",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-big-star-quintet-san-francisco-california-11-07-2026/event/1C0064FDD0AC3682",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-big-star-quintet-san-francisco-california-11-07-2026/event/1C0064FDD0AC3682",
@@ -511,6 +585,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Quadeca",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -523,6 +599,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DERBY",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -533,6 +611,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Olēka",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -543,8 +623,8 @@
       "set_format": null,
       "date": "2026-11-09",
       "date_label": "Mon 2026-11-09",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/quadeca-san-francisco-california-11-09-2026/event/1C0064F48D166DDE",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/quadeca-san-francisco-california-11-09-2026/event/1C0064F48D166DDE",
@@ -564,6 +644,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Damned",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -576,6 +658,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Flamin' Groovies",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -586,6 +670,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Courettes",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -596,8 +682,8 @@
       "set_format": null,
       "date": "2026-11-11",
       "date_label": "Wed 2026-11-11",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-damned-final-damnation-50-san-francisco-california-11-11-2026/event/1C00648ED04CE8BF",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-damned-final-damnation-50-san-francisco-california-11-11-2026/event/1C00648ED04CE8BF",
@@ -617,7 +703,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Gene",
-          "match_label": "Spotify: no confident match (closest: Genesis @ 73%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Genesis @ 73%)",
+          "match_label": "no confident match (closest: Genesis @ 73%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -627,8 +716,8 @@
       "set_format": null,
       "date": "2026-11-12",
       "date_label": "Thu 2026-11-12",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/gene-san-francisco-california-11-12-2026/event/1C0064A1CF5AAAE5",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/gene-san-francisco-california-11-12-2026/event/1C0064A1CF5AAAE5",
@@ -648,6 +737,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ceremony",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -660,6 +751,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SPELLLING",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -670,6 +763,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Iron Lung",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -680,8 +775,8 @@
       "set_format": null,
       "date": "2026-11-13",
       "date_label": "Fri 2026-11-13",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/ceremony-san-francisco-california-11-13-2026/event/1C0064CF8DB96D00",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/ceremony-san-francisco-california-11-13-2026/event/1C0064CF8DB96D00",
@@ -701,6 +796,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Allison Russell",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -713,6 +810,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Autumn Nicholas",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -723,8 +822,8 @@
       "set_format": null,
       "date": "2026-11-14",
       "date_label": "Sat 2026-11-14",
-      "doors": "Doors 6:30pm",
-      "show_time": "7:30pm",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/allison-russell-san-francisco-california-11-14-2026/event/1C0065069F51D791",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/allison-russell-san-francisco-california-11-14-2026/event/1C0065069F51D791",
@@ -744,6 +843,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -755,8 +856,8 @@
       "set_format": null,
       "date": "2026-11-15",
       "date_label": "Sun 2026-11-15",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-one-openers-san-francisco-california-11-15-2026/event/1C0064C40B89B3F9",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-one-openers-san-francisco-california-11-15-2026/event/1C0064C40B89B3F9",
@@ -776,6 +877,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -787,8 +890,8 @@
       "set_format": null,
       "date": "2026-11-16",
       "date_label": "Mon 2026-11-16",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-two-alpha-san-francisco-california-11-16-2026/event/1C0064C40B8DB3FE",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-two-alpha-san-francisco-california-11-16-2026/event/1C0064C40B8DB3FE",
@@ -808,6 +911,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -819,8 +924,8 @@
       "set_format": null,
       "date": "2026-11-18",
       "date_label": "Wed 2026-11-18",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-three-stump-san-francisco-california-11-18-2026/event/1C0064C40B92B419",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-three-stump-san-francisco-california-11-18-2026/event/1C0064C40B92B419",
@@ -840,6 +945,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -851,8 +958,8 @@
       "set_format": null,
       "date": "2026-11-19",
       "date_label": "Thu 2026-11-19",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-four-six-san-francisco-california-11-19-2026/event/1C0064C40B96B421",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-four-six-san-francisco-california-11-19-2026/event/1C0064C40B96B421",
@@ -872,6 +979,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -883,8 +992,8 @@
       "set_format": null,
       "date": "2026-11-20",
       "date_label": "Fri 2026-11-20",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-five-cast-san-francisco-california-11-20-2026/event/1C0064C40B9AB433",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-five-cast-san-francisco-california-11-20-2026/event/1C0064C40B9AB433",
@@ -904,6 +1013,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -915,8 +1026,8 @@
       "set_format": null,
       "date": "2026-11-21",
       "date_label": "Sat 2026-11-21",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-six-closers-san-francisco-california-11-21-2026/event/1C0064C40B9DB43D",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-six-closers-san-francisco-california-11-21-2026/event/1C0064C40B9DB43D",
@@ -936,6 +1047,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "CocoRosie",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -947,8 +1060,8 @@
       "set_format": null,
       "date": "2026-11-23",
       "date_label": "Mon 2026-11-23",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/cocorosie-san-francisco-california-11-23-2026/event/1C006511BAEB3B53",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/cocorosie-san-francisco-california-11-23-2026/event/1C006511BAEB3B53",
@@ -968,6 +1081,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jackie Greene",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -979,8 +1094,8 @@
       "set_format": null,
       "date": "2026-11-28",
       "date_label": "Sat 2026-11-28",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jackie-greene-san-francisco-california-11-28-2026/event/1C006519AA671008",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/jackie-greene-san-francisco-california-11-28-2026/event/1C006519AA671008",
@@ -1000,6 +1115,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Eloise",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1011,8 +1128,8 @@
       "set_format": null,
       "date": "2026-12-02",
       "date_label": "Wed 2026-12-02",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/eloise-the-drama-queen-tour-san-francisco-california-12-02-2026/event/1C0064EA7F41710E",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/eloise-the-drama-queen-tour-san-francisco-california-12-02-2026/event/1C0064EA7F41710E",
@@ -1032,6 +1149,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pattie Gonia",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1044,6 +1163,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SEQUOIA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1054,6 +1175,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "vera",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1064,8 +1187,8 @@
       "set_format": null,
       "date": "2026-12-03",
       "date_label": "Thu 2026-12-03",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/pattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03-2026/event/1C0064733BB5E74D",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/pattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03-2026/event/1C0064733BB5E74D",
@@ -1085,6 +1208,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Matt Rogers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1096,8 +1221,8 @@
       "set_format": null,
       "date": "2026-12-06",
       "date_label": "Sun 2026-12-06",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/matt-rogers-this-time-its-really-san-francisco-california-12-06-2026/event/1C00651BAC2F7CD1",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/matt-rogers-this-time-its-really-san-francisco-california-12-06-2026/event/1C00651BAC2F7CD1",
@@ -1117,6 +1242,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Jayhawks",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1129,6 +1256,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mary Gauthier",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1139,8 +1268,8 @@
       "set_format": null,
       "date": "2026-12-09",
       "date_label": "Wed 2026-12-09",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/sanctuary-park-tour-celebrating-40-years-san-francisco-california-12-09-2026/event/1C0064D0C756F6B6",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/sanctuary-park-tour-celebrating-40-years-san-francisco-california-12-09-2026/event/1C0064D0C756F6B6",
@@ -1160,6 +1289,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Strawberry Guy",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1172,6 +1303,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jean-Luc Eldenwood",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1182,8 +1315,8 @@
       "set_format": null,
       "date": "2026-12-10",
       "date_label": "Thu 2026-12-10",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/strawberry-guy-san-francisco-california-12-10-2026/event/1C0064B4B64E3F1B",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/strawberry-guy-san-francisco-california-12-10-2026/event/1C0064B4B64E3F1B",
@@ -1203,6 +1336,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jorma Kaukonen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1214,8 +1349,8 @@
       "set_format": null,
       "date": "2026-12-11",
       "date_label": "Fri 2026-12-11",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jorma-kaukonen-san-francisco-california-12-11-2026/event/1C0065218501B5E7",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/jorma-kaukonen-san-francisco-california-12-11-2026/event/1C0065218501B5E7",
@@ -1235,6 +1370,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jorma Kaukonen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1246,8 +1383,8 @@
       "set_format": null,
       "date": "2026-12-12",
       "date_label": "Sat 2026-12-12",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jorma-kaukonen-san-francisco-california-12-12-2026/event/1C0065218505B5F1",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/jorma-kaukonen-san-francisco-california-12-12-2026/event/1C0065218505B5F1",
@@ -1267,6 +1404,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jorma Kaukonen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1278,8 +1417,8 @@
       "set_format": null,
       "date": "2026-12-13",
       "date_label": "Sun 2026-12-13",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/jorma-kaukonen-san-francisco-california-12-13-2026/event/1C006521850AB602",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/jorma-kaukonen-san-francisco-california-12-13-2026/event/1C006521850AB602",
@@ -1299,6 +1438,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Yung Gravy",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1311,6 +1452,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "TERROR REID",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1321,8 +1464,8 @@
       "set_format": null,
       "date": "2026-12-16",
       "date_label": "Wed 2026-12-16",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-san-francisco-california-12-16-2026/event/1C006515F563DE3C",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-san-francisco-california-12-16-2026/event/1C006515F563DE3C",
@@ -1342,6 +1485,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Death Angel",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1353,8 +1498,8 @@
       "set_format": null,
       "date": "2026-12-18",
       "date_label": "Fri 2026-12-18",
-      "doors": "Doors 7:00pm",
-      "show_time": "8:00pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/death-angel-another-11th-annual-death-san-francisco-california-12-18-2026/event/1C00651CBAE1F3E6",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/death-angel-another-11th-annual-death-san-francisco-california-12-18-2026/event/1C00651CBAE1F3E6",
@@ -1374,7 +1519,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: The Allman Betts Band @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Allman Betts Band @ 70%)",
+          "match_label": "no confident match (closest: The Allman Betts Band @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1384,8 +1532,8 @@
       "set_format": null,
       "date": "2026-12-19",
       "date_label": "Sat 2026-12-19",
-      "doors": "Doors 6:30pm",
-      "show_time": "7:30pm",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/allman-betts-family-revival-a-decade-san-francisco-california-12-19-2026/event/1C00650AA46AAECE",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/allman-betts-family-revival-a-decade-san-francisco-california-12-19-2026/event/1C00650AA46AAECE",
@@ -1398,6 +1546,8 @@
   "stats": {
     "event_types": {
       "music": 33,
+      "comedy": 0,
+      "film": 0,
       "other": 2
     },
     "apple_music": {
@@ -1405,7 +1555,7 @@
       "found": 49,
       "exact": 48,
       "close": 0,
-      "needs_review": 1,
+      "flagged": 1,
       "not_found": 2
     },
     "spotify": {
@@ -1413,6 +1563,7 @@
       "linked": 49,
       "venue": 0,
       "api": 49,
+      "feed": 0,
       "shows_with_link": 33
     }
   }

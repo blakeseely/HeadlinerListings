@@ -6,6 +6,32 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "SoMa",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 23,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Julia Wolf",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -52,7 +80,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "TR",
-          "match_label": "Spotify: no confident match (closest: Troye Sivan @ 31%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Troye Sivan @ 31%)",
+          "match_label": "no confident match (closest: Troye Sivan @ 31%)",
+          "spotify_source": null
         },
         {
           "name": "ST",
@@ -61,7 +92,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "ST",
-          "match_label": "Spotify: no confident match (closest: Staind @ 50%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Staind @ 50%)",
+          "match_label": "no confident match (closest: Staind @ 50%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -72,6 +106,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Buzz Kull",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -82,6 +118,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Zanias",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -92,6 +130,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ghost Cop",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -102,6 +142,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Aux Animaux",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -133,6 +175,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "illuminati hotties",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -145,6 +189,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Buzzed Lightbeer",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -155,6 +201,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Swell Foop",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -186,6 +234,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Desire",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -218,6 +268,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Cold Cave",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -250,6 +302,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pain of Truth",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -282,7 +336,9 @@
           "found": true,
           "confidence": 0.9,
           "matched": "Danny L Harle",
-          "match_label": "close match: Danny L Harle; Spotify: Danny L. Harle",
+          "apple_label": "close match: Danny L Harle",
+          "spotify_label": null,
+          "match_label": "close match: Danny L Harle",
           "spotify_source": "api"
         }
       ],
@@ -314,6 +370,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Foy Vance",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -346,6 +404,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jake Xerxes Fussell",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -358,6 +418,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dougie Poole",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -389,6 +451,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Russian Circles",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -401,6 +465,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Primitive Man",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -432,6 +498,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Armored Saint",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -444,6 +512,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Metal Church",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -454,6 +524,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Livekill",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -485,7 +557,9 @@
           "found": true,
           "confidence": 0.929,
           "matched": "SuecoTheChild",
-          "match_label": "close match: SuecoTheChild; Spotify: Sueco The Child",
+          "apple_label": "close match: SuecoTheChild",
+          "spotify_label": null,
+          "match_label": "close match: SuecoTheChild",
           "spotify_source": "api"
         }
       ],
@@ -517,6 +591,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Andrew McMahon",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -549,6 +625,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Emma Ruth Rundle",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -581,7 +659,9 @@
           "found": true,
           "confidence": 0.8,
           "matched": "John Waters",
-          "match_label": "close match: John Waters; Spotify: A John Waters Christmas",
+          "apple_label": "close match: John Waters",
+          "spotify_label": null,
+          "match_label": "close match: John Waters",
           "spotify_source": "api"
         }
       ],
@@ -613,6 +693,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "John Zorn",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -645,6 +727,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Matt Hansen",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -677,6 +761,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Anna von Hausswolff",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -709,6 +795,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "AJJ",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -741,6 +829,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Wolves in the Throne Room",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -773,6 +863,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jess Williamson",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -805,6 +897,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Nile",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -815,6 +909,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Coroner",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -847,6 +943,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Saxsquatch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -872,6 +970,8 @@
   "stats": {
     "event_types": {
       "music": 22,
+      "comedy": 0,
+      "film": 0,
       "other": 1
     },
     "apple_music": {
@@ -879,7 +979,7 @@
       "found": 35,
       "exact": 32,
       "close": 0,
-      "needs_review": 3,
+      "flagged": 3,
       "not_found": 0
     },
     "spotify": {
@@ -887,7 +987,8 @@
       "linked": 33,
       "venue": 0,
       "api": 33,
-      "shows_with_link": 22
+      "feed": 0,
+      "shows_with_link": 23
     }
   }
 }

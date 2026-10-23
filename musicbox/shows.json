@@ -6,6 +6,32 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Little Italy",
+  "schema": 2,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "date_label": "date_label",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.found": "bool",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.match_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
   "scraped_at": "2026-10-23",
   "count": 39,
   "shows": [
@@ -20,6 +46,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Failure",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -32,6 +60,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "quannnic",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -45,7 +75,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/failure-the-rising-music-box-tickets/14865793?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14865793/failure-the-rising-skyline-tour-w-quannnic",
       "room": null,
       "age_rating": null,
@@ -63,6 +93,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Theo Katzman",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -77,7 +109,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/theo-katzman-music-box-tickets/14902843?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14902843/theo-katzman",
       "room": null,
       "age_rating": null,
@@ -95,6 +127,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "INOHA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -107,6 +141,8 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -120,7 +156,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14204764/inoha-this-might-be-useful-tour-w-buddha-trixie-flight-by-nothing",
       "room": null,
       "age_rating": null,
@@ -138,7 +174,10 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Yuki Chiba",
-          "match_label": "Spotify: no confident match (closest: Yuki Hayashi @ 64%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Yuki Hayashi @ 64%)",
+          "match_label": "no confident match (closest: Yuki Hayashi @ 64%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -149,6 +188,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DRAM",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -162,7 +203,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14218764/yuki-chiba-first-north-america-headline-tour-w-dram",
       "room": null,
       "age_rating": null,
@@ -180,6 +221,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SIX60",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -194,7 +237,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14249494/six60-right-here-right-now-north-america-2026",
       "room": null,
       "age_rating": null,
@@ -212,6 +255,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Paul Oakenfold",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -222,6 +267,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Crystal Method",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -234,6 +281,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Liquid Todd",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -247,7 +296,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14267124/paul-oakenfold-the-crystal-method-mission-underground-2026-tour-w-liquid-todd",
       "room": null,
       "age_rating": null,
@@ -265,6 +314,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Stephen Day",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -277,6 +328,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Emily Brimlow",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -290,7 +343,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/stephen-day-the-music-box-tickets/14973783?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14973783/stephen-day-the-self-titled-tour-w-emily-brimlow",
       "room": null,
       "age_rating": null,
@@ -308,6 +361,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Thomas Dolby",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -320,7 +375,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: DJ Ravion @ 54%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DJ Ravion @ 54%)",
+          "match_label": "no confident match (closest: DJ Ravion @ 54%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -332,7 +390,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15017053/thomas-dolby-iconic-80s-recollections-tour-2026-w-dj-vaughn-avakian",
       "room": null,
       "age_rating": null,
@@ -350,6 +408,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Jervis Campbell",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -362,6 +422,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Allie Paige",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -375,7 +437,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-allie-paige",
       "room": null,
       "age_rating": null,
@@ -393,7 +455,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Calma Caribe @ 39%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Calma Caribe @ 39%)",
+          "match_label": "no confident match (closest: Calma Caribe @ 39%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -404,6 +469,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Prayers",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -414,6 +481,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "DEVORA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -424,7 +493,9 @@
           "found": false,
           "confidence": 0.474,
           "matched": null,
-          "match_label": "no confident match (closest: Red Hot Lover Tone @ 47%); Spotify: Ex Lover",
+          "apple_label": "no confident match (closest: Red Hot Lover Tone @ 47%)",
+          "spotify_label": "close match: Ex Lover",
+          "match_label": "no confident match (closest: Red Hot Lover Tone @ 47%) | close match: Ex Lover",
           "spotify_source": "api"
         }
       ],
@@ -437,7 +508,7 @@
       "doors": null,
       "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/no-tengo-calma-tour-2026-music-box-tickets/15013573?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15013573/no-tengo-calma-tour-2026-featuring-prayers-devora-ex-lover-and-hallows",
       "room": null,
       "age_rating": null,
@@ -455,6 +526,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "BoomBox",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -467,6 +540,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Dgtl Clr",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -480,7 +555,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14891513/boombox-fall-tour-2026-w-dgtl-clr",
       "room": null,
       "age_rating": null,
@@ -498,6 +573,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "John Craigie",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -510,6 +587,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lucy Clearwater",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -523,7 +602,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/john-craigie-with-special-guest-music-box-tickets/14264344?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14264344/john-craigie-with-special-guest-lucy-clearwater-keep-it-warm-tour-2026",
       "room": null,
       "age_rating": null,
@@ -541,6 +620,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Son Volt",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -551,6 +632,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Kelly Willis",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -565,7 +648,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/son-volt-kelly-willis-music-box-tickets/14891433?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14891433/son-volt-kelly-willis",
       "room": null,
       "age_rating": null,
@@ -583,6 +666,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wrecks",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -595,7 +680,9 @@
           "found": false,
           "confidence": 0.294,
           "matched": null,
-          "match_label": "no confident match (closest: Dire Straits @ 29%); Spotify: Worry Club",
+          "apple_label": "no confident match (closest: Dire Straits @ 29%)",
+          "spotify_label": null,
+          "match_label": "no confident match (closest: Dire Straits @ 29%)",
           "spotify_source": "api"
         }
       ],
@@ -608,7 +695,7 @@
       "doors": null,
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14204254/the-wrecks-finally-outside-tour-w-worry-club-kid-sistr",
       "room": null,
       "age_rating": null,
@@ -626,6 +713,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Pretty Sick",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -638,6 +727,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Sex Week",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -651,7 +742,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/pretty-sick-usa-music-box-tickets/15000573?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15000573/pretty-sick-usa-anarchy-tour-2026-w-sex-week",
       "room": null,
       "age_rating": null,
@@ -669,7 +760,10 @@
           "found": false,
           "confidence": 0.231,
           "matched": null,
-          "match_label": "no confident match (closest: Thurl Ravenscroft @ 23%); Spotify: no confident match (closest: Oscar the Grouch @ 47%)"
+          "apple_label": "no confident match (closest: Thurl Ravenscroft @ 23%)",
+          "spotify_label": "no confident match (closest: Oscar the Grouch @ 47%)",
+          "match_label": "no confident match (closest: Thurl Ravenscroft @ 23%) | no confident match (closest: Oscar the Grouch @ 47%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -680,7 +774,9 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Brother Ali",
-          "match_label": "compound bill — links to Brother Ali only; Spotify: Brother Ali",
+          "apple_label": "compound bill — links to Brother Ali only",
+          "spotify_label": null,
+          "match_label": "compound bill — links to Brother Ali only",
           "spotify_source": "api"
         }
       ],
@@ -693,7 +789,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/how-the-grouch-stole-christmas-music-box-tickets/14296694?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14296694/how-the-grouch-stole-christmas-tour-the-grouch-eligh-ft-amp-live-w-special-guests-brother-ali-and-lyrics-born",
       "room": null,
       "age_rating": null,
@@ -711,6 +807,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Amtrac",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -725,7 +823,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/amtrac-dream-live-music-box-tickets/15032493?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15032493/amtrac-dream-live-tour",
       "room": null,
       "age_rating": null,
@@ -743,6 +841,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "AVELLO",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -757,7 +857,7 @@
       "doors": null,
       "show_time": "8:15 pm",
       "ticket_link": "https://www.ticketweb.com/event/avello-music-box-tickets/14381114?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14381114/avello",
       "room": null,
       "age_rating": null,
@@ -775,6 +875,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ripe",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -789,7 +891,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ripe-play-the-music-box-tickets/14283964?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14283964/ripe-play-the-game-fall-tour-2026",
       "room": null,
       "age_rating": null,
@@ -807,6 +909,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Emancipator",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -819,7 +923,9 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: close match (Shrimpnose)",
+          "apple_label": null,
+          "spotify_label": "close match: Shrimpnose",
+          "match_label": "close match: Shrimpnose",
           "spotify_source": "api"
         }
       ],
@@ -832,7 +938,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/emancipator-chrysalis-tour-music-box-tickets/14275804?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14275804/emancipator-chrysalis-tour-w-shrimpnose-lapa",
       "room": null,
       "age_rating": null,
@@ -850,6 +956,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Anuhea",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -864,7 +972,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/anuhea-all-is-music-box-tickets/14359604?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14359604/anuhea-all-is-bright-tour-feat-ana-vee",
       "room": null,
       "age_rating": null,
@@ -882,6 +990,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Womack Sisters",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -896,7 +1006,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-womack-sisters-music-box-tickets/14280444?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14280444/the-womack-sisters",
       "room": null,
       "age_rating": null,
@@ -914,6 +1024,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "feeble little horse",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -926,6 +1038,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mop",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -939,7 +1053,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-music-box-tickets/14936783?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14936783/feeble-little-horse-bitknot-tour-w-mop",
       "room": null,
       "age_rating": null,
@@ -957,6 +1071,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Venna",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -971,7 +1087,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/venna-music-box-tickets/15018503?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15018503/venna",
       "room": null,
       "age_rating": null,
@@ -989,7 +1105,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Social Distortion @ 41%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Social Distortion @ 41%)",
+          "match_label": "no confident match (closest: Social Distortion @ 41%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1000,7 +1119,9 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Beastboi",
-          "match_label": "compound bill — links to Beastboi only; Spotify: Careless Castle",
+          "apple_label": "compound bill — links to Beastboi only",
+          "spotify_label": "close match: Careless Castle",
+          "match_label": "compound bill — links to Beastboi only | close match: Careless Castle",
           "spotify_source": "api"
         }
       ],
@@ -1015,7 +1136,7 @@
       "doors": null,
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/kompany-in-the-round-presents-music-box-tickets/14376214?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14376214/kompany-in-the-round-presents-acquisition-socal-w-beastboi-and-careless-castle",
       "room": null,
       "age_rating": null,
@@ -1033,6 +1154,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Buckethead",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1047,7 +1170,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/buckethead-music-box-tickets/14265074?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14265074/buckethead",
       "room": null,
       "age_rating": null,
@@ -1065,7 +1188,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Effin @ 36%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Effin @ 36%)",
+          "match_label": "no confident match (closest: Effin @ 36%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1076,6 +1202,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "NIKITA",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         },
@@ -1086,6 +1214,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Wicked",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1099,7 +1229,7 @@
       "doors": null,
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/effin-heartbeats-tour-w-music-box-tickets/14393764?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14393764/effin-heartbeats-tour-w-nikita-the-wicked",
       "room": null,
       "age_rating": null,
@@ -1117,6 +1247,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Ballyhoo!",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1129,6 +1261,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Chad Tepper",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1142,7 +1276,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper",
       "room": null,
       "age_rating": null,
@@ -1160,6 +1294,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Surfer Girl",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1172,7 +1308,10 @@
           "found": true,
           "confidence": 0.8,
           "matched": "South Summit",
-          "match_label": "compound bill — links to South Summit only; Spotify: no confident match (closest: South Park Mexican @ 50%)"
+          "apple_label": "compound bill — links to South Summit only",
+          "spotify_label": "no confident match (closest: South Park Mexican @ 50%)",
+          "match_label": "compound bill — links to South Summit only | no confident match (closest: South Park Mexican @ 50%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -1184,7 +1323,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-the-music-box-tickets/14384244?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14384244/surfer-girl-the-midnight-tour-w-south-summit-and-joby",
       "room": null,
       "age_rating": null,
@@ -1202,7 +1341,10 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": "Spotify: no confident match (closest: Beezus Taylor and The Funeral Party @ 70%)"
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Beezus Taylor and The Funeral Party @ 70%)",
+          "match_label": "no confident match (closest: Beezus Taylor and The Funeral Party @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1215,7 +1357,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-taylor-party-taylor-swift-music-box-tickets/14381584?REFID=bupwebsite",
-      "ticket_status": "Not On Sale",
+      "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14381584/the-taylor-party-taylor-swift-night-21",
       "room": null,
       "age_rating": null,
@@ -1233,6 +1375,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Led Zepagain",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1247,7 +1391,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/led-zepagain-music-box-tickets/14352054?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14352054/led-zepagain",
       "room": null,
       "age_rating": null,
@@ -1265,6 +1409,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "James Marriott",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1279,7 +1425,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/james-marriott-world-music-box-tickets/14328374?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14328374/james-marriott-world-tour",
       "room": null,
       "age_rating": null,
@@ -1297,6 +1443,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "The Garcia Project",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1311,7 +1459,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-garcia-project-tribute-to-music-box-tickets/14325354?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14325354/the-garcia-project-tribute-to-the-jerry-garcia-band",
       "room": null,
       "age_rating": null,
@@ -1329,6 +1477,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Lúnasa",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1343,7 +1493,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/lunasa-music-box-tickets/15043003?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15043003/lunasa",
       "room": null,
       "age_rating": null,
@@ -1361,6 +1511,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Saxsquatch",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1375,7 +1527,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/saxsquatch-the-conspiracy-music-box-tickets/14369004?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14369004/saxsquatch-the-conspiracy-theory-tour",
       "room": null,
       "age_rating": null,
@@ -1393,6 +1545,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Mei Semones",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1407,7 +1561,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/mei-semones-music-box-tickets/14344984?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14344984/mei-semones",
       "room": null,
       "age_rating": null,
@@ -1425,7 +1579,10 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Michael Shannon",
-          "match_label": "compound bill — links to Michael Shannon only; Spotify: no confident match (closest: R.E.M. @ 70%)"
+          "apple_label": "compound bill — links to Michael Shannon only",
+          "spotify_label": "no confident match (closest: R.E.M. @ 70%)",
+          "match_label": "compound bill — links to Michael Shannon only | no confident match (closest: R.E.M. @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1438,7 +1595,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/michael-shannon-jason-narducy-music-box-tickets/14341544?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14341544/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document",
       "room": null,
       "age_rating": null,
@@ -1456,6 +1613,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Too Many Zooz",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1470,7 +1629,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/too-many-zooz-music-box-tickets/14325454?REFID=bupwebsite",
-      "ticket_status": "On Sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14325454/too-many-zooz-audio-lipstick-tour",
       "room": null,
       "age_rating": null,
@@ -1488,6 +1647,8 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Hazlett",
+          "apple_label": null,
+          "spotify_label": null,
           "match_label": null,
           "spotify_source": "api"
         }
@@ -1502,7 +1663,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/hazlett-the-comeback-music-box-tickets/14348784?REFID=bupwebsite",
-      "ticket_status": "Sold Out",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour",
       "room": null,
       "age_rating": null,
@@ -1513,14 +1674,16 @@
   "stats": {
     "event_types": {
       "music": 38,
-      "comedy": 1
+      "comedy": 1,
+      "film": 0,
+      "other": 0
     },
     "apple_music": {
       "unique_artists": 63,
       "found": 53,
-      "exact": 48,
-      "close": -1,
-      "needs_review": 5,
+      "exact": 49,
+      "close": 0,
+      "flagged": 4,
       "not_found": 10
     },
     "spotify": {
@@ -1528,7 +1691,8 @@
       "linked": 54,
       "venue": 0,
       "api": 54,
-      "shows_with_link": 32
+      "feed": 0,
+      "shows_with_link": 37
     }
   }
 }
