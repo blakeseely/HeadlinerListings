@@ -6,7 +6,7 @@
   "city": "Palo Alto, CA",
   "metro": "San Francisco",
   "neighborhood": null,
-  "schema": 2,
+  "schema": 3,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -24,7 +24,6 @@
     "description": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
-    "artist.found": "bool",
     "artist.confidence": "float",
     "artist.matched": "free_string",
     "artist.apple_label": "free_string",
