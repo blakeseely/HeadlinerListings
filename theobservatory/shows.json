@@ -6,7 +6,7 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "North Park",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 4,
   "shows": [
     {
@@ -16,11 +16,12 @@
         {
           "name": "Davide De Pierro",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5lz5kF1IEtBFH6FGoIbS87",
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: close match (David Di Pietro)",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -47,22 +48,24 @@
         {
           "name": "Pigeons Playing Ping Pong",
           "apple_music": "https://music.apple.com/us/artist/pigeons-playing-ping-pong/371903148",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl",
           "found": true,
           "confidence": 1.0,
           "matched": "Pigeons Playing Ping Pong",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Dizgo",
           "apple_music": "https://music.apple.com/us/artist/dizgo/1250260252",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj",
           "found": true,
           "confidence": 1.0,
           "matched": "Dizgo",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -88,11 +91,12 @@
         {
           "name": "The Black Angels",
           "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP",
           "found": true,
           "confidence": 1.0,
           "matched": "The Black Angels",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -123,18 +127,19 @@
           "found": false,
           "confidence": 0.348,
           "matched": null,
-          "match_label": "no confident match (closest: Armin van Buuren @ 35%)"
+          "match_label": "no confident match (closest: Armin van Buuren @ 35%); Spotify: no confident match (closest: Kingdom Of Giants @ 47%)"
         }
       ],
       "support_artists": [
         {
           "name": "The Scratch",
           "apple_music": "https://music.apple.com/us/artist/the-scratch/192611312",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd",
           "found": true,
           "confidence": 1.0,
           "matched": "The Scratch",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -170,10 +175,10 @@
     },
     "spotify": {
       "unique_artists": 6,
-      "linked": 0,
+      "linked": 5,
       "venue": 0,
-      "api": 0,
-      "shows_with_link": 0
+      "api": 5,
+      "shows_with_link": 3
     }
   }
 }

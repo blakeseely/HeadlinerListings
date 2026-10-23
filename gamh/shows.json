@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "SoMa",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 23,
   "shows": [
     {
@@ -52,7 +52,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "TR",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Troye Sivan @ 31%)"
         },
         {
           "name": "ST",
@@ -61,7 +61,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "ST",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Staind @ 50%)"
         }
       ],
       "support_artists": [

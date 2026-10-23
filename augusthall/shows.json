@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "South Beach",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 41,
   "shows": [
     {
@@ -799,7 +799,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Early Birds @ 67%)"
         }
       ],
       "support_artists": [],
@@ -1118,7 +1118,7 @@
           "found": false,
           "confidence": 0.293,
           "matched": null,
-          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%)"
+          "match_label": "no confident match (closest: Christopher \"Sax\" Mitchell @ 29%); Spotify: no confident match (closest: Saxl Rose @ 25%)"
         }
       ],
       "support_artists": [],
@@ -1245,7 +1245,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "SiM",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Simply Red @ 46%)"
         }
       ],
       "support_artists": [],
@@ -1276,7 +1276,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Speakeasy Three @ 63%)"
         }
       ],
       "support_artists": [

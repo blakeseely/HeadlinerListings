@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Fillmore",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 35,
   "shows": [
     {
@@ -475,11 +475,12 @@
         {
           "name": "The Big Star Quintet",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM",
           "found": false,
           "confidence": 0.267,
           "matched": null,
-          "match_label": "no confident match (closest: Lionel Hampton & His Just Jazz All Stars @ 27%)"
+          "match_label": "no confident match (closest: Lionel Hampton & His Just Jazz All Stars @ 27%); Spotify: Big Star",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -616,7 +617,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Gene",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Genesis @ 73%)"
         }
       ],
       "support_artists": [],
@@ -1373,7 +1374,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Allman Betts Band @ 70%)"
         }
       ],
       "support_artists": [],
@@ -1409,10 +1410,10 @@
     },
     "spotify": {
       "unique_artists": 51,
-      "linked": 48,
+      "linked": 49,
       "venue": 0,
-      "api": 48,
-      "shows_with_link": 32
+      "api": 49,
+      "shows_with_link": 33
     }
   }
 }

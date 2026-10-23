@@ -6,7 +6,7 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Downtown",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 1,
   "shows": [
     {
@@ -16,20 +16,22 @@
         {
           "name": "Clay Street Unit",
           "apple_music": "https://music.apple.com/us/artist/clay-street-unit/1648140695",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb",
           "found": true,
           "confidence": 1.0,
           "matched": "Clay Street Unit",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Poor Thing",
           "apple_music": "https://music.apple.com/us/artist/poor-thing/1788116622",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/272AihchgKAsOtxni5vRD2",
           "found": true,
           "confidence": 1.0,
           "matched": "Poor Thing",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -64,10 +66,10 @@
     },
     "spotify": {
       "unique_artists": 2,
-      "linked": 0,
+      "linked": 2,
       "venue": 0,
-      "api": 0,
-      "shows_with_link": 0
+      "api": 2,
+      "shows_with_link": 1
     }
   }
 }

@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "SoMa",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 12,
   "shows": [
     {
@@ -16,11 +16,12 @@
         {
           "name": "Buena Vista Orchestra",
           "apple_music": "https://music.apple.com/us/artist/the-buena-vista-orchestra/1837732333",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/79bG7tuDQZaqpmsOizA6uc",
           "found": true,
           "confidence": 0.9,
           "matched": "The Buena Vista Orchestra",
-          "match_label": "close match: The Buena Vista Orchestra"
+          "match_label": "close match: The Buena Vista Orchestra; Spotify: The Buena Vista Orchestra",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -49,11 +50,12 @@
         {
           "name": "KINO",
           "apple_music": "https://music.apple.com/us/artist/kino/1139337453",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42",
           "found": true,
           "confidence": 1.0,
           "matched": "Kino",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -82,22 +84,24 @@
         {
           "name": "Vince Staples",
           "apple_music": "https://music.apple.com/us/artist/vince-staples/566639154",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm",
           "found": true,
           "confidence": 1.0,
           "matched": "Vince Staples",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Glare",
           "apple_music": "https://music.apple.com/us/artist/glare/199398424",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl",
           "found": true,
           "confidence": 1.0,
           "matched": "Glare",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -125,11 +129,12 @@
         {
           "name": "RØZ",
           "apple_music": "https://music.apple.com/us/artist/r%C3%B8z/1497371365",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI",
           "found": true,
           "confidence": 1.0,
           "matched": "RØZ",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -162,7 +167,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Song Wongeun @ 78%)"
         }
       ],
       "support_artists": [],
@@ -189,40 +194,44 @@
         {
           "name": "Cookies",
           "apple_music": "https://music.apple.com/us/artist/cookies/906135547",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6hkdqUKAiM6bsJbBVNC78k",
           "found": true,
           "confidence": 1.0,
           "matched": "Cookies",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Berner",
           "apple_music": "https://music.apple.com/us/artist/berner/212971105",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI",
           "found": true,
           "confidence": 1.0,
           "matched": "Berner",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Paul Wall",
           "apple_music": "https://music.apple.com/us/artist/paul-wall/3242212",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg",
           "found": true,
           "confidence": 1.0,
           "matched": "Paul Wall",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Baby Bash",
           "apple_music": "https://music.apple.com/us/artist/baby-bash/2013484",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7",
           "found": true,
           "confidence": 1.0,
           "matched": "Baby Bash",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -250,11 +259,12 @@
         {
           "name": "XLOV",
           "apple_music": "https://music.apple.com/us/artist/xlov/1785613634",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC",
           "found": true,
           "confidence": 1.0,
           "matched": "XLOV",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -281,31 +291,34 @@
         {
           "name": "ALLEYCVT",
           "apple_music": "https://music.apple.com/us/artist/alleycvt/1560524882",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1",
           "found": true,
           "confidence": 1.0,
           "matched": "ALLEYCVT",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Sippy",
           "apple_music": "https://music.apple.com/us/artist/sippy/444191039",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S",
           "found": true,
           "confidence": 1.0,
           "matched": "SIPPY",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         },
         {
           "name": "Machaki",
           "apple_music": "https://music.apple.com/us/artist/machaki/1678676913",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ",
           "found": true,
           "confidence": 1.0,
           "matched": "MACHAKI",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -337,7 +350,7 @@
           "found": true,
           "confidence": 1.0,
           "matched": "Foil Arms and Hog",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Arm's Length @ 48%)"
         }
       ],
       "support_artists": [],
@@ -366,11 +379,12 @@
         {
           "name": "Calema",
           "apple_music": "https://music.apple.com/us/artist/calema/478888248",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um",
           "found": true,
           "confidence": 1.0,
           "matched": "Calema",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -399,11 +413,12 @@
         {
           "name": "Lucky Daye",
           "apple_music": "https://music.apple.com/us/artist/lucky-daye/1110820355",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J",
           "found": true,
           "confidence": 1.0,
           "matched": "Lucky Daye",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -432,11 +447,12 @@
         {
           "name": "Valery Meladze",
           "apple_music": "https://music.apple.com/us/artist/valery-meladze/1618150928",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
           "found": true,
           "confidence": 1.0,
           "matched": "Valery Meladze",
-          "match_label": null
+          "match_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -473,10 +489,10 @@
     },
     "spotify": {
       "unique_artists": 18,
-      "linked": 0,
+      "linked": 16,
       "venue": 0,
-      "api": 0,
-      "shows_with_link": 0
+      "api": 16,
+      "shows_with_link": 10
     }
   }
 }

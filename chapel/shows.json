@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "count": 47,
   "shows": [
     {
@@ -1052,7 +1052,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Eastside Boyz @ 57%)"
         },
         {
           "name": "Paula Frazer & Tarnation",
@@ -1081,7 +1081,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Afters @ 49%)"
         },
         {
           "name": "Country Risqué",
@@ -1173,7 +1173,7 @@
           "found": true,
           "confidence": 0.8,
           "matched": "GAURI AMIT B",
-          "match_label": "close match: GAURI AMIT B"
+          "match_label": "close match: GAURI AMIT B; Spotify: no confident match (closest: Gauri Bapat @ 78%)"
         }
       ],
       "support_artists": [],
@@ -1387,7 +1387,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: DJ Smallz 732 @ 46%)"
         }
       ],
       "multi_artist": true,
@@ -1417,7 +1417,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: The Loved Ones @ 70%)"
         }
       ],
       "support_artists": [
@@ -1479,7 +1479,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Western Standard Time Ska Orchestra @ 70%)"
         }
       ],
       "support_artists": [
@@ -1500,7 +1500,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Singapore Sling @ 65%)"
         },
         {
           "name": "Sir Rudy Blackout",
@@ -1509,7 +1509,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Blackout @ 64%)"
         }
       ],
       "multi_artist": true,
@@ -1578,11 +1578,12 @@
         {
           "name": "Nora Brown with Stephanie Coleman",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT",
           "found": false,
           "confidence": 0.7,
           "matched": null,
-          "match_label": "no confident match (closest: Nora Brown @ 70%)"
+          "match_label": "no confident match (closest: Nora Brown @ 70%); Spotify: Nora Brown",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1625,7 +1626,7 @@
           "found": false,
           "confidence": 0.706,
           "matched": null,
-          "match_label": "no confident match (closest: Shindig @ 71%)"
+          "match_label": "no confident match (closest: Shindig @ 71%); Spotify: no confident match (closest: Shindig @ 71%)"
         }
       ],
       "multi_artist": true,
@@ -1667,7 +1668,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Dj Laz @ 53%)"
         }
       ],
       "multi_artist": true,
@@ -1740,7 +1741,7 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Pink Floyd",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Pete Flux @ 74%)"
         }
       ],
       "support_artists": [],
@@ -1835,7 +1836,7 @@
           "found": false,
           "confidence": 0.0,
           "matched": null,
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Rebirth Brass Band @ 70%)"
         }
       ],
       "support_artists": [
@@ -1846,7 +1847,7 @@
           "found": false,
           "confidence": 0.242,
           "matched": null,
-          "match_label": "no confident match (closest: Nola Hood @ 24%)"
+          "match_label": "no confident match (closest: Nola Hood @ 24%); Spotify: no confident match (closest: Rebirth Brass Band @ 70%)"
         }
       ],
       "multi_artist": true,
@@ -1994,7 +1995,7 @@
           "found": true,
           "confidence": 0.95,
           "matched": "Tom Verlaine",
-          "match_label": null
+          "match_label": "Spotify: no confident match (closest: Tom Verlaine @ 70%)"
         }
       ],
       "support_artists": [],
@@ -2104,10 +2105,10 @@
     },
     "spotify": {
       "unique_artists": 97,
-      "linked": 71,
+      "linked": 72,
       "venue": 0,
-      "api": 71,
-      "shows_with_link": 33
+      "api": 72,
+      "shows_with_link": 34
     }
   }
 }
