@@ -31,7 +31,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 | field | hint | notes |
 |---|---|---|
 | `venue` / `venue_id` / `venue_url` / `source_url` | string | identity. The six Belly Up Presents San Diego venues intentionally share `venue_url: https://bellyup.com` (group calendar) |
-| `city` / `metro` / `neighborhood` | string \| null | geo tags; `metro` is one market value ("San Francisco" / "San Diego") |
+| `city` / `metro` / `neighborhood` | string \| null | geo tags; `metro` is one market value ("San Francisco" / "San Diego" / "Los Angeles") |
 | `schema` | int | **4** — the contract version this file speaks |
 | `field_hints` | object | per-field controlled-vs-raw contract (below) |
 | `scraped_at` | date | when this file was built (the refresh date) |
@@ -110,7 +110,7 @@ a per-file `value_domains`; these are the union):
 | `age_rating` | free string (raw venue text) |
 | `artist.confidence` | null / 0.0 / fractional 0–1 |
 | `artist.spotify_source` | `venue`, `api`, `feed`, null |
-| `metro` | `San Francisco`, `San Diego` |
+| `metro` | `San Francisco`, `San Diego`, `Los Angeles` |
 
 ## Schema history
 - **1** — original 19-venue shape; 8/7-key artist split.
