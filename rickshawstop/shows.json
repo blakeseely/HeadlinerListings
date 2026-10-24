@@ -6,21 +6,27 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Civic Center",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -30,39 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-24",
-  "count": 51,
+  "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gimme Gimme Disco",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.786,
-          "matched": null,
-          "apple_label": "no confident match (closest: Gimme Gimme @ 79%)",
-          "spotify_label": "no confident match (closest: Gimme Gimme @ 79%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "8:00 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/gimme-gimme-disco-halloween-dance-party/706220",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/gimme-gimme-disco-halloween-dance-party/706220",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1754,21 +1729,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 49,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 63,
+      "unique_artists": 62,
       "found": 53,
       "exact": 52,
       "close": 0,
       "flagged": 1,
-      "not_found": 10
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 63,
+      "unique_artists": 62,
       "linked": 55,
       "venue": 0,
       "api": 55,

@@ -6,21 +6,27 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Castro",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -800,7 +806,7 @@
       "room": null,
       "age_rating": "all ages",
       "note": null,
-      "description": "Multi-award-winning singer and songwriter Jorja Smith announces her new album, “What Are The Odds” featuring sole production from P2J [Beyoncé, Stormzy, Burna Boy]. The album arrives ten years after ‘Blue Lights’, the Platinum-selling debut single that introduced Jorja’s singular voice and set the course for one of British music’s most influential musicians. Since 2016, Jorja has delivered two No.3 albums – Gold selling debut “Lost & Found” (2018) and “Falling Or Flying” (2023) – and collaborated with global superstars including Kendrick Lamar, Burna Boy, Stormzy, Drake and Giggs. The Walsall born singer and songwriter has won two BRITs and received nominations for a Grammy, an Ivor Novello and the Mercury Prize and currently counts over 11 million monthly listeners and 4.7 billion streams on Spotify alone, with eight million followers across socials. Jorja had already had a run of major moments in 2026, including a performance on the debut season of Saturday Night Live UK , her appearance on the soundtrack to Riz Ahmed’s Prime Video series ‘Bait’ with ‘Price Of It All’, and the announcement that she will co-headline ‘All Points East’ in Victoria Park on Friday 21 August alongside "
+      "description": "Multi-award-winning singer and songwriter Jorja Smith announces her new album, “What Are The Odds” featuring sole production from P2J [Beyoncé, Stormzy, Burna Boy]. The album arrives ten years after ‘Blue Lights’, the Platinum-selling debut single that introduced Jorja’s singular voice and set the course for one of British music’s most influential musicians. Since 2016, Jorja has delivered two No.3 albums – Gold selling debut “Lost & Found” (2018) and “Falling Or Flying” (2023) – and collaborated with global superstars including Kendrick Lamar, Burna Boy, Stormzy, Drake and Giggs. The Walsall born singer and songwriter has won two BRITs and received nominations for a Grammy, an Ivor Novello and the Mercury Prize and currently counts over 11 million monthly listeners and 4.7 billion streams on Spotify alone, with eight million followers across socials. Jorja had already had a run of major moments in 2026, including a performance on the debut season of Saturday Night Live UK , her appearance on the soundtrack to Riz Ahmed’s Prime Video series ‘Bait’ with ‘Price Of It All’, and the announcement that she will co-headline ‘All Points East’ in Victoria Park on Friday 21 August alongside"
     },
     {
       "event_type": "music",
@@ -1486,7 +1492,7 @@
       "room": null,
       "age_rating": "all ages",
       "note": "The Keepers Tour",
-      "description": "Tiny Habits were still students in Boston when they began gaining recognition for the harmony-focused song covers recorded in their dorm stairwell and posted to millions of listeners on TikTok. They released their first EP of original songs, Tiny Things, in April 2023 and soon earned a spot opening for Gracie Abrams on her ‘Good Riddance Tour’ in North American and Australia. Later that year they hit the road again supporting Noah Kahan in Europe on the ‘Stick Season Tour’. Since their debut they have toured with music legends like James Taylor, Sarah McLachlan, Lake Street Dive, and Vance Joy. They performed with Lizzy McAlpine on her Tiny Desk concert, harmonized with Kacey Musgraves, Marcus Mumford, Matty Healy, and Laufey among many others. The band were recently profiled in The New Yorker which touted them “The Prodigies of Harmonies,” and count fans from the late great David Crosby to Phoebe Bridgers and Elton John, who called them “delicious.” Ann Powers of NPR Music exclaimed “Can’t wait for this vocal trio’s debut album to take the world by storm.” The Habits released their debut album ‘All For Something’ via Mom+Pop records in May of 2024. The record has garnered over 50 "
+      "description": "Tiny Habits were still students in Boston when they began gaining recognition for the harmony-focused song covers recorded in their dorm stairwell and posted to millions of listeners on TikTok. They released their first EP of original songs, Tiny Things, in April 2023 and soon earned a spot opening for Gracie Abrams on her ‘Good Riddance Tour’ in North American and Australia. Later that year they hit the road again supporting Noah Kahan in Europe on the ‘Stick Season Tour’. Since their debut they have toured with music legends like James Taylor, Sarah McLachlan, Lake Street Dive, and Vance Joy. They performed with Lizzy McAlpine on her Tiny Desk concert, harmonized with Kacey Musgraves, Marcus Mumford, Matty Healy, and Laufey among many others. The band were recently profiled in The New Yorker which touted them “The Prodigies of Harmonies,” and count fans from the late great David Crosby to Phoebe Bridgers and Elton John, who called them “delicious.” Ann Powers of NPR Music exclaimed “Can’t wait for this vocal trio’s debut album to take the world by storm.” The Habits released their debut album ‘All For Something’ via Mom+Pop records in May of 2024. The record has garnered over 50"
     },
     {
       "event_type": "music",

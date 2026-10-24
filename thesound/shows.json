@@ -6,21 +6,27 @@
   "city": "Del Mar, CA",
   "metro": "San Diego",
   "neighborhood": "Del Mar Fairgrounds",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -30,340 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-24",
-  "count": 30,
+  "count": 22,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Phil Collins Story",
-          "apple_music": "https://music.apple.com/us/artist/phil-collins/153718",
-          "spotify": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp",
-          "confidence": 0.8,
-          "matched": "Phil Collins",
-          "apple_label": "close match: Phil Collins",
-          "spotify_label": "close match: Phil Collins",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-01",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14829823/the-phil-collins-story",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "apple_music": "https://music.apple.com/us/artist/sammy-rae-the-friends/349607530",
-          "spotify": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn",
-          "confidence": 1.0,
-          "matched": "Sammy Rae & The Friends",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Melt",
-          "apple_music": "https://music.apple.com/us/artist/melt/1237396303",
-          "spotify": "https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9",
-          "confidence": 1.0,
-          "matched": "Melt",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-03",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14801893/sammy-rae-the-friends-with-special-guest-melt",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Michelle Branch",
-          "apple_music": "https://music.apple.com/us/artist/michelle-branch/1054040",
-          "spotify": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk",
-          "confidence": 1.0,
-          "matched": "Michelle Branch",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "SASAMI",
-          "apple_music": "https://music.apple.com/us/artist/sasami/1437464884",
-          "spotify": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz",
-          "confidence": 1.0,
-          "matched": "SASAMI",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Everywhere And Back Again Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-04",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14249964/michelle-branch-everywhere-and-back-again-tour-w-sasami",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "Mastodon",
-          "apple_music": "https://music.apple.com/us/artist/mastodon/65922937",
-          "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT",
-          "confidence": 1.0,
-          "matched": "Mastodon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Deafheaven",
-          "apple_music": "https://music.apple.com/us/artist/deafheaven/425470694",
-          "spotify": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9",
-          "confidence": 1.0,
-          "matched": "Deafheaven",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Alcest",
-          "apple_music": "https://music.apple.com/us/artist/alcest/260872620",
-          "spotify": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7",
-          "confidence": 1.0,
-          "matched": "Alcest",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-11",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14957503/mastodon-deafheaven-alcest",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "LP",
-          "apple_music": "https://music.apple.com/us/artist/lp/516169807",
-          "spotify": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A",
-          "confidence": 1.0,
-          "matched": "LP",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "All is Not Lost Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-14",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14890213/lp-all-is-not-lost-tour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Shakey Graves",
-          "apple_music": "https://music.apple.com/us/artist/shakey-graves/355937614",
-          "spotify": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH",
-          "confidence": 1.0,
-          "matched": "Shakey Graves",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Wild Pink",
-          "apple_music": "https://music.apple.com/us/artist/wild-pink/999873480",
-          "spotify": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ",
-          "confidence": 1.0,
-          "matched": "Wild Pink",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Fondness, Etc. Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-16",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14906773/shakey-graves-fondness-etc-tour-w-wild-pink",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "Boy Harsher",
-          "apple_music": "https://music.apple.com/us/artist/boy-harsher/1022460442",
-          "spotify": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG",
-          "confidence": 1.0,
-          "matched": "Boy Harsher",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "True Blue",
-          "apple_music": "https://music.apple.com/us/artist/true-blue/1312911509",
-          "spotify": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW",
-          "confidence": 1.0,
-          "matched": "True Blue",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Kassie Krut",
-          "apple_music": "https://music.apple.com/us/artist/kassie-krut/1511193574",
-          "spotify": "https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X",
-          "confidence": 1.0,
-          "matched": "Kassie Krut",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-17",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14978423/boy-harsher-true-blue-kassie-krut",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Kylie Cantrall",
-          "apple_music": "https://music.apple.com/us/artist/kylie-cantrall/1459186568",
-          "spotify": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX",
-          "confidence": 1.0,
-          "matched": "Kylie Cantrall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Girlset",
-          "apple_music": "https://music.apple.com/us/artist/girlset/1833111616",
-          "spotify": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P",
-          "confidence": 1.0,
-          "matched": "GIRLSET",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "The Valley Girl Problems Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-18",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/15004523/kylie-cantrall-the-valley-girl-problems-tour-w-girlset",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1139,26 +813,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 22,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 43,
-      "found": 39,
-      "exact": 35,
+      "unique_artists": 27,
+      "found": 23,
+      "exact": 20,
       "close": 1,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 43,
-      "linked": 41,
+      "unique_artists": 27,
+      "linked": 25,
       "venue": 0,
-      "api": 41,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 27
+      "shows_with_link": 19
     }
   }
 }

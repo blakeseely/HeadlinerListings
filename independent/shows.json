@@ -6,21 +6,27 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -30,92 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-24",
-  "count": 89,
+  "count": 87,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sawyer Hill",
-          "apple_music": "https://music.apple.com/us/artist/sawyer-hill/1651349181",
-          "spotify": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG",
-          "confidence": 1.0,
-          "matched": "Sawyer Hill",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Never Ending Fall",
-          "apple_music": "https://music.apple.com/us/artist/never-ending-fall/981613894",
-          "spotify": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT",
-          "confidence": 1.0,
-          "matched": "Never Ending Fall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-20",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/postponed-sawyer-hill-the-independent-tickets/14972813?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
-      "room": null,
-      "age_rating": null,
-      "note": "Postponed",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "City of the Sun",
-          "apple_music": "https://music.apple.com/us/artist/city-of-the-sun/847581105",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "City of the Sun",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Valley Wolf",
-          "apple_music": "https://music.apple.com/us/artist/valley-wolf/1437040882",
-          "spotify": "https://open.spotify.com/artist/0RzJ4IJAdG4rN5ZnIDxvLK",
-          "confidence": 1.0,
-          "matched": "Valley Wolf",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-21",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/postponed-city-of-the-independent-tickets/14249664?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
-      "room": null,
-      "age_rating": null,
-      "note": "Postponed",
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3435,26 +3357,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 89,
+      "music": 87,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 138,
-      "found": 127,
-      "exact": 120,
+      "unique_artists": 134,
+      "found": 123,
+      "exact": 116,
       "close": 3,
       "flagged": 4,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 138,
-      "linked": 90,
-      "venue": 90,
+      "unique_artists": 134,
+      "linked": 87,
+      "venue": 87,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 74
+      "shows_with_link": 72
     }
   }
 }

@@ -6,21 +6,27 @@
   "city": "Oakland, CA",
   "metro": "San Francisco",
   "neighborhood": "West Oakland",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -123,7 +129,7 @@
       "room": null,
       "age_rating": "all ages",
       "note": null,
-      "description": "Lenny Pearce is a force in family entertainment, captivating a global audience as the pioneer of ‘Toddler Techno’ and ‘Baby Raves.’ Driven from his passion as a father, and his strong commitment to his home life, Lenny’s ability to make songs and videos, and perform live shows that enchant families is second-to-none. With sold-out shows across Australia, New Zealand, Asia and The Middle East, a 20+ city USA tour about to launch, and a rapidly growing presence worldwide, Lenny’s energy-filled performances and brilliant family-days-out delight families as he spins children’s favourites, remixed into modern hits that keep kids and parents dazzled all the same. Lenny’s influence is set to expand through collaborations with trusted children’s brands such as Nickelodeon, Hasbro, Blippi, Paw Patrol, and Warner Brothers, plus a hit album release with The Wiggles in 2024, further cementing him as one of the globes most loved family entertainers. With over 2.5 million followers on social media, "
+      "description": "Lenny Pearce is a force in family entertainment, captivating a global audience as the pioneer of ‘Toddler Techno’ and ‘Baby Raves.’ Driven from his passion as a father, and his strong commitment to his home life, Lenny’s ability to make songs and videos, and perform live shows that enchant families is second-to-none. With sold-out shows across Australia, New Zealand, Asia and The Middle East, a 20+ city USA tour about to launch, and a rapidly growing presence worldwide, Lenny’s energy-filled performances and brilliant family-days-out delight families as he spins children’s favourites, remixed into modern hits that keep kids and parents dazzled all the same. Lenny’s influence is set to expand through collaborations with trusted children’s brands such as Nickelodeon, Hasbro, Blippi, Paw Patrol, and Warner Brothers, plus a hit album release with The Wiggles in 2024, further cementing him as one of the globes most loved family entertainers. With over 2.5 million followers on social media,"
     },
     {
       "event_type": "music",
@@ -370,7 +376,7 @@
       "event_page": "https://thefoxoakland.com/events/tyla-261113-fox",
       "room": null,
       "age_rating": "all ages",
-      "note": "Our show with Tyla at the Bill Graham Civic Auditorium on November 13 has been moved to the Fox Theater Oakland on the same date. Hold on to your tickets! All tickets for the originally scheduled show will be honored at the Fox Theater as General Admission tickets. We thank you for understanding and look forward to seeing you at the show!",
+      "note": "Our show with Tyla at the Bill Graham Civic Auditorium on November 13 has been moved to the Fox Theater Oakland on the same date. Hold on to your tickets! All tickets for the originally scheduled show will be honored at the Fox Theater as General Admission tickets. We thank you for understanding and look forward to seeing you at the show!",
       "description": null
     },
     {
@@ -1128,7 +1134,7 @@
       "room": null,
       "age_rating": "all ages",
       "note": null,
-      "description": "Hailing from Bangor and Donaghadee, Northern Ireland’s Two Door Cinema Club first gained attention with their debut album ‘Tourist History’ which included singles like “What you Know” **, ‘Something Good Can Work’ and ‘Undercover Martyn’ mixing guitar-driven, post-punk hooks with dancey, electronic polish. The album released in 2010 hit number one on the Irish chart, landed on the BBC Sound of 2010 Poll and went on to be a globally lauded debut record taking them from their garage where they wrote the album in Bangor to the main stages of festivals around the world. Two Door Cinema Club features singer/guitarist/programmer Alex Trimble, guitarist/singer Sam Halliday and bassist/singer Kevin Baird. Trimble and Halliday met in school, and then hooked up with Baird through mutual friends. The trio began writing in Trimble’s parents garage and skipped going to university to focus on the band, fortunately, the gamble paid off – the band’s self-released debut EP, Four Words to Stand On, was "
+      "description": "Hailing from Bangor and Donaghadee, Northern Ireland’s Two Door Cinema Club first gained attention with their debut album ‘Tourist History’ which included singles like “What you Know” **, ‘Something Good Can Work’ and ‘Undercover Martyn’ mixing guitar-driven, post-punk hooks with dancey, electronic polish. The album released in 2010 hit number one on the Irish chart, landed on the BBC Sound of 2010 Poll and went on to be a globally lauded debut record taking them from their garage where they wrote the album in Bangor to the main stages of festivals around the world. Two Door Cinema Club features singer/guitarist/programmer Alex Trimble, guitarist/singer Sam Halliday and bassist/singer Kevin Baird. Trimble and Halliday met in school, and then hooked up with Baird through mutual friends. The trio began writing in Trimble’s parents garage and skipped going to university to focus on the band, fortunately, the gamble paid off – the band’s self-released debut EP, Four Words to Stand On, was"
     }
   ],
   "stats": {

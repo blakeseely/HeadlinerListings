@@ -6,21 +6,27 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -30,59 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-24",
-  "count": 21,
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "REZN",
-          "apple_music": "https://music.apple.com/us/artist/rezn/1441800527",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "REZN",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "lowheaven",
-          "apple_music": "https://music.apple.com/us/artist/lowheaven/1685933916",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "lowheaven",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "Mountaineer",
-          "apple_music": "https://music.apple.com/us/artist/mountaineer/276086169",
-          "spotify": "https://open.spotify.com/artist/6Elws371EaSX8AiIMeIS9q",
-          "confidence": 1.0,
-          "matched": "Mountaineer",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/rezn-lowheaven-mountaineer-brick-and-mortar-music-hall-tickets/14907393?pl=bnm&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/rezn/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "While REZN traffic in the unbridled realms of metal and untethered reaches of psychedelia, their latest release showcases a band working with discipline and intention, even when those intentions are rendered to be purposefully cryptic. As the album title implies, Cycles in the Infinite Dream explores the nexus of our waking and nocturnal worlds. “We moved towards the dream and subconscious state as a lyrical concept and melodic theme,” the band explains. “The pseudo-waking state is a reflection of a second existence—something that you can flee to or be imprisoned by.” Much like the subconscious-guided work of David Lynch, Cycles in the Infinite Dream exists as parallax between the artist and the audience, creating an obscured and distorted space that is both familiar and alien, like a corridor into our past where we recognize our surroundings but somehow still feel lost within its warped geometry."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -928,26 +883,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 44,
-      "found": 43,
-      "exact": 41,
+      "unique_artists": 41,
+      "found": 40,
+      "exact": 38,
       "close": 0,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 17,
-      "venue": 17,
+      "unique_artists": 41,
+      "linked": 16,
+      "venue": 16,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 13
+      "shows_with_link": 12
     }
   }
 }

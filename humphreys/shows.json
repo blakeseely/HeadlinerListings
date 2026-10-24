@@ -6,21 +6,27 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Shelter Island",
-  "schema": 4,
+  "schema": 5,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
     "show_title": "free_string",
+    "presenters": "string[]",
     "set_format": "free_string",
     "date": "date",
     "doors": "free_string",
     "show_time": "free_string",
     "ticket_link": "free_string",
     "ticket_status": "free_string",
+    "event_page": "url_or_null",
     "room": "free_string",
     "age_rating": "free_string",
     "note": "free_string",
     "description": "free_string",
+    "artist.name": "free_string",
     "artist.apple_music": "url",
     "artist.spotify": "url",
     "artist.confidence": "float",
@@ -30,62 +36,30 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-10-24",
-  "count": 1,
-  "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "10,000 Maniacs",
-          "apple_music": "https://music.apple.com/us/artist/10-000-maniacs/204617",
-          "spotify": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj",
-          "confidence": 1.0,
-          "matched": "10,000 Maniacs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-17",
-      "doors": null,
-      "show_time": "7:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14768573/10000-maniacs",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    }
-  ],
+  "count": 0,
+  "shows": [],
   "stats": {
     "event_types": {
-      "music": 1,
+      "music": 0,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 1,
-      "found": 1,
-      "exact": 1,
+      "unique_artists": 0,
+      "found": 0,
+      "exact": 0,
       "close": 0,
       "flagged": 0,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 1,
-      "linked": 1,
+      "unique_artists": 0,
+      "linked": 0,
       "venue": 0,
-      "api": 1,
+      "api": 0,
       "feed": 0,
-      "shows_with_link": 1
+      "shows_with_link": 0
     }
   }
 }
