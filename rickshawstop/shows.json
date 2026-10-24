@@ -1,0 +1,1779 @@
+{
+  "venue": "Rickshaw Stop",
+  "venue_id": "rickshawstop",
+  "venue_url": "https://rickshawstop.com",
+  "source_url": "https://rickshawstop.com/calendar/",
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Civic Center",
+  "schema": 4,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "show_title": "free_string",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-10-23",
+  "count": 51,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gimme Gimme Disco",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.786,
+          "matched": null,
+          "apple_label": "no confident match (closest: Gimme Gimme @ 79%)",
+          "spotify_label": "no confident match (closest: Gimme Gimme @ 79%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-23",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/gimme-gimme-disco-halloween-dance-party/706220",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/gimme-gimme-disco-halloween-dance-party/706220",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mission Delirium",
+          "apple_music": "https://music.apple.com/us/artist/mission-delirium/1061847225",
+          "spotify": "https://open.spotify.com/artist/1VzPuqbXmV6JxtU3vZPK2l",
+          "confidence": 1.0,
+          "matched": "Mission Delirium",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Istanbul Connection",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Isata Kanneh-Mason @ 54%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Camellia Boutros",
+          "apple_music": "https://music.apple.com/us/artist/camellia-boutros/1622495838",
+          "spotify": "https://open.spotify.com/artist/5okBZdADPz9Qm2j7wMdQRK",
+          "confidence": 1.0,
+          "matched": "Camellia Boutros",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-24",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/mission-delirium/704451",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/mission-delirium/704451",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Kyle Gordon",
+          "apple_music": "https://music.apple.com/us/artist/kyle-gordon/1474572981",
+          "spotify": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip",
+          "confidence": 1.0,
+          "matched": "Kyle Gordon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Rickshaw Stop + Live Nation co-present"
+      ],
+      "set_format": null,
+      "date": "2026-10-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/kyle-gordon/692750",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/kyle-gordon/692750",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wine Lips",
+          "apple_music": "https://music.apple.com/us/artist/wine-lips/1244432434",
+          "spotify": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM",
+          "confidence": 1.0,
+          "matched": "Wine Lips",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Buddy Wynkoop",
+          "apple_music": "https://music.apple.com/us/artist/buddy-wynkoop/1513689940",
+          "spotify": "https://open.spotify.com/artist/56Y4IMRJDQcagdjb8J47Ns",
+          "confidence": 1.0,
+          "matched": "Buddy Wynkoop",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Hazy Portraits",
+          "apple_music": "https://music.apple.com/us/artist/hazy-portraits/1678010569",
+          "spotify": "https://open.spotify.com/artist/6Fow7q8cImm2Z9sg5qRNa0",
+          "confidence": 1.0,
+          "matched": "Hazy Portraits",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Psyched! Radio + Rickshaw Stop co-present"
+      ],
+      "set_format": null,
+      "date": "2026-10-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Violet Grohl",
+          "apple_music": "https://music.apple.com/us/artist/violet-grohl/1538671509",
+          "spotify": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB",
+          "confidence": 1.0,
+          "matched": "Violet Grohl",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Suzy Clue",
+          "apple_music": "https://music.apple.com/us/artist/suzy-clue/1707071676",
+          "spotify": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK",
+          "confidence": 1.0,
+          "matched": "Suzy Clue",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Popscene + Live 105 present"
+      ],
+      "set_format": null,
+      "date": "2026-10-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/violet-grohl/693274",
+      "ticket_status": null,
+      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/violet-grohl/693274",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "We Are Scientists",
+          "apple_music": "https://music.apple.com/us/artist/we-are-scientists/73501457",
+          "spotify": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7",
+          "confidence": 1.0,
+          "matched": "We Are Scientists",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Soft Contact",
+          "apple_music": "https://music.apple.com/us/artist/soft-contact/1713905092",
+          "spotify": "https://open.spotify.com/artist/4Dm0VMce3LJjJAHvDeYI1u",
+          "confidence": 1.0,
+          "matched": "Soft Contact",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Rickshaw Stop + Popscene co-present"
+      ],
+      "set_format": null,
+      "date": "2026-10-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/we-are-scientists/694279",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/we-are-scientists/694279",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Tubs",
+          "apple_music": "https://music.apple.com/us/artist/the-tubs/1573310639",
+          "spotify": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9",
+          "confidence": 1.0,
+          "matched": "The Tubs",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Touch Girl Apple Blossom",
+          "apple_music": "https://music.apple.com/us/artist/touch-girl-apple-blossom/1704292600",
+          "spotify": "https://open.spotify.com/artist/3QyNjpJ4iu2a3iWMQrDK4D",
+          "confidence": 1.0,
+          "matched": "Touch Girl Apple Blossom",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dusty Slims",
+          "apple_music": "https://music.apple.com/us/artist/dusty-slims/1807411161",
+          "spotify": "https://open.spotify.com/artist/1ekXcCgMMe6vsOnTi8DyHS",
+          "confidence": 1.0,
+          "matched": "Dusty Slims",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "rickshaw stop + popscene co-present"
+      ],
+      "set_format": null,
+      "date": "2026-10-29",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/the-tubs/696006",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/the-tubs/696006",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "HAUS PARTY",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/05zszvXo2QjcGv9bnNRKNm",
+          "confidence": 0.45,
+          "matched": null,
+          "apple_label": "no confident match (closest: Klaus Partyhaus & King Courier @ 45%)",
+          "spotify_label": "close match: House Party",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Klub Nocturno presents"
+      ],
+      "set_format": null,
+      "date": "2026-10-30",
+      "doors": "9:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/haus-party-halloween/703660",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/haus-party-halloween/703660",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "EMO NITE at Rickshaw Stop - San Francisco, CA",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-10-31",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/emo-nite-halloween-at-rickshaw-stop-san-francisco-ca/706320",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/emo-nite-halloween-at-rickshaw-stop-san-francisco-ca/706320",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "mary in the junkyard",
+          "apple_music": "https://music.apple.com/us/artist/mary-in-the-junkyard/1706946585",
+          "spotify": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M",
+          "confidence": 1.0,
+          "matched": "mary in the junkyard",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lefty Parker",
+          "apple_music": "https://music.apple.com/us/artist/lefty-parker/1456089383",
+          "spotify": "https://open.spotify.com/artist/5NvSLQOTzXhKMV5TMdwxuk",
+          "confidence": 1.0,
+          "matched": "Lefty Parker",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-04",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/mary-in-the-junkyard/691949",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/mary-in-the-junkyard/691949",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "KENNEDY RYON",
+          "apple_music": "https://music.apple.com/us/artist/kennedy-ryon/1635200239",
+          "spotify": "https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH",
+          "confidence": 1.0,
+          "matched": "Kennedy Ryon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/kennedy-ryon/700515",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/kennedy-ryon/700515",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "GENESIS OWUSU",
+          "apple_music": "https://music.apple.com/us/artist/genesis-owusu/1045380633",
+          "spotify": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke",
+          "confidence": 1.0,
+          "matched": "Genesis Owusu",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-06",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/genesis-owusu/692608",
+      "ticket_status": null,
+      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/genesis-owusu/692608",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "PEACH TREE RASCALS",
+          "apple_music": "https://music.apple.com/us/artist/peach-tree-rascals/1387703899",
+          "spotify": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe",
+          "confidence": 1.0,
+          "matched": "Peach Tree Rascals",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/peach-tree-rascals/704398",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/peach-tree-rascals/704398",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FORREST NOLAN",
+          "apple_music": "https://music.apple.com/us/artist/forrest-nolan/1242535527",
+          "spotify": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv",
+          "confidence": 1.0,
+          "matched": "Forrest Nolan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/event/1C006539DDBBE763",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/event/1C006539DDBBE763",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SPARTA",
+          "apple_music": "https://music.apple.com/us/artist/sparta/3447183",
+          "spotify": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR",
+          "confidence": 1.0,
+          "matched": "Sparta",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/sparta/702137",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/sparta/702137",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "JAKE MINCH",
+          "apple_music": "https://music.apple.com/us/artist/jake-minch/1524217026",
+          "spotify": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC",
+          "confidence": 1.0,
+          "matched": "Jake Minch",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Getting Big Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "THE HAILS",
+          "apple_music": "https://music.apple.com/us/artist/the-hails/1257472077",
+          "spotify": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT",
+          "confidence": 1.0,
+          "matched": "The Hails",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/the-hails/696075",
+      "ticket_status": null,
+      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/the-hails/696075",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BROADWAY RAVE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Broadway @ 76%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/broadway-rave/703546",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/broadway-rave/703546",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FRANCISCA VALENZUELA",
+          "apple_music": "https://music.apple.com/us/artist/francisca-valenzuela/277140196",
+          "spotify": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt",
+          "confidence": 1.0,
+          "matched": "Francisca Valenzuela",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
+      "ticket_status": null,
+      "event_page": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CANNELLE",
+          "apple_music": "https://music.apple.com/us/artist/cannelle/1754623505",
+          "spotify": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg",
+          "confidence": 1.0,
+          "matched": "Cannelle",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "8:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/cannelle/703640",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/cannelle/703640",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Natural Child",
+          "apple_music": "https://music.apple.com/us/artist/natural-child/380478897",
+          "spotify": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt",
+          "confidence": 1.0,
+          "matched": "Natural Child",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/natural-child/688788",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/natural-child/688788",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "QENDRESA",
+          "apple_music": "https://music.apple.com/us/artist/qendresa/1298544647",
+          "spotify": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI",
+          "confidence": 1.0,
+          "matched": "Qendresa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/qendresa/701355",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/qendresa/701355",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "L'RAIN",
+          "apple_music": "https://music.apple.com/us/artist/lrain/1260703062",
+          "spotify": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn",
+          "confidence": 1.0,
+          "matched": "L’Rain",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/lrain/697892",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/lrain/697892",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "EMANCIPATOR",
+          "apple_music": "https://music.apple.com/us/artist/emancipator/209711341",
+          "spotify": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm",
+          "confidence": 1.0,
+          "matched": "Emancipator",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/emancipator/700476",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/emancipator/700476",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "NIKO RUBIO",
+          "apple_music": "https://music.apple.com/us/artist/niko-rubio/1301992136",
+          "spotify": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa",
+          "confidence": 1.0,
+          "matched": "Niko Rubio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/niko-rubio/705835",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/niko-rubio/705835",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALISON'S HALO",
+          "apple_music": "https://music.apple.com/us/artist/alisons-halo/261000869",
+          "spotify": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg",
+          "confidence": 1.0,
+          "matched": "Alison's Halo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/alisons-halo/704948",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/alisons-halo/704948",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "JESSICA LEA MAYFIELD",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/jessica-lea-mayfield-cancelled/698043",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/jessica-lea-mayfield-cancelled/698043",
+      "room": null,
+      "age_rating": null,
+      "note": "Cancelled",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OLIVER HAZARD",
+          "apple_music": "https://music.apple.com/us/artist/oliver-hazard/1304041365",
+          "spotify": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng",
+          "confidence": 1.0,
+          "matched": "Oliver Hazard",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/oliver-hazard/694276",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/oliver-hazard/694276",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Graham Hunt",
+          "apple_music": "https://music.apple.com/us/artist/graham-hunt/252292506",
+          "spotify": "https://open.spotify.com/artist/3cdxdVJIA1FE4oMT85haWb",
+          "confidence": 1.0,
+          "matched": "Graham Hunt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "9Million",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/graham-hunt-9million-co-headline/702096",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/graham-hunt-9million-co-headline/702096",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TANUKICHAN",
+          "apple_music": "https://music.apple.com/us/artist/tanukichan/1139641915",
+          "spotify": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6",
+          "confidence": 1.0,
+          "matched": "Tanukichan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "8:00 pm",
+      "show_time": "8:45 pm",
+      "ticket_link": "https://wl.seetickets.us/event/tanukichan/702971",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/tanukichan/702971",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RUBY HAUNT",
+          "apple_music": "https://music.apple.com/us/artist/ruby-haunt/1138827311",
+          "spotify": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5",
+          "confidence": 1.0,
+          "matched": "Ruby Haunt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/ruby-haunt/697882",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/ruby-haunt/697882",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MILK & BONE",
+          "apple_music": "https://music.apple.com/us/artist/milk-bone/675265030",
+          "spotify": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW",
+          "confidence": 1.0,
+          "matched": "Milk & Bone",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/milk-and-bone/703435",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/milk-and-bone/703435",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DANCE… 4 U: SLAYYYTER",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Slayyyter @ 60%)",
+          "spotify_source": null
+        },
+        {
+          "name": "CHARLI XCX NIGHT",
+          "apple_music": "https://music.apple.com/us/artist/charli-xcx/432942256",
+          "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5",
+          "confidence": 0.8,
+          "matched": "Charli xcx",
+          "apple_label": "compound bill — links to Charli xcx only",
+          "spotify_label": "close match: Charli xcx",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-02",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/708474",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/708474",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CHRIS SIMPSON plays the songs of MINERAL",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Chris Smither @ 45%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/chris-simpson-plays-the-songs-of-mineral/706442",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/chris-simpson-plays-the-songs-of-mineral/706442",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SUPER GREENS",
+          "apple_music": "https://music.apple.com/us/artist/super-greens/1681350803",
+          "spotify": "https://open.spotify.com/artist/7luWDnBF3PsixWmY7yT1Gn",
+          "confidence": 1.0,
+          "matched": "Super Greens",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "SWEET PLOT",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-09",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SEB LOWE",
+          "apple_music": "https://music.apple.com/us/artist/seb-lowe/1595247915",
+          "spotify": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ",
+          "confidence": 1.0,
+          "matched": "Seb Lowe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "US TOUR 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/seb-lowe-us-tour-2027/705780",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/seb-lowe-us-tour-2027/705780",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DEEP N DARK 100 DANCE PARTY",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Deep'n Deep @ 70%)",
+          "spotify_label": "no confident match (closest: Dee-1 @ 25%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://sickening.events/e/deepndark-jan-2027",
+      "ticket_status": null,
+      "event_page": "https://sickening.events/e/deepndark-jan-2027",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TARA CLERKIN TRIO",
+          "apple_music": "https://music.apple.com/us/artist/tara-clerkin-trio/1496979363",
+          "spotify": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F",
+          "confidence": 1.0,
+          "matched": "Tara Clerkin Trio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/tara-clerkin-trio/706437",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/tara-clerkin-trio/706437",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BREE RUNWAY presents Club Je Suis",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/bree-runway/706363",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/bree-runway/706363",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SMALL BROWN BIKE",
+          "apple_music": "https://music.apple.com/us/artist/small-brown-bike/5635242",
+          "spotify": "https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j",
+          "confidence": 1.0,
+          "matched": "Small Brown Bike",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/small-brown-bike/695336",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/small-brown-bike/695336",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "STARMAN SF",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: starmi @ 62%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "David Bowie Tribute",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/starman-sf-david-bowie-tribute/708479",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/starman-sf-david-bowie-tribute/708479",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RADIO FREE ALICE",
+          "apple_music": "https://music.apple.com/us/artist/radio-free-alice/1509790283",
+          "spotify": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj",
+          "confidence": 1.0,
+          "matched": "Radio Free Alice",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-24",
+      "doors": "7:00 pm",
+      "show_time": "7:45 pm",
+      "ticket_link": "https://wl.seetickets.us/event/radio-free-alice/708488",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/radio-free-alice/708488",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DeathbyRomy",
+          "apple_music": "https://music.apple.com/us/artist/deathbyromy/1269402784",
+          "spotify": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI",
+          "confidence": 1.0,
+          "matched": "DeathbyRomy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/deathbyromy/706811",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/deathbyromy/706811",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "GIRL ULTRA",
+          "apple_music": "https://music.apple.com/us/artist/girl-ultra/1207957662",
+          "spotify": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls",
+          "confidence": 1.0,
+          "matched": "Girl Ultra",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/girl-ultra/707528",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/girl-ultra/707528",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BESS ATWELL",
+          "apple_music": "https://music.apple.com/us/artist/bess-atwell/1074167187",
+          "spotify": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK",
+          "confidence": 1.0,
+          "matched": "Bess Atwell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/bess-atwell/707844",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/bess-atwell/707844",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FENNE LILY",
+          "apple_music": "https://music.apple.com/us/artist/fenne-lily/1104287476",
+          "spotify": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext",
+          "confidence": 1.0,
+          "matched": "Fenne Lily",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/fenne-lily/708757",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/fenne-lily/708757",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SADURN",
+          "apple_music": "https://music.apple.com/us/artist/sadurn/1575798843",
+          "spotify": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI",
+          "confidence": 1.0,
+          "matched": "Sadurn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/event/1C00654DD4E36280",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/event/1C00654DD4E36280",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DJ SUZY",
+          "apple_music": "https://music.apple.com/us/artist/dj-suzy/1694306332",
+          "spotify": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc",
+          "confidence": 1.0,
+          "matched": "DJ Suzy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/dj-suzy/708799",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/dj-suzy/708799",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "VALENCIA GRACE",
+          "apple_music": "https://music.apple.com/us/artist/valencia-grace/1532649578",
+          "spotify": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A",
+          "confidence": 1.0,
+          "matched": "Valencia Grace",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/valencia-grace/697858",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/valencia-grace/697858",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The F16S",
+          "apple_music": "https://music.apple.com/us/artist/the-f16s/538371300",
+          "spotify": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C",
+          "confidence": 1.0,
+          "matched": "The F16s",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/the-f16s/708497",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/the-f16s/708497",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "PALOMA MORPHY",
+          "apple_music": "https://music.apple.com/us/artist/paloma-morphy/1654342484",
+          "spotify": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw",
+          "confidence": 1.0,
+          "matched": "Paloma Morphy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/paloma-morphy/689810",
+      "ticket_status": null,
+      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/paloma-morphy/689810",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 50,
+      "comedy": 1,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 63,
+      "found": 50,
+      "exact": 49,
+      "close": 0,
+      "flagged": 1,
+      "not_found": 13
+    },
+    "spotify": {
+      "unique_artists": 63,
+      "linked": 51,
+      "venue": 0,
+      "api": 51,
+      "feed": 0,
+      "shows_with_link": 43
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:47:51.128472+00:00",
+  "generated_at": "2026-10-24T04:07:14.564171+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -328,6 +328,26 @@
       },
       "show_count": 39,
       "sha256_16": "d75c6a21cfbad37c"
+    },
+    {
+      "venue_id": "rickshawstop",
+      "file": "rickshawstop/shows.json",
+      "city": "San Francisco, CA",
+      "metro": "San Francisco",
+      "updated_at": "2026-10-23",
+      "oldest_show_date": "2026-10-23",
+      "value_domains": {
+        "event_type": [
+          "music",
+          "comedy"
+        ],
+        "ticket_status": [],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 51,
+      "sha256_16": "863043bd12c7c162"
     },
     {
       "venue_id": "thecasbah",
