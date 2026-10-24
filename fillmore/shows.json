@@ -29,81 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
+  "scraped_at": "2026-10-24",
   "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pouya",
-          "apple_music": "https://music.apple.com/us/artist/pouya/1109554148",
-          "spotify": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY",
-          "confidence": 1.0,
-          "matched": "Pouya",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ramirez",
-          "apple_music": "https://music.apple.com/us/artist/ramirez/1373497397",
-          "spotify": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2",
-          "confidence": 1.0,
-          "matched": "Ramirez",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Fat Nick",
-          "apple_music": "https://music.apple.com/us/artist/fat-nick/1104256048",
-          "spotify": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx",
-          "confidence": 1.0,
-          "matched": "Fat Nick",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "comehelpglo",
-          "apple_music": "https://music.apple.com/us/artist/comehelpglo/1743324158",
-          "spotify": "https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l",
-          "confidence": 1.0,
-          "matched": "comehelpglo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Black Smurf",
-          "apple_music": "https://music.apple.com/us/artist/black-smurf/859221187",
-          "spotify": "https://open.spotify.com/artist/0roRnStSzF1uet2JvSM6U3",
-          "confidence": 1.0,
-          "matched": "Black Smurf",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "The Forever Glades Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/pouya-the-forever-glades-tour-2026-san-francisco-california-10-23-2026/event/1C0064C4FF6A8769",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/pouya-the-forever-glades-tour-2026-san-francisco-california-10-23-2026/event/1C0064C4FF6A8769",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 6:00pm / Show 7:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1004,7 +932,18 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Ebony Loren",
+          "apple_music": "https://music.apple.com/us/artist/ebony-loren/1139164634",
+          "spotify": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY",
+          "confidence": 1.0,
+          "matched": "Ebony Loren",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
       "show_title": "The Drama Queen Tour",
       "presenters": [],
@@ -1383,6 +1322,37 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 6:30pm / Show 7:30pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Allman Betts Family Revival",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Allman Betts Band @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A DECADE OF REVIVAL",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/allman-betts-family-revival-a-decade-san-francisco-california-12-20-2026/event/1C00650AA46EAEDA",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/allman-betts-family-revival-a-decade-san-francisco-california-12-20-2026/event/1C00650AA46EAEDA",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 6:30pm / Show 7:30pm"
     }
   ],
   "stats": {
@@ -1393,20 +1363,20 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 51,
-      "found": 49,
-      "exact": 48,
+      "unique_artists": 47,
+      "found": 45,
+      "exact": 44,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 51,
-      "linked": 49,
+      "unique_artists": 47,
+      "linked": 45,
       "venue": 0,
-      "api": 49,
+      "api": 45,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

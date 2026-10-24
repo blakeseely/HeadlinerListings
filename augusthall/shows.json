@@ -29,71 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 41,
+  "scraped_at": "2026-10-24",
+  "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "gnash",
-          "apple_music": "https://music.apple.com/us/artist/gnash/299209053",
-          "spotify": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw",
-          "confidence": 1.0,
-          "matched": "gnash",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-22",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/gnash/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SLIFT",
-          "apple_music": "https://music.apple.com/us/artist/slift/1227770048",
-          "spotify": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO",
-          "confidence": 1.0,
-          "matched": "SLIFT",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/slift-san-francisco-california-10-23-2026/event/1C00648EDED013FE",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/slift/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1328,26 +1266,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 39,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 37,
-      "exact": 37,
+      "unique_artists": 38,
+      "found": 35,
+      "exact": 35,
       "close": 0,
       "flagged": 0,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 36,
+      "unique_artists": 38,
+      "linked": 34,
       "venue": 0,
-      "api": 36,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 38
+      "shows_with_link": 36
     }
   }
 }

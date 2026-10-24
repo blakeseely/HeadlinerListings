@@ -29,7 +29,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
+  "scraped_at": "2026-10-24",
   "count": 51,
   "shows": [
     {
@@ -384,12 +384,12 @@
         {
           "name": "EMO NITE at Rickshaw Stop - San Francisco, CA",
           "apple_music": null,
-          "spotify": null,
-          "confidence": null,
+          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -952,13 +952,13 @@
       "headline_artists": [
         {
           "name": "JESSICA LEA MAYFIELD",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/jessica-lea-mayfield/283734468",
+          "spotify": "https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5",
+          "confidence": 1.0,
+          "matched": "Jessica Lea Mayfield",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1024,13 +1024,13 @@
         },
         {
           "name": "9Million",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/9million/1562519017",
+          "spotify": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna",
+          "confidence": 1.0,
+          "matched": "9Million",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1230,13 +1230,13 @@
         },
         {
           "name": "SWEET PLOT",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/sweet-plot/987405493",
+          "spotify": "https://open.spotify.com/artist/3lmf0DJ6Fhx9NvHJrordP3",
+          "confidence": 1.0,
+          "matched": "Sweet Plot",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1356,10 +1356,10 @@
           "name": "BREE RUNWAY presents Club Je Suis",
           "apple_music": null,
           "spotify": null,
-          "confidence": null,
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Breakfastclub @ 44%)",
           "spotify_source": null
         }
       ],
@@ -1761,19 +1761,19 @@
     },
     "apple_music": {
       "unique_artists": 63,
-      "found": 50,
-      "exact": 49,
+      "found": 53,
+      "exact": 52,
       "close": 0,
       "flagged": 1,
-      "not_found": 13
+      "not_found": 10
     },
     "spotify": {
       "unique_artists": 63,
-      "linked": 51,
+      "linked": 55,
       "venue": 0,
-      "api": 51,
+      "api": 55,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 45
     }
   }
 }

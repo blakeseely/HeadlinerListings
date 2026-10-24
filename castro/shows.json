@@ -29,93 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 78,
+  "scraped_at": "2026-10-24",
+  "count": 76,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "George Clanton",
-          "apple_music": "https://music.apple.com/us/artist/george-clanton/1040002834",
-          "spotify": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr",
-          "confidence": 1.0,
-          "matched": "George Clanton",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "ideasforconversations",
-          "apple_music": "https://music.apple.com/us/artist/ideasforconversations/1792239397",
-          "spotify": "https://open.spotify.com/artist/6cxOz8rz1Gk492H9DDbVtD",
-          "confidence": 1.0,
-          "matched": "ideasforconversations",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-22",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/george-clanton-san-francisco-california-10-22-2026/event/1C0064FE771960AD?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/george-clanton-261022",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "This event is"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Julia Jacklin",
-          "apple_music": "https://music.apple.com/us/artist/julia-jacklin/1058385827",
-          "spotify": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g",
-          "confidence": 1.0,
-          "matched": "Julia Jacklin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Jordan Patterson",
-          "apple_music": "https://music.apple.com/us/artist/jordan-patterson/1539108316",
-          "spotify": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G",
-          "confidence": 1.0,
-          "matched": "Jordan Patterson",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/julia-jacklin-261023",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Two Nights! North America Tour 2026",
-      "description": "“I want to love and be loved, but I also want to feel free. The tension between those two things has been the central question of my life,” says Julia Jacklin. It’s also the theme that underpins her fourth album The Gem. When Julia Jacklin first moved to Melbourne from Sydney in 2017, she discovered a little bar on a back street in Collingwood, where bands pushed dining tables to the side and set up in a corner on the floor. She didn’t really know anyone in town too well, but she knew she wanted to make the city her home, and so she started hanging out there, forcing herself out of her comfort zone. The pub was aptly named The Gem. Fast forward eight years, and Jacklin, with three celebrated solo records under her belt – Don’t Let the Kids Win (2016), Crushing (2019) and PRE PLEASURE (2022) – was looking to make a fourth. She’d been touring flat-out for years, had come out of contract with her record label, was looking for a new manager. “For the first time since I started out, I had this big chunk of time without any industry expectations and no-one to ask me what was going on,” she remembers. “It was liberating and it was scary.” Jacklin wanted to do things intentionally this tim"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2063,7 +1979,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/stamptown-with-zach-zucker-18-recommended-san-francisco-california-01-30-2027/event/1C006552EE98A8C3?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/stamptown-with-zach-zucker-270130",
       "room": null,
       "age_rating": null,
@@ -2251,7 +2167,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/caroline-rose-uncle-carols-world-of-san-francisco-california-02-27-2027/event/1C006550EDCAB51C?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/caroline-rose-270227",
       "room": null,
       "age_rating": null,
@@ -2717,26 +2633,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 58,
+      "music": 56,
       "comedy": 7,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 87,
-      "found": 68,
-      "exact": 62,
+      "unique_artists": 85,
+      "found": 66,
+      "exact": 60,
       "close": 2,
       "flagged": 4,
       "not_found": 19
     },
     "spotify": {
-      "unique_artists": 87,
-      "linked": 55,
-      "venue": 55,
+      "unique_artists": 85,
+      "linked": 53,
+      "venue": 53,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 46
+      "shows_with_link": 44
     }
   }
 }

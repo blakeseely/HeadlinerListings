@@ -29,63 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
+  "scraped_at": "2026-10-24",
   "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Aquabats!",
-          "apple_music": "https://music.apple.com/us/artist/the-aquabats/19637346",
-          "spotify": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s",
-          "confidence": 1.0,
-          "matched": "The Aquabats!",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Mariachi El Bronx",
-          "apple_music": "https://music.apple.com/us/artist/mariachi-el-bronx/321268620",
-          "spotify": "https://open.spotify.com/artist/0SidyBOAgQzRSreRRnsqUb",
-          "confidence": 1.0,
-          "matched": "Mariachi El Bronx",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Mrs. Magician",
-          "apple_music": "https://music.apple.com/us/artist/mrs-magician/418383570",
-          "spotify": "https://open.spotify.com/artist/7z1QgLoFoyVn2Ra22w8Wzo",
-          "confidence": 1.0,
-          "matched": "Mrs. Magician",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Trick-or-Treat to the Beat",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-22",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAABBQtvGAgAAAAAr%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1513757",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -935,6 +881,80 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Brutalismus 3000",
+          "apple_music": "https://music.apple.com/us/artist/brutalismus-3000/1530068480",
+          "spotify": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j",
+          "confidence": 1.0,
+          "matched": "Brutalismus 3000",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Eurohead",
+          "apple_music": "https://music.apple.com/us/artist/eurohead/1654942565",
+          "spotify": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f",
+          "confidence": 1.0,
+          "matched": "Eurohead",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Ali RQ",
+          "apple_music": "https://music.apple.com/us/artist/ali-rq/1792477071",
+          "spotify": "https://open.spotify.com/artist/5URh90Uk4qiV9xQnEJQ2zD",
+          "confidence": 1.0,
+          "matched": "Ali Rq",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "deBasement",
+          "apple_music": "https://music.apple.com/us/artist/debasement/1759285322",
+          "spotify": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl",
+          "confidence": 1.0,
+          "matched": "deBasement",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "erika + sfcowboy",
+          "apple_music": "https://music.apple.com/us/artist/erika/1616522255",
+          "spotify": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG",
+          "confidence": 1.0,
+          "matched": "Erika",
+          "apple_label": "compound bill — links to Erika only",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Harmony US Tour 2026",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-22",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546970281",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1672138",
+      "room": null,
+      "age_rating": "16 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Gary Numan",
           "apple_music": "https://music.apple.com/us/artist/gary-numan/2780160",
           "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE",
@@ -1480,7 +1500,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546964922",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1664487",
       "room": null,
       "age_rating": "18 & Over",
@@ -1611,7 +1631,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546948181",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1664440",
       "room": null,
       "age_rating": "All Ages",
@@ -1660,18 +1680,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 62,
-      "exact": 62,
+      "unique_artists": 66,
+      "found": 64,
+      "exact": 63,
       "close": 0,
-      "flagged": 0,
+      "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 62,
+      "unique_artists": 66,
+      "linked": 64,
       "venue": 0,
-      "api": 56,
+      "api": 58,
       "feed": 6,
       "shows_with_link": 38
     }

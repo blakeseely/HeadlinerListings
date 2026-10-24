@@ -29,93 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 32,
+  "scraped_at": "2026-10-24",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Malcolm Todd",
-          "apple_music": "https://music.apple.com/us/artist/malcolm-todd/1624326848",
-          "spotify": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
-          "confidence": 1.0,
-          "matched": "Malcolm Todd",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "54 Ultra",
-          "apple_music": "https://music.apple.com/us/artist/54-ultra/1521471420",
-          "spotify": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ",
-          "confidence": 1.0,
-          "matched": "54 Ultra",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Do That Again Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-22",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Sold Out!",
-      "ticket_status": "sold out",
-      "event_page": "https://thefoxoakland.com/events/malcolm-todd-261022",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "apple_music": "https://music.apple.com/us/artist/gary-clark-jr/266463936",
-          "spotify": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp",
-          "confidence": 1.0,
-          "matched": "Gary Clark Jr.",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Xavier Lynn",
-          "apple_music": "https://music.apple.com/us/artist/xavier-lynn/1467223376",
-          "spotify": "https://open.spotify.com/artist/18abpcBR3u1eI3wSr6BBT9",
-          "confidence": 1.0,
-          "matched": "Xavier Lynn",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/gary-clark-jr-261023",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Clark achieved global impact following his first Grammy Award® in 2014, winning Best Traditional R&B Performance for the track “Please Come Home” from his Warner Records debut album Blak And Blu , and seemingly never left the road. 2015’s The Story Of Sonny Boy Slim wrought hard-won international acclaim as a critical force to be reckoned with. Throughout 2019, Clark ascended to greater heights with the release of This Land – his third full-length studio album which bowed at #6 on the Billboard 200 chart , marking his third consecutive Top 10 debut. The album and single of the same name attracted acclaim from the likes of The New York Times, The Washington Post, The Los Angeles Times, Rolling Stone, Pitchfork and more. He has performed on Saturday Night Live, The Late Show with Stephen Colbert, The Ellen DeGeneres Show, The Tonight Show Starring Jimmy Fallon, The Late Late Show with James Corden, Jimmy Kimmel Live!, Good Morning America, CBS News Sunday, CBS This Morning, The Today Sho"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1164,37 +1080,79 @@
       "date": "2027-05-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "PRESALE 10/22",
+      "ticket_link": "Buy Tickets",
       "ticket_status": "on sale",
       "event_page": "https://thefoxoakland.com/events/eric-andre-270519",
       "room": null,
       "age_rating": "18 and over",
       "note": null,
       "description": "ERIC ANDRE is an Emmy Award-winning comedian and creator of Adult Swim’s hit series “The Eric Andre Show.” He recently starred in the Netflix film LITTLE BROTHER, directed by Matt Spicer, and appeared in HAPPY GILMORE 2 and Peter Farrelly’s BALLS UP. Andre has received critical praise for his work, including HBO’s “The Righteous Gemstones,” FXX’s “Man Seeking Woman,” his Netflix standup special “Legalize Everything” and the comedy BAD TRIP, which he also produced and co-wrote, among others. Co-starring Lil Rel Howery and Tiffany Haddish, the film was the #1 most viewed feature world-wide on the platform the first week of its release. Andre’s voicework includes the animated features TROLLS BAND TOGETHER, SING 2, THE MITCHELLS VS. THE MACHINES and THE LION KING, as well as Matt Groening’s animated series “Disenchantment.” He was also featured as an expert panelist on ABC’s “The Prank Panel.”"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "apple_music": "https://music.apple.com/us/artist/two-door-cinema-club/291005449",
+          "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl",
+          "confidence": 1.0,
+          "matched": "Two Door Cinema Club",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Friendly Fires",
+          "apple_music": "https://music.apple.com/us/artist/friendly-fires/202207367",
+          "spotify": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p",
+          "confidence": 1.0,
+          "matched": "Friendly Fires",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "LIVE 105 presents — Tourist History 15th Anniversary Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/two-door-cinema-club-270520",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Hailing from Bangor and Donaghadee, Northern Ireland’s Two Door Cinema Club first gained attention with their debut album ‘Tourist History’ which included singles like “What you Know” **, ‘Something Good Can Work’ and ‘Undercover Martyn’ mixing guitar-driven, post-punk hooks with dancey, electronic polish. The album released in 2010 hit number one on the Irish chart, landed on the BBC Sound of 2010 Poll and went on to be a globally lauded debut record taking them from their garage where they wrote the album in Bangor to the main stages of festivals around the world. Two Door Cinema Club features singer/guitarist/programmer Alex Trimble, guitarist/singer Sam Halliday and bassist/singer Kevin Baird. Trimble and Halliday met in school, and then hooked up with Baird through mutual friends. The trio began writing in Trimble’s parents garage and skipped going to university to focus on the band, fortunately, the gamble paid off – the band’s self-released debut EP, Four Words to Stand On, was "
     }
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 29,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 36,
-      "exact": 36,
+      "unique_artists": 35,
+      "found": 34,
+      "exact": 34,
       "close": 0,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 35,
-      "venue": 35,
+      "unique_artists": 35,
+      "linked": 33,
+      "venue": 33,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }

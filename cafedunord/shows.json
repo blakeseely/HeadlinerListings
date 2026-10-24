@@ -29,53 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 50,
+  "scraped_at": "2026-10-24",
+  "count": 49,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Rose Hips",
-          "apple_music": "https://music.apple.com/us/artist/the-rose-hips/1891411112",
-          "spotify": "https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX",
-          "confidence": 1.0,
-          "matched": "The Rose Hips",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sun Casino",
-          "apple_music": "https://music.apple.com/us/artist/sun-casino/1607904581",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Sun Casino",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-22",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-rose-hips-with-sun-cafe-du-nord-tickets/15026343?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-10-22-the-rose-hips",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "The Rose Hips is the LA-based indie rock duo of vocalist Dane Schumacher and guitarist Michael Gryffin, lifelong friends who grew up together in Palo Alto, California before making their way to Los Angeles in their mid-20s to pursue music. After years navigating the LA scene, the two bonded over a shared love of classic rock, folk, and modern pop — a blend that now defines their sound: rich…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -200,8 +156,8 @@
       "date": "2026-10-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/blu-detiger-the-cafe-du-nord-tickets/15030133?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://cafedunord.com/shows/2026-10-26-blu-detiger",
       "room": null,
       "age_rating": "All ages",
@@ -1211,7 +1167,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/zach-seabaugh-cafe-du-nord-tickets/14354054?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-01-30-zach-seabaugh",
       "room": null,
       "age_rating": "All ages",
@@ -1277,7 +1233,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-sways-cafe-du-nord-tickets/14364964?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-06-the-sways",
       "room": null,
       "age_rating": "21+",
@@ -1386,8 +1342,8 @@
       "date": "2027-02-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale soon",
+      "ticket_link": "https://www.ticketweb.com/event/devvy-dub-cafe-du-nord-tickets/14343444?pl=cdn&REFID=clientsitewp",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-19-devvy-dub",
       "room": null,
       "age_rating": "21+",
@@ -1419,8 +1375,8 @@
       "date": "2027-02-22",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale soon",
+      "ticket_link": "https://www.ticketweb.com/event/cut-worms-solo-swedish-american-hall-tickets/14379044?pl=cdn&REFID=clientsitewp",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-22-cut-worms",
       "room": "Swedish American Hall (upstairs)",
       "age_rating": "21+",
@@ -1463,8 +1419,8 @@
       "date": "2027-02-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale soon",
+      "ticket_link": "https://www.ticketweb.com/event/camp-bloom-tour-cafe-du-nord-tickets/14384444?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-23-alt-bloom",
       "room": null,
       "age_rating": "All ages",
@@ -1562,8 +1518,8 @@
       "date": "2027-02-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale soon",
+      "ticket_link": "https://www.ticketweb.com/event/the-stone-foxes-cafe-du-nord-tickets/14343314?pl=cdn&REFID=clientsitewp",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-26-the-stone-foxes",
       "room": null,
       "age_rating": "21+",
@@ -1716,7 +1672,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sarah-julia-2027-swedish-american-hall-tickets/14379054?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-03-27-sarah-julia",
       "room": "Swedish American Hall (upstairs)",
       "age_rating": "21+",
@@ -1859,7 +1815,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jack-jack-cafe-du-nord-tickets/14381474?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-04-13-jack-and-jack",
       "room": null,
       "age_rating": "All ages",
@@ -1935,26 +1891,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 49,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 72,
-      "found": 70,
-      "exact": 66,
+      "unique_artists": 70,
+      "found": 68,
+      "exact": 64,
       "close": 2,
       "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 72,
-      "linked": 44,
-      "venue": 44,
+      "unique_artists": 70,
+      "linked": 43,
+      "venue": 43,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 44
+      "shows_with_link": 43
     }
   }
 }

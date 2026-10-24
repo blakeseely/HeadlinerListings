@@ -29,122 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 23,
+  "scraped_at": "2026-10-24",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Julia Wolf",
-          "apple_music": "https://music.apple.com/us/artist/julia-wolf/1482698876",
-          "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ",
-          "confidence": 1.0,
-          "matched": "Julia Wolf",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/7863358/buy-tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/7863358/buy-tickets",
-      "room": null,
-      "age_rating": null,
-      "note": "From $89",
-      "description": "Julia Wolf at Great American Music Hall on Friday 23rd October 2026 in San Francisco..."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "TR",
-          "apple_music": "https://music.apple.com/us/artist/tr/1576837984",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "TR",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Troye Sivan @ 31%)",
-          "spotify_source": null
-        },
-        {
-          "name": "ST",
-          "apple_music": "https://music.apple.com/us/artist/st/266839111",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "ST",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Staind @ 50%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Buzz Kull",
-          "apple_music": "https://music.apple.com/us/artist/buzz-kull/653685310",
-          "spotify": "https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl",
-          "confidence": 1.0,
-          "matched": "Buzz Kull",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Zanias",
-          "apple_music": "https://music.apple.com/us/artist/zanias/1156612707",
-          "spotify": "https://open.spotify.com/artist/6ouPbOWchZ9U2ojCpMF9Vv",
-          "confidence": 1.0,
-          "matched": "Zanias",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Ghost Cop",
-          "apple_music": "https://music.apple.com/us/artist/ghost-cop/680580583",
-          "spotify": "https://open.spotify.com/artist/7iEbbArmMhTBPk0YA3oI6b",
-          "confidence": 1.0,
-          "matched": "Ghost Cop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Aux Animaux",
-          "apple_music": "https://music.apple.com/us/artist/aux-animaux/1334792020",
-          "spotify": "https://open.spotify.com/artist/5jdlUKIbzsVj5TPXqq27SD",
-          "confidence": 1.0,
-          "matched": "Aux Animaux",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.greatmusichall.com/events/tr-st-dj-set-23-october-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.greatmusichall.com/events/tr-st-dj-set-23-october-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": "From $51",
-      "description": "Alternative music fans everywhere will be excited to know that one of their favorite artists..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -862,37 +749,37 @@
       "date": "2027-03-21",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8320272/buy-tickets",
-      "ticket_status": null,
-      "event_page": "https://www.ticketsqueeze.com/tickets/8320272/buy-tickets",
+      "ticket_link": "https://www.greatmusichall.com/events/saxsquatch-21-march-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.greatmusichall.com/events/saxsquatch-21-march-2027/",
       "room": null,
       "age_rating": null,
-      "note": null,
-      "description": "Saxsquatch at Great American Music Hall on Sunday 21st March 2027 in San Francisco..."
+      "note": "From $41",
+      "description": "With that said, if you live in San Francisco grab hold of something because this..."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 22,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 35,
-      "exact": 32,
+      "unique_artists": 28,
+      "found": 28,
+      "exact": 25,
       "close": 0,
       "flagged": 3,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 33,
+      "unique_artists": 28,
+      "linked": 28,
       "venue": 0,
-      "api": 33,
+      "api": 28,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 21
     }
   }
 }

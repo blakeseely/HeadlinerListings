@@ -29,8 +29,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 92,
+  "scraped_at": "2026-10-24",
+  "count": 89,
   "shows": [
     {
       "event_type": "music",
@@ -114,90 +114,6 @@
       "room": null,
       "age_rating": null,
       "note": "Postponed",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Frankie Cosmos",
-          "apple_music": "https://music.apple.com/us/artist/frankie-cosmos/814450590",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Frankie Cosmos",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Gabby’s World",
-          "apple_music": "https://music.apple.com/us/artist/gabbys-world/970270861",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Gabby’s World",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Celebrating 10 Years of Next Thing",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-22",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/frankie-cosmos-celebrating-the-independent-tickets/14919283?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/frankie-cosmos-celebrating-10-years-of-next-thing/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Frog",
-          "apple_music": "https://music.apple.com/us/artist/frog/979411671",
-          "spotify": "https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA",
-          "confidence": 1.0,
-          "matched": "Frog",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Mildred",
-          "apple_music": "https://music.apple.com/us/artist/mildred/1759776904",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "mildred",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "FROG FOR SALE FALL TOUR 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-23",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/frog/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
       "description": null
     },
     {
@@ -500,7 +416,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Cilantro (solo)",
+          "apple_music": "https://music.apple.com/us/artist/cilantro/1632677337",
+          "spotify": "https://open.spotify.com/artist/4YDIOuPnKTiuJ9T23PEicV",
+          "confidence": 1.0,
+          "matched": "Cilantro",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -1295,7 +1222,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "claire rousay",
+          "apple_music": "https://music.apple.com/us/artist/claire-rousay/1467815164",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "claire rousay",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -3156,48 +3094,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Dogma",
-          "apple_music": "https://music.apple.com/us/artist/dogma/1614009037",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Dogma",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Frayle",
-          "apple_music": "https://music.apple.com/us/artist/frayle/1348809444",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Frayle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-03-17",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/postponed-dogma-the-independent-tickets/14097354?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
-      "room": null,
-      "age_rating": null,
-      "note": "Postponed",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Hans Williams",
           "apple_music": "https://music.apple.com/us/artist/hans-williams/1368674949",
           "spotify": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj",
@@ -3539,26 +3435,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 92,
+      "music": 89,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 142,
-      "found": 131,
-      "exact": 124,
+      "unique_artists": 138,
+      "found": 127,
+      "exact": 120,
       "close": 3,
       "flagged": 4,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 142,
+      "unique_artists": 138,
       "linked": 90,
       "venue": 90,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 75
+      "shows_with_link": 74
     }
   }
 }

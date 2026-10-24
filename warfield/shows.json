@@ -29,37 +29,243 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
-  "count": 12,
+  "scraped_at": "2026-10-24",
+  "count": 11,
   "shows": [
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Buena Vista Orchestra",
-          "apple_music": "https://music.apple.com/us/artist/the-buena-vista-orchestra/1837732333",
-          "spotify": "https://open.spotify.com/artist/79bG7tuDQZaqpmsOizA6uc",
-          "confidence": 0.9,
-          "matched": "The Buena Vista Orchestra",
-          "apple_label": "close match: The Buena Vista Orchestra",
-          "spotify_label": "close match: The Buena Vista Orchestra",
+          "name": "HENRY",
+          "apple_music": "https://music.apple.com/us/artist/henry/660560673",
+          "spotify": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq",
+          "confidence": 1.0,
+          "matched": "HENRY",
+          "apple_label": null,
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "Enjoy The Show World Tour 2026",
       "presenters": [
         "Goldenvoice Presents"
       ],
       "set_format": null,
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1428072/buena-vista-orchestra-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_link": "https://www.axs.com/events/1492287/henry-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
       "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1428072",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1492287",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rhye",
+          "apple_music": "https://music.apple.com/us/artist/rhye/490808665",
+          "spotify": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN",
+          "confidence": 1.0,
+          "matched": "Rhye",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Joy Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1468105/rhye-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1468105",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "apple_music": "https://music.apple.com/us/artist/boynextdoor/1687612559",
+          "spotify": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1",
+          "confidence": 1.0,
+          "matched": "BOYNEXTDOOR",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "BOYNEXTDOOR TOUR 'KNOCK ON Vol.2' IN NORTH AMERICA",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1493762/boynextdoor-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1493762",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brutalismus 3000",
+          "apple_music": "https://music.apple.com/us/artist/brutalismus-3000/1530068480",
+          "spotify": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j",
+          "confidence": 1.0,
+          "matched": "Brutalismus 3000",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Eurohead",
+          "apple_music": "https://music.apple.com/us/artist/eurohead/1654942565",
+          "spotify": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f",
+          "confidence": 1.0,
+          "matched": "Eurohead",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "ali rq",
+          "apple_music": "https://music.apple.com/us/artist/ali-rq/1792477071",
+          "spotify": "https://open.spotify.com/artist/5URh90Uk4qiV9xQnEJQ2zD",
+          "confidence": 1.0,
+          "matched": "Ali Rq",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "deBasement",
+          "apple_music": "https://music.apple.com/us/artist/debasement/1759285322",
+          "spotify": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl",
+          "confidence": 1.0,
+          "matched": "deBasement",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "techno pagan",
+          "apple_music": "https://music.apple.com/us/artist/technopagan/1368112910",
+          "spotify": "https://open.spotify.com/artist/7BEZRD9LzvoqzJU6OMIOuB",
+          "confidence": 0.957,
+          "matched": "Technopagan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Harmony US Tour 2026",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1554506/brutalismus-3000-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1554506",
+      "room": null,
+      "age_rating": "16 & Over",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. The event organizer has decided that ticket transfer will be delayed for this event. Please review the terms of AXS’s Purchase Agreement (axs.com/purchaseagreement) for more information"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ROA",
+          "apple_music": "https://music.apple.com/us/artist/roa/1617105458",
+          "spotify": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH",
+          "confidence": 1.0,
+          "matched": "ROA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "USA TOUR",
+      "presenters": [
+        "Zamora Live Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1573659/roa-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1573659",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Event Information Puerto Rican trap-soul sensation ROA brings his genre-blending sound to The Warfield for an unforgettable night. Known for solo hits like \"Fantasía,\" \"Me Gustas CC,\" and \"Tate Quieta,\" and his acclaimed Private Suite series, ROA fuses reggaeton, R&B, and raw, emotionally driven lyrics into a live show that's as intimate as it is electric. Fresh off winning Male Breakout Artist of the Year at Premio Lo Nuestro 2026, don't miss your chance to see one of Latin urban music's fastest-rising stars live. General Admission. All Ages"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Trippie Redd",
+          "apple_music": "https://music.apple.com/us/artist/trippie-redd/1203172438",
+          "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax",
+          "confidence": 1.0,
+          "matched": "Trippie Redd",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The NDA Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1619471/trippie-redd-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1619471",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -70,152 +276,131 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "KINO",
-          "apple_music": "https://music.apple.com/us/artist/kino/1139337453",
-          "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42",
-          "confidence": 1.0,
-          "matched": "Kino",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "KINO USA TOUR",
-      "presenters": [
-        "EventCartel Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1394481/kino-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1394481",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information The legendary band KINO celebrated its 40th anniversary in 2022, while Viktor Tsoi would have turned 60. For the first time ever, the band KINO is coming to the United States with a full-scale concert. Yuri Kasparyan, Igor Tikhomirov, and Alexander Titov will perform KINO’s greatest hits for over two hours, accompanied by a restored and digitally remastered voice of Viktor Tsoi. Come to the show and sing along to all the iconic KINO songs together with the entire audience!"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Vince Staples",
-          "apple_music": "https://music.apple.com/us/artist/vince-staples/566639154",
-          "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm",
-          "confidence": 1.0,
-          "matched": "Vince Staples",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Glare",
-          "apple_music": "https://music.apple.com/us/artist/glare/199398424",
-          "spotify": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl",
-          "confidence": 1.0,
-          "matched": "Glare",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Cry Baby Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1486743/vince-staples-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1486743",
-      "room": null,
-      "age_rating": "6+",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "RØZ",
-          "apple_music": "https://music.apple.com/us/artist/r%C3%B8z/1497371365",
-          "spotify": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI",
-          "confidence": 1.0,
-          "matched": "RØZ",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "SE ESTÁ HACIENDO TARDE",
-      "presenters": [
-        "Monster Energy Outbreak Tour, Goldenvoice, & CMN Present RØZ: SE ESTÁ HACIENDO TARDE"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1556908/roz-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1556908",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": "Event Information Monster Energy Outbreak Tour & Goldenvoice Present RØZ: SE ESTÁ HACIENDO TARDE Artist Presale: Wednesday, August 12th at 10am PT Register Here for Presale Access: https://laylo.com/rozwavvv/m/fyu9pY If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. This event has a tiered pricing structure in the General Admission area. All General Admission tiers have the same access. Once a price level sells out it may no longer be visible or available for selection. THIS EVENT IS 18+ A VALID, PHYSICAL GOVERNMENT-ISSUED PHOTO ID IS REQUIRED FOR ENTRY WHERE APPLICABLE AND FOR THE PURCHASE OF ALCOHOL. SCHOOL IDS, EXPIRED IDS, PHOTOS OR PHOTOCOPIES OF IDS, AND DIGITAL IDS WILL NOT BE ACCEPTED FOR EVENT ENTRY OR ALCOHOL PURCHASES. NO DIFFERENCE IN GA FLOOR TIERS OTHER THAN PRICE"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Song Dongye",
+          "name": "Deltron 3030 performing \"Deltron 3030\"",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ",
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Song Wongeun @ 78%)",
-          "spotify_source": null
+          "spotify_label": "close match: Deltron 3030",
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "\"Take Another Moment\" World Tour 2026",
-      "presenters": [],
+      "support_artists": [
+        {
+          "name": "DJ Prince Paul",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: DJ Paul",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Souls of Mischief",
+          "apple_music": "https://music.apple.com/us/artist/souls-of-mischief/2319347",
+          "spotify": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt",
+          "confidence": 1.0,
+          "matched": "Souls of Mischief",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "NYE 2027",
+      "presenters": [
+        "Goldenvoice & KEXP Present"
+      ],
       "set_format": null,
-      "date": "2026-11-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1613808/song-dongye-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "date": "2026-12-31",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.axs.com/events/1608390/deltron-3030-performing-deltron-3030-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
       "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1613808",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1608390",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
-      "description": "Event Information On June 29, 2026, Beijing singer-songwriter Song Dongye released Take Another Moment, his second album and his first full-length release in thirteen years. On this world tour, the new songs will be presented alongside the old favorites that have stayed with listeners all these years. Between 2017 and 2018, Song Dongye released three pivotal singles—“Empty Harbor Song,” “Guo Yuan Chao,” and “To Know”—each quietly expanding the boundaries of folk music and reshaping the industry’s perception of him. Now, thirteen years after his landmark debut Anhe Bridge North, arrives his long-awaited second album, Take Another Moment. Entirely self-conceived, arranged, and produced, it stands as a work that, even now, surpasses all expectations upon listening. Over the years, he has lost weight. He fishes. He takes photographs. He plays with beads. And he has completed Take Another Moment, an album astonishing in both its lyrical scope and sonic depth. He remains the songwriter, arranger, and producer at the center of his work. Alongside him are more than twenty instruments and sound sources, leading lights of China’s jazz world such as Wen Zhiyong, Xia Jia, and Nathaniel Gao, and independent spirits as subtle and reclusive as Xing Jiangbo He is still occasionally playful, perhaps as a way of balancing his absolute seriousness and devotion to music—once even letting his cat's backside appear on an album cover. His photographs, too, remain quietly meaningful gazes upon the w"
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. This event has a tiered pricing structure in the General Admission Floor area. All General Admission Floor tiers have the same access. Once a price level sells out it may no longer be visible or available for selection"
     },
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Cookies",
-          "apple_music": "https://music.apple.com/us/artist/cookies/906135547",
-          "spotify": "https://open.spotify.com/artist/6hkdqUKAiM6bsJbBVNC78k",
+          "name": "fakemink",
+          "apple_music": "https://music.apple.com/us/artist/fakemink/1744500063",
+          "spotify": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi",
           "confidence": 1.0,
-          "matched": "Cookies",
+          "matched": "fakemink",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "a Terrible Beauty : the Tour . part 2",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1518695/fakemink-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1518695",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. Artist Presale: Tuesday, August 25th at 10am PT. Register at drop.cobrand.com/d/fakemink/usa-oct-2026"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RuPaul's Drag Race",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4gphURGRPYog7fJ3MmyBPG",
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: The Cast of RuPaul's Drag Race @ 70%)",
+          "spotify_label": "close match: RuPaul's Drag Race Live",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Werq The World 2027 Tour",
+      "presenters": [
+        "Voss Events & Goldenvoice Present"
+      ],
+      "set_format": null,
+      "date": "2027-03-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1454070/rupaul-s-drag-race-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1454070",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. This just in! The world is chaotic, the news is exhausting, and the queens of RuPaul’s Drag Race are here to report it their way. To celebrate its 10-year anniversary, RuPaul’s Drag Race Werq The World Tourreturns with WTWN 10: Werq The World News, a high-camp global broadcast hosted by your Anchorma’am, Asia O’Hara. Featuring live reports in weather, sports, entertainment, breaking news and more from Vanessa Vanjie, Jorgeous, Latrice Royale, Daya Betty, and Shannel, with surprise guests from Season 19. It's the biggest stories of the year delivered through drag, spectacle, comedy, and world-class performances, only on WTWN 10. Presented by Voss Events in collaboration with World of Wonder and MTV. Line-up subject to change"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Vacations",
+          "apple_music": "https://music.apple.com/us/artist/vacations/350230773",
+          "spotify": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4",
+          "confidence": 1.0,
+          "matched": "Vacations",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -223,166 +408,28 @@
       ],
       "support_artists": [
         {
-          "name": "Berner",
-          "apple_music": "https://music.apple.com/us/artist/berner/212971105",
-          "spotify": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI",
+          "name": "Twen",
+          "apple_music": "https://music.apple.com/us/artist/twen/284936071",
+          "spotify": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO",
           "confidence": 1.0,
-          "matched": "Berner",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Paul Wall",
-          "apple_music": "https://music.apple.com/us/artist/paul-wall/3242212",
-          "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg",
-          "confidence": 1.0,
-          "matched": "Paul Wall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Baby Bash",
-          "apple_music": "https://music.apple.com/us/artist/baby-bash/2013484",
-          "spotify": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7",
-          "confidence": 1.0,
-          "matched": "Baby Bash",
+          "matched": "twen",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "multi_artist": true,
-      "show_title": "Christmas 2026",
+      "multi_artist": false,
+      "show_title": "Pursuit of Anything Tour",
       "presenters": [
         "Goldenvoice Presents"
       ],
       "set_format": null,
-      "date": "2026-12-04",
+      "date": "2027-03-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1640656/cookies-christmas-2026-ft-berner-paul-wall-baby-bash-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_link": "https://www.axs.com/events/1640645/vacations-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
       "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1640656",
-      "room": null,
-      "age_rating": "6+",
-      "note": null,
-      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "XLOV",
-          "apple_music": "https://music.apple.com/us/artist/xlov/1785613634",
-          "spotify": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC",
-          "confidence": 1.0,
-          "matched": "XLOV",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "US TOUR 2026: San Francisco",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-15",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.axs.com/events/1651188/xlov-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1651188",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information SAN FRANCISCO, IT’S YOUR TURN! XLOV is bringing their electrifying energy to San Francisco for an unforgettable night of music, performance, and connection. Get ready to experience XLOV live as the stage, the crowd, and the city come together as one. Don’t miss it — 15 December 2026 Feel the energy. Join the crowd. Let’s make this night unforgettable"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "ALLEYCVT",
-          "apple_music": "https://music.apple.com/us/artist/alleycvt/1560524882",
-          "spotify": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1",
-          "confidence": 1.0,
-          "matched": "ALLEYCVT",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sippy",
-          "apple_music": "https://music.apple.com/us/artist/sippy/444191039",
-          "spotify": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S",
-          "confidence": 1.0,
-          "matched": "SIPPY",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Machaki",
-          "apple_music": "https://music.apple.com/us/artist/machaki/1678676913",
-          "spotify": "https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ",
-          "confidence": 1.0,
-          "matched": "MACHAKI",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Beginning of Forever Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2027-01-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1649341/alleycvt-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1649341",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Foil Arms and Hog",
-          "apple_music": "https://music.apple.com/us/artist/foil-arms-and-hog/1498912794",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Foil Arms and Hog",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Arm's Length @ 48%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Smithereens 2027",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2027-03-13",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.axs.com/events/1633750/foil-arms-and-hog-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1633750",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1640645",
       "room": null,
       "age_rating": "6+",
       "note": null,
@@ -393,123 +440,68 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Calema",
-          "apple_music": "https://music.apple.com/us/artist/calema/478888248",
-          "spotify": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um",
+          "name": "The Warning",
+          "apple_music": "https://music.apple.com/us/artist/the-warning/260719953",
+          "spotify": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
           "confidence": 1.0,
-          "matched": "Calema",
+          "matched": "The Warning",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "wilt",
+          "apple_music": "https://music.apple.com/us/artist/wilt/1653188857",
+          "spotify": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy",
+          "confidence": 1.0,
+          "matched": "wilt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
-      "show_title": "Origin Tour",
+      "show_title": "Everything's Falling World Tour",
       "presenters": [
         "Goldenvoice Presents"
       ],
       "set_format": null,
-      "date": "2027-03-20",
+      "date": "2027-04-20",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1518697/calema-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_link": "https://www.axs.com/events/1608434/the-warning-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
       "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1518697",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1608434",
       "room": null,
-      "age_rating": "6+",
+      "age_rating": "All Ages",
       "note": null,
       "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lucky Daye",
-          "apple_music": "https://music.apple.com/us/artist/lucky-daye/1110820355",
-          "spotify": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J",
-          "confidence": 1.0,
-          "matched": "Lucky Daye",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The ALOUD! Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2027-04-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1656986/lucky-daye-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "coming soon",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1656986",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information Please note, there is a strict limit of 6 tickets per customer/household for this event. Orders in violation of the published ticket limit are subject to cancellation without notice. If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Ticket prices may fluctuate, at any time, based on demand. The event organizer has decided that ticket transfer will be delayed for this event. Ticket transfer will be available 72 hours prior to event. Resale of tickets on AXS Resale will not be immediately available for this event but may become available at a later date. Please review the terms of AXS’s Purchase Agreement (axs.com/purchaseagreement) for more information"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Valery Meladze",
-          "apple_music": "https://music.apple.com/us/artist/valery-meladze/1618150928",
-          "spotify": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
-          "confidence": 1.0,
-          "matched": "Valery Meladze",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Show Impulse Presents"
-      ],
-      "set_format": null,
-      "date": "2027-05-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1378832/valery-meladze-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1378832",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information After the sold-out anniversary world tour, one of the most beloved voices of our time – Valery Meladze – returns to the US in 2027. On May 16, 2027, San Francisco will experience an unforgettable evening as Valery Meladze takes The Warfield stage. Audiences can expect deep emotions, meaningful lyrics, and iconic melodies – featuring the timeless hits loved by millions. Above all, it’s the exceptional atmosphere that makes every concert truly special – once you’ve experienced it, you can’t stop talking about it. Valery Meladze’s music bridges generations, and his songs are recognized from the very first note. Each performance is deeply personal and emotionally charged, as he gives his all on stage – delivering passion, energy, and an unforgettable connection with every audience. San Francisco, May 16, 2027 – save the date for the incredible memories!The show will be performed in Russian language"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 12,
+      "music": 11,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 18,
-      "found": 17,
-      "exact": 16,
-      "close": 0,
-      "flagged": 1,
-      "not_found": 1
+      "unique_artists": 19,
+      "found": 16,
+      "exact": 15,
+      "close": 1,
+      "flagged": 0,
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 18,
-      "linked": 16,
+      "unique_artists": 19,
+      "linked": 19,
       "venue": 0,
-      "api": 16,
+      "api": 19,
       "feed": 0,
-      "shows_with_link": 10
+      "shows_with_link": 11
     }
   }
 }

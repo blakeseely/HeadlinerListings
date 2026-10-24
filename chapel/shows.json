@@ -29,51 +29,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-23",
+  "scraped_at": "2026-10-24",
   "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Justin Nozuka",
-          "apple_music": "https://music.apple.com/us/artist/justin-nozuka/200914712",
-          "spotify": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t",
-          "confidence": 1.0,
-          "matched": "Justin Nozuka",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Nimitt",
-          "apple_music": "https://music.apple.com/us/artist/nimitt/1487034293",
-          "spotify": "https://open.spotify.com/artist/2cA1A0m034jPnu6xK86O4n",
-          "confidence": 1.0,
-          "matched": "Nimitt",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -471,6 +429,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Election Night Watch Party: Hosted by Kochina Rude!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Knight's Watch @ 34%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-03",
+      "doors": "5:00 pm",
+      "show_time": "5:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Squirrel Flower",
           "apple_music": "https://music.apple.com/us/artist/squirrel-flower/1016930777",
           "spotify": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni",
@@ -497,7 +486,7 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
@@ -1407,7 +1396,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
       "room": null,
       "age_rating": null,
@@ -2100,20 +2089,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 73,
-      "exact": 64,
+      "unique_artists": 96,
+      "found": 71,
+      "exact": 62,
       "close": 3,
       "flagged": 6,
-      "not_found": 24
+      "not_found": 25
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 72,
+      "unique_artists": 96,
+      "linked": 70,
       "venue": 0,
-      "api": 72,
+      "api": 70,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 38
     }
   }
 }
