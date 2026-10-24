@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:07:14.564171+00:00",
+  "generated_at": "2026-10-24T07:46:07.820743+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -304,6 +304,28 @@
       },
       "show_count": 39,
       "sha256_16": "79d4796c356194ea"
+    },
+    {
+      "venue_id": "pappy",
+      "file": "pappy/shows.json",
+      "city": "Pioneertown, CA",
+      "metro": "Los Angeles",
+      "updated_at": "2026-10-24",
+      "oldest_show_date": "2026-10-23",
+      "value_domains": {
+        "event_type": [
+          "music"
+        ],
+        "ticket_status": [
+          "sold out",
+          "on sale"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 64,
+      "sha256_16": "05fc73c173e6ec4f"
     },
     {
       "venue_id": "regency",
