@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 39,
+  "scraped_at": "2026-10-25",
+  "count": 38,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jai Wolf",
-          "apple_music": "https://music.apple.com/us/artist/jai-wolf/896670451",
-          "spotify": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw",
-          "confidence": 1.0,
-          "matched": "Jai Wolf",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Koastle",
-          "apple_music": "https://music.apple.com/us/artist/koastle/1556516568",
-          "spotify": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g",
-          "confidence": 1.0,
-          "matched": "Koastle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "10 Year Anniversary Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546472043",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1496243",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1680,26 +1636,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39,
+      "music": 38,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
-      "found": 64,
-      "exact": 63,
+      "unique_artists": 64,
+      "found": 62,
+      "exact": 61,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 66,
-      "linked": 64,
+      "unique_artists": 64,
+      "linked": 62,
       "venue": 0,
-      "api": 58,
+      "api": 56,
       "feed": 6,
-      "shows_with_link": 38
+      "shows_with_link": 37
     }
   }
 }

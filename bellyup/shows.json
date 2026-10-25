@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 124,
+  "scraped_at": "2026-10-25",
+  "count": 123,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "WAR",
-          "apple_music": "https://music.apple.com/us/artist/war/261730408",
-          "spotify": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I",
-          "confidence": 1.0,
-          "matched": "War",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "50th Anniversary Greatest Hits Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/war-50th-anniversary-belly-up-tickets/14262524?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14262524/war-50th-anniversary-greatest-hits-tour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "DJ BoomStyler playing the hour after doors."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4607,26 +4576,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 123,
+      "music": 122,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 169,
-      "found": 126,
-      "exact": 102,
+      "unique_artists": 168,
+      "found": 125,
+      "exact": 101,
       "close": 5,
       "flagged": 19,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 169,
-      "linked": 130,
+      "unique_artists": 168,
+      "linked": 129,
       "venue": 0,
-      "api": 130,
+      "api": 129,
       "feed": 0,
-      "shows_with_link": 93
+      "shows_with_link": 92
     }
   }
 }

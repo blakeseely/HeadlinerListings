@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 35,
+  "scraped_at": "2026-10-25",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Amble",
-          "apple_music": "https://music.apple.com/us/artist/amble/1671435415",
-          "spotify": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI",
-          "confidence": 1.0,
-          "matched": "Amble",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Vincent Lima",
-          "apple_music": "https://music.apple.com/us/artist/vincent-lima/1435649835",
-          "spotify": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX",
-          "confidence": 1.0,
-          "matched": "Vincent Lima",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/amble-san-francisco-california-10-24-2026/event/1C0064CABFC98DA4",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/amble-san-francisco-california-10-24-2026/event/1C0064CABFC98DA4",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1363,26 +1321,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 47,
-      "found": 45,
-      "exact": 44,
+      "unique_artists": 45,
+      "found": 43,
+      "exact": 42,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 47,
-      "linked": 45,
+      "unique_artists": 45,
+      "linked": 43,
       "venue": 0,
-      "api": 45,
+      "api": 43,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

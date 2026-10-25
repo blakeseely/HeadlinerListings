@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 20,
+  "scraped_at": "2026-10-25",
+  "count": 19,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "she's green",
-          "apple_music": "https://music.apple.com/us/artist/shes-green/1614567574",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "she's green",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/shes-green-brick-and-mortar-music-hall-tickets/14250864?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/shes-green/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -883,21 +852,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 19,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 40,
-      "exact": 38,
+      "unique_artists": 40,
+      "found": 39,
+      "exact": 37,
       "close": 0,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 41,
+      "unique_artists": 40,
       "linked": 16,
       "venue": 16,
       "api": 0,

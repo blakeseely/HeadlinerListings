@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 47,
+  "scraped_at": "2026-10-25",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Weatherday",
-          "apple_music": "https://music.apple.com/us/artist/weatherday/1471517896",
-          "spotify": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK",
-          "confidence": 1.0,
-          "matched": "Weatherday",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Founders Day",
-          "apple_music": "https://music.apple.com/us/artist/founders-day/1772959650",
-          "spotify": "https://open.spotify.com/artist/1skFN9tDwp6HiPmwRVWrLI",
-          "confidence": 1.0,
-          "matched": "Founders Day",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Hit me",
-          "apple_music": "https://music.apple.com/us/artist/hit-me/722856929",
-          "spotify": "https://open.spotify.com/artist/4JUJ23VXhR7XOYLlXLB6ab",
-          "confidence": 1.0,
-          "matched": "Hit Me",
-          "apple_label": null,
-          "spotify_label": "close match: Hit Me, Harold",
-          "spotify_source": "api"
-        },
-        {
-          "name": "Harold",
-          "apple_music": "https://music.apple.com/us/artist/harold/46907980",
-          "spotify": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj",
-          "confidence": 1.0,
-          "matched": "Harold",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Hornet Disaster Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2089,26 +2027,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 46,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 71,
-      "exact": 62,
+      "unique_artists": 92,
+      "found": 67,
+      "exact": 58,
       "close": 3,
       "flagged": 6,
       "not_found": 25
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 70,
+      "unique_artists": 92,
+      "linked": 66,
       "venue": 0,
-      "api": 70,
+      "api": 66,
       "feed": 0,
-      "shows_with_link": 38
+      "shows_with_link": 37
     }
   }
 }

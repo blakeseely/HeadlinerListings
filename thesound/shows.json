@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 22,
+  "scraped_at": "2026-10-25",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Switchfoot",
-          "apple_music": "https://music.apple.com/us/artist/switchfoot/655658",
-          "spotify": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu",
-          "confidence": 1.0,
-          "matched": "Switchfoot",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Anberlin",
-          "apple_music": "https://music.apple.com/us/artist/anberlin/16269045",
-          "spotify": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp",
-          "confidence": 1.0,
-          "matched": "Anberlin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Forever Now Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/switchfoot-with-anberlin-the-sound-tickets/14900413?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14900413/switchfoot-with-anberlin-forever-now-tour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -813,26 +771,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 22,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 27,
-      "found": 23,
-      "exact": 20,
+      "unique_artists": 25,
+      "found": 21,
+      "exact": 18,
       "close": 1,
       "flagged": 2,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 27,
-      "linked": 25,
+      "unique_artists": 25,
+      "linked": 23,
       "venue": 0,
-      "api": 25,
+      "api": 23,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 18
     }
   }
 }

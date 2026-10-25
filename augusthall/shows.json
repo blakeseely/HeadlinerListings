@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 39,
+  "scraped_at": "2026-10-25",
+  "count": 38,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Protomartyr",
-          "apple_music": "https://music.apple.com/us/artist/protomartyr/608692872",
-          "spotify": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ",
-          "confidence": 1.0,
-          "matched": "Protomartyr",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/protomartyr-san-francisco-california-10-24-2026/event/1C0064E3A259ADCA",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/protomartyr/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1272,26 +1241,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39,
+      "music": 38,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
-      "found": 35,
-      "exact": 35,
+      "unique_artists": 37,
+      "found": 34,
+      "exact": 34,
       "close": 0,
       "flagged": 0,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 38,
-      "linked": 34,
+      "unique_artists": 37,
+      "linked": 33,
       "venue": 0,
-      "api": 34,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 36
+      "shows_with_link": 35
     }
   }
 }

@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 87,
+  "scraped_at": "2026-10-25",
+  "count": 86,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Everclear",
-          "apple_music": "https://music.apple.com/us/artist/everclear/549623",
-          "spotify": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF",
-          "confidence": 1.0,
-          "matched": "Everclear",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "American Hi-Fi",
-          "apple_music": "https://music.apple.com/us/artist/american-hi-fi/91935",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "American Hi-Fi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Lucky 7 Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/everclear-with-american-hi-fi-the-independent-tickets/14924703?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/everclear/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3357,26 +3315,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 87,
+      "music": 86,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 134,
-      "found": 123,
-      "exact": 116,
+      "unique_artists": 132,
+      "found": 121,
+      "exact": 114,
       "close": 3,
       "flagged": 4,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 134,
-      "linked": 87,
-      "venue": 87,
+      "unique_artists": 132,
+      "linked": 86,
+      "venue": 86,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 72
+      "shows_with_link": 71
     }
   }
 }

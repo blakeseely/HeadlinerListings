@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 63,
+  "scraped_at": "2026-10-25",
+  "count": 62,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tear Dungeon",
-          "apple_music": "https://music.apple.com/us/artist/tear-dungeon/1675174097",
-          "spotify": "https://open.spotify.com/artist/0Y5jhKedYfIAWOE5KO3mJJ",
-          "confidence": 1.0,
-          "matched": "TEAR DUNGEON",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Face Facts",
-          "apple_music": "https://music.apple.com/us/artist/face-facts/1525308195",
-          "spotify": "https://open.spotify.com/artist/3JeTA0jXOPOH2UKBBxgZso",
-          "confidence": 1.0,
-          "matched": "Face Facts",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/tear-dungeon/706018",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/tear-dungeon/706018",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1597,7 +1553,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "(((folkYEAH!))) Presents:"
+      ],
       "set_format": null,
       "date": "2026-12-17",
       "doors": "8:00 pm",
@@ -1606,7 +1564,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/drugdealer/709123",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2418,26 +2376,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 63,
+      "music": 62,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 95,
-      "found": 90,
-      "exact": 88,
+      "unique_artists": 93,
+      "found": 88,
+      "exact": 86,
       "close": 0,
       "flagged": 2,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 95,
-      "linked": 87,
+      "unique_artists": 93,
+      "linked": 85,
       "venue": 0,
-      "api": 87,
+      "api": 85,
       "feed": 0,
-      "shows_with_link": 61
+      "shows_with_link": 60
     }
   }
 }

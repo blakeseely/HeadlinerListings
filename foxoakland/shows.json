@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 31,
+  "scraped_at": "2026-10-25",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "William Black",
-          "apple_music": "https://music.apple.com/us/artist/william-black/1297084102",
-          "spotify": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h",
-          "confidence": 1.0,
-          "matched": "William Black",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Vincent",
-          "apple_music": "https://music.apple.com/us/artist/vincent/1437293109",
-          "spotify": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB",
-          "confidence": 1.0,
-          "matched": "Vincent",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Afinity",
-          "apple_music": "https://music.apple.com/us/artist/afinity/1507931245",
-          "spotify": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf",
-          "confidence": 1.0,
-          "matched": "Afinity",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "IKU",
-          "apple_music": "https://music.apple.com/us/artist/iku/1701030220",
-          "spotify": "https://open.spotify.com/artist/2cS62vlUoltYzNJxNBgeGE",
-          "confidence": 1.0,
-          "matched": "IKU",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Shadow Realm Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/william-black-261024",
-      "room": null,
-      "age_rating": "18 and over",
-      "note": null,
-      "description": "William Black is a powerhouse in the melodic bass scene, known for his emotionally charged productions and uplifting anthems. Having collaborated with some of EDM’s biggest names, including Illenium, Slander, and many more, his music seamlessly blends heartfelt storytelling with dynamic drops. William has graced some of EDM’s biggest stages, performing at major festivals and venues worldwide, captivating audiences with his high-energy sets and signature sound. With a growing global fanbase and a deep passion for pushing boundaries in electronic music, he continues to solidify his place as one of the genre’s most exciting and influential artists."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1139,26 +1077,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 29,
+      "music": 28,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 34,
-      "exact": 34,
+      "unique_artists": 31,
+      "found": 30,
+      "exact": 30,
       "close": 0,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 33,
-      "venue": 33,
+      "unique_artists": 31,
+      "linked": 29,
+      "venue": 29,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 29
     }
   }
 }

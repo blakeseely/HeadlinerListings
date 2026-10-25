@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-24",
-  "count": 21,
+  "scraped_at": "2026-10-25",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "illuminati hotties",
-          "apple_music": "https://music.apple.com/us/artist/illuminati-hotties/1264905232",
-          "spotify": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O",
-          "confidence": 1.0,
-          "matched": "illuminati hotties",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Buzzed Lightbeer",
-          "apple_music": "https://music.apple.com/us/artist/buzzed-lightbeer/1509387237",
-          "spotify": "https://open.spotify.com/artist/7DH4ANOgB5wmNwRvm38KZi",
-          "confidence": 1.0,
-          "matched": "Buzzed Lightbeer",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "swell foop",
-          "apple_music": "https://music.apple.com/us/artist/swell-foop/1652702280",
-          "spotify": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r",
-          "confidence": 1.0,
-          "matched": "Swell Foop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-24",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.greatmusichall.com/events/illuminati-hotties-24-october-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.greatmusichall.com/events/illuminati-hotties-24-october-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": "From $53",
-      "description": "These guys are fierce, bold and utterly uncategorizable. You know that their back catalogue is..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -766,26 +714,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 19,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 28,
-      "found": 28,
-      "exact": 25,
+      "unique_artists": 25,
+      "found": 25,
+      "exact": 22,
       "close": 0,
       "flagged": 3,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 28,
-      "linked": 28,
+      "unique_artists": 25,
+      "linked": 25,
       "venue": 0,
-      "api": 28,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 20
     }
   }
 }
