@@ -1,12 +1,16 @@
 # HeadlinerListings — show-data feed for the Headliners iOS app
 
-One `shows.json` per venue (19 venues) + a `manifest.json` the app fetches
+One `shows.json` per venue (21 venues) + a `manifest.json` the app fetches
 first. Every file is regenerated nightly by the headliners pipeline
 (`~/.hermes/projects/headliners`) from each venue's scraped calendar.
+The venue list grows over time — **trust `manifest.json`**, not this number.
 
-**Current schema: `4`.** Every venue file carries a `schema` integer
-(incremented on any shape change) and a `field_hints` map. Gate your parsing
-on `schema`, and on `field_hints` for per-field semantics.
+**Current schema: `5`.** Every venue file carries a `schema` integer
+(incremented on any shape/contract change) and a `field_hints` map. Gate
+your parsing on `schema`, and on `field_hints` for per-field semantics.
+Since `4`→`5` the show record is still 18 keys and the artist record still
+8 keys — the changes are a **retention policy** (the feed is upcoming-only)
+and **full `field_hints` coverage** (all 26 fields, `event_page` included).
 
 ## Layout
 
@@ -32,7 +36,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 |---|---|---|
 | `venue` / `venue_id` / `venue_url` / `source_url` | string | identity. The six Belly Up Presents San Diego venues intentionally share `venue_url: https://bellyup.com` (group calendar) |
 | `city` / `metro` / `neighborhood` | string \| null | geo tags; `metro` is one market value ("San Francisco" / "San Diego" / "Los Angeles") |
-| `schema` | int | **4** — the contract version this file speaks |
+| `schema` | int | **5** — the contract version this file speaks |
 | `field_hints` | object | per-field controlled-vs-raw contract (below) |
 | `scraped_at` | date | when this file was built (the refresh date) |
 | `count` | int | `len(shows)` |
@@ -52,7 +56,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 | `doors` / `show_time` | **free string** \| null | canonicalized to `H:MM pm` **when parseable** (e.g. the venue's `7 PM` and `8:00PM` both become `8:00 pm`); unparseable text passes through verbatim |
 | `ticket_link` | free string \| null | usually a URL, but some venues publish button text ("Buy Tickets"); sniff `http` if you need URLs only |
 | `ticket_status` | **free string** \| null | case/separator duplicates are folded (`On Sale`→`on sale`, `on-sale-soon`→`on sale soon`); all other wording is the venue's raw text. Observed: `on sale`, `sold out`, `not on sale`, `on sale soon`, `presale`, `coming soon`, `waitlist`, `cancelled` |
-| `event_page` | string | the venue's own page for this event |
+| `event_page` | string \| null | the venue's own page for this event; **null** for calendar placeholder rows (a promoter listing with no detail page — e.g. bellyup "Private Event"). Never dereference without a null check. |
 | `room` | free string \| null | multi-room venues |
 | `age_rating` | **free string** \| null | the venue's own text, verbatim (15+ spellings of the same concept exist: `all ages` / `All Ages` / `All ages` / `5 and Over` …) — normalize client-side if you need a fixed set |
 | `note` / `description` | free string \| null | |
@@ -80,13 +84,26 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 - **Link presence IS the match signal.** An artist has an Apple Music link
   iff a confident catalog match was found (below the 0.80 link floor it is
   honest null + an `apple_label`). An artist with no Apple link may still
-  carry a Spotify link (24 of 1,104 do). For "does this act have *any*
-  link", test `apple_music != null || spotify != null`.
+  carry a Spotify link (25 of 973 unique do). For "does this act have *any*"
+  link", test `apple_music != null || spotify != null`. (Counts are
+  approximate — the nightly feed keeps growing; `manifest.json` + each file's
+  `stats` block are the authoritative totals.)
 - **No derivable convenience fields.** The feed carries no `date_label` (was
   a pre-formatted date — derive `"Www YYYY-MM-DD"` from `date`) and no
   `match_label` (was the `apple_label`/`spotify_label` join — join
   client-side if you want one display string). Everything in the file is a
   *source* of truth, not a projection of another field.
+- **Upcoming-only retention (schema 5).** Shows whose `date` is strictly
+  before the build date are **dropped** at build time; the feed is a
+  "what's coming up" listing, not a history. A show dated today counts as
+  current; a show with no date is kept. `stats` is always recomputed from
+  the shows actually in the file, so `stats.*` never counts artists that a
+  client cannot see.
+- **Free strings stay raw.** `description`/`note` keep the venue's own
+  wording (including its interior punctuation style); we only strip
+  capture artifacts (trailing whitespace, stray nbsp) and `description` is
+  hard-capped at 1000–1600 chars per venue (mid-word tails are intentional —
+  don't treat them as truncation bugs).
 - **Controlled vs raw.** The `field_hints` map says which fields are
   controlled (safe to `switch` on) and which are raw venue strings
   (normalize client-side). The manifest's `value_domains` lists the controlled
@@ -98,7 +115,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 - **Off-season venues are valid at zero.** `frost` (Stanford) has no winter
   calendar: `count: 0`, zeroed stats.
 
-## Value domains (schema 4)
+## Value domains (schema 5)
 Controlled vocabularies actually in the feed right now (the manifest carries
 a per-file `value_domains`; these are the union):
 
@@ -122,3 +139,12 @@ a per-file `value_domains`; these are the union):
 - **4** (2026-10-23) — removed `date_label` (show) and `match_label` (artist);
   both are pure projections of other fields. Shows are now 18 keys, artists
   8 keys.
+- **5** (2026-10-24) — **upcoming-only retention**: shows whose date is
+  strictly before the build date are dropped at build time (the feed is a
+  "what's coming up" listing, not a history; a show dated today is kept, a
+  no-date show is kept). `stats` is now always recomputed from the file's
+  actual shows, so every `stats` number describes exactly what the client
+  can see. Also: `field_hints` now covers all 26 fields (was 20; added
+  `event_page`, `headline_artists`, `support_artists`, `multi_artist`,
+  `presenters`, `artist.name`), and `event_page` is documented nullable.
+  Show records remain 18 keys, artists 8.
