@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
-  "count": 123,
+  "scraped_at": "2026-10-26",
+  "count": 122,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Infinite Floyd",
-          "apple_music": "https://music.apple.com/us/artist/infinite-void/516433288",
-          "spotify": "https://open.spotify.com/artist/1o4p5wwrbc9XYfAIFMJzvi",
-          "confidence": 0.815,
-          "matched": "Infinite Void",
-          "apple_label": "close match: Infinite Void",
-          "spotify_label": "close match: Infinite Flow",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Essential Hits",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-25",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14371654/infinite-floyd-the-essential-hits",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4576,26 +4545,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 122,
+      "music": 121,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 168,
-      "found": 125,
+      "unique_artists": 167,
+      "found": 124,
       "exact": 101,
       "close": 5,
-      "flagged": 19,
+      "flagged": 18,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 168,
-      "linked": 129,
+      "unique_artists": 167,
+      "linked": 128,
       "venue": 0,
-      "api": 129,
+      "api": 128,
       "feed": 0,
-      "shows_with_link": 92
+      "shows_with_link": 91
     }
   }
 }

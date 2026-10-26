@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
+  "scraped_at": "2026-10-26",
   "count": 62,
   "shows": [
     {
@@ -77,7 +77,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-music-of-hey-arnold-ft-jim-lang-and-the-ps-118-allstars/702048",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1583,7 +1583,7 @@
           "spotify_source": "api"
         },
         {
-          "name": "Illuminati Hotties",
+          "name": "illuminati hotties",
           "apple_music": "https://music.apple.com/us/artist/illuminati-hotties/1264905232",
           "spotify": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O",
           "confidence": 1.0,
@@ -1603,10 +1603,23 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Charlie Havenick",
+          "apple_music": "https://music.apple.com/us/artist/charlie-havenick/1531423885",
+          "spotify": "https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi",
+          "confidence": 1.0,
+          "matched": "Charlie Havenick",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Sid The Cat Presents:"
+      ],
       "set_format": null,
       "date": "2026-12-18",
       "doors": "8:00 pm",
@@ -1615,7 +1628,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/mini-trees-illuminati-hotties-baths/703590",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2382,18 +2395,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 93,
-      "found": 88,
-      "exact": 86,
+      "unique_artists": 94,
+      "found": 89,
+      "exact": 87,
       "close": 0,
       "flagged": 2,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 93,
-      "linked": 85,
+      "unique_artists": 94,
+      "linked": 86,
       "venue": 0,
-      "api": 85,
+      "api": 86,
       "feed": 0,
       "shows_with_link": 60
     }

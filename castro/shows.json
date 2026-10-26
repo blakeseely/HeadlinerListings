@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
-  "count": 75,
+  "scraped_at": "2026-10-26",
+  "count": 74,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Joy Oladokun",
-          "apple_music": "https://music.apple.com/us/artist/joy-oladokun/699636664",
-          "spotify": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9",
-          "confidence": 1.0,
-          "matched": "Joy Oladokun",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Madeline Edwards",
-          "apple_music": "https://music.apple.com/us/artist/madeline-edwards/1127961228",
-          "spotify": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa",
-          "confidence": 1.0,
-          "matched": "Madeline Edwards",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-25",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/joy-oladokun-the-heavy-things-tour-san-francisco-california-10-25-2026/event/1C0064F7E974D20F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/joy-oladokun-261025",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "The Heavy Things Tour",
-      "description": "Joy Oladokun is one of today’s most compelling genre-defying voices. A queer Black musician and daughter of Nigerian immigrants, Oladokun has become a vital cultural voice, writing songs that explore identity, faith, mental health, and social justice with honesty and restraint. Those themes remain at the heart of Hope Is A Heavy Thing, Oladokun’s new 12-track album, due September 25. Produced by Oladokun with additional contributions from Nigerian producer Spellz and a feature from Nigerian artist Adekunle Gold, the album marks a bold new creative chapter, broadening her sound while continuing to explore questions of identity, resilience, and belonging with the emotional depth that has become her signature. The project further reflects Oladokun’s ability to draw from diverse influences while creating music that transcends genre and geography. Since her 2020 breakthrough, Oladokun has released three critically acclaimed albums, was nominated for Americana Artist of the Year, and saw her protest anthem “i see america” named a finalist for the Recording Academy’s Special Merit Award for Best Song for Social Change. With collaborations spanning artists like Chris Stapleton, Brandi Carl"
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -2597,26 +2555,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 54,
       "comedy": 7,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 83,
-      "found": 64,
-      "exact": 58,
+      "unique_artists": 81,
+      "found": 62,
+      "exact": 56,
       "close": 2,
       "flagged": 4,
       "not_found": 19
     },
     "spotify": {
-      "unique_artists": 83,
-      "linked": 51,
-      "venue": 51,
+      "unique_artists": 81,
+      "linked": 49,
+      "venue": 49,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
-  "count": 34,
+  "scraped_at": "2026-10-26",
+  "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Kishi Bashi",
-          "apple_music": "https://music.apple.com/us/artist/kishi-bashi/441315443",
-          "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0",
-          "confidence": 1.0,
-          "matched": "Kishi Bashi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Geographer",
-          "apple_music": "https://music.apple.com/us/artist/geographer/285807412",
-          "spotify": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ",
-          "confidence": 1.0,
-          "matched": "Geographer",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Sonderlust 10th Anniversary Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/kishi-bashi-sonderlust-10th-anniversary-tour-san-francisco-california-10-25-2026/event/1C006470E74207E3",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/kishi-bashi-sonderlust-10th-anniversary-tour-san-francisco-california-10-25-2026/event/1C006470E74207E3",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1317,11 +1275,73 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 6:30pm / Show 7:30pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dogs In A Pile",
+          "apple_music": "https://music.apple.com/us/artist/dogs-in-a-pile/1564339412",
+          "spotify": "https://open.spotify.com/artist/5lObmA5WxJpUj8QO6YX7yF",
+          "confidence": 1.0,
+          "matched": "Dogs In A Pile",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/dogs-in-a-pile-san-francisco-california-01-17-2027/event/1C006548CC0D298B",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/dogs-in-a-pile-san-francisco-california-01-17-2027/event/1C006548CC0D298B",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Paco Versailles",
+          "apple_music": "https://music.apple.com/us/artist/paco-versailles/1467547655",
+          "spotify": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW",
+          "confidence": 1.0,
+          "matched": "Paco Versailles",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Azúcar Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/paco-versailles-the-azucar-tour-2027-san-francisco-california-01-23-2027/event/1C006538BDC45A48",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/paco-versailles-the-azucar-tour-2027-san-francisco-california-01-23-2027/event/1C006538BDC45A48",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 2
@@ -1340,7 +1360,7 @@
       "venue": 0,
       "api": 43,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 32
     }
   }
 }

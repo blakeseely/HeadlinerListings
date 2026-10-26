@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
-  "count": 49,
+  "scraped_at": "2026-10-26",
+  "count": 48,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Kyle Gordon",
-          "apple_music": "https://music.apple.com/us/artist/kyle-gordon/1474572981",
-          "spotify": "https://open.spotify.com/artist/3LjnXZYlHbblbd8OZTtSip",
-          "confidence": 1.0,
-          "matched": "Kyle Gordon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Rickshaw Stop + Live Nation co-present"
-      ],
-      "set_format": null,
-      "date": "2026-10-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/kyle-gordon/692750",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/kyle-gordon/692750",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1678,25 +1645,25 @@
   "stats": {
     "event_types": {
       "music": 48,
-      "comedy": 1,
+      "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 59,
-      "found": 51,
-      "exact": 50,
+      "unique_artists": 58,
+      "found": 50,
+      "exact": 49,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 59,
-      "linked": 53,
+      "unique_artists": 58,
+      "linked": 52,
       "venue": 0,
-      "api": 53,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 44
+      "shows_with_link": 43
     }
   }
 }

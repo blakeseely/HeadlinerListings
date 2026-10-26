@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
-  "count": 19,
+  "scraped_at": "2026-10-26",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "natalie jinju",
-          "apple_music": "https://music.apple.com/us/artist/natalie-jinju/1743853418",
-          "spotify": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu",
-          "confidence": 1.0,
-          "matched": "natalie jinju",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Chiabiee",
-          "apple_music": "https://music.apple.com/us/artist/chiabiee/1478036908",
-          "spotify": "https://open.spotify.com/artist/4fvaWgWt4NvdXFxIW03v1G",
-          "confidence": 1.0,
-          "matched": "chiabiee",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/natalie-jinju-chiabiee-brick-and-mortar-music-hall-tickets/14269634?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "sold out",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/natalie-jinju/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "At 19 years old, Natalie’s songwriting journey began early. At 17, she wrote and produced her debut project Last September as a high school project — an achievement that helped earn her a scholarship to USC’s highly selective Thornton School of Music Popular Music/Singer-Songwriter program, which accepts only 4–5 students per year."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -848,27 +806,89 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brothel In Belize — Machine Machine Fall 2026",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/brothel-in-belize-machine-brick-and-mortar-music-hall-tickets/14364444?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/brothel-in-belize-machine-machine-fall-2026/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bayonne",
+          "apple_music": "https://music.apple.com/us/artist/bayonne/1043103558",
+          "spotify": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek",
+          "confidence": 1.0,
+          "matched": "Bayonne",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The 'Filters' Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/bayonne-the-filters-tour-brick-and-mortar-music-hall-tickets/14854653?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/bayonne-the-filters-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Bayonne’s music captures the indescribable. For 10 years, the Austin, Texas-based experimental avant-pop/electronic musician, born Roger Sellers, has been creating atmospheric soundscapes brimming with layers, texture, and deep emotional resonance. On his fourth and most immersive album to date, Filters, Sellers picks up where he left us on 2023’s mournful yet pop-minded Temporary Time. With its elegantly constructed melodies, silken synth-work, a sprinkle of field recordings, and an upbeat yet blissful blend of piano and percussion, Filters finds Sellers entering a new phase of existence as he works through the grief around losing his father and into a place of acceptance."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
       "unique_artists": 40,
-      "found": 39,
-      "exact": 37,
+      "found": 38,
+      "exact": 36,
       "close": 0,
       "flagged": 2,
-      "not_found": 1
+      "not_found": 2
     },
     "spotify": {
       "unique_artists": 40,
-      "linked": 16,
-      "venue": 16,
+      "linked": 15,
+      "venue": 15,
       "api": 0,
       "feed": 0,
       "shows_with_link": 12

@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-25",
-  "count": 48,
+  "scraped_at": "2026-10-26",
+  "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Blessing Offor",
-          "apple_music": "https://music.apple.com/us/artist/blessing-offor/274532732",
-          "spotify": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC",
-          "confidence": 1.0,
-          "matched": "Blessing Offor",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Bailey Blanton",
-          "apple_music": "https://music.apple.com/us/artist/bailey-blanton/1653276701",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Bailey Blanton",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/blessing-offor-heart-cafe-du-nord-tickets/14262054?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-10-25-blessing-offor",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Since the debut of his album My Tribe, two-time GRAMMY® nominee and multi-award winner Blessing Offor has established himself as a true artist’s artist with a voice as bright and authentic as his personality. His long-awaited sophomore album, Real, was created during this season of profound loss, taking the emotional wounds and forging them into 16 deeply personal songs, including one with Dolly…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1853,26 +1809,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 48,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 68,
-      "found": 66,
-      "exact": 62,
+      "unique_artists": 66,
+      "found": 64,
+      "exact": 60,
       "close": 2,
       "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 68,
-      "linked": 42,
-      "venue": 42,
+      "unique_artists": 66,
+      "linked": 41,
+      "venue": 41,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }
