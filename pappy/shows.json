@@ -35,52 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-26",
-  "count": 62,
+  "scraped_at": "2026-10-27",
+  "count": 61,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Music Of Hey Arnold",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Hey Arnold @ 70%)",
-          "spotify_label": "no confident match (closest: Hey Arnold! @ 70%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Jim Lang",
-          "apple_music": "https://music.apple.com/us/artist/jim-lang/57537978",
-          "spotify": "https://open.spotify.com/artist/1JgLaQ1Bwzy7Znnza9kYOw",
-          "confidence": 1.0,
-          "matched": "Jim Lang",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-10-26",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-music-of-hey-arnold-ft-jim-lang-and-the-ps-118-allstars/702048",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-music-of-hey-arnold-ft-jim-lang-and-the-ps-118-allstars/702048",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2389,26 +2346,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 62,
+      "music": 61,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 94,
-      "found": 89,
-      "exact": 87,
+      "unique_artists": 92,
+      "found": 88,
+      "exact": 86,
       "close": 0,
       "flagged": 2,
-      "not_found": 5
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 94,
-      "linked": 86,
+      "unique_artists": 92,
+      "linked": 85,
       "venue": 0,
-      "api": 86,
+      "api": 85,
       "feed": 0,
-      "shows_with_link": 60
+      "shows_with_link": 59
     }
   }
 }

@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-26",
-  "count": 48,
+  "scraped_at": "2026-10-27",
+  "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Wine Lips",
-          "apple_music": "https://music.apple.com/us/artist/wine-lips/1244432434",
-          "spotify": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM",
-          "confidence": 1.0,
-          "matched": "Wine Lips",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Buddy Wynkoop",
-          "apple_music": "https://music.apple.com/us/artist/buddy-wynkoop/1513689940",
-          "spotify": "https://open.spotify.com/artist/56Y4IMRJDQcagdjb8J47Ns",
-          "confidence": 1.0,
-          "matched": "Buddy Wynkoop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Hazy Portraits",
-          "apple_music": "https://music.apple.com/us/artist/hazy-portraits/1678010569",
-          "spotify": "https://open.spotify.com/artist/6Fow7q8cImm2Z9sg5qRNa0",
-          "confidence": 1.0,
-          "matched": "Hazy Portraits",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Psyched! Radio + Rickshaw Stop co-present"
-      ],
-      "set_format": null,
-      "date": "2026-10-26",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1644,26 +1590,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 48,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 50,
-      "exact": 49,
+      "unique_artists": 55,
+      "found": 47,
+      "exact": 46,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 58,
-      "linked": 52,
+      "unique_artists": 55,
+      "linked": 49,
       "venue": 0,
-      "api": 52,
+      "api": 49,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

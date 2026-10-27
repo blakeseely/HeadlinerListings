@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-26",
-  "count": 36,
+  "scraped_at": "2026-10-27",
+  "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lil Pete",
-          "apple_music": "https://music.apple.com/us/artist/lil-pete/1293791713",
-          "spotify": "https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV",
-          "confidence": 1.0,
-          "matched": "Lil Pete",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Real Is Back Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-26",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/lil-pete-real-is-back-tour-san-francisco-california-10-26-2026/event/1C006530CFB532BA",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/lil-pete-real-is-back-tour-2/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1179,26 +1148,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 35,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 33,
-      "exact": 33,
+      "unique_artists": 35,
+      "found": 32,
+      "exact": 32,
       "close": 0,
       "flagged": 0,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 32,
+      "unique_artists": 35,
+      "linked": 31,
       "venue": 0,
-      "api": 32,
+      "api": 31,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

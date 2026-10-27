@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-26",
-  "count": 122,
+  "scraped_at": "2026-10-27",
+  "count": 121,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Michael Franti Trio",
-          "apple_music": "https://music.apple.com/us/artist/michael-franti/2581513",
-          "spotify": "https://open.spotify.com/artist/4vCYwGCNg2XUsdi9IVMzwo",
-          "confidence": 0.8,
-          "matched": "Michael Franti",
-          "apple_label": "close match: Michael Franti",
-          "spotify_label": "close match: Michael Franti",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Wheeland Brothers (acoustic)",
-          "apple_music": "https://music.apple.com/us/artist/wheeland-brothers/529163171",
-          "spotify": "https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq",
-          "confidence": 0.9,
-          "matched": "Wheeland Brothers",
-          "apple_label": "close match: Wheeland Brothers",
-          "spotify_label": "close match: Wheeland Brothers",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Heartstrings & Dynamite",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-26",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/michael-franti-trio-belly-up-tickets/14262304?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14262304/michael-franti-trio-heartstrings-dynamite-w-the-wheeland-brothers-acoustic",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "VIP instructions for the Preshow Experience will be emailed 2-3 days prior to the event. Plan to arrive before door time. Merchandise items will be collected at the venue during check-in. $1 from every ticket sold supports Do It For The Love, the nonprofit founded by Michael Franti that brings the healing power of live music to people facing serious illness, veterans, and children with severe challenges."
-    },
     {
       "event_type": "music",
       "needs_review": true,
@@ -4545,26 +4503,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 121,
+      "music": 120,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 167,
-      "found": 124,
+      "unique_artists": 165,
+      "found": 122,
       "exact": 101,
       "close": 5,
-      "flagged": 18,
+      "flagged": 16,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 167,
-      "linked": 128,
+      "unique_artists": 165,
+      "linked": 126,
       "venue": 0,
-      "api": 128,
+      "api": 126,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 90
     }
   }
 }
