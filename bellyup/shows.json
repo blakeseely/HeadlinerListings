@@ -35,131 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 121,
+  "scraped_at": "2026-10-28",
+  "count": 119,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "John Scofield",
-          "apple_music": "https://music.apple.com/us/artist/john-scofield/137050",
-          "spotify": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK",
-          "confidence": 1.0,
-          "matched": "John Scofield",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Oteil Burbridge",
-          "apple_music": "https://music.apple.com/us/artist/oteil-burbridge/5348139",
-          "spotify": "https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL",
-          "confidence": 1.0,
-          "matched": "Oteil Burbridge",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Larry Goldings",
-          "apple_music": "https://music.apple.com/us/artist/larry-goldings/298213",
-          "spotify": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6",
-          "confidence": 1.0,
-          "matched": "Larry Goldings",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Adam Deitch",
-          "apple_music": "https://music.apple.com/us/artist/adam-deitch/15151707",
-          "spotify": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw",
-          "confidence": 1.0,
-          "matched": "Adam Deitch",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800693?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14800693/john-scofield-oteil-burbridge-larry-goldings-adam-deitch",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "John Scofield Electrospective Feat."
-    },
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "John Scofield",
-          "apple_music": "https://music.apple.com/us/artist/john-scofield/137050",
-          "spotify": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK",
-          "confidence": 1.0,
-          "matched": "John Scofield",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Oteil Burbridge",
-          "apple_music": "https://music.apple.com/us/artist/oteil-burbridge/5348139",
-          "spotify": "https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL",
-          "confidence": 1.0,
-          "matched": "Oteil Burbridge",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Larry Goldings",
-          "apple_music": "https://music.apple.com/us/artist/larry-goldings/298213",
-          "spotify": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6",
-          "confidence": 1.0,
-          "matched": "Larry Goldings",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Adam Deitch",
-          "apple_music": "https://music.apple.com/us/artist/adam-deitch/15151707",
-          "spotify": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw",
-          "confidence": 1.0,
-          "matched": "Adam Deitch",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": null,
-      "show_time": "9:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800703?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14800703/john-scofield-oteil-burbridge-larry-goldings-adam-deitch",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "John Scofield Electrospective Feat."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4503,26 +4381,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 120,
+      "music": 118,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 165,
-      "found": 122,
-      "exact": 101,
+      "unique_artists": 161,
+      "found": 118,
+      "exact": 97,
       "close": 5,
       "flagged": 16,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 165,
-      "linked": 126,
+      "unique_artists": 161,
+      "linked": 122,
       "venue": 0,
-      "api": 126,
+      "api": 122,
       "feed": 0,
-      "shows_with_link": 90
+      "shows_with_link": 88
     }
   }
 }

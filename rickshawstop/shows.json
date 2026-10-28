@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 47,
+  "scraped_at": "2026-10-28",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Violet Grohl",
-          "apple_music": "https://music.apple.com/us/artist/violet-grohl/1538671509",
-          "spotify": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB",
-          "confidence": 1.0,
-          "matched": "Violet Grohl",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Suzy Clue",
-          "apple_music": "https://music.apple.com/us/artist/suzy-clue/1707071676",
-          "spotify": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK",
-          "confidence": 1.0,
-          "matched": "Suzy Clue",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Popscene + Live 105 present"
-      ],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/violet-grohl/693274",
-      "ticket_status": null,
-      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/violet-grohl/693274",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1590,26 +1546,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 46,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 47,
-      "exact": 46,
+      "unique_artists": 53,
+      "found": 45,
+      "exact": 44,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 49,
+      "unique_artists": 53,
+      "linked": 47,
       "venue": 0,
-      "api": 49,
+      "api": 47,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }

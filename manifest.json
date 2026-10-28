@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T11:04:13.182872+00:00",
+  "generated_at": "2026-10-28T11:07:31.187792+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
       "file": "augusthall/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
@@ -19,16 +19,16 @@
           "api"
         ]
       },
-      "show_count": 35,
-      "sha256_16": "d78b557f43971367"
+      "show_count": 36,
+      "sha256_16": "e4c6faea1786d26a"
     },
     {
       "venue_id": "bellyup",
       "file": "bellyup/shows.json",
       "city": "Solana Beach, CA",
       "metro": "San Diego",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
           "music",
@@ -44,16 +44,16 @@
           "api"
         ]
       },
-      "show_count": 121,
-      "sha256_16": "725008308db6172f"
+      "show_count": 119,
+      "sha256_16": "b87f8a2f11513348"
     },
     {
       "venue_id": "brickandmortar",
       "file": "brickandmortar/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-29",
       "value_domains": {
         "event_type": [
           "music"
@@ -67,14 +67,14 @@
         ]
       },
       "show_count": 20,
-      "sha256_16": "ac915d5e631ca429"
+      "sha256_16": "3f55b5837a89e32f"
     },
     {
       "venue_id": "cafedunord",
       "file": "cafedunord/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
@@ -83,22 +83,22 @@
         "ticket_status": [
           "on sale",
           "waitlist",
-          "sold out"
+          "presale"
         ],
         "spotify_source": [
           "venue"
         ]
       },
-      "show_count": 46,
-      "sha256_16": "deea9ca9e5277017"
+      "show_count": 47,
+      "sha256_16": "8eec6a18af10e88e"
     },
     {
       "venue_id": "castro",
       "file": "castro/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
           "comedy",
@@ -115,14 +115,14 @@
         ]
       },
       "show_count": 73,
-      "sha256_16": "f2dc4cc26cdc77d0"
+      "sha256_16": "262957fd194c097f"
     },
     {
       "venue_id": "chapel",
       "file": "chapel/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
@@ -136,15 +136,15 @@
         ]
       },
       "show_count": 45,
-      "sha256_16": "5f61fc8f64d1622e"
+      "sha256_16": "8608918656c9e969"
     },
     {
       "venue_id": "fillmore",
       "file": "fillmore/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
           "music",
@@ -158,15 +158,15 @@
         ]
       },
       "show_count": 35,
-      "sha256_16": "11c497176858e053"
+      "sha256_16": "99c9254e7245ec50"
     },
     {
       "venue_id": "foxoakland",
       "file": "foxoakland/shows.json",
       "city": "Oakland, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-30",
       "value_domains": {
         "event_type": [
           "music",
@@ -180,15 +180,15 @@
           "venue"
         ]
       },
-      "show_count": 30,
-      "sha256_16": "82cf3fbd7e8603b2"
+      "show_count": 34,
+      "sha256_16": "7ed8793d222937b6"
     },
     {
       "venue_id": "frost",
       "file": "frost/shows.json",
       "city": "Palo Alto, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -196,14 +196,14 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "eb0fc4e6013f4058"
+      "sha256_16": "dedc836a3aeccc34"
     },
     {
       "venue_id": "gamh",
       "file": "gamh/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-29",
       "value_domains": {
         "event_type": [
@@ -218,14 +218,14 @@
         ]
       },
       "show_count": 20,
-      "sha256_16": "9b3162e0e19ffc4f"
+      "sha256_16": "f80946f2b1c8f89a"
     },
     {
       "venue_id": "greek",
       "file": "greek/shows.json",
       "city": "Berkeley, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-11-04",
       "value_domains": {
         "event_type": [
@@ -240,14 +240,14 @@
         ]
       },
       "show_count": 4,
-      "sha256_16": "a2fbfcdf94fcf003"
+      "sha256_16": "90b5f2e6baa71ba5"
     },
     {
       "venue_id": "humphreys",
       "file": "humphreys/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -255,15 +255,15 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "3d3797fac0c172a3"
+      "sha256_16": "a2d3cea71752b650"
     },
     {
       "venue_id": "independent",
       "file": "independent/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
           "music"
@@ -273,15 +273,15 @@
           "venue"
         ]
       },
-      "show_count": 85,
-      "sha256_16": "3258d4707827bf13"
+      "show_count": 95,
+      "sha256_16": "85266f491dd50a02"
     },
     {
       "venue_id": "musicbox",
       "file": "musicbox/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-29",
       "value_domains": {
         "event_type": [
@@ -298,15 +298,15 @@
         ]
       },
       "show_count": 39,
-      "sha256_16": "f99ce8ccf6fcae5f"
+      "sha256_16": "fe4a6338c9f1ba6b"
     },
     {
       "venue_id": "pappy",
       "file": "pappy/shows.json",
       "city": "Pioneertown, CA",
       "metro": "Los Angeles",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
           "music"
@@ -320,14 +320,14 @@
         ]
       },
       "show_count": 61,
-      "sha256_16": "ce329178b665ba41"
+      "sha256_16": "a4f960d1109ec326"
     },
     {
       "venue_id": "regency",
       "file": "regency/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
@@ -335,23 +335,24 @@
         ],
         "ticket_status": [
           "cancelled",
-          "on sale"
+          "on sale",
+          "coming soon"
         ],
         "spotify_source": [
           "feed",
           "api"
         ]
       },
-      "show_count": 38,
-      "sha256_16": "22bb7d3b9217e560"
+      "show_count": 39,
+      "sha256_16": "a3aef8260d76c530"
     },
     {
       "venue_id": "rickshawstop",
       "file": "rickshawstop/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-10-28",
       "value_domains": {
         "event_type": [
           "music"
@@ -361,15 +362,15 @@
           "api"
         ]
       },
-      "show_count": 47,
-      "sha256_16": "4ec0ae3bb191bd84"
+      "show_count": 46,
+      "sha256_16": "59799eb512f07efb"
     },
     {
       "venue_id": "thecasbah",
       "file": "thecasbah/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-11-03",
       "value_domains": {
         "event_type": [
@@ -383,14 +384,14 @@
         ]
       },
       "show_count": 1,
-      "sha256_16": "3135b74d40c8cdd2"
+      "sha256_16": "ef939ea8d2419eae"
     },
     {
       "venue_id": "theobservatory",
       "file": "theobservatory/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-10-31",
       "value_domains": {
         "event_type": [
@@ -404,15 +405,15 @@
         ]
       },
       "show_count": 3,
-      "sha256_16": "5a50e50ec06299ae"
+      "sha256_16": "1fb183d5ce9d5fab"
     },
     {
       "venue_id": "thesound",
       "file": "thesound/shows.json",
       "city": "Del Mar, CA",
       "metro": "San Diego",
-      "updated_at": "2026-10-27",
-      "oldest_show_date": "2026-10-27",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-11-04",
       "value_domains": {
         "event_type": [
           "music"
@@ -424,29 +425,30 @@
           "api"
         ]
       },
-      "show_count": 21,
-      "sha256_16": "493c7ac087659a10"
+      "show_count": 20,
+      "sha256_16": "e944c2ee179b48ea"
     },
     {
       "venue_id": "warfield",
       "file": "warfield/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-10-27",
+      "updated_at": "2026-10-28",
       "oldest_show_date": "2026-11-08",
       "value_domains": {
         "event_type": [
           "music"
         ],
         "ticket_status": [
-          "on sale"
+          "on sale",
+          "coming soon"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 11,
-      "sha256_16": "d4eacda8d82fd433"
+      "show_count": 12,
+      "sha256_16": "f722bca08f829f25"
     }
   ]
 }

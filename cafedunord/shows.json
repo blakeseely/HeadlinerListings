@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 46,
+  "scraped_at": "2026-10-28",
+  "count": 47,
   "shows": [
     {
       "event_type": "music",
@@ -327,7 +327,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Darius Koski",
+          "apple_music": "https://music.apple.com/us/artist/darius-koski/599120264",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Darius Koski",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
@@ -567,8 +578,8 @@
       "date": "2026-11-13",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
+      "ticket_link": "https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-tickets/14952233?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "waitlist",
       "event_page": "https://cafedunord.com/shows/2026-11-13-maris",
       "room": null,
       "age_rating": "All ages",
@@ -633,7 +644,7 @@
       "date": "2026-11-17",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-cafe-du-nord-tickets/14287124?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-an-evening-with-cafe-du-nord-tickets/14287124?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-17-jammy-buffet",
       "room": null,
@@ -1405,6 +1416,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Katherine Li",
+          "apple_music": "https://music.apple.com/us/artist/katherine-li/1588097129",
+          "spotify": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI",
+          "confidence": 1.0,
+          "matched": "Katherine Li",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/katherine-li-i-love-you-cafe-du-nord-tickets/14371124?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-03-10-katherine-li",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Toronto-born singer-songwriter Katherine Li brings rom-com magic to life with her infectious pop melodies, heartfelt lyrics, and stories of love, heartbreak, and growing up."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Surfer Girl",
           "apple_music": "https://music.apple.com/us/artist/surfer-girl/1536185798",
           "spotify": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS",
@@ -1722,7 +1766,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/alex-sampson-cafe-du-nord-tickets/14353524?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": "waitlist",
       "event_page": "https://cafedunord.com/shows/2027-04-23-alex-sampson",
       "room": null,
       "age_rating": "All ages",
@@ -1765,26 +1809,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 63,
-      "exact": 59,
+      "unique_artists": 66,
+      "found": 65,
+      "exact": 61,
       "close": 2,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 40,
-      "venue": 40,
+      "unique_artists": 66,
+      "linked": 41,
+      "venue": 41,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 41
     }
   }
 }

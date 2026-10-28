@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 85,
+  "scraped_at": "2026-10-28",
+  "count": 95,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Wldlfe",
-          "apple_music": "https://music.apple.com/us/artist/the-wldlfe/1089817183",
-          "spotify": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W",
-          "confidence": 1.0,
-          "matched": "The Wldlfe",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Landon Conrath brendon b",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-wldlfe-the-independent-tickets/14202564?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/the-wldlfe/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1954,6 +1912,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Thievery Corporation",
+          "apple_music": "https://music.apple.com/us/artist/thievery-corporation/2726532",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Thievery Corporation",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/thievery-corporation-the-independent-tickets/14403154?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/thievery-corporation/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Live on the Stoop",
           "apple_music": null,
           "spotify": null,
@@ -2441,6 +2430,99 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Two Gallants",
+          "apple_music": "https://music.apple.com/us/artist/two-gallants/7061506",
+          "spotify": "https://open.spotify.com/artist/38umPQJRH11dxydNwq8yGP",
+          "confidence": 1.0,
+          "matched": "Two Gallants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Two-Day Pass",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/two-gallants-two-day-pass-the-independent-tickets/14403104?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Two Gallants",
+          "apple_music": "https://music.apple.com/us/artist/two-gallants/7061506",
+          "spotify": "https://open.spotify.com/artist/38umPQJRH11dxydNwq8yGP",
+          "confidence": 1.0,
+          "matched": "Two Gallants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Two Nights",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/two-gallants-the-independent-tickets/14402944?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Two Gallants",
+          "apple_music": "https://music.apple.com/us/artist/two-gallants/7061506",
+          "spotify": "https://open.spotify.com/artist/38umPQJRH11dxydNwq8yGP",
+          "confidence": 1.0,
+          "matched": "Two Gallants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Two Nights",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-11",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/two-gallants-the-independent-tickets/14403084?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-2/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Ely Oaks",
           "apple_music": "https://music.apple.com/us/artist/ely-oaks/1559720094",
           "spotify": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my",
@@ -2630,6 +2712,37 @@
       "ticket_link": "https://www.ticketweb.com/event/way-dynamic-the-independent-tickets/14940163?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/way-dynamic/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Asaf Avidan",
+          "apple_music": "https://music.apple.com/us/artist/asaf-avidan/371736511",
+          "spotify": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME",
+          "confidence": 1.0,
+          "matched": "Asaf Avidan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Into the Great Abyss Solo Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-25",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/asaf-avidan-the-independent-tickets/14397774?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/asaf-avidan/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2901,6 +3014,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Ruby Waters",
           "apple_music": "https://music.apple.com/us/artist/ruby-waters/1441595388",
           "spotify": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd",
@@ -2922,6 +3066,37 @@
       "ticket_link": "https://www.ticketweb.com/event/ruby-waters-the-independent-tickets/14383214?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/ruby-waters/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "sophia stel",
+          "apple_music": "https://music.apple.com/us/artist/sophia-stel/1473708664",
+          "spotify": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex",
+          "confidence": 1.0,
+          "matched": "Sophia Stel",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "sophia stel: the greatest tour of all time",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-16",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/sophia-stel-the-independent-tickets/15053793?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/sophia-stel/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2984,6 +3159,48 @@
       "ticket_link": "https://www.ticketweb.com/event/dan-and-peggy-reeder-the-independent-tickets/14246554?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/dan-and-peggy-reeder/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dogpark",
+          "apple_music": "https://music.apple.com/us/artist/dogpark/1710263796",
+          "spotify": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7",
+          "confidence": 1.0,
+          "matched": "Dogpark",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Rose Hips",
+          "apple_music": "https://music.apple.com/us/artist/the-rose-hips/1891411112",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Rose Hips",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-30",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/dogpark-the-independent-tickets/14396204?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/dogpark/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3077,6 +3294,37 @@
       "ticket_link": "https://www.ticketweb.com/event/iceage-the-independent-tickets/15021433?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/iceage/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gus Dapperton",
+          "apple_music": "https://music.apple.com/us/artist/gus-dapperton/1083049158",
+          "spotify": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4",
+          "confidence": 1.0,
+          "matched": "Gus Dapperton",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "4 Dear Life Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-06",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/gus-dapperton-the-independent-tickets/15053843?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/gus-dapperton/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3211,6 +3459,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Dillom",
+          "apple_music": "https://music.apple.com/us/artist/dillom/1448042578",
+          "spotify": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2",
+          "confidence": 1.0,
+          "matched": "Dillom",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-18",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/dillom-the-independent-tickets/14392454?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/dillom/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "CG5 Presents",
           "apple_music": "https://music.apple.com/us/artist/cte-presents/362884473",
           "spotify": null,
@@ -3234,6 +3513,39 @@
       "ticket_link": "https://www.ticketweb.com/event/cg5-presents-the-gamer-tour-the-independent-tickets/14386654?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/cg5/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "NSQK",
+          "apple_music": "https://music.apple.com/us/artist/nsqk/1480741185",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Nsqk",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "MOSCA",
+      "presenters": [
+        "NSQK Presents: MOSCA"
+      ],
+      "set_format": null,
+      "date": "2027-06-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nsqk-the-independent-tickets/15051623?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/nsqk/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3273,26 +3585,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 85,
+      "music": 95,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 130,
-      "found": 119,
-      "exact": 112,
+      "unique_artists": 138,
+      "found": 128,
+      "exact": 121,
       "close": 3,
       "flagged": 4,
-      "not_found": 11
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 130,
-      "linked": 84,
-      "venue": 84,
+      "unique_artists": 138,
+      "linked": 90,
+      "venue": 90,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 70
+      "shows_with_link": 78
     }
   }
 }

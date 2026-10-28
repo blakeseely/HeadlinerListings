@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 38,
+  "scraped_at": "2026-10-28",
+  "count": 39,
   "shows": [
     {
       "event_type": "music",
@@ -1188,7 +1188,18 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "RP Boo",
+          "apple_music": "https://music.apple.com/us/artist/rp-boo/404956999",
+          "spotify": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl",
+          "confidence": 1.0,
+          "matched": "RP Boo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
       "show_title": "Shape The Future / North America Tour",
       "presenters": [
@@ -1474,6 +1485,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "brakence",
+          "apple_music": "https://music.apple.com/us/artist/brakence/1345560251",
+          "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV",
+          "confidence": 1.0,
+          "matched": "brakence",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "the marroW tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546978229",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1670902",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "MASS OF THE FERMENTING DREGS",
           "apple_music": "https://music.apple.com/us/artist/mass-of-the-fermenting-dregs/270350271",
           "spotify": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1",
@@ -1636,26 +1680,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 39,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 62,
-      "exact": 61,
+      "unique_artists": 66,
+      "found": 64,
+      "exact": 63,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 62,
+      "unique_artists": 66,
+      "linked": 64,
       "venue": 0,
-      "api": 56,
+      "api": 58,
       "feed": 6,
-      "shows_with_link": 37
+      "shows_with_link": 38
     }
   }
 }

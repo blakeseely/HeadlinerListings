@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
+  "scraped_at": "2026-10-28",
   "count": 73,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fred Armisen",
-          "apple_music": "https://music.apple.com/us/artist/fred-armisen/1822636918",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Fred Armisen",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Comedy For Musicians But Everyone Is Welcome",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/fred-armisen-261027",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "2nd Show Added by Popular Demand!",
-      "description": "Fred Armisen is a comedian, writer, producer, and musician. He is the co-writer and co-star of IFC’s Emmy-nominated series Portlandia. He is in the hit Netflix series Wednesday as Uncle Fester. He stars in HBO’s Los Espookys, which he co-wrote and executive produced. He can also be heard in the hit animated Super Mario Bros movie. Armisen stars in, writes, and produces IFC’s hit show Documentary Now. He has also appeared in HBO’s Our Flag Means Death, Judd Apatow’s The Bubble, and Amazon’s series Forever. He voices characters in Big Mouth and The Mitchells vs. The Machines. He is currently starring in the Broadway play All In. Armisen is an 11-season veteran of Saturday Night Live. From 2014-2024, Armisen was band leader of the 8G Band on Late Night With Seth Meyers"
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -188,7 +157,18 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Yuka Yu LA.CO.NY.",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -581,8 +561,8 @@
       "date": "2026-11-13",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-moth-grandslam-championship-the-castro-theatre-tickets/14309104?pl=APESPCASTRO&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/the-moth-261113",
       "room": null,
       "age_rating": "16+",
@@ -1840,6 +1820,48 @@
       "needs_review": true,
       "headline_artists": [
         {
+          "name": "Portugal. The Man",
+          "apple_music": "https://music.apple.com/us/artist/portugal-the-man/167649475",
+          "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T",
+          "confidence": 1.0,
+          "matched": "Portugal. The Man",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Anthony Green",
+          "apple_music": "https://music.apple.com/us/artist/anthony-green/131770847",
+          "spotify": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I",
+          "confidence": 1.0,
+          "matched": "Anthony Green",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/portugal-the-man-in-the-mountain-san-francisco-california-01-23-2027/event/1C006557ED9E2027?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/portugal-the-man-270123",
+      "room": null,
+      "age_rating": null,
+      "note": "IN THE MOUNTAIN IN THE CLOUD - 15 Year Anniversary",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
           "name": "Stamptown with Zach Zucker",
           "apple_music": null,
           "spotify": null,
@@ -2410,7 +2432,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/deca-joins-san-francisco-california-04-26-2027/event/1C006553FA8DDB23?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/deca-joins-270426",
       "room": null,
       "age_rating": null,
@@ -2524,26 +2546,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
-      "comedy": 6,
+      "music": 55,
+      "comedy": 5,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 81,
-      "found": 62,
-      "exact": 56,
+      "unique_artists": 84,
+      "found": 64,
+      "exact": 58,
       "close": 2,
       "flagged": 4,
-      "not_found": 19
+      "not_found": 20
     },
     "spotify": {
-      "unique_artists": 81,
-      "linked": 49,
-      "venue": 49,
+      "unique_artists": 84,
+      "linked": 51,
+      "venue": 51,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 43
     }
   }
 }

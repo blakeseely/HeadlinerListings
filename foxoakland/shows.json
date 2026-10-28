@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 30,
+  "scraped_at": "2026-10-28",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "LENNY PEARCE",
-          "apple_music": "https://music.apple.com/us/artist/lenny-pearce/1519375022",
-          "spotify": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8",
-          "confidence": 1.0,
-          "matched": "Lenny Pearce",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "TODDLER RAVE WORLD TOUR",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "5:00 pm",
-      "show_time": "6:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/lenny-pearce-261027",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Lenny Pearce is a force in family entertainment, captivating a global audience as the pioneer of ‘Toddler Techno’ and ‘Baby Raves.’ Driven from his passion as a father, and his strong commitment to his home life, Lenny’s ability to make songs and videos, and perform live shows that enchant families is second-to-none. With sold-out shows across Australia, New Zealand, Asia and The Middle East, a 20+ city USA tour about to launch, and a rapidly growing presence worldwide, Lenny’s energy-filled performances and brilliant family-days-out delight families as he spins children’s favourites, remixed into modern hits that keep kids and parents dazzled all the same. Lenny’s influence is set to expand through collaborations with trusted children’s brands such as Nickelodeon, Hasbro, Blippi, Paw Patrol, and Warner Brothers, plus a hit album release with The Wiggles in 2024, further cementing him as one of the globes most loved family entertainers. With over 2.5 million followers on social media,"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -621,8 +590,8 @@
       "date": "2026-12-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
+      "ticket_link": "Sold Out!",
+      "ticket_status": "sold out",
       "event_page": "https://thefoxoakland.com/events/ali-siddiq-261219",
       "room": null,
       "age_rating": "16 and over",
@@ -721,6 +690,152 @@
       "age_rating": "all ages",
       "note": null,
       "description": "Lord Huron was created by Los Angeles-based artist Ben Schneider in 2010. After writing and recording two independent EPs (Into the Sun and Mighty) on his own, demand grew for Lord Huron to perform live. Schneider recruited friends Mark Barry (percussion), Miguel Briseño (bass) and Tom Renaud (guitar). Having first played music together at the tender age of 12, the group reunited and quickly hit their stride, transforming the project into a full-fledged live band. Lord Huron’s debut LP Lonesome Dreams was released in 2012 followed by Strange Trails in 2015. The latter featured the multi-platinum single “The Night We Met,” which has gone on to become one of Spotify’s Top 40 most-streamed songs of all time. In 2018, Lord Huron earned widespread critical acclaim and a Top 5 debut on the Billboard Top 200 with their third album, Vide Noir– while their following LP Long Lost garnered praise from NPR, Time, Los Angeles Times, Spin and Stereogum and sparked performances on The Tonight Show St"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CAKE",
+          "apple_music": "https://music.apple.com/us/artist/cake/472322",
+          "spotify": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV",
+          "confidence": 1.0,
+          "matched": "CAKE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Tune-Yards",
+          "apple_music": "https://music.apple.com/us/artist/tune-yards/308179967",
+          "spotify": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi",
+          "confidence": 1.0,
+          "matched": "Tune-Yards",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "DakhaBrakha",
+          "apple_music": "https://music.apple.com/us/artist/dakha-brakha/1197681658",
+          "spotify": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5",
+          "confidence": 0.95,
+          "matched": "Dakha Brakha",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "United for Ukraine — An Evening of Music, Remembrance & Solidarity",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-12",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/cake-270112",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "CAKE is the Sacramento, California–based band that has built a singular body of work through an unwavering commitment to originality, independence, and creative self-determination. Formed in the early 1990s as a somewhat antagonistic response to the prevailing grunge movement, CAKE developed its own democratic process and fiercely self-reliant approach—principles that have grown stronger over the decades. The result is a band that operates as its own musical nation-state, with few evident peers in sound and perspective. CAKE writes, arranges, produces, records, and performs its music from its Sacramento-based, solar-powered studio, which regularly generates more electricity than the building consumes—enough to send the meter running backward. That same spirit of independence extends to every aspect of the band’s work, from its music and recordings to the way it approaches touring and its relationship with its audience. The band’s most recent album, Showroom of Compassion, debuted at No"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CAKE",
+          "apple_music": "https://music.apple.com/us/artist/cake/472322",
+          "spotify": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV",
+          "confidence": 1.0,
+          "matched": "CAKE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Tune-Yards",
+          "apple_music": "https://music.apple.com/us/artist/tune-yards/308179967",
+          "spotify": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi",
+          "confidence": 1.0,
+          "matched": "Tune-Yards",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "DakhaBrakha",
+          "apple_music": "https://music.apple.com/us/artist/dakha-brakha/1197681658",
+          "spotify": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5",
+          "confidence": 0.95,
+          "matched": "Dakha Brakha",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "United for Ukraine — An Evening of Music, Remembrance & Solidarity",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-13",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/cake-270113",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "CAKE is the Sacramento, California–based band that has built a singular body of work through an unwavering commitment to originality, independence, and creative self-determination. Formed in the early 1990s as a somewhat antagonistic response to the prevailing grunge movement, CAKE developed its own democratic process and fiercely self-reliant approach—principles that have grown stronger over the decades. The result is a band that operates as its own musical nation-state, with few evident peers in sound and perspective. CAKE writes, arranges, produces, records, and performs its music from its Sacramento-based, solar-powered studio, which regularly generates more electricity than the building consumes—enough to send the meter running backward. That same spirit of independence extends to every aspect of the band’s work, from its music and recordings to the way it approaches touring and its relationship with its audience. The band’s most recent album, Showroom of Compassion, debuted at No"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "apple_music": "https://music.apple.com/us/artist/greensky-bluegrass/187258500",
+          "spotify": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn",
+          "confidence": 1.0,
+          "matched": "Greensky Bluegrass",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Magoo",
+          "apple_music": "https://music.apple.com/us/artist/magoo/1703500618",
+          "spotify": "https://open.spotify.com/artist/5WekSJls7QTlBwgvrUvVDy",
+          "confidence": 1.0,
+          "matched": "Magoo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Winter Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/greensky-bluegrass-270116",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "For two decades now, Greensky Bluegrass have been building an empire, brick by brick. They are widely known for their dazzling live performances and relentless touring schedule, but that is only the tip of the complex tale of the five musicians that make up Greensky Bluegrass: Anders Beck [dobro], Michael Arlen Bont [banjo], Dave Bruzza [guitar], Mike Devol [upright bass], and Paul Hoffman [Mandolin]. The five are connected through a deep bond, just as they are seasoned road warriors, they’re a band of brothers who have seen each other through decades of ups and downs, personal and collective highlights, and the moments when life turns it all upside down. These are real people having real experiences. As with traditional bluegrass, they write about their own contemporary day-to-day happenings, emotions, and experiences in the modern world. The band’s underground die-hard fans pack out venues across the country. They travel in droves and sell out multiple-night show runs at iconic venue"
     },
     {
       "event_type": "music",
@@ -944,6 +1059,100 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Meshuggah",
+          "apple_music": "https://music.apple.com/us/artist/meshuggah/17304969",
+          "spotify": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY",
+          "confidence": 1.0,
+          "matched": "Meshuggah",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Testament",
+          "apple_music": "https://music.apple.com/us/artist/testament/157139",
+          "spotify": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg",
+          "confidence": 1.0,
+          "matched": "Testament",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Blood Incantation",
+          "apple_music": "https://music.apple.com/us/artist/blood-incantation/1057788065",
+          "spotify": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x",
+          "confidence": 1.0,
+          "matched": "Blood Incantation",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Forty-Year Anomaly Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-24",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/meshuggah-270424",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Few bands have altered the vocabulary of heavy music as fundamentally as MESHUGGAH. For nearly four decades, the Swedish quintet have pursued one of the most distinctive and uncompromising paths in modern heavy music. Through an obsessive command of rhythm, dissonance, repetition and dynamics, MESHUGGAH have created a body of work whose impact stretches far beyond the boundaries of extreme metal. Their music has inspired generations of musicians, reshaped the vocabulary of progressive and technical metal and spawned countless attempts to decode, imitate and expand upon ideas that the band themselves have continued to push relentlessly forward. Yet despite that enormous influence, MESHUGGAH have always remained unmistakably themselves. The current lineup of vocalist Jens Kidman, guitarists Fredrik Thordendal and Mårten Hagström, bassist Dick Lövgren and drummer Tomas Haake represents a musical entity whose individual components have become inseparable from its identity. Kidman’s command"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ocean Alley",
+          "apple_music": "https://music.apple.com/us/artist/ocean-alley/703863167",
+          "spotify": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr",
+          "confidence": 1.0,
+          "matched": "Ocean Alley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Mild Orange",
+          "apple_music": "https://music.apple.com/us/artist/mild-orange/1291290816",
+          "spotify": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf",
+          "confidence": 1.0,
+          "matched": "Mild Orange",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "North America '27",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "PRESALE 10/29",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/ocean-alley-270505",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Tinashe",
           "apple_music": "https://music.apple.com/us/artist/tinashe/464835513",
           "spotify": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD",
@@ -1077,26 +1286,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 32,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 31,
-      "found": 30,
-      "exact": 30,
-      "close": 0,
+      "unique_artists": 40,
+      "found": 39,
+      "exact": 38,
+      "close": 1,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 31,
-      "linked": 29,
-      "venue": 29,
+      "unique_artists": 40,
+      "linked": 38,
+      "venue": 38,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 33
     }
   }
 }

@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 35,
+  "scraped_at": "2026-10-28",
+  "count": 36,
   "shows": [
     {
       "event_type": "music",
@@ -97,48 +97,6 @@
       "event_page": "https://www.augusthallsf.com/tm-event/parra-for-cuva/",
       "room": null,
       "age_rating": "21 and Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Aces",
-          "apple_music": "https://music.apple.com/us/artist/the-aces/1238525085",
-          "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe",
-          "confidence": 1.0,
-          "matched": "The Aces",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Gatlin",
-          "apple_music": "https://music.apple.com/us/artist/gatlin/1456307048",
-          "spotify": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9",
-          "confidence": 1.0,
-          "matched": "Gatlin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/introducing-the-aces-with-special-guest-san-francisco-california-10-31-2026/event/1C0064FB1539D112",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/the-aces/",
-      "room": null,
-      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -550,37 +508,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "DJ Raphi",
-          "apple_music": "https://music.apple.com/us/artist/dj-raphi/1502761004",
-          "spotify": "https://open.spotify.com/artist/5GxpQzJbmNhOYNV3ajcIjR",
-          "confidence": 1.0,
-          "matched": "DJ Raphi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "HYPE TOUR USA 2.0",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "5:00 pm",
-      "show_time": "6:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/dj-raphi-hype-tour-usa-20-san-francisco-california-11-25-2026/event/1C0064EF11D69868",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/dj-raphi-hype-tour-usa-2-0/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Vessbroz",
           "apple_music": "https://music.apple.com/us/artist/vessbroz/1083992905",
           "spotify": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt",
@@ -604,6 +531,37 @@
       "event_page": "https://www.augusthallsf.com/tm-event/vessbroz/",
       "room": null,
       "age_rating": "21 and Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jalen Ngonda",
+          "apple_music": "https://music.apple.com/us/artist/jalen-ngonda/1127697768",
+          "spotify": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
+          "confidence": 1.0,
+          "matched": "Jalen Ngonda",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Doctrine of Love Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/jalen-ngonda-doctrine-of-love-tour-san-francisco-california-12-01-2026/event/1C0064C299BF1246",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/jalen-ngonda-doctrine-of-love-tour/",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1046,6 +1004,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Destroy Boys",
+          "apple_music": "https://music.apple.com/us/artist/destroy-boys/1202438410",
+          "spotify": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5",
+          "confidence": 1.0,
+          "matched": "Destroy Boys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-16",
+      "doors": "6:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/destroy-boys-san-francisco-california-04-16-2027/event/1C006550D2245200",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/destroy-boys/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "SiM",
           "apple_music": "https://music.apple.com/us/artist/sim/1124210967",
           "spotify": null,
@@ -1067,6 +1056,48 @@
       "ticket_link": "https://www.ticketmaster.com/sim-hooman-world-tour-san-francisco-california-04-18-2027/event/1C0064AF09A75C9E",
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sim-hooman-world-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "[MOVED TO RICKSHAW STOP] Introducing The Aces",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Musical Aces @ 32%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gatlin",
+          "apple_music": "https://music.apple.com/us/artist/gatlin/1456307048",
+          "spotify": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9",
+          "confidence": 1.0,
+          "matched": "Gatlin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/the-aces/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1148,26 +1179,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 36,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
+      "unique_artists": 36,
       "found": 32,
       "exact": 32,
       "close": 0,
       "flagged": 0,
-      "not_found": 3
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 35,
+      "unique_artists": 36,
       "linked": 31,
       "venue": 0,
       "api": 31,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 33
     }
   }
 }

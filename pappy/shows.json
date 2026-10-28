@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
+  "scraped_at": "2026-10-28",
   "count": 61,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fastball",
-          "apple_music": "https://music.apple.com/us/artist/fastball/3297142",
-          "spotify": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN",
-          "confidence": 1.0,
-          "matched": "Fastball",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/fastball/701813",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/fastball/701813",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -111,7 +78,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/cardinal-bloom/695961",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -534,7 +501,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/the-california-honeydrops/699753",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/the-california-honeydrops/699753",
       "room": null,
       "age_rating": "All Ages",
@@ -870,8 +837,8 @@
       ],
       "set_format": null,
       "date": "2026-11-17",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/slothrust/695824",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/slothrust/695824",
@@ -1604,10 +1571,23 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Universal Bubba Tour",
-      "presenters": [],
+      "support_artists": [
+        {
+          "name": "Amelia Day",
+          "apple_music": "https://music.apple.com/us/artist/amelia-day/1552349264",
+          "spotify": "https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y",
+          "confidence": 1.0,
+          "matched": "Amelia Day",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2026-12-19",
       "doors": "8:30 pm",
@@ -1616,7 +1596,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/willi-carlisle-the-universal-bubba-tour/698365",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1718,6 +1698,37 @@
       "ticket_link": "https://wl.seetickets.us/event/nye-black-crystal-wolf-kids-well-well-well/707695",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/nye-black-crystal-wolf-kids-well-well-well/707695",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Big Sandy and His Fly-Rite Boys",
+          "apple_music": "https://music.apple.com/us/artist/big-sandy-his-fly-rite-boys/64805172",
+          "spotify": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp",
+          "confidence": 0.9,
+          "matched": "Big Sandy & His Fly-Rite Boys",
+          "apple_label": "close match: Big Sandy & His Fly-Rite Boys",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-01",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/big-sandy-and-his-fly-rite-boys/709460",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/big-sandy-and-his-fly-rite-boys/709460",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2352,18 +2363,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 92,
-      "found": 88,
+      "unique_artists": 93,
+      "found": 89,
       "exact": 86,
       "close": 0,
-      "flagged": 2,
+      "flagged": 3,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 92,
-      "linked": 85,
+      "unique_artists": 93,
+      "linked": 86,
       "venue": 0,
-      "api": 85,
+      "api": 86,
       "feed": 0,
       "shows_with_link": 59
     }

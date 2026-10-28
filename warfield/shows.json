@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
-  "count": 11,
+  "scraped_at": "2026-10-28",
+  "count": 12,
   "shows": [
     {
       "event_type": "music",
@@ -484,30 +484,94 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hum",
+          "apple_music": "https://music.apple.com/us/artist/hum/509823",
+          "spotify": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX",
+          "confidence": 1.0,
+          "matched": "Hum",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Spotlights",
+          "apple_music": "https://music.apple.com/us/artist/spotlights/369870386",
+          "spotify": "https://open.spotify.com/artist/4gTFseNIUKC5dbk6tRps6H",
+          "confidence": 1.0,
+          "matched": "Spotlights",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Life",
+          "apple_music": "https://music.apple.com/us/artist/the-life/264565485",
+          "spotify": "https://open.spotify.com/artist/7r9Mv6R4XgZLnCnbsMnhBX",
+          "confidence": 1.0,
+          "matched": "The Life",
+          "apple_label": null,
+          "spotify_label": "close match: The Life And Times",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Times",
+          "apple_music": "https://music.apple.com/us/artist/times/1460618485",
+          "spotify": "https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC",
+          "confidence": 1.0,
+          "matched": "Times",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-07-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1660158/hum-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1660158",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 11,
+      "music": 12,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 19,
-      "found": 16,
-      "exact": 15,
+      "unique_artists": 23,
+      "found": 20,
+      "exact": 19,
       "close": 1,
       "flagged": 0,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 19,
-      "linked": 19,
+      "unique_artists": 23,
+      "linked": 23,
       "venue": 0,
-      "api": 19,
+      "api": 23,
       "feed": 0,
-      "shows_with_link": 11
+      "shows_with_link": 12
     }
   }
 }

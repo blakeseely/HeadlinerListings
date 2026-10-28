@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
+  "scraped_at": "2026-10-28",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "jackzebra",
-          "apple_music": "https://music.apple.com/us/artist/jackzebra/1545720330",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "jackzebra",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Zhuang Zhuang 2026 Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jackzebra-zhuang-zhuang-2026-brick-and-mortar-music-hall-tickets/14325814?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/jackzebra-zhuang-zhuang-2026-tour/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -338,22 +307,22 @@
         {
           "name": "Swordes",
           "apple_music": "https://music.apple.com/us/artist/swordes/1537910016",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb",
           "confidence": 1.0,
           "matched": "Swordes",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "venue"
         },
         {
           "name": "Tricky FM",
           "apple_music": "https://music.apple.com/us/artist/tricky-fm/6787711012",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l",
           "confidence": 1.0,
           "matched": "Tricky FM",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "venue"
         }
       ],
       "multi_artist": false,
@@ -361,8 +330,8 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-11-04",
-      "doors": "6:00 pm",
-      "show_time": "6:30 pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/blue-light-with-sassy-009-brick-and-mortar-music-hall-tickets/14968513?pl=bnm&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/blue-light-with-sassy-009/",
@@ -492,23 +461,33 @@
         {
           "name": "Triptides",
           "apple_music": "https://music.apple.com/us/artist/triptides/571707807",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6gCwR8CCL5jkaCNcmw26rI",
           "confidence": 1.0,
           "matched": "Triptides",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Loco Tranquilo",
+          "apple_music": "https://music.apple.com/us/artist/loco-tranquilo/1138314657",
+          "spotify": "https://open.spotify.com/artist/26cqaT92euymV1VkTtnduA",
+          "confidence": 1.0,
+          "matched": "LOCO TRANQUILO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/triptides-brick-and-mortar-music-hall-tickets/14273794?pl=bnm&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/triptides-loco-tranquilo-brick-and-mortar-music-hall-tickets/14273794?pl=bnm&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/triptides/",
       "room": null,
@@ -868,6 +847,58 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Bayonne’s music captures the indescribable. For 10 years, the Austin, Texas-based experimental avant-pop/electronic musician, born Roger Sellers, has been creating atmospheric soundscapes brimming with layers, texture, and deep emotional resonance. On his fourth and most immersive album to date, Filters, Sellers picks up where he left us on 2023’s mournful yet pop-minded Temporary Time. With its elegantly constructed melodies, silken synth-work, a sprinkle of field recordings, and an upbeat yet blissful blend of piano and percussion, Filters finds Sellers entering a new phase of existence as he works through the grief around losing his father and into a place of acceptance."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "veggi",
+          "apple_music": "https://music.apple.com/us/artist/veggi/1457890281",
+          "spotify": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v",
+          "confidence": 1.0,
+          "matched": "veggi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "J. Jaxx",
+          "apple_music": "https://music.apple.com/us/artist/j-jaxx/1722578161",
+          "spotify": null,
+          "confidence": 0.9,
+          "matched": "J JAXX",
+          "apple_label": "close match: J JAXX",
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Tripleset",
+          "apple_music": "https://music.apple.com/us/artist/tripleset/1465155918",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Tripleset",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/veggi-j-jaxx-tripleset-brick-and-mortar-music-hall-tickets/14371094?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/veggi/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -878,20 +909,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 38,
-      "exact": 36,
+      "unique_artists": 43,
+      "found": 41,
+      "exact": 38,
       "close": 0,
-      "flagged": 2,
+      "flagged": 3,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 15,
-      "venue": 15,
+      "unique_artists": 43,
+      "linked": 20,
+      "venue": 20,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 12
+      "shows_with_link": 14
     }
   }
 }

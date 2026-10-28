@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
+  "scraped_at": "2026-10-28",
   "count": 45,
   "shows": [
     {
@@ -760,8 +760,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "KALW Welcomes",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Kaleo Wassman @ 46%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1981,15 +1992,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
+      "unique_artists": 90,
       "found": 64,
       "exact": 55,
       "close": 3,
       "flagged": 6,
-      "not_found": 25
+      "not_found": 26
     },
     "spotify": {
-      "unique_artists": 89,
+      "unique_artists": 90,
       "linked": 63,
       "venue": 0,
       "api": 63,

@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-27",
+  "scraped_at": "2026-10-28",
   "count": 35,
   "shows": [
     {
@@ -65,37 +65,6 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Slow Pulp",
-          "apple_music": "https://music.apple.com/us/artist/slow-pulp/1247711013",
-          "spotify": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D",
-          "confidence": 1.0,
-          "matched": "Slow Pulp",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -188,6 +157,16 @@
           "apple_label": "close match: Bella Rayne",
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "DJ Harry Duncan",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/40IPxiNVXckY0AMrmiiQ19",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: DJ Harry",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": false,
@@ -229,6 +208,16 @@
           "matched": "Parlor Greens",
           "apple_label": null,
           "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "DJ Harry Duncan",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/40IPxiNVXckY0AMrmiiQ19",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: DJ Harry",
           "spotify_source": "api"
         }
       ],
@@ -481,7 +470,18 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Weston Loney",
+          "apple_music": "https://music.apple.com/us/artist/weston-loney/1624670448",
+          "spotify": "https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt",
+          "confidence": 1.0,
+          "matched": "Weston Loney",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -1337,6 +1337,58 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TesseracT",
+          "apple_music": "https://music.apple.com/us/artist/tesseract/279204661",
+          "spotify": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r",
+          "confidence": 1.0,
+          "matched": "TesseracT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Entheos",
+          "apple_music": "https://music.apple.com/us/artist/entheos/65557334",
+          "spotify": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI",
+          "confidence": 1.0,
+          "matched": "Entheos",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sunborn",
+          "apple_music": "https://music.apple.com/us/artist/sunborn/1667389591",
+          "spotify": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS",
+          "confidence": 1.0,
+          "matched": "Sunborn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-24",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/tesseract-san-francisco-california-01-24-2027/event/1C00654292EDD475",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/tesseract-san-francisco-california-01-24-2027/event/1C00654292EDD475",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1347,20 +1399,20 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 45,
-      "found": 43,
-      "exact": 42,
+      "unique_artists": 50,
+      "found": 47,
+      "exact": 46,
       "close": 0,
       "flagged": 1,
-      "not_found": 2
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 45,
-      "linked": 43,
+      "unique_artists": 50,
+      "linked": 48,
       "venue": 0,
-      "api": 43,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 33
     }
   }
 }
