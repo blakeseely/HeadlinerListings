@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:07:31.187792+00:00",
+  "generated_at": "2026-10-28T13:00:39.037742+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -46,6 +46,32 @@
       },
       "show_count": 119,
       "sha256_16": "b87f8a2f11513348"
+    },
+    {
+      "venue_id": "bgc",
+      "file": "bgc/shows.json",
+      "city": "San Francisco, CA",
+      "metro": "San Francisco",
+      "updated_at": "2026-10-28",
+      "oldest_show_date": "2026-11-05",
+      "value_domains": {
+        "event_type": [
+          "music"
+        ],
+        "ticket_status": [
+          "on sale",
+          "moved",
+          "Sold Out!",
+          "sign up",
+          "PRESALE 10/28"
+        ],
+        "spotify_source": [
+          "venue",
+          "api"
+        ]
+      },
+      "show_count": 19,
+      "sha256_16": "c101e7bd1290eade"
     },
     {
       "venue_id": "brickandmortar",

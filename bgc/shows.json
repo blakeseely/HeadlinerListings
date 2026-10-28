@@ -1,0 +1,936 @@
+{
+  "venue": "Bill Graham Civic Auditorium",
+  "venue_id": "bgc",
+  "venue_url": "https://billgrahamcivic.com/",
+  "source_url": "https://billgrahamcivic.com/calendar",
+  "city": "San Francisco, CA",
+  "metro": "San Francisco",
+  "neighborhood": "Civic Center",
+  "schema": 5,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-10-28",
+  "count": 19,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Moby",
+          "apple_music": "https://music.apple.com/us/artist/moby/789023",
+          "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF",
+          "confidence": 1.0,
+          "matched": "Moby",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Azzecca",
+          "apple_music": "https://music.apple.com/us/artist/azzecca/1627777746",
+          "spotify": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj",
+          "confidence": 1.0,
+          "matched": "Azzecca",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "DJ Holographic",
+          "apple_music": "https://music.apple.com/us/artist/dj-holographic/1518771232",
+          "spotify": "https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox",
+          "confidence": 1.0,
+          "matched": "DJ Holographic",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-05",
+      "doors": "7:00 pm",
+      "show_time": "Show: 7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/moby-18-san-francisco-california-11-05-2026/event/1C006515F9551DE3?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/moby-261105",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brand New",
+          "apple_music": "https://music.apple.com/us/artist/brand-new/3630732",
+          "spotify": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1",
+          "confidence": 1.0,
+          "matched": "Brand New",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/brand-new-san-francisco-california-11-11-2026/event/1C0064CF38CBCA80?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/brand-new-261111",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Formed in 2000 on Long Island, New York, Brand New is an American alternative rock band consisting of Jesse Lacey, Vincent Accardi, Garrett Tierney, and Brian Lane. After signing with Triple Crown Records, the band released their debut album, Your Favorite Weapon, in 2001, establishing themselves within the Long Island emo and pop-punk scene. Their breakthrough second album, Deja Entendu, arrived in 2003 and featured the singles “The Quiet Things That No One Ever Knows” and “Sic Transit Gloria… Glory Fades.” The album showcased a more mature sound and was later certified Gold in the United States. Following a major-label bidding war, the band signed with DreamWorks/Interscope and released The Devil and God Are Raging Inside Me in 2006, a record that would become one of the most influential albums of the emo era. In 2009, they put out their fourth album Daisy, reaching No. 6 on the Billboard 200. Brand New returned in 2017 with Science Fiction, which debuted at No. 1 on the Billboard 200 and received widespread critical acclaim."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sammy Virji",
+          "apple_music": "https://music.apple.com/us/artist/sammy-virji/1183045388",
+          "spotify": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb",
+          "confidence": 1.0,
+          "matched": "Sammy Virji",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sam Gellaitry",
+          "apple_music": "https://music.apple.com/us/artist/sam-gellaitry/958258124",
+          "spotify": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H",
+          "confidence": 1.0,
+          "matched": "Sam Gellaitry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Saint Ludo",
+          "apple_music": "https://music.apple.com/us/artist/saint-ludo/1781707805",
+          "spotify": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT",
+          "confidence": 1.0,
+          "matched": "Saint Ludo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "7:00 pm",
+      "show_time": "Show: 7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sammy-virji-18-san-francisco-california-11-13-2026/event/1C00655AD92A87A2?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/sammy-virji-261113-bgc",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "Sammy Virji is driving the evolution of UKG, as the genre takes the world by storm – again. His DJ Mag set from 2023 went extremely viral, propelling him into a new level of fame, not without reason; not only is he a masterful selector, he does it all with a massive smile on his face. He’s gone B2B with Four Tet in Liverpool, been a resident at Radio 1 (including making a renowned Essential Mix for them), and DJ Mag would later crown him Best Producer at their Best of British awards 2025. All of this, but he’s not just a sensation in the UK: across the pond, he drew one of the biggest crowds at Coachella earlier this year, while his last couple of singles have charted as far as New Zealand. His songs have tens of millions of streams each, with ‘If U Need It’ certified Gold, while his Skepta collaboration, the careening banger ‘Cops &amp; Robbers’, made the top 10 in the UK dance charts."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tyla",
+          "apple_music": "https://music.apple.com/us/artist/tyla/1552925732",
+          "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE",
+          "confidence": 1.0,
+          "matched": "Tyla",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/tyla-the-apop-world-tour-oakland-california-11-13-2026/event/1C00654ED0931E44?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "moved",
+      "event_page": "https://billgrahamcivic.com/events/tyla-261113",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "WORSHIP",
+          "apple_music": "https://music.apple.com/us/artist/worship/201702397",
+          "spotify": "https://open.spotify.com/artist/6HYVC0sJVnVnsVmuH0Ofre",
+          "confidence": 1.0,
+          "matched": "Worship",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sub Focus",
+          "apple_music": "https://music.apple.com/us/artist/sub-focus/152742627",
+          "spotify": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO",
+          "confidence": 1.0,
+          "matched": "Sub Focus",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Dimension",
+          "apple_music": "https://music.apple.com/us/artist/dimension/1074396362",
+          "spotify": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S",
+          "confidence": 1.0,
+          "matched": "Dimension",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Culture Shock",
+          "apple_music": "https://music.apple.com/us/artist/culture-shock/79427524",
+          "spotify": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE",
+          "confidence": 1.0,
+          "matched": "Culture Shock",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "1991",
+          "apple_music": "https://music.apple.com/us/artist/1991/565639242",
+          "spotify": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy",
+          "confidence": 1.0,
+          "matched": "1991",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Blossom",
+          "apple_music": "https://music.apple.com/us/artist/blossom/147379525",
+          "spotify": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V",
+          "confidence": 1.0,
+          "matched": "Blossom",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Dr. Apollo",
+          "apple_music": "https://music.apple.com/us/artist/dr-apollo/899399145",
+          "spotify": "https://open.spotify.com/artist/4xHEkCHn10iWmknnkVUj62",
+          "confidence": 1.0,
+          "matched": "Dr. Apollo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "7:00 pm",
+      "show_time": "Show: 7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/worship-north-america-2026-san-francisco-california-11-14-2026/event/1C0064D2D6A9502B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/worship-261114",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Steve Lacy",
+          "apple_music": "https://music.apple.com/us/artist/steve-lacy/1210275020",
+          "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
+          "confidence": 1.0,
+          "matched": "Steve Lacy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-24",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "Sold Out!",
+      "event_page": "https://billgrahamcivic.com/events/steve-lacy-261124",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Steve Lacy",
+          "apple_music": "https://music.apple.com/us/artist/steve-lacy/1210275020",
+          "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
+          "confidence": 1.0,
+          "matched": "Steve Lacy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "Sold Out!",
+      "event_page": "https://billgrahamcivic.com/events/steve-lacy-261125",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Neighbourhood",
+          "apple_music": "https://music.apple.com/us/artist/the-neighbourhood/219350813",
+          "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh",
+          "confidence": 1.0,
+          "matched": "The Neighbourhood",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Nessa Barrett",
+          "apple_music": "https://music.apple.com/us/artist/nessa-barrett/1525607372",
+          "spotify": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ",
+          "confidence": 1.0,
+          "matched": "Nessa Barrett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Noise Dept",
+          "apple_music": "https://music.apple.com/us/artist/noise-dept/1823802029",
+          "spotify": "https://open.spotify.com/artist/46Un4FFfMc6YURdDdWdYh8",
+          "confidence": 0.9,
+          "matched": "noise dept.",
+          "apple_label": "close match: noise dept.",
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "6:00 pm",
+      "show_time": "Show: 7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "Sold Out!",
+      "event_page": "https://billgrahamcivic.com/events/the-neighbourhood-261202",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "it’s murph",
+          "apple_music": "https://music.apple.com/us/artist/its-murph/1650216419",
+          "spotify": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC",
+          "confidence": 1.0,
+          "matched": "it's murph",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Tobiahs",
+          "apple_music": "https://music.apple.com/us/artist/tobiahs/1037162476",
+          "spotify": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs",
+          "confidence": 1.0,
+          "matched": "Tobiahs",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Close Friends Only",
+          "apple_music": "https://music.apple.com/us/artist/close-friends-only/1783526861",
+          "spotify": "https://open.spotify.com/artist/12TskTYVyjY7GU8v6niFoz",
+          "confidence": 1.0,
+          "matched": "Close Friends Only",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/its-murph-18-san-francisco-california-12-05-2026/event/1C0065043113836F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/its-murph-261205",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "it’s murph is a Nashville-based electronic producer crafting dance music that’s meant to be felt as much as it’s heard. Rooted in emotion but built for movement, his sound lives at the intersection of euphoric melody, gritty low-end, and expansive atmosphere — pulling listeners into moments that feel both intimate and anthemic. Driven by the belief that music is a multi-sensory experience, it’s murph creates records designed to unlock something deeper: a memory, a feeling, a shared release on the dancefloor. His productions balance warmth and edge, pairing melodic progressions with driving grooves that keep crowds locked in while leaving space to breathe. Blending influences from tech house, bass-forward dance, and melodic electronic music, his sound draws inspiration from artists like Fred again.., Cloonee, and Chris Lake, while remaining distinctly his own. Whether in headphones or under strobe lights, it’s murph’s music invites listeners to step outside themselves and fully immerse in the moment. As his catalog continues to grow, it’s murph is carving out a lane defined by emotional energy, forward-thinking production, and a deep connection to the people on the other side of the speakers."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Victoria Monét",
+          "apple_music": "https://music.apple.com/us/artist/victoria-mon%C3%A9t/540070252",
+          "spotify": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv",
+          "confidence": 1.0,
+          "matched": "Victoria Monét",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-san-francisco-california-12-17-2026/event/1C006523E4C75D1A?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/victoria-monet-261217",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Multi-hyphenate superstar and 3x Grammy-award winner Victoria Monét has been stealthily— and steadily— trailblazing her own gilded path in music for over a decade. She released her long-awaited debut album in 2023, JAGUAR II, and the extended version, JAGUAR II: Deluxe, in 2024. With JAGUAR II, Monét delivered a handful of singles from the album including her culture defining hit single “On My Mama” – its iconic music video garnering over 107 million views. &#8220;On My Mama&#8221; earned three #1 spots on the R&amp;B / Hip-Hop radio and charted in the Top 40. She publicly received praise from music industry titans like Beyoncé, Janet Jackson, Cardi B, Bruno Mars, SZA, Adele, Kelly Rowland, Ariana Grande, Ciara, Zendaya and more. A critical darling, Victoria&#8217;s debut album was named the #1 Best of 2023 by The Hollywood Reporter and included on Best of 2023 lists by everyone from Barack Obama, Jay-Z, NPR, TIME, Rolling Stone, CLASH, VOGUE, ELLE, Harper’s BAZAAR, Billboard, AP and many more. She was also featured on the 2024 cover of Variety’s Grammy Issue and received both the “Rising Star” Award and “Triple Threat” Award at their annual Hitmakers event. Monét’s resounding breakthrough success with JAGUAR II resulted in two 2024 NAACP Image Awards for Outstanding Album and Outstanding New Artist, five 2024 BET Award nominations (including two wins for BET HER and Video of The Year), the 2024 Hitmaker Award at Billboard Power Players, TIME Magazine’s 2024 TIME100 Next Gen"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ILLENIUM",
+          "apple_music": "https://music.apple.com/us/artist/illenium/645420096",
+          "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
+          "confidence": 1.0,
+          "matched": "ILLENIUM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-30",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/illenium-san-francisco-california-12-30-2026/event/1C006537247E9E87?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/illenium-261230",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "ILLENIUM is a GRAMMY®-nominated, multi-platinum artist, producer, and songwriter whose emotionally charged sound has built one of electronic music’s most passionate communities. Brick by brick and beat by beat, he’s created a world of catharsis and connection. In the process, he’s made history: selling out some of the world’s largest stadiums, topping charts, earning gold and platinum certifications, and amassing billions of streams. His music resonates with millions of fans across the globe for its intensity, intimacy, and ability to turn pain into something positive. At the heart of that connection lies a deeply personal story, one that defines ILLENIUM’s music as much as his message. After surviving a near-fatal heroin overdose in 2012, he embraced the phoenix as a symbol of rebirth—a reflection of his recovery and the healing power of music. The logo has since become a visual and spiritual emblem for both ILLENIUM and his fans, representing transformation, resilience, and the strength found in vulnerability. “Music has always saved me and helped me through any situation in life, whether it be struggle, loss, or another intense feeling,” he says. “I want my music to do the same for anybody who’s listening. I’m trying to give everyone an outlet to lose themselves and escape.” Born Nick Miller and based in Denver, ILLENIUM initially introduced himself back in 2013 with a series of momentum-building releases before breaking through with 2016’s “Ashes.” Fueled by a boundary-br"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ILLENIUM",
+          "apple_music": "https://music.apple.com/us/artist/illenium/645420096",
+          "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
+          "confidence": 1.0,
+          "matched": "ILLENIUM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "Sold Out!",
+      "event_page": "https://billgrahamcivic.com/events/illenium-261231",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "ILLENIUM is a GRAMMY®-nominated, multi-platinum artist, producer, and songwriter whose emotionally charged sound has built one of electronic music’s most passionate communities. Brick by brick and beat by beat, he’s created a world of catharsis and connection. In the process, he’s made history: selling out some of the world’s largest stadiums, topping charts, earning gold and platinum certifications, and amassing billions of streams. His music resonates with millions of fans across the globe for its intensity, intimacy, and ability to turn pain into something positive. At the heart of that connection lies a deeply personal story, one that defines ILLENIUM’s music as much as his message. After surviving a near-fatal heroin overdose in 2012, he embraced the phoenix as a symbol of rebirth—a reflection of his recovery and the healing power of music. The logo has since become a visual and spiritual emblem for both ILLENIUM and his fans, representing transformation, resilience, and the strength found in vulnerability. “Music has always saved me and helped me through any situation in life, whether it be struggle, loss, or another intense feeling,” he says. “I want my music to do the same for anybody who’s listening. I’m trying to give everyone an outlet to lose themselves and escape.” Born Nick Miller and based in Denver, ILLENIUM initially introduced himself back in 2013 with a series of momentum-building releases before breaking through with 2016’s “Ashes.” Fueled by a boundary-br"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ILLENIUM",
+          "apple_music": "https://music.apple.com/us/artist/illenium/645420096",
+          "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg",
+          "confidence": 1.0,
+          "matched": "ILLENIUM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-01",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "sign up",
+      "event_page": "https://billgrahamcivic.com/events/illenium-270101",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "ILLENIUM is a GRAMMY®-nominated, multi-platinum artist, producer, and songwriter whose emotionally charged sound has built one of electronic music’s most passionate communities. Brick by brick and beat by beat, he’s created a world of catharsis and connection. In the process, he’s made history: selling out some of the world’s largest stadiums, topping charts, earning gold and platinum certifications, and amassing billions of streams. His music resonates with millions of fans across the globe for its intensity, intimacy, and ability to turn pain into something positive. At the heart of that connection lies a deeply personal story, one that defines ILLENIUM’s music as much as his message. After surviving a near-fatal heroin overdose in 2012, he embraced the phoenix as a symbol of rebirth—a reflection of his recovery and the healing power of music. The logo has since become a visual and spiritual emblem for both ILLENIUM and his fans, representing transformation, resilience, and the strength found in vulnerability. “Music has always saved me and helped me through any situation in life, whether it be struggle, loss, or another intense feeling,” he says. “I want my music to do the same for anybody who’s listening. I’m trying to give everyone an outlet to lose themselves and escape.” Born Nick Miller and based in Denver, ILLENIUM initially introduced himself back in 2013 with a series of momentum-building releases before breaking through with 2016’s “Ashes.” Fueled by a boundary-br"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tape B",
+          "apple_music": "https://music.apple.com/us/artist/tape-b/1485251074",
+          "spotify": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi",
+          "confidence": 1.0,
+          "matched": "Tape B",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Getter",
+          "apple_music": "https://music.apple.com/us/artist/getter/419185194",
+          "spotify": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA",
+          "confidence": 1.0,
+          "matched": "Getter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Kill the Noise",
+          "apple_music": "https://music.apple.com/us/artist/kill-the-noise/280835500",
+          "spotify": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM",
+          "confidence": 1.0,
+          "matched": "Kill the Noise",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Claybrook b2b Dr. Ushūu",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dr. Ushūu @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "6:30 pm",
+      "show_time": "Show: 6:30 pm",
+      "ticket_link": null,
+      "ticket_status": "sign up",
+      "event_page": "https://billgrahamcivic.com/events/tape-b-270123",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "Tape B, born Kemal Berk Alkanat, is a dynamic force in today’s electronic music scene, merging the nostalgic vibes of old-school dubstep with contemporary bass music and hip-hop. Born in Turkey and raised in the U.S. from the age of three, Tape B brings a distinctive sound that captivates with a blend of nostalgia and modernity, termed &#8220;Old School x New School.&#8221; His musical journey began at the University of Central Florida, influenced by early 2000s hip-hop and electronic pioneers like UKF and The Glitch Mob. His career took a professional turn after a revelatory experience at the Lost Lands Music Festival in 2019. Tape B&#8217;s rise to prominence was fueled by viral SoundCloud mixes and dynamic live performances, including his iconic &#8220;Yo, Tape B&#8221; tag which has become a recognizable call throughout modern clubland and festivals. Over the past year, Tape B has reached new heights, including a sold-out headline debut at Red Rocks Amphitheatre and a 33-date fall bus tour with standout sellouts at premier venues such as The Salt Shed, The Armory, Echostage, and The Shrine. His high-profile B3B performance alongside Zeds Dead and Subtronics to close out the year further solidified his place at the forefront of modern bass music, alongside a growing catalog of collaborations including work with GRiZ. With continued support from industry leaders like Subtronics, Zeds Dead, Excision, Ganja White Night, Wooli, and Peekaboo, Tape B’s rise reflects both a deep"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Grahame Lesh & Friends",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/3rLtuKhmHrekck6q1sc9BB",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Grahame Lesh",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Warren Haynes",
+          "apple_music": "https://music.apple.com/us/artist/warren-haynes/549279",
+          "spotify": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h",
+          "confidence": 1.0,
+          "matched": "Warren Haynes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Neal Francis",
+          "apple_music": "https://music.apple.com/us/artist/neal-francis/1446638162",
+          "spotify": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3",
+          "confidence": 1.0,
+          "matched": "Neal Francis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "John Molo",
+          "apple_music": "https://music.apple.com/us/artist/john-molo/30902357",
+          "spotify": "https://open.spotify.com/artist/20H1ao8yJA1l2KfnCEJFWW",
+          "confidence": 1.0,
+          "matched": "John Molo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Cyril Neville",
+          "apple_music": "https://music.apple.com/us/artist/cyril-neville/1349955",
+          "spotify": "https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI",
+          "confidence": 1.0,
+          "matched": "Cyril Neville",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "apple_music": "https://music.apple.com/us/artist/preservation-hall-jazz-band/2135649",
+          "spotify": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5",
+          "confidence": 1.0,
+          "matched": "Preservation Hall Jazz Band",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": "6:30 pm",
+      "show_time": "Show: 7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/grahame-lesh-friends-san-francisco-california-02-06-2027/event/1C00655A8D238BB5?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "PRESALE 10/28",
+      "event_page": "https://billgrahamcivic.com/events/grahame-lesh-270206",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Grahame Lesh is a Marin County, California-based guitarist, singer-songwriter, bandleader, curator, and musical director whose work bridges roots rock, Americana, and the expansive improvisational tradition of the Grateful Dead universe. Best known as a founding member and co-frontperson of Midnight North, as well as for his work with Phil Lesh &amp; Friends and the Terrapin Family Band, Lesh has become a central figure in the thriving musical community that grew out of Terrapin Crossroads in San Rafael. Beyond performing, he has also emerged as a curator and creative organizer behind collaborative concerts, rotating ensemble projects, and community-driven live experiences including The Heart of Town and the Terrapin Roadshow series. Since forming Midnight North in 2012, he has toured extensively nationwide and released a substantial body of original music, including five studio albums, three live albums, and two EPs, highlighted by 2023’s Diamonds in the Zodiac , produced by Amy Helm and featuring contributions from Phil Lesh and others. Through Grahame Lesh &amp; Friends, he further explores reinterpretations of Grateful Dead material, reimagined Midnight North songs, and eclectic repertoire while bringing together musicians across generations and genres in performances centered on spontaneity, collaboration, and reinvention. His international touring with Phil Lesh ensembles has taken him to stages from Fuji Rock Festival to Newport Folk Festival, and his work remains root"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2hollis",
+          "apple_music": "https://music.apple.com/us/artist/2hollis/1535847112",
+          "spotify": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
+          "confidence": 1.0,
+          "matched": "2hollis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "lucy bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Conceal",
+          "apple_music": "https://music.apple.com/us/artist/conceal/1708822039",
+          "spotify": "https://open.spotify.com/artist/7LBljrINPLwWlPT4Ey53uL",
+          "confidence": 1.0,
+          "matched": "Conceal",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/2hollis-270306",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "2hollis is the Los Angeles-based artist, producer and songwriter at the forefront of a new generation reshaping contemporary music. Equal parts architect and avatar, he has become a defining figure in the underground-to-mainstream pipeline; an artist turning online mythology, club catharsis, and vulnerable pop instincts into a fully realized world. Pairing emotional songwriting with chest-caving production that blurs the lines of underground electronic, rap, alternative and pop, he has made an indelible mark in multiple music scenes over the past few years. His 2025 major-label debut, star, marked a pinnacle breakthrough, earning critical acclaim, tens of millions of streams and world wide shows. In the months that followed, 2hollis sold out a North American headline tour, completed two sold out European run, made his debut at major festivals including Coachella and Lollapalooza, Stereogum and Consequence ultimately named star among the best albums of the year and Pitchfork praised it as “ambitious, stadium-sized, and risky,” naming the single “Flash” as one of the 100 best songs of 2025. On the way, he’s also received praise from outlets like GQ, Rolling Stone, i-D, 032C, The Face, The New York Times, 032c, Dazed, and more. After developing his chops by making electronic music in his bedroom as a young teen, his first songs as2hollis announced a knack for reshaping a universe of influences in his image. Early projects like 2022’s WhiteTiger and 2023’s 2 established him as on"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "apple_music": "https://music.apple.com/us/artist/carly-rae-jepsen/284363062",
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju",
+          "confidence": 1.0,
+          "matched": "Carly Rae Jepsen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Carol Ades",
+          "apple_music": "https://music.apple.com/us/artist/carol-ades/1568297632",
+          "spotify": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr",
+          "confidence": 1.0,
+          "matched": "Carol Ades",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-21",
+      "doors": "6:30 pm",
+      "show_time": "Show: 7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-san-francisco-california-04-21-2027/event/1C00653EE35C5635?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/carly-rae-jepsen-270421",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "With her new double album Day and Night , Carly Rae Jepsen dreams up a world lavish enough to hold the full expanse of her identity: the hopeless romantic and eternal pragmatist, the cult icon and global phenomenon, the chameleonic songwriter equally enchanted by indie idiosyncrasy and dance-pop spectacle. Over the course of 24 heart-on-sleeve songs, the diamond-selling superstar journeys through an ornate wonderland of otherworldly spaces—secret gardens, champagne-soaked palaces, jewel-like beaches, the Moon—all while remaining grounded in the raw emotional truth that’s always defined her output. Encompassing both sun-soaked left-field pop ( Day ) and after-hours dance music ( Night ), her new studio LP depicts a transformative moment in Jepsen’s life, spanning from the early days of dating her now-husband to the thrilling threshold of motherhood. But for all its extravagant scale, Day and Night brings her closer to the heart of her artistry than ever before—ultimately revealing a self-possessed pop luminary at her most adventurous and assured. Her first new body of work since 2022’s The Loneliest Time (a Juno Award-nominated LP that landed on best-of-the-year lists from Rolling Stone, Consequence, and more), Day and Night marks the latest entry in a formidable catalog including standouts like 2015’s E*MO*TION —a culture-shaping milestone that earned massive praise from the likes of Pitchfork, who hailed it as “one of the best pop albums of the 21st century.” To create her m"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lola Young",
+          "apple_music": "https://music.apple.com/us/artist/lola-young/452271760",
+          "spotify": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH",
+          "confidence": 1.0,
+          "matched": "Lola Young",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "apple_music": "https://music.apple.com/us/artist/sofia-and-the-antoinettes/1739793027",
+          "spotify": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7",
+          "confidence": 1.0,
+          "matched": "Sofia and the Antoinettes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-01",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/lola-young-san-francisco-california-05-01-2027/event/1C006541CC7F6358?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/lola-young-270501",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Lola Young is a South London–born artist whose raw, emotionally unfiltered songwriting and rock-tinged pop have made her one of the most compelling new voices in modern music. In 2025, she crossed fully into the global mainstream with her breakout single “Messy,” a 2× Platinum cultural moment that reached #14 on the Billboard US Hot 100 and #1 on Billboard’s US Pop Airplay chart in addition to spending 4 weeks at #1 on the UK Official Singles Chart. The track has also surpassed 1 billion streams on Spotify where she boasts tens of millions of listeners. Lola&#8217;s breakout year earned her a GRAMMY award for Best Pop Solo Performance (&#8220;Messy”) and nomination for Best New Artist, as well as being selected to perform live at the Grammy Awards Ceremony. She also received a BRIT Award for ‘Breakthrough Artist’ and was one of the most nominated artists at this year&#8217;s ceremony. Already an Ivor Novello ‘Rising Star’ and following two MTV VMA nods for Best New Artist and Best Alternative Video, the momentum has cemented Young’s evolution from breakthrough artist to chart-topping force. Lola Young’s latest studio album, I’m Only F**king Myself, further solidifies her reputation as a fearless storyteller. The album is a gut-punch of a record &#8212; unflinchingly personal, full of grit, and loaded with anthems about self-sabotage, empowerment, and resilience. Through its uncompromising honesty, Lola continues to redefine what pop can sound and feel like."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fontaines D.C",
+          "apple_music": "https://music.apple.com/us/artist/fontaines-d-c/1341828470",
+          "spotify": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6",
+          "confidence": 0.9,
+          "matched": "Fontaines D.C.",
+          "apple_label": "close match: Fontaines D.C.",
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Westside Cowboy",
+          "apple_music": "https://music.apple.com/us/artist/westside-cowboy/1798933328",
+          "spotify": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2",
+          "confidence": 1.0,
+          "matched": "Westside Cowboy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-12",
+      "doors": "7:00 pm",
+      "show_time": "Show: 8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "Sold Out!",
+      "event_page": "https://billgrahamcivic.com/events/fontaines-dc-270512",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 19,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 43,
+      "found": 41,
+      "exact": 39,
+      "close": 0,
+      "flagged": 2,
+      "not_found": 2
+    },
+    "spotify": {
+      "unique_artists": 43,
+      "linked": 42,
+      "venue": 39,
+      "api": 3,
+      "feed": 0,
+      "shows_with_link": 19
+    }
+  }
+}
