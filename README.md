@@ -1,6 +1,6 @@
 # HeadlinerListings — show-data feed for the Headliners iOS app
 
-One `shows.json` per venue (21 venues) + a `manifest.json` the app fetches
+One `shows.json` per venue (22 venues) + a `manifest.json` the app fetches
 first. Every file is regenerated nightly by the headliners pipeline
 (`~/.hermes/projects/headliners`) from each venue's scraped calendar.
 The venue list grows over time — **trust `manifest.json`**, not this number.
@@ -84,7 +84,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 - **Link presence IS the match signal.** An artist has an Apple Music link
   iff a confident catalog match was found (below the 0.80 link floor it is
   honest null + an `apple_label`). An artist with no Apple link may still
-  carry a Spotify link (25 of 973 unique do). For "does this act have *any*"
+  carry a Spotify link (27 of 1,017 unique do). For "does this act have *any*"
   link", test `apple_music != null || spotify != null`. (Counts are
   approximate — the nightly feed keeps growing; `manifest.json` + each file's
   `stats` block are the authoritative totals.)
