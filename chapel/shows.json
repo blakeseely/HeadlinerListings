@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 45,
+  "scraped_at": "2026-10-29",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "An Evening With Theo Katzman (Solo)",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Theo Katzman @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1986,21 +1955,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 90,
+      "unique_artists": 89,
       "found": 64,
       "exact": 55,
       "close": 3,
       "flagged": 6,
-      "not_found": 26
+      "not_found": 25
     },
     "spotify": {
-      "unique_artists": 90,
+      "unique_artists": 89,
       "linked": 63,
       "venue": 0,
       "api": 63,

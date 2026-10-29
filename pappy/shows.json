@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 61,
+  "scraped_at": "2026-10-29",
+  "count": 60,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Cardinal Bloom",
-          "apple_music": "https://music.apple.com/us/artist/cardinal-bloom/1468351269",
-          "spotify": "https://open.spotify.com/artist/1kL35cnfsVSfKJ6xLk0K9f",
-          "confidence": 1.0,
-          "matched": "Cardinal Bloom",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Holdfast",
-          "apple_music": "https://music.apple.com/us/artist/holdfast/995315953",
-          "spotify": "https://open.spotify.com/artist/7uYbNsw5KmyikVyKuTxRy6",
-          "confidence": 1.0,
-          "matched": "Holdfast",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/cardinal-bloom/695961",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/cardinal-bloom/695961",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2357,26 +2313,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 61,
+      "music": 60,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 93,
-      "found": 89,
-      "exact": 86,
+      "unique_artists": 91,
+      "found": 87,
+      "exact": 84,
       "close": 0,
       "flagged": 3,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 93,
-      "linked": 86,
+      "unique_artists": 91,
+      "linked": 84,
       "venue": 0,
-      "api": 86,
+      "api": 84,
       "feed": 0,
-      "shows_with_link": 59
+      "shows_with_link": 58
     }
   }
 }

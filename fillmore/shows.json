@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 35,
+  "scraped_at": "2026-10-29",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Slow Pulp",
-          "apple_music": "https://music.apple.com/us/artist/slow-pulp/1247711013",
-          "spotify": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D",
-          "confidence": 1.0,
-          "matched": "Slow Pulp",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "snuggle",
-          "apple_music": "https://music.apple.com/us/artist/snuggle/1685147983",
-          "spotify": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa",
-          "confidence": 1.0,
-          "matched": "Snuggle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-28-2026/event/1C0064E690EF7D86",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-28-2026/event/1C0064E690EF7D86",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1393,26 +1351,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 50,
-      "found": 47,
-      "exact": 46,
+      "unique_artists": 48,
+      "found": 45,
+      "exact": 44,
       "close": 0,
       "flagged": 1,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 50,
-      "linked": 48,
+      "unique_artists": 48,
+      "linked": 46,
       "venue": 0,
-      "api": 48,
+      "api": 46,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

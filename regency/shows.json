@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 39,
+  "scraped_at": "2026-10-29",
+  "count": 38,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Shyne",
-          "apple_music": "https://music.apple.com/us/artist/shyne/7197315",
-          "spotify": "https://open.spotify.com/artist/64ovxBmjJ9ZDqkzEXVWpVc",
-          "confidence": 1.0,
-          "matched": "Shyne",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "feed"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Barrington Levy",
-          "apple_music": "https://music.apple.com/us/artist/barrington-levy/308133",
-          "spotify": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u",
-          "confidence": 1.0,
-          "matched": "Barrington Levy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Lil' Cease",
-          "apple_music": "https://music.apple.com/us/artist/lil-cease/155465",
-          "spotify": "https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g",
-          "confidence": 1.0,
-          "matched": "Lil' Cease",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "feed"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "2622 LGND Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAAD88iPHAgAAAACG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "cancelled",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1528366",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1680,26 +1626,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39,
+      "music": 38,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
-      "found": 64,
-      "exact": 63,
+      "unique_artists": 63,
+      "found": 61,
+      "exact": 60,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 66,
-      "linked": 64,
+      "unique_artists": 63,
+      "linked": 61,
       "venue": 0,
-      "api": 58,
-      "feed": 6,
-      "shows_with_link": 38
+      "api": 57,
+      "feed": 4,
+      "shows_with_link": 37
     }
   }
 }

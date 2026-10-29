@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 95,
+  "scraped_at": "2026-10-29",
+  "count": 94,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Freak Slug",
-          "apple_music": "https://music.apple.com/us/artist/freak-slug/1350932089",
-          "spotify": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS",
-          "confidence": 1.0,
-          "matched": "Freak Slug",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Mamalarky",
-          "apple_music": "https://music.apple.com/us/artist/mamalarky/1266061822",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Mamalarky",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "AMULET TOUR NA",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/freak-slug-the-independent-tickets/14234574?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/freak-slug/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3585,26 +3543,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 95,
+      "music": 94,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 138,
-      "found": 128,
-      "exact": 121,
+      "unique_artists": 136,
+      "found": 126,
+      "exact": 119,
       "close": 3,
       "flagged": 4,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 138,
-      "linked": 90,
-      "venue": 90,
+      "unique_artists": 136,
+      "linked": 89,
+      "venue": 89,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 78
+      "shows_with_link": 77
     }
   }
 }

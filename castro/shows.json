@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 73,
+  "scraped_at": "2026-10-29",
+  "count": 72,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fred Armisen",
-          "apple_music": "https://music.apple.com/us/artist/fred-armisen/1822636918",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Fred Armisen",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Comedy For Musicians But Everyone Is Welcome",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/fred-armisen-261028",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Three Nights!",
-      "description": "Fred Armisen is a comedian, writer, producer, and musician. He is the co-writer and co-star of IFC’s Emmy-nominated series Portlandia. He is in the hit Netflix series Wednesday as Uncle Fester. He stars in HBO’s Los Espookys, which he co-wrote and executive produced. He can also be heard in the hit animated Super Mario Bros movie. Armisen stars in, writes, and produces IFC’s hit show Documentary Now. He has also appeared in HBO’s Our Flag Means Death, Judd Apatow’s The Bubble, and Amazon’s series Forever. He voices characters in Big Mouth and The Mitchells vs. The Machines. He is currently starring in the Broadway play All In. Armisen is an 11-season veteran of Saturday Night Live. From 2014-2024, Armisen was band leader of the 8G Band on Late Night With Seth Meyers"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2547,20 +2516,20 @@
   "stats": {
     "event_types": {
       "music": 55,
-      "comedy": 5,
+      "comedy": 4,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 84,
-      "found": 64,
-      "exact": 58,
+      "unique_artists": 83,
+      "found": 63,
+      "exact": 57,
       "close": 2,
       "flagged": 4,
       "not_found": 20
     },
     "spotify": {
-      "unique_artists": 84,
+      "unique_artists": 83,
       "linked": 51,
       "venue": 51,
       "api": 0,

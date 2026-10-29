@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 46,
+  "scraped_at": "2026-10-29",
+  "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "We Are Scientists",
-          "apple_music": "https://music.apple.com/us/artist/we-are-scientists/73501457",
-          "spotify": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7",
-          "confidence": 1.0,
-          "matched": "We Are Scientists",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Soft Contact",
-          "apple_music": "https://music.apple.com/us/artist/soft-contact/1713905092",
-          "spotify": "https://open.spotify.com/artist/4Dm0VMce3LJjJAHvDeYI1u",
-          "confidence": 1.0,
-          "matched": "Soft Contact",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Rickshaw Stop + Popscene co-present"
-      ],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/we-are-scientists/694279",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/we-are-scientists/694279",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1546,26 +1502,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 45,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 53,
-      "found": 45,
-      "exact": 44,
+      "unique_artists": 51,
+      "found": 43,
+      "exact": 42,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 47,
+      "unique_artists": 51,
+      "linked": 45,
       "venue": 0,
-      "api": 47,
+      "api": 45,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 40
     }
   }
 }

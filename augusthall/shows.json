@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-28",
-  "count": 36,
+  "scraped_at": "2026-10-29",
+  "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ax and the Hatchetmen",
-          "apple_music": "https://music.apple.com/us/artist/ax-and-the-hatchetmen/1471855465",
-          "spotify": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9",
-          "confidence": 1.0,
-          "matched": "Ax and the Hatchetmen",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Late Checkout Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-28",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/ax-and-the-hatchetmen-the-late-san-francisco-california-10-28-2026/event/1C0064ABAD33F4FD",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/ax-and-the-hatchetmen-the-late-checkout-tour-2026/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1179,26 +1148,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 35,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 32,
-      "exact": 32,
+      "unique_artists": 35,
+      "found": 31,
+      "exact": 31,
       "close": 0,
       "flagged": 0,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 31,
+      "unique_artists": 35,
+      "linked": 30,
       "venue": 0,
-      "api": 31,
+      "api": 30,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }
