@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 45,
+  "scraped_at": "2026-10-30",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Tubs",
-          "apple_music": "https://music.apple.com/us/artist/the-tubs/1573310639",
-          "spotify": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9",
-          "confidence": 1.0,
-          "matched": "The Tubs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Touch Girl Apple Blossom",
-          "apple_music": "https://music.apple.com/us/artist/touch-girl-apple-blossom/1704292600",
-          "spotify": "https://open.spotify.com/artist/3QyNjpJ4iu2a3iWMQrDK4D",
-          "confidence": 1.0,
-          "matched": "Touch Girl Apple Blossom",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Dusty Slims",
-          "apple_music": "https://music.apple.com/us/artist/dusty-slims/1807411161",
-          "spotify": "https://open.spotify.com/artist/1ekXcCgMMe6vsOnTi8DyHS",
-          "confidence": 1.0,
-          "matched": "Dusty Slims",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "rickshaw stop + popscene co-present"
-      ],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-tubs/696006",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/the-tubs/696006",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1502,26 +1448,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 51,
-      "found": 43,
-      "exact": 42,
+      "unique_artists": 48,
+      "found": 40,
+      "exact": 39,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 51,
-      "linked": 45,
+      "unique_artists": 48,
+      "linked": 42,
       "venue": 0,
-      "api": 45,
+      "api": 42,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 39
     }
   }
 }

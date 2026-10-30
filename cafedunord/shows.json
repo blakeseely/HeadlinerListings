@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 46,
+  "scraped_at": "2026-10-30",
+  "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Francis of Delirium",
-          "apple_music": "https://music.apple.com/us/artist/francis-of-delirium/1485902996",
-          "spotify": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif",
-          "confidence": 1.0,
-          "matched": "Francis of Delirium",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "swell foop",
-          "apple_music": "https://music.apple.com/us/artist/swell-foop/1652702280",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Swell Foop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/francis-of-delirium-with-swell-cafe-du-nord-tickets/14859953?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-10-29-francis-of-delirium",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Taking 90s US college rock influences and the majesty of Sufjan Stevens as the start point, her band are now known for euphoric music that breathes life into rock from a Gen Z perspective. Stereogum summed her up perfectly when saying \"There’s a bit of Pixies and Snail Mail and The Beths in there, and maybe some Lomelda and Lucy Dacus and Built To Spill. You know, that really f*cking good sh*t.”…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -475,39 +431,6 @@
       "age_rating": "All ages",
       "note": null,
       "description": "Born and raised in Orlando, 454 was exposed to every genre, which shaped his musical palette and led him to FL Studio. He’d skate by day and make beats by night, honing his technical skills. His debut project 4 REAL (2021) is his first complete body of work and the perfect introduction to 454. Since 4 REAL became the soundtrack to Homer, Frank Ocean’s new luxury brand, 454 toured the country…"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Wyatt Waddell",
-          "apple_music": "https://music.apple.com/us/artist/wyatt-waddell/1216759666",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Wyatt Waddell",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/wyatt-waddell-cafe-du-nord-tickets/14935233?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-12-wyatt-waddell",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Wyatt Waddell is a 29-year-old singer, songwriter, and multi-instrumentalist from Chicago, known for his intricate melodies, electrifying stage presence, and dynamic vocal range, stretching from the raw soul of Mavis Staples to the melodic precision of Paul McCartney. Raised just steps from the famed O-Block, Waddell grew up surrounded by a rich sonic landscape, shaped by the storytelling of The…"
     },
     {
       "event_type": "music",
@@ -981,6 +904,39 @@
       "age_rating": "All ages",
       "note": null,
       "description": "Since 2018, Youth Fountain have carved out a lasting presence within the pop-punk and emo/hardcore scenes. The project is led by singer/songwriter Tyler Zanon, whose emotionally raw songwriting blends classic emo with modern sensibilities, a gut-punch of sincerity, equal parts vulnerable and anthemic. The band has toured alongside Four Year Strong, Free Throw, Knuckle Puck, Hawthorne Heights…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jon Bryant",
+          "apple_music": "https://music.apple.com/us/artist/jon-bryant/341294359",
+          "spotify": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L",
+          "confidence": 1.0,
+          "matched": "Jon Bryant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Cafe du Nord presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": "on sale soon",
+      "event_page": "https://cafedunord.com/shows/2027-01-27-jon-bryant",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": "Canadian indie-folk singer-songwriter Jon Bryant blends warm acoustic melodies, soulful vocals, and deeply personal storytelling into music that feels both intimate and timeless. With five albums under his belt, his forthcoming release Harbour marks a return to his folk roots, delivering heartfelt songs about love, connection, and finding your way home."
     },
     {
       "event_type": "music",
@@ -1721,7 +1677,7 @@
       "date": "2027-04-23",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/alex-sampson-cafe-du-nord-tickets/14353524?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/alex-sampson-sold-out-cafe-du-nord-tickets/14353524?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "waitlist",
       "event_page": "https://cafedunord.com/shows/2027-04-23-alex-sampson",
       "room": null,
@@ -1765,21 +1721,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 45,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 63,
-      "exact": 59,
+      "unique_artists": 62,
+      "found": 61,
+      "exact": 57,
       "close": 2,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 64,
+      "unique_artists": 62,
       "linked": 41,
       "venue": 41,
       "api": 0,

@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 38,
+  "scraped_at": "2026-10-30",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "bleood",
-          "apple_music": "https://music.apple.com/us/artist/bleood/1744999836",
-          "spotify": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1",
-          "confidence": 1.0,
-          "matched": "bleood",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "feed"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "KILL YOUR IDOLS TOUR",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546695744",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1575409",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1626,26 +1593,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 37,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 61,
-      "exact": 60,
+      "unique_artists": 62,
+      "found": 60,
+      "exact": 59,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 63,
-      "linked": 61,
+      "unique_artists": 62,
+      "linked": 60,
       "venue": 0,
       "api": 57,
-      "feed": 4,
-      "shows_with_link": 37
+      "feed": 3,
+      "shows_with_link": 36
     }
   }
 }

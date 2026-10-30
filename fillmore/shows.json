@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Dilated Peoples",
-          "apple_music": "https://music.apple.com/us/artist/dilated-peoples/555819",
-          "spotify": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq",
-          "confidence": 1.0,
-          "matched": "Dilated Peoples",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Coyote",
-          "apple_music": "https://music.apple.com/us/artist/coyote/1488008155",
-          "spotify": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD",
-          "confidence": 1.0,
-          "matched": "Coyote",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "DJ Shortkut",
-          "apple_music": "https://music.apple.com/us/artist/dj-shortkut/118298011",
-          "spotify": "https://open.spotify.com/artist/2qgMfvEu83kV5xmoxOJx6R",
-          "confidence": 1.0,
-          "matched": "DJ Shortkut",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/dilated-peoples-san-francisco-california-10-29-2026/event/1C00648F95D78073",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/dilated-peoples-san-francisco-california-10-29-2026/event/1C00648F95D78073",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1347,6 +1295,37 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ibeyi",
+          "apple_music": "https://music.apple.com/us/artist/ibeyi/889982798",
+          "spotify": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa",
+          "confidence": 1.0,
+          "matched": "Ibeyi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/ibeyi-san-francisco-california-01-27-2027/event/1C0064CCA329E28F",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/ibeyi-san-francisco-california-01-27-2027/event/1C0064CCA329E28F",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1357,18 +1336,18 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 48,
-      "found": 45,
-      "exact": 44,
+      "unique_artists": 46,
+      "found": 43,
+      "exact": 42,
       "close": 0,
       "flagged": 1,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 48,
-      "linked": 46,
+      "unique_artists": 46,
+      "linked": 44,
       "venue": 0,
-      "api": 46,
+      "api": 44,
       "feed": 0,
       "shows_with_link": 32
     }

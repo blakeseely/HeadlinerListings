@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "count": 12,
   "shows": [
     {
@@ -259,8 +259,59 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "TopOppGen",
+          "apple_music": "https://music.apple.com/us/artist/topoppgen/1618032634",
+          "spotify": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye",
+          "confidence": 1.0,
+          "matched": "TopOppGen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "K Suave",
+          "apple_music": "https://music.apple.com/us/artist/k-suave/1444773170",
+          "spotify": "https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7",
+          "confidence": 1.0,
+          "matched": "K Suave",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "BalloutDaDon",
+          "apple_music": "https://music.apple.com/us/artist/balloutdadon/1845951829",
+          "spotify": "https://open.spotify.com/artist/0Q0eEAPVfqb60UCvlPRrgQ",
+          "confidence": 1.0,
+          "matched": "BalloutDaDon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Gigi Holland",
+          "apple_music": "https://music.apple.com/us/artist/gigi-holland/1880998537",
+          "spotify": "https://open.spotify.com/artist/6YGQk0Z4QtZs3fqwLTTK29",
+          "confidence": 1.0,
+          "matched": "Gigi Holland",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Goldie",
+          "apple_music": "https://music.apple.com/us/artist/goldie/615459457",
+          "spotify": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M",
+          "confidence": 1.0,
+          "matched": "Goldie",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "The NDA Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -558,18 +609,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 23,
-      "found": 20,
-      "exact": 19,
+      "unique_artists": 28,
+      "found": 25,
+      "exact": 24,
       "close": 1,
       "flagged": 0,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 23,
-      "linked": 23,
+      "unique_artists": 28,
+      "linked": 28,
       "venue": 0,
-      "api": 23,
+      "api": 28,
       "feed": 0,
       "shows_with_link": 12
     }

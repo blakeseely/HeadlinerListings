@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "count": 4,
   "shows": [
     {
@@ -53,7 +53,18 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "DSharp",
+          "apple_music": "https://music.apple.com/us/artist/dsharp/1027511631",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "DSharp",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": true,
       "show_title": "Celebrating 30 years of The Score",
       "presenters": [],
@@ -203,15 +214,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 7,
-      "found": 6,
-      "exact": 5,
+      "unique_artists": 8,
+      "found": 7,
+      "exact": 6,
       "close": 1,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 7,
+      "unique_artists": 8,
       "linked": 5,
       "venue": 5,
       "api": 0,

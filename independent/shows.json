@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 94,
+  "scraped_at": "2026-10-30",
+  "count": 96,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Patrick Wolf",
-          "apple_music": "https://music.apple.com/us/artist/patrick-wolf/47186267",
-          "spotify": "https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE",
-          "confidence": 1.0,
-          "matched": "Patrick Wolf",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Abhora",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.714,
-          "matched": null,
-          "apple_label": "no confident match (closest: 8D Ahora @ 71%)",
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/patrick-wolf-the-independent-tickets/14993743?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/patrick-wolf/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -464,18 +422,7 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [
-        {
-          "name": "Agouti",
-          "apple_music": "https://music.apple.com/us/artist/agouti/1225704392",
-          "spotify": "https://open.spotify.com/artist/2uP37LquK0LNeqlL4YJiri",
-          "confidence": 1.0,
-          "matched": "Agouti",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
+      "support_artists": [],
       "multi_artist": false,
       "show_title": "\"Show Me\" Album Release",
       "presenters": [],
@@ -1332,6 +1279,37 @@
       "ticket_link": "https://www.ticketweb.com/event/fireworks-the-independent-tickets/14256724?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/fireworks/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lazer Dim 700",
+          "apple_music": "https://music.apple.com/us/artist/lazer-dim-700/1608411300",
+          "spotify": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U",
+          "confidence": 1.0,
+          "matched": "LAZER DIM 700",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Winter Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-07",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/lazer-dim-700-the-independent-tickets/14404834?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/lazer-dim-700/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2400,15 +2378,15 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two-Day Pass",
+      "show_title": "Two Nights",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/two-gallants-two-day-pass-the-independent-tickets/14403104?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2431,15 +2409,15 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two Nights",
+      "show_title": "Two-Day Pass",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/two-gallants-the-independent-tickets/14402944?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2468,7 +2446,7 @@
       "date": "2027-02-11",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/two-gallants-the-independent-tickets/14403084?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-2/",
       "room": null,
@@ -2533,6 +2511,48 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/ikkimel/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CODEFENDANTS",
+          "apple_music": "https://music.apple.com/us/artist/codefendants/1656143063",
+          "spotify": "https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe",
+          "confidence": 1.0,
+          "matched": "Codefendants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jakob Nowell and THE CASTLE",
+          "apple_music": "https://music.apple.com/us/artist/jakob-nowell/1019212666",
+          "spotify": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro",
+          "confidence": 0.8,
+          "matched": "Jakob Nowell",
+          "apple_label": "compound bill — links to Jakob Nowell only",
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-17",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/codefendants-jakob-nowell-and-the-independent-tickets/14405314?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/codefendants-jakob-nowell-and-the-castle/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3127,6 +3147,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Worldpeace DMT",
+          "apple_music": "https://music.apple.com/us/artist/worldpeace-dmt/1769361394",
+          "spotify": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV",
+          "confidence": 1.0,
+          "matched": "Worldpeace DMT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-28",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/worldpeace-dmt-the-independent-tickets/15051103?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/worldpeace-dmt/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Dogpark",
           "apple_music": "https://music.apple.com/us/artist/dogpark/1710263796",
           "spotify": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7",
@@ -3543,26 +3594,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 94,
+      "music": 96,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 136,
-      "found": 126,
-      "exact": 119,
+      "unique_artists": 137,
+      "found": 128,
+      "exact": 120,
       "close": 3,
-      "flagged": 4,
-      "not_found": 10
+      "flagged": 5,
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 136,
-      "linked": 89,
-      "venue": 89,
+      "unique_artists": 137,
+      "linked": 91,
+      "venue": 91,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 77
+      "shows_with_link": 79
     }
   }
 }

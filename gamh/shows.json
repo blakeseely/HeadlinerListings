@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 20,
+  "scraped_at": "2026-10-30",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Desire",
-          "apple_music": "https://music.apple.com/us/artist/desire/65513031",
-          "spotify": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0",
-          "confidence": 1.0,
-          "matched": "Desire",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.tenderloinmusichall.com/events/desire-29-october-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.tenderloinmusichall.com/events/desire-29-october-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": "From $51",
-      "description": "Get ready for a night of top notch music with Desire at The Great American..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -667,30 +636,92 @@
       "age_rating": null,
       "note": "From $41",
       "description": "With that said, if you live in San Francisco grab hold of something because this..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Faun",
+          "apple_music": "https://music.apple.com/us/artist/faun/61412380",
+          "spotify": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE",
+          "confidence": 1.0,
+          "matched": "Faun",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-27",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8341538/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8341538/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $84",
+      "description": "Faun at Great American Music Hall on Tuesday 27th April 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Yendry",
+          "apple_music": "https://music.apple.com/us/artist/yendry/380610071",
+          "spotify": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw",
+          "confidence": 1.0,
+          "matched": "Yendry",
+          "apple_label": null,
+          "spotify_label": "close match: YEИDRY",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-21",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8335226/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8335226/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $55",
+      "description": "Yendry at Great American Music Hall on Friday 21st May 2027 in San Francisco..."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 21,
-      "found": 21,
-      "exact": 18,
+      "unique_artists": 22,
+      "found": 22,
+      "exact": 19,
       "close": 0,
       "flagged": 3,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 21,
-      "linked": 21,
+      "unique_artists": 22,
+      "linked": 22,
       "venue": 0,
-      "api": 21,
+      "api": 22,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 21
     }
   }
 }

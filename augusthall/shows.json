@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 35,
+  "scraped_at": "2026-10-30",
+  "count": 37,
   "shows": [
     {
       "event_type": "music",
@@ -353,14 +353,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Jamila Woods",
-          "apple_music": "https://music.apple.com/us/artist/jamila-woods/999077974",
-          "spotify": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B",
-          "confidence": 1.0,
-          "matched": "Jamila Woods",
+          "name": "[MOVED TO THE RICKHSAW STOP] Jamila Woods",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Jamila Woods @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -371,7 +371,7 @@
       "date": "2026-11-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/jamila-woods-10-years-of-heavn-san-francisco-california-11-18-2026/event/1C006505B4884946",
+      "ticket_link": null,
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/jamila-woods-10-years-of-heavn/",
       "room": null,
@@ -756,6 +756,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Elefante",
+          "apple_music": "https://music.apple.com/us/artist/elefante/7046239",
+          "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb",
+          "confidence": 1.0,
+          "matched": "Elefante",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Tour 30 Aniversario",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/elefante-tour-30-aniversario-san-francisco-california-02-20-2027/event/1C00655BE0C8C92D",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/elefante-tour-30-aniversario/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "James Marriott",
           "apple_music": "https://music.apple.com/us/artist/james-marriott/458203329",
           "spotify": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL",
@@ -839,6 +870,37 @@
       "ticket_link": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-san-francisco-california-03-09-2027/event/1C00654FBF94108F",
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/49-winchester-change-of-plans-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Penelope Road",
+          "apple_music": "https://music.apple.com/us/artist/penelope-road/1742324131",
+          "spotify": "https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH",
+          "confidence": 1.0,
+          "matched": "Penelope Road",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/penelope-road-san-francisco-california-03-11-2027/event/1C0065551DF224FA",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/penelope-road/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1148,26 +1210,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 37,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 31,
-      "exact": 31,
+      "unique_artists": 37,
+      "found": 32,
+      "exact": 32,
       "close": 0,
       "flagged": 0,
-      "not_found": 4
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 30,
+      "unique_artists": 37,
+      "linked": 31,
       "venue": 0,
-      "api": 30,
+      "api": 31,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 33
     }
   }
 }

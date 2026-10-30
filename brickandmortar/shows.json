@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Hayden Everett",
-          "apple_music": "https://music.apple.com/us/artist/hayden-everett/1465086443",
-          "spotify": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc",
-          "confidence": 1.0,
-          "matched": "Hayden Everett",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Jackson Lundy",
-          "apple_music": "https://music.apple.com/us/artist/jackson-lundy/1215966667",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Jackson Lundy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/hayden-everett-jackson-lundy-brick-and-mortar-music-hall-tickets/15030633?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/hayden-everett/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -832,7 +790,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Bobbing",
+          "apple_music": "https://music.apple.com/us/artist/bobbing/1468237709",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Bobbing",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "The 'Filters' Tour",
       "presenters": [],
@@ -861,9 +830,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "J. Jaxx",
           "apple_music": "https://music.apple.com/us/artist/j-jaxx/1722578161",
@@ -885,16 +852,48 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "support_artists": [],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
       "doors": "9:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/veggi-j-jaxx-tripleset-brick-and-mortar-music-hall-tickets/14371094?pl=bnm&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/veggi-j-jaxx-brick-and-mortar-music-hall-tickets/14371094?pl=bnm&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/veggi/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ovrkast",
+          "apple_music": "https://music.apple.com/us/artist/ovrkast/1451547526",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ovrkast",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Still Striking Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/ovrkast-still-striking-tour-brick-and-mortar-music-hall-tickets/14343104?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/ovrkast-still-striking-tour/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -918,11 +917,11 @@
     },
     "spotify": {
       "unique_artists": 43,
-      "linked": 20,
-      "venue": 20,
+      "linked": 19,
+      "venue": 19,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 14
+      "shows_with_link": 13
     }
   }
 }

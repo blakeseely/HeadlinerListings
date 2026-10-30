@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 72,
+  "scraped_at": "2026-10-30",
+  "count": 71,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Daði Freyr",
-          "apple_music": "https://music.apple.com/us/artist/da%C3%B0i-freyr/1256781645",
-          "spotify": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL",
-          "confidence": 1.0,
-          "matched": "Daði Freyr",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "BRÍET",
-          "apple_music": "https://music.apple.com/us/artist/br%C3%ADet/1339902568",
-          "spotify": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx",
-          "confidence": 1.0,
-          "matched": "BRÍET",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/dai-freyr-too-much-not-enough-san-francisco-california-10-29-2026/event/1C006476AD559439?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/dadi-freyr-261029",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Too Much, Not Enough",
-      "description": "Icelandic singer, songwriter and producer Daði Freyr is one of modern pop’s most electrifying live acts. Known for his infectious synth-pop, self-built instruments, and hand-crafted visuals, his shows are intimate, unpredictable, and genuinely communal experiences. He rose to global fame with his viral hit “Think About Things” and returns with his new album Too Much, Not Enough, out May 8th. Don’t miss him this autumn on his US & Canada tour"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1819,7 +1777,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/portugal-the-man-in-the-mountain-san-francisco-california-01-23-2027/event/1C006557ED9E2027?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/portugal-the-man-270123",
       "room": null,
       "age_rating": null,
@@ -2018,7 +1976,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-san-francisco-california-02-26-2027/event/1C006553E0249B43?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/ashe-270226",
       "room": null,
       "age_rating": null,
@@ -2515,26 +2473,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 54,
       "comedy": 4,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 83,
-      "found": 63,
-      "exact": 57,
+      "unique_artists": 81,
+      "found": 61,
+      "exact": 55,
       "close": 2,
       "flagged": 4,
       "not_found": 20
     },
     "spotify": {
-      "unique_artists": 83,
-      "linked": 51,
-      "venue": 51,
+      "unique_artists": 81,
+      "linked": 49,
+      "venue": 49,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

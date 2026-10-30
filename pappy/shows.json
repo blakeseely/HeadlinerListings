@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-29",
-  "count": 60,
+  "scraped_at": "2026-10-30",
+  "count": 62,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jay Webb",
-          "apple_music": "https://music.apple.com/us/artist/jay-webb/1587603069",
-          "spotify": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk",
-          "confidence": 1.0,
-          "matched": "Jay Webb",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lil Man J",
-          "apple_music": "https://music.apple.com/us/artist/lil-man-j/1489505329",
-          "spotify": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H",
-          "confidence": 1.0,
-          "matched": "Lil Man J",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-10-29",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jay-webb/695132",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/jay-webb/695132",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -132,7 +88,7 @@
       "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/desire-w-mothermary-johnny-jewel/692365",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -300,8 +256,8 @@
       ],
       "set_format": null,
       "date": "2026-11-04",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/inner-wave/699757",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/inner-wave/699757",
@@ -1571,10 +1527,33 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "The Sibleys",
+          "apple_music": "https://music.apple.com/us/artist/the-sibleys/210184159",
+          "spotify": "https://open.spotify.com/artist/1GGvD2xbk4MCxhLmuxngJ3",
+          "confidence": 1.0,
+          "matched": "The Sibleys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Stone Levitation",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Levitation @ 77%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2026-12-20",
       "doors": "8:00 pm",
@@ -1583,7 +1562,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/karma-dealers/708131",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1605,7 +1584,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2026-12-27",
       "doors": "8:00 pm",
@@ -1614,7 +1595,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/dustbowl-revival/706202",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1809,6 +1790,99 @@
       "ticket_link": "https://wl.seetickets.us/event/black-flag/706249",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/black-flag/706249",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Leroy from the North",
+          "apple_music": "https://music.apple.com/us/artist/leroy-from-the-north/1202874240",
+          "spotify": "https://open.spotify.com/artist/44MlC408LJEgMgNHXSR348",
+          "confidence": 1.0,
+          "matched": "Leroy from the North",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-09",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/leroy-from-the-north/709579",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/leroy-from-the-north/709579",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "\"Guitars & Desert Stars II\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DESERT STAR @ 58%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "Local Night!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/guitars-and-desert-stars-ii-local-night/709466",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/guitars-and-desert-stars-ii-local-night/709466",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An evening with: The English Beat",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The English Beat @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/an-evening-with-the-english-beat/709236",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/an-evening-with-the-english-beat/709236",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2313,21 +2387,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 60,
+      "music": 62,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 91,
+      "unique_artists": 94,
       "found": 87,
       "exact": 84,
       "close": 0,
       "flagged": 3,
-      "not_found": 4
+      "not_found": 7
     },
     "spotify": {
-      "unique_artists": 91,
+      "unique_artists": 94,
       "linked": 84,
       "venue": 0,
       "api": 84,
