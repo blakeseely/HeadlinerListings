@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 34,
+  "scraped_at": "2026-10-31",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Shpongle",
-          "apple_music": "https://music.apple.com/us/artist/shpongle/4695467",
-          "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ",
-          "confidence": 1.0,
-          "matched": "Shpongle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Mindex",
-          "apple_music": "https://music.apple.com/us/artist/mindex/295430906",
-          "spotify": "https://open.spotify.com/artist/5phtqjlFDgASSXJRKaPol1",
-          "confidence": 1.0,
-          "matched": "Mindex",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Cosmic Trigger",
-          "apple_music": "https://music.apple.com/us/artist/cosmic-trigger/1325127030",
-          "spotify": "https://open.spotify.com/artist/3J3vEokYWXQnaSa4YlBU8Y",
-          "confidence": 1.0,
-          "matched": "Cosmic Trigger",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "ft. Visuals by Jonathan Singer & Glass Crane and Live Floral Art by Anthony Ward",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/shpongle-261030",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Simon Posford is a pioneering force in psychedelic electronic music, shaping generations of artists through his groundbreaking work as Hallucinogen and SHPONGLE. His early releases Twisted and The Lone Deranger helped define the global psytrance movement, while SHPONGLE reimagined electronic music into a genre-defying fusion of ambient, world, and psychedelic sound. Today, SHPONGLE (Simon Posford Live) is a rare, fully immersive experience—blending live instrumentation, cutting-edge production, and deep improvisation. Described as the “Psychedelic Olympics,” his performances push the boundaries of music and sensory experience. His 2025 tour sold out across every city, including multi-night runs in New York, Denver, and San Francisco. A true pioneer, Posford continues to redefine what live electronic music can be."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1286,26 +1224,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 39,
-      "exact": 38,
+      "unique_artists": 39,
+      "found": 38,
+      "exact": 37,
       "close": 1,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 38,
-      "venue": 38,
+      "unique_artists": 39,
+      "linked": 37,
+      "venue": 37,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

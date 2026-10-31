@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 45,
+  "scraped_at": "2026-10-31",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lime Garden",
-          "apple_music": "https://music.apple.com/us/artist/lime-garden/1556476728",
-          "spotify": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o",
-          "confidence": 1.0,
-          "matched": "Lime Garden",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Whalefall",
-          "apple_music": "https://music.apple.com/us/artist/whalefall/1864424522",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Whalefall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/lime-garden-with-whalefall-sold-cafe-du-nord-tickets/14781133?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "waitlist",
-      "event_page": "https://cafedunord.com/shows/2026-10-30-lime-garden",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "With each release, Lime Garden continue to further their reputation as ‘ones to watch’ - with a host of tips behind them from NME to The Independent, BBC 6music to KEXP, and even Johnny Marr to Hayley Williams. Across Maybe Not Tonight, the exhilarating second album from Lime Garden (released via So Young Records), the intensity of the Brighton four-piece’s writing winds itself into bolts from…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1721,26 +1677,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 62,
-      "found": 61,
-      "exact": 57,
+      "unique_artists": 60,
+      "found": 59,
+      "exact": 55,
       "close": 2,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 62,
-      "linked": 41,
-      "venue": 41,
+      "unique_artists": 60,
+      "linked": 40,
+      "venue": 40,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 40
     }
   }
 }

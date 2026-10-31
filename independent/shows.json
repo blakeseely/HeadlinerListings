@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 96,
+  "scraped_at": "2026-10-31",
+  "count": 95,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "High Step Society",
-          "apple_music": "https://music.apple.com/us/artist/high-step-society/1239872080",
-          "spotify": "https://open.spotify.com/artist/6IyotS9yw327fKUu94R1jZ",
-          "confidence": 1.0,
-          "matched": "High Step Society",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "HABITAAT",
-          "apple_music": "https://music.apple.com/us/artist/habitaat/1377864369",
-          "spotify": "https://open.spotify.com/artist/2ZHWY8T51vTXN0Ott4FAHC",
-          "confidence": 1.0,
-          "matched": "Habitaat",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/high-step-society-the-independent-tickets/14202524?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/high-step-society/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3594,26 +3552,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 96,
+      "music": 95,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 137,
-      "found": 128,
-      "exact": 120,
+      "unique_artists": 135,
+      "found": 126,
+      "exact": 118,
       "close": 3,
       "flagged": 5,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 137,
-      "linked": 91,
-      "venue": 91,
+      "unique_artists": 135,
+      "linked": 89,
+      "venue": 89,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 79
+      "shows_with_link": 78
     }
   }
 }

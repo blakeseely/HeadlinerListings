@@ -35,101 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 44,
+  "scraped_at": "2026-10-31",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "A Night of the Living Dead",
-          "apple_music": "https://music.apple.com/us/artist/night-of-the-living-dead/355402986",
-          "spotify": null,
-          "confidence": 0.9,
-          "matched": "Night Of The Living Dead",
-          "apple_label": "close match: Night Of The Living Dead",
-          "spotify_label": "no confident match (closest: A Night In Texas @ 57%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lebo",
-          "apple_music": "https://music.apple.com/us/artist/lebo/1559609724",
-          "spotify": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA",
-          "confidence": 1.0,
-          "matched": "LEBO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Holly Bowling",
-          "apple_music": "https://music.apple.com/us/artist/holly-bowling/1029218179",
-          "spotify": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r",
-          "confidence": 1.0,
-          "matched": "Holly Bowling",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Wally Ingram",
-          "apple_music": "https://music.apple.com/us/artist/wally-ingram/6941586",
-          "spotify": "https://open.spotify.com/artist/2Z0ZG9VVHpsTwitCG5a75C",
-          "confidence": 1.0,
-          "matched": "Wally Ingram",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Elliott Peck",
-          "apple_music": "https://music.apple.com/us/artist/elliott-peck/481659673",
-          "spotify": "https://open.spotify.com/artist/1x4GPwYFtuDPRzawYz7e8U",
-          "confidence": 1.0,
-          "matched": "Elliott Peck",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Danny Luehring",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Danny Chung @ 72%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Steve Adams",
-          "apple_music": "https://music.apple.com/us/artist/steve-adams/491186303",
-          "spotify": "https://open.spotify.com/artist/6JykFOrtdHpJA6qmfooPCU",
-          "confidence": 1.0,
-          "matched": "Steve Adams",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "7:30 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1955,26 +1863,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
-      "found": 62,
-      "exact": 53,
+      "unique_artists": 84,
+      "found": 58,
+      "exact": 50,
       "close": 3,
-      "flagged": 6,
-      "not_found": 27
+      "flagged": 5,
+      "not_found": 26
     },
     "spotify": {
-      "unique_artists": 89,
-      "linked": 61,
+      "unique_artists": 84,
+      "linked": 58,
       "venue": 0,
-      "api": 61,
+      "api": 58,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 34
     }
   }
 }

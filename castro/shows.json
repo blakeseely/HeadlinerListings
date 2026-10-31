@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 71,
+  "scraped_at": "2026-10-31",
+  "count": 70,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Montell Fish",
-          "apple_music": "https://music.apple.com/us/artist/montell-fish/968628209",
-          "spotify": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2",
-          "confidence": 1.0,
-          "matched": "Montell Fish",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/montell-fish-the-nest-tour-san-francisco-california-10-30-2026/event/1C00650EF5541CD0?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/montell-fish-261030",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "The Nest Tour An Evening With",
-      "description": "Montell Fish is a musician and multidisciplinary creative force whose genre-agnostic sound and the world he’s built around it has garnered over 4.2 billion streams to-date and a devoted global audience. Across critically-acclaimed solo albums JAMIE and CHARLOTTE, as well as a collection of world-expanding side projects under mysterious monikers like dj gummy bear, Montell has proven himself to be one of alternative pop music’s most tantalizing and innovative voices, fusing R&B, indie and electronic influences to form a wholly unique sonic identity. Beyond the music, Montell’s creative practice is all encompassing, debuting as a film composer earlier this year on Brian Tetsuro Ivie’s first narrative feature Anima, as well as launching his own clothing brand Jamie Charlotte Marshall this Summer"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2473,26 +2442,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 4,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 81,
-      "found": 61,
-      "exact": 55,
+      "unique_artists": 80,
+      "found": 60,
+      "exact": 54,
       "close": 2,
       "flagged": 4,
       "not_found": 20
     },
     "spotify": {
-      "unique_artists": 81,
-      "linked": 49,
-      "venue": 49,
+      "unique_artists": 80,
+      "linked": 48,
+      "venue": 48,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }

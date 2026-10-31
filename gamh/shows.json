@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 21,
+  "scraped_at": "2026-10-31",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Cold Cave",
-          "apple_music": "https://music.apple.com/us/artist/cold-cave/324968216",
-          "spotify": "https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad",
-          "confidence": 1.0,
-          "matched": "Cold Cave",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8137303/buy-tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8137303/buy-tickets",
-      "room": null,
-      "age_rating": null,
-      "note": "From $91",
-      "description": "Cold Cave at Great American Music Hall on Friday 30th October 2026 in San Francisco..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -702,26 +671,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 19,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 22,
-      "found": 22,
-      "exact": 19,
+      "unique_artists": 21,
+      "found": 21,
+      "exact": 18,
       "close": 0,
       "flagged": 3,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 22,
-      "linked": 22,
+      "unique_artists": 21,
+      "linked": 21,
       "venue": 0,
-      "api": 22,
+      "api": 21,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 20
     }
   }
 }

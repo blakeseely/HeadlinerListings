@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 38,
+  "scraped_at": "2026-10-31",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Theo Katzman",
-          "apple_music": "https://music.apple.com/us/artist/theo-katzman/480667350",
-          "spotify": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya",
-          "confidence": 1.0,
-          "matched": "Theo Katzman",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/theo-katzman-music-box-tickets/14902843?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14902843/theo-katzman",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1469,26 +1438,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 37,
+      "music": 36,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 61,
-      "found": 51,
-      "exact": 47,
+      "unique_artists": 60,
+      "found": 50,
+      "exact": 46,
       "close": 0,
       "flagged": 4,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 61,
-      "linked": 52,
+      "unique_artists": 60,
+      "linked": 51,
       "venue": 0,
-      "api": 52,
+      "api": 51,
       "feed": 0,
-      "shows_with_link": 36
+      "shows_with_link": 35
     }
   }
 }

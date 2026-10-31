@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 44,
+  "scraped_at": "2026-10-31",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "HAUS PARTY",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/05zszvXo2QjcGv9bnNRKNm",
-          "confidence": 0.45,
-          "matched": null,
-          "apple_label": "no confident match (closest: Klaus Partyhaus & King Courier @ 45%)",
-          "spotify_label": "close match: House Party",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Klub Nocturno presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "9:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/haus-party-halloween/703660",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/haus-party-halloween/703660",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1448,26 +1415,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 48,
+      "unique_artists": 47,
       "found": 40,
       "exact": 39,
       "close": 0,
       "flagged": 1,
-      "not_found": 8
+      "not_found": 7
     },
     "spotify": {
-      "unique_artists": 48,
-      "linked": 42,
+      "unique_artists": 47,
+      "linked": 41,
       "venue": 0,
-      "api": 42,
+      "api": 41,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 38
     }
   }
 }

@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 20,
+  "scraped_at": "2026-10-31",
+  "count": 19,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Coral 9",
-          "apple_music": "https://music.apple.com/us/artist/coral-9/1493052715",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Coral 9",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Bazooka",
-          "apple_music": "https://music.apple.com/us/artist/bazooka/206397922",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Bazooka",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "Dogwater",
-          "apple_music": "https://music.apple.com/us/artist/dogwater/1684043072",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Dogwater",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "DJ Kalamansi",
-          "apple_music": "https://music.apple.com/us/artist/kalamansi/1827849022",
-          "spotify": null,
-          "confidence": 0.857,
-          "matched": "Kalamansi",
-          "apple_label": "close match: Kalamansi",
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/coral-9-bazooka-dogwater-dj-brick-and-mortar-music-hall-tickets/14354754?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/coral-9/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -902,21 +840,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 19,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 43,
-      "found": 41,
-      "exact": 38,
+      "unique_artists": 39,
+      "found": 37,
+      "exact": 35,
       "close": 0,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 43,
+      "unique_artists": 39,
       "linked": 19,
       "venue": 19,
       "api": 0,

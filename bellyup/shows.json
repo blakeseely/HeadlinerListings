@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-30",
-  "count": 117,
+  "scraped_at": "2026-10-31",
+  "count": 115,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Atomic Groove's Halloween Boo Bash Dance Party Happy Hour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Atomic Space @ 32%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-halloween-boo-bash-belly-up-tickets/14999913?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14999913/atomic-grooves-halloween-boo-bash-dance-party-happy-hour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Warning: Scary Good Time Alert! On The Night Before Halloween join us for some deliciously wicked fun at our annual \"Halloween BOO Bash\" Dance Party Happy Hour at Belly Up, 5-8p. Costume Contest: Enter our traditionally faBOOlous costume contest with these prizes: an AG VIP 2027 Happy Hour Yearly Pass For Two, a one month membership to MB Fit Studio, and $100 cash. We'll feature our guest AG vocalist, our thrillingly talented Mark Jones. Performer Studentz from the CW Fitness/AG Fly Girlz Dance Class will take the stage for a few songs, with these vibrant souls treating you to their continuously BOO-tiful dance/performance evolution. Get started on your Halloween-ing a day early with our spooOOook-tacularly spirited dance floor jams, BOOgie-ing to songs from past & present, with the Ghoulz and BOO-yz of Atomic GrooOOoove. AG is going with a ghost-y/ghoul-ish vibe if you'd like to join us, but all spooky, creative, Halloween-y spirits are welcome! Wanna learn to dance like an Atomic Groove Fly Girl? Come take an AG Fly Girlz Dance Class, taught by Atomic Girl Carrie of Carrie Weiland Fitness. Held at locally-owned boutique fitness facility MB Fit Studio in Solana Beach. Class is held every Tuesday at 630p, Special Edtion Thusdays (next one: Nov. 5th) Select Saturdays at 1230p (next one: Nov. 7th).Series #20 just started October 6th and runs for approx 10 weeks. All levels welcome, any time, no dance experience needed. The routine is taught and re-taught progressively in sections, so drop in any time. Maybe even work towards getting on stage?! More class info:www.atomicgroovemusic.com/public-events"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Dead Man's Party Halloween BASH",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Dead Man's Bones @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-30",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/dead-mans-party-halloween-bash-belly-up-tickets/14103374?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14103374/dead-mans-party-halloween-bash",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "DJ Organic Hispanic will spin at doors."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4299,21 +4237,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 116,
+      "music": 114,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 157,
+      "unique_artists": 155,
       "found": 115,
       "exact": 94,
       "close": 5,
       "flagged": 16,
-      "not_found": 42
+      "not_found": 40
     },
     "spotify": {
-      "unique_artists": 157,
+      "unique_artists": 155,
       "linked": 118,
       "venue": 0,
       "api": 118,
