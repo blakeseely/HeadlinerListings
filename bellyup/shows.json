@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 115,
+  "scraped_at": "2026-11-01",
+  "count": 114,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Halloween Heat",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Halloween Witches @ 77%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "80's Heat",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.727,
-          "matched": null,
-          "apple_label": "no confident match (closest: 80s HeartBeat @ 73%)",
-          "spotify_label": "no confident match (closest: Heart @ 57%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Bella Lux",
-          "apple_music": "https://music.apple.com/us/artist/bella-lux/1830252445",
-          "spotify": "https://open.spotify.com/artist/25ztfVYS9cjwdlTRBn2KdX",
-          "confidence": 1.0,
-          "matched": "Bella Lux",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "DJ Senzø",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.769,
-          "matched": null,
-          "apple_label": "no confident match (closest: Senzø @ 77%)",
-          "spotify_label": "no confident match (closest: Senzø @ 77%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": null,
-      "show_time": "8:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/halloween-heat-featuring-80s-heat-belly-up-tickets/15000673?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15000673/halloween-heat-featuring-80s-heat-bella-lux-dj-senzo",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4237,26 +4175,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 114,
+      "music": 113,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 155,
-      "found": 115,
-      "exact": 94,
+      "unique_artists": 151,
+      "found": 114,
+      "exact": 93,
       "close": 5,
       "flagged": 16,
-      "not_found": 40
+      "not_found": 37
     },
     "spotify": {
-      "unique_artists": 155,
-      "linked": 118,
+      "unique_artists": 151,
+      "linked": 117,
       "venue": 0,
-      "api": 118,
+      "api": 117,
       "feed": 0,
-      "shows_with_link": 86
+      "shows_with_link": 85
     }
   }
 }

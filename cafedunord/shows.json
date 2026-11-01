@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
+  "scraped_at": "2026-11-01",
   "count": 44,
   "shows": [
     {
@@ -886,8 +886,8 @@
       "date": "2027-01-27",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale soon",
+      "ticket_link": "https://www.ticketweb.com/event/the-harbour-tour-cafe-du-nord-tickets/14385664?pl=cdn&REFID=clientsitewp",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-01-27-jon-bryant",
       "room": null,
       "age_rating": "21+",
@@ -1305,7 +1305,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/katherine-li-i-love-you-cafe-du-nord-tickets/14371124?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-03-10-katherine-li",
       "room": null,
       "age_rating": "All ages",

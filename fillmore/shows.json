@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 33,
+  "scraped_at": "2026-11-01",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Galactic",
-          "apple_music": "https://music.apple.com/us/artist/galactic/2092113",
-          "spotify": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ",
-          "confidence": 1.0,
-          "matched": "Galactic",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Parlor Greens",
-          "apple_music": "https://music.apple.com/us/artist/parlor-greens/1732334721",
-          "spotify": "https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm",
-          "confidence": 1.0,
-          "matched": "Parlor Greens",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "DJ Harry Duncan",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/40IPxiNVXckY0AMrmiiQ19",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: DJ Harry",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/galactic-san-francisco-california-10-31-2026/event/1C0064E1AF3BC802",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/galactic-san-francisco-california-10-31-2026/event/1C0064E1AF3BC802",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1274,30 +1222,144 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The California Honeydrops",
+          "apple_music": "https://music.apple.com/us/artist/the-california-honeydrops/299946363",
+          "spotify": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk",
+          "confidence": 1.0,
+          "matched": "The California Honeydrops",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lindsay Lou",
+          "apple_music": "https://music.apple.com/us/artist/lindsay-lou/396630491",
+          "spotify": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ",
+          "confidence": 1.0,
+          "matched": "Lindsay Lou",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jimmy James",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-james/3178791",
+          "spotify": "https://open.spotify.com/artist/4MpCHcOqKRsSXGiYuGR9JY",
+          "confidence": 1.0,
+          "matched": "Jimmy James",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "SAN FRANCISCO 2027 With Family & Friends",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-28-2027/event/1C0064E1F24E5A75",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-28-2027/event/1C0064E1F24E5A75",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The California Honeydrops",
+          "apple_music": "https://music.apple.com/us/artist/the-california-honeydrops/299946363",
+          "spotify": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk",
+          "confidence": 1.0,
+          "matched": "The California Honeydrops",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lindsay Lou",
+          "apple_music": "https://music.apple.com/us/artist/lindsay-lou/396630491",
+          "spotify": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ",
+          "confidence": 1.0,
+          "matched": "Lindsay Lou",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Mae Powell",
+          "apple_music": "https://music.apple.com/us/artist/mae-powell/1462124177",
+          "spotify": "https://open.spotify.com/artist/1VSTyX3EyvqFHQs7LAt6vr",
+          "confidence": 1.0,
+          "matched": "Mae Powell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jimmy James",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-james/3178791",
+          "spotify": "https://open.spotify.com/artist/4MpCHcOqKRsSXGiYuGR9JY",
+          "confidence": 1.0,
+          "matched": "Jimmy James",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "SAN FRANCISCO 2027 With Family & Friends",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-29-2027/event/1C0064E1F2515A98",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-29-2027/event/1C0064E1F2515A98",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 45,
-      "found": 42,
-      "exact": 42,
+      "unique_artists": 46,
+      "found": 44,
+      "exact": 44,
       "close": 0,
       "flagged": 0,
-      "not_found": 3
+      "not_found": 2
     },
     "spotify": {
-      "unique_artists": 45,
-      "linked": 43,
+      "unique_artists": 46,
+      "linked": 44,
       "venue": 0,
-      "api": 43,
+      "api": 44,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 32
     }
   }
 }

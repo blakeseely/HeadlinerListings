@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
+  "scraped_at": "2026-11-01",
   "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Shpongle",
-          "apple_music": "https://music.apple.com/us/artist/shpongle/4695467",
-          "spotify": "https://open.spotify.com/artist/0m5XJwKGYyUjd3VMfcINCQ",
-          "confidence": 1.0,
-          "matched": "Shpongle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Supersillyus",
-          "apple_music": "https://music.apple.com/us/artist/supersillyus/428303311",
-          "spotify": "https://open.spotify.com/artist/3BxWjZTPnqLigMYwf9uz7H",
-          "confidence": 1.0,
-          "matched": "Supersillyus",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Cosmic Trigger",
-          "apple_music": "https://music.apple.com/us/artist/cosmic-trigger/1325127030",
-          "spotify": "https://open.spotify.com/artist/3J3vEokYWXQnaSa4YlBU8Y",
-          "confidence": 1.0,
-          "matched": "Cosmic Trigger",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "ft. Visuals by Jonathan Singer & Glass Crane and Live Floral Art by Anthony Ward",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/shpongle-261031",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Simon Posford is a pioneering force in psychedelic electronic music, shaping generations of artists through his groundbreaking work as Hallucinogen and SHPONGLE. His early releases Twisted and The Lone Deranger helped define the global psytrance movement, while SHPONGLE reimagined electronic music into a genre-defying fusion of ambient, world, and psychedelic sound. Today, SHPONGLE (Simon Posford Live) is a rare, fully immersive experience—blending live instrumentation, cutting-edge production, and deep improvisation. Described as the “Psychedelic Olympics,” his performances push the boundaries of music and sensory experience. His 2025 tour sold out across every city, including multi-night runs in New York, Denver, and San Francisco. A true pioneer, Posford continues to redefine what live electronic music can be."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -115,8 +53,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Adria Kain",
+          "apple_music": "https://music.apple.com/us/artist/adria-kain/766068900",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Adria Kain",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": "A Little Vengeance Tour 2026",
       "presenters": [],
       "set_format": null,
@@ -504,6 +453,37 @@
       "age_rating": "all ages",
       "note": null,
       "description": "Disciples of planet Earth’s rock deities, space-time voyagers Klek and Khn de Poitrine gaze in wonder at hot dogs, pyramids, and rock music in all its glorious excess. Asymmetrical and dissonant, Angine de Poitrine ’s music makes hearts race and bodies move with ecstatic abandon. Through tight, pulsing drum grooves and intricate tangles of double-neck microtonal guitar, the band summons swirling vortices of hypnotic sound and vision. Since the release of Vol. 1 in 2024, Angine de Poitrine are in the eye of an ever-growing storm of enthusiasm from audiences, critics, and music industry’s main actors. After delivering electrifying performances at Quebec’s major festivals, including the Festival International de Jazz de Montréal, Angine de Poitrine now sets their sights on the prestigious Trans Musicales in Rennes. All these facts are strictly reserved to the humanoids: Angine de Poitrine are simply thrilled to play rock ’n’ roll."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ali Siddiq",
+          "apple_music": "https://music.apple.com/us/artist/ali-siddiq/410480925",
+          "spotify": "https://open.spotify.com/artist/3cOzi726Iav1toV2LRVEjp",
+          "confidence": 1.0,
+          "matched": "Ali Siddiq",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Custom Fit Tour — Early Show Added by Popular Demand! — Another Planet Entertainment & Outback present",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "4:00 pm",
+      "show_time": "5:00 pm",
+      "ticket_link": "Buy Tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/ali-siddiq-261219-early",
+      "room": null,
+      "age_rating": "16 and over",
+      "note": null,
+      "description": null
     },
     {
       "event_type": "music",
@@ -922,8 +902,8 @@
       "date": "2027-03-10",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "Buy Tickets",
-      "ticket_status": "on sale",
+      "ticket_link": "Sold Out!",
+      "ticket_status": "sold out",
       "event_page": "https://thefoxoakland.com/events/chvrches-270310",
       "room": null,
       "age_rating": "all ages",
@@ -1230,17 +1210,17 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 38,
-      "exact": 37,
+      "unique_artists": 36,
+      "found": 36,
+      "exact": 35,
       "close": 1,
       "flagged": 0,
-      "not_found": 1
+      "not_found": 0
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 37,
-      "venue": 37,
+      "unique_artists": 36,
+      "linked": 34,
+      "venue": 34,
       "api": 0,
       "feed": 0,
       "shows_with_link": 32

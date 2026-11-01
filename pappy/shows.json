@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 61,
+  "scraped_at": "2026-11-01",
+  "count": 60,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Agriculture",
-          "apple_music": "https://music.apple.com/us/artist/agriculture/1620725472",
-          "spotify": "https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY",
-          "confidence": 1.0,
-          "matched": "Agriculture",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Pure Hex",
-          "apple_music": "https://music.apple.com/us/artist/pure-hex/1483163612",
-          "spotify": "https://open.spotify.com/artist/3QWUxLJqRsyGpjdKo4xeJN",
-          "confidence": 1.0,
-          "matched": "Pure Hex",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Purest Form",
-          "apple_music": "https://music.apple.com/us/artist/purest-form/1728155093",
-          "spotify": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro",
-          "confidence": 1.0,
-          "matched": "PUREST FORM",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/agriculture/696391",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/agriculture/696391",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -918,8 +864,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Dove",
+          "apple_music": "https://music.apple.com/us/artist/dove/1442032103",
+          "spotify": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE",
+          "confidence": 1.0,
+          "matched": "Dove",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -1550,15 +1507,17 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "NYE - Black Crystal Wolf Kids",
+          "name": "Black Crystal Wolf Kids",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Crystal Drift @ 43%)",
+          "spotify_label": "no confident match (closest: Broken Neon Kids @ 46%)",
           "spotify_source": null
-        },
+        }
+      ],
+      "support_artists": [
         {
           "name": "Well Well Well",
           "apple_music": "https://music.apple.com/us/artist/well-well-well/1609100265",
@@ -1570,10 +1529,11 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2026-12-31",
       "doors": "9:00 pm",
@@ -1582,7 +1542,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/nye-black-crystal-wolf-kids-well-well-well/707695",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1604,7 +1564,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-01",
       "doors": "8:30 pm",
@@ -1613,7 +1575,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/big-sandy-and-his-fly-rite-boys/709460",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1827,7 +1789,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/an-evening-with-the-english-beat/709236",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/an-evening-with-the-english-beat/709236",
       "room": null,
       "age_rating": null,
@@ -2333,26 +2295,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 61,
+      "music": 60,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 91,
-      "found": 84,
-      "exact": 81,
+      "unique_artists": 89,
+      "found": 82,
+      "exact": 79,
       "close": 0,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 91,
-      "linked": 81,
+      "unique_artists": 89,
+      "linked": 79,
       "venue": 0,
-      "api": 81,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 57
+      "shows_with_link": 56
     }
   }
 }

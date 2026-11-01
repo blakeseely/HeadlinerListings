@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
+  "scraped_at": "2026-11-01",
   "count": 36,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Medium Build",
-          "apple_music": "https://music.apple.com/us/artist/medium-build/1034696339",
-          "spotify": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn",
-          "confidence": 1.0,
-          "matched": "Medium Build",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Scratch",
-          "apple_music": "https://music.apple.com/us/artist/the-scratch/192611312",
-          "spotify": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd",
-          "confidence": 1.0,
-          "matched": "The Scratch",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546453324",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1494104",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1386,7 +1342,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546978229",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1670902",
       "room": null,
       "age_rating": "All Ages",
@@ -1529,6 +1485,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Enjambre",
+          "apple_music": "https://music.apple.com/us/artist/enjambre/55061637",
+          "spotify": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR",
+          "confidence": 1.0,
+          "matched": "Enjambre",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "2027 US / CANADA TOUR",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547006825",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1683727",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "She Past Away",
           "apple_music": "https://music.apple.com/us/artist/she-past-away/347750887",
           "spotify": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR",
@@ -1566,18 +1555,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 61,
-      "found": 60,
-      "exact": 59,
+      "unique_artists": 60,
+      "found": 59,
+      "exact": 58,
       "close": 0,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 61,
-      "linked": 60,
+      "unique_artists": 60,
+      "linked": 59,
       "venue": 0,
-      "api": 57,
+      "api": 56,
       "feed": 3,
       "shows_with_link": 36
     }

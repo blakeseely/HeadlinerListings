@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 70,
+  "scraped_at": "2026-11-01",
+  "count": 69,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DJ Mandy Presents: The Raveyard",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Yuka Yu LA.CO.NY.",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/dj-mandy-san-francisco-california-10-31-2026/event/1C006509C34B2BEA?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/dj-mandy-261031",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "This event is"
-    },
     {
       "event_type": "film",
       "needs_review": false,
@@ -727,8 +685,8 @@
       "date": "2026-11-23",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/la-bola-negra-the-castro-theatre-tickets/14360464?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/la-bola-negra-261123",
       "room": null,
       "age_rating": "R",
@@ -1944,8 +1902,8 @@
       "date": "2027-02-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-san-francisco-california-02-26-2027/event/1C006553E0249B43?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/ashe-270226",
       "room": null,
       "age_rating": null,
@@ -2442,21 +2400,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 52,
       "comedy": 4,
       "film": 11,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 80,
+      "unique_artists": 78,
       "found": 60,
       "exact": 54,
       "close": 2,
       "flagged": 4,
-      "not_found": 20
+      "not_found": 18
     },
     "spotify": {
-      "unique_artists": 80,
+      "unique_artists": 78,
       "linked": 48,
       "venue": 48,
       "api": 0,

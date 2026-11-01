@@ -35,133 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 43,
+  "scraped_at": "2026-11-01",
+  "count": 41,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Watch Game 7 at Curio",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: GameChops @ 40%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Golden State Valkyries vs. Atlanta Dream",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Valkyrion @ 33%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": null,
-      "show_time": "5:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/watch-game-7-at-curio/709446?afflky=TheChapel",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/watch-game-7-at-curio/709446?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Paul Simon Halloween Ball Performed by Bone Diggers",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Paul Simon @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Reed Mathis",
-          "apple_music": "https://music.apple.com/us/artist/reed-mathis/3877361",
-          "spotify": "https://open.spotify.com/artist/5sb1SIDBdjRcXKTKOxcR3G",
-          "confidence": 1.0,
-          "matched": "Reed Mathis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Lebo",
-          "apple_music": "https://music.apple.com/us/artist/lebo/1559609724",
-          "spotify": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA",
-          "confidence": 1.0,
-          "matched": "LEBO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Holly Bowling",
-          "apple_music": "https://music.apple.com/us/artist/holly-bowling/1029218179",
-          "spotify": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r",
-          "confidence": 1.0,
-          "matched": "Holly Bowling",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Scott Rager",
-          "apple_music": "https://music.apple.com/us/artist/scott-cramer/1477851691",
-          "spotify": "https://open.spotify.com/artist/44kneN2t6ZkG8dEm7mfDXG",
-          "confidence": 0.87,
-          "matched": "Scott Cramer",
-          "apple_label": "close match: Scott Cramer",
-          "spotify_label": "close match: Scott Rogers",
-          "spotify_source": "api"
-        },
-        {
-          "name": "Mad Alchemy Liquid Lights",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Saturn’s Yard Sale @ 28%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1863,26 +1739,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 41,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 84,
-      "found": 58,
-      "exact": 50,
+      "unique_artists": 76,
+      "found": 54,
+      "exact": 47,
       "close": 3,
-      "flagged": 5,
-      "not_found": 26
+      "flagged": 4,
+      "not_found": 22
     },
     "spotify": {
-      "unique_artists": 84,
-      "linked": 58,
+      "unique_artists": 76,
+      "linked": 54,
       "venue": 0,
-      "api": 58,
+      "api": 54,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 33
     }
   }
 }

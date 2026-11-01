@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 19,
+  "scraped_at": "2026-11-01",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Improvement Movement",
-          "apple_music": "https://music.apple.com/us/artist/improvement-movement/1438921652",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Improvement Movement",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Adron",
-          "apple_music": "https://music.apple.com/us/artist/adron/281092855",
-          "spotify": "https://open.spotify.com/artist/1CoHG5MTULb71p1MbyGVRL",
-          "confidence": 1.0,
-          "matched": "Adron",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/improvement-movement-adron-brick-and-mortar-music-hall-tickets/14244894?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/improvement-movement/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "With otherworldly whistling, adventures in language, kaleidoscopic guitar work and a voice like whipped cream, Atlanta-bred, LA-based singer-songwriter Adron (pronounced AY-drawn) seems to have absorbed and synthesized the history of global pop music into her own wholly unique oeuvre. Since the release of her last full-length album Water Music and a surprise tour opening for Steely Dan’s Donald Fagen, Adron brightened the dark days of pandemic lockdown with her single “Song About My Computer,” what she called her “whimsical pessimist expression of comic distemper.” Adron has shared stages and studios with allies like Helado Negro, Stereolab's Leiticia Sadier, Os Mutantes, Rodrigo Amarante, Jenny Lewis, Dent May and Devendra Banhart. Now she’s hitting US tour routes while preparing the way for her next offering, an LP called \"The Trickster,\" conceptually centered around love, loss, psychedelics and wanderlust."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -836,30 +794,113 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Thoughts on Bowling",
+          "apple_music": "https://music.apple.com/us/artist/thoughts-on-bowling/1768678540",
+          "spotify": "https://open.spotify.com/artist/2uYZl0JqofhYv9Nma8LVUw",
+          "confidence": 1.0,
+          "matched": "Thoughts on Bowling",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/thoughts-on-bowling-brick-and-mortar-music-hall-tickets/15032523?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/thoughts-on-bowling/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Established in 2021, moosecreek park is a group of best friends making emo noise out of Long Island NY. Often recognized for their lightning fast guitar parts and catchy pop-punk like songwriting - for fans of Tiny Moving Parts, Origami Angel, TTNG, Mom Jeans, etc."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mikey Vee",
+          "apple_music": "https://music.apple.com/us/artist/mikey-vee/1542984391",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mikey Vee",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lyka B",
+          "apple_music": "https://music.apple.com/us/artist/lyka-b/1594300221",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Lyka B",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Solus The Happy Human",
+          "apple_music": "https://music.apple.com/us/artist/solus-the-happy-human/1582368869",
+          "spotify": "https://open.spotify.com/artist/7htNebbiEgIIbvNdzg9kgL",
+          "confidence": 1.0,
+          "matched": "Solus the Happy Human",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/mikey-vee-lyka-b-solus-brick-and-mortar-music-hall-tickets/14361294?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/mikey-vee-lyka-b/",
+      "room": null,
+      "age_rating": "Ages 21 and up",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 37,
-      "exact": 35,
+      "unique_artists": 41,
+      "found": 39,
+      "exact": 37,
       "close": 0,
       "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 19,
-      "venue": 19,
+      "unique_artists": 41,
+      "linked": 20,
+      "venue": 20,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 13
+      "shows_with_link": 14
     }
   }
 }

@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-10-31",
-  "count": 43,
+  "scraped_at": "2026-11-01",
+  "count": 42,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "EMO NITE at Rickshaw Stop - San Francisco, CA",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-10-31",
-      "doors": "9:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/emo-nite-halloween-at-rickshaw-stop-san-francisco-ca/706320",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/emo-nite-halloween-at-rickshaw-stop-san-francisco-ca/706320",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1415,26 +1384,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 42,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 47,
+      "unique_artists": 46,
       "found": 40,
       "exact": 39,
       "close": 0,
       "flagged": 1,
-      "not_found": 7
+      "not_found": 6
     },
     "spotify": {
-      "unique_artists": 47,
-      "linked": 41,
+      "unique_artists": 46,
+      "linked": 40,
       "venue": 0,
-      "api": 41,
+      "api": 40,
       "feed": 0,
-      "shows_with_link": 38
+      "shows_with_link": 37
     }
   }
 }
