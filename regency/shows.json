@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 36,
+  "scraped_at": "2026-11-02",
+  "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Musical Box",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/1pOMbo2ueMIwsDgIzxzzCG",
-          "confidence": 0.273,
-          "matched": null,
-          "apple_label": "no confident match (closest: Genesis @ 27%)",
-          "spotify_label": "close match: The Music Box",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "And then there was…Phil",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAAA6Joe%2fAgAAAADG%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1434571",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1549,26 +1516,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 35,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
+      "unique_artists": 59,
       "found": 59,
       "exact": 58,
       "close": 0,
       "flagged": 1,
-      "not_found": 1
+      "not_found": 0
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 59,
+      "unique_artists": 59,
+      "linked": 58,
       "venue": 0,
-      "api": 56,
+      "api": 55,
       "feed": 3,
-      "shows_with_link": 36
+      "shows_with_link": 35
     }
   }
 }

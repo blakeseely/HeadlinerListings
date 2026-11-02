@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 37,
+  "scraped_at": "2026-11-02",
+  "count": 36,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "INOHA",
-          "apple_music": "https://music.apple.com/us/artist/inoha/1655983242",
-          "spotify": "https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h",
-          "confidence": 1.0,
-          "matched": "INOHA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Buddha Trixie & Flight By Nothing",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4VVh7MQx2qRX5YWmokQ8hT",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "This Might Be Useful Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14204764/inoha-this-might-be-useful-tour-w-buddha-trixie-flight-by-nothing",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1438,26 +1396,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 35,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
-      "found": 50,
-      "exact": 46,
+      "unique_artists": 58,
+      "found": 49,
+      "exact": 45,
       "close": 0,
       "flagged": 4,
-      "not_found": 10
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 51,
+      "unique_artists": 58,
+      "linked": 49,
       "venue": 0,
-      "api": 51,
+      "api": 49,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 34
     }
   }
 }

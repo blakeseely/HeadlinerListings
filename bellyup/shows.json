@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 114,
+  "scraped_at": "2026-11-02",
+  "count": 113,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Samantha Fish",
-          "apple_music": "https://music.apple.com/us/artist/samantha-fish/416163164",
-          "spotify": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5",
-          "confidence": 1.0,
-          "matched": "Samantha Fish",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cody Dickinson of North Mississippi Allstars",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: North Mississippi Allstars @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Paper Doll Live World Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/samantha-fish-paper-belly-up-tickets/14203664?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14203664/samantha-fish-paper-doll-live-world-tour-w-cody-dickinson-of-north-mississippi-allstars",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4175,26 +4133,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 113,
+      "music": 112,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 151,
-      "found": 114,
-      "exact": 93,
+      "unique_artists": 149,
+      "found": 113,
+      "exact": 92,
       "close": 5,
       "flagged": 16,
-      "not_found": 37
+      "not_found": 36
     },
     "spotify": {
-      "unique_artists": 151,
-      "linked": 117,
+      "unique_artists": 149,
+      "linked": 116,
       "venue": 0,
-      "api": 117,
+      "api": 116,
       "feed": 0,
-      "shows_with_link": 85
+      "shows_with_link": 84
     }
   }
 }

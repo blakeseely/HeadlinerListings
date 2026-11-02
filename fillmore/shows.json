@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 34,
+  "scraped_at": "2026-11-02",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "José Madero",
-          "apple_music": "https://music.apple.com/us/artist/jos%C3%A9-madero/371104606",
-          "spotify": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw",
-          "confidence": 1.0,
-          "matched": "José Madero",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Wonderfox",
-          "apple_music": "https://music.apple.com/us/artist/wonderfox/844850378",
-          "spotify": "https://open.spotify.com/artist/7DGQ9DLS0wBr2MNjlhSA6S",
-          "confidence": 1.0,
-          "matched": "Wonderfox",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "USA Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-francisco-california-11-01-2026/event/1C0064D18D5F88F0",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-francisco-california-11-01-2026/event/1C0064D18D5F88F0",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1340,26 +1298,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 46,
-      "found": 44,
-      "exact": 44,
+      "unique_artists": 44,
+      "found": 42,
+      "exact": 42,
       "close": 0,
       "flagged": 0,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 46,
-      "linked": 44,
+      "unique_artists": 44,
+      "linked": 42,
       "venue": 0,
-      "api": 44,
+      "api": 42,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

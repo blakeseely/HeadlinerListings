@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 44,
+  "scraped_at": "2026-11-02",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Token",
-          "apple_music": "https://music.apple.com/us/artist/token/1138060268",
-          "spotify": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq",
-          "confidence": 1.0,
-          "matched": "Token",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Clark D",
-          "apple_music": "https://music.apple.com/us/artist/clark-d/1073447567",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Clark D",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "Delivery Boys",
-          "apple_music": "https://music.apple.com/us/artist/delivery-boys/1175362682",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Delivery Boys",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/token-im-leaving-cafe-du-nord-tickets/14250674?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-01-token",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Powered by razor sharp wordplay, head-spinning verbal acrobatics, and off-kilter hooks, Token has morphed into an outlier in hip-hop."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1677,26 +1623,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
-      "found": 59,
-      "exact": 55,
+      "unique_artists": 57,
+      "found": 56,
+      "exact": 52,
       "close": 2,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 40,
-      "venue": 40,
+      "unique_artists": 57,
+      "linked": 39,
+      "venue": 39,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 39
     }
   }
 }

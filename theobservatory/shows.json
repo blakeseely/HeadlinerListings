@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 2,
+  "scraped_at": "2026-11-02",
+  "count": 1,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Black Angels",
-          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
-          "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP",
-          "confidence": 1.0,
-          "matched": "The Black Angels",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Passover 2026 Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-black-angels-passover-2026-the-observatory-north-park-tickets/14845983?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14845983/the-black-angels-passover-2026-tour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -116,26 +85,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 2,
+      "music": 1,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 3,
-      "found": 2,
-      "exact": 2,
+      "unique_artists": 2,
+      "found": 1,
+      "exact": 1,
       "close": 0,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 3,
-      "linked": 2,
+      "unique_artists": 2,
+      "linked": 1,
       "venue": 0,
-      "api": 2,
+      "api": 1,
       "feed": 0,
-      "shows_with_link": 2
+      "shows_with_link": 1
     }
   }
 }

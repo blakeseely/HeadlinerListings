@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-01",
-  "count": 95,
+  "scraped_at": "2026-11-02",
+  "count": 94,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SIX60",
-          "apple_music": "https://music.apple.com/us/artist/six60/386478059",
-          "spotify": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn",
-          "confidence": 1.0,
-          "matched": "SIX60",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cilantro (solo)",
-          "apple_music": "https://music.apple.com/us/artist/cilantro/1632677337",
-          "spotify": "https://open.spotify.com/artist/4YDIOuPnKTiuJ9T23PEicV",
-          "confidence": 1.0,
-          "matched": "Cilantro",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-01",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/six60-the-independent-tickets/14250904?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/six60/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3561,26 +3519,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 95,
+      "music": 94,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 135,
-      "found": 127,
-      "exact": 119,
+      "unique_artists": 133,
+      "found": 125,
+      "exact": 117,
       "close": 3,
       "flagged": 5,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 135,
-      "linked": 90,
-      "venue": 90,
+      "unique_artists": 133,
+      "linked": 88,
+      "venue": 88,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 79
+      "shows_with_link": 78
     }
   }
 }
