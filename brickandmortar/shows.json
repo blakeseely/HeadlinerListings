@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 19,
+  "scraped_at": "2026-11-04",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "MISSIO",
-          "apple_music": "https://music.apple.com/us/artist/missio/1228281701",
-          "spotify": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS",
-          "confidence": 1.0,
-          "matched": "MISSIO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Fifteenoeight",
-          "apple_music": "https://music.apple.com/us/artist/fifteen0eight/1612852052",
-          "spotify": null,
-          "confidence": 0.923,
-          "matched": "Fifteen0eight",
-          "apple_label": "close match: Fifteen0eight",
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "Kent Osborne",
-          "apple_music": "https://music.apple.com/us/artist/kent-osborne/1311023061",
-          "spotify": "https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta",
-          "confidence": 1.0,
-          "matched": "Kent Osborne",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "Love & Heartbreak Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "7:30 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/missio-love-heartbreak-tour-brick-and-mortar-music-hall-tickets/15027043?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/missio-love-heartbreak-tour-w-fifteenoeight-kent-osborne/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -835,30 +783,134 @@
       "age_rating": "Ages 21 and up",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Kilans",
+          "apple_music": "https://music.apple.com/us/artist/the-kilans/1724909321",
+          "spotify": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt",
+          "confidence": 1.0,
+          "matched": "The Kilans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Could You Keep It Dark Tour?",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-kilans-could-you-brick-and-mortar-music-hall-tickets/15040833?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/the-kilans-could-you-keep-it-dark-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sunshine Benzie",
+          "apple_music": "https://music.apple.com/us/artist/sunshine-benzi/1884937174",
+          "spotify": "https://open.spotify.com/artist/0qpBGpYogdqtCqzQaRtyaw",
+          "confidence": 0.966,
+          "matched": "SUNSHINE BENZI",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/sunshine-benzie-brick-and-mortar-music-hall-tickets/14375284?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/sunshine-benzie/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nightmare of You",
+          "apple_music": "https://music.apple.com/us/artist/nightmare-of-you/79565565",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Nightmare of You",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Anthony Family",
+          "apple_music": "https://music.apple.com/us/artist/anthony-family/1762452718",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Anthony Family",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nightmare-of-you-anthony-family-brick-and-mortar-music-hall-tickets/14284994?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/nightmare-of-you-anthony-family/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 37,
-      "exact": 35,
-      "close": 0,
-      "flagged": 2,
+      "unique_artists": 40,
+      "found": 38,
+      "exact": 36,
+      "close": 1,
+      "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 39,
+      "unique_artists": 40,
       "linked": 19,
       "venue": 19,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 13
+      "shows_with_link": 14
     }
   }
 }

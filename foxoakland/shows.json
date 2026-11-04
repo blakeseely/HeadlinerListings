@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 33,
+  "scraped_at": "2026-11-04",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -531,8 +531,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Secret Chiefs 3",
+          "apple_music": "https://music.apple.com/us/artist/secret-chiefs-3/7373091",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Secret Chiefs 3",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Here Come The Grizz",
       "presenters": [],
       "set_format": null,
@@ -562,8 +573,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "MonoNeon",
+          "apple_music": "https://music.apple.com/us/artist/mononeon/484127836",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "MonoNeon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Here Come The Grizz — New Year's Eve!",
       "presenters": [],
       "set_format": null,
@@ -977,6 +999,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Poison The Well & Alexisonfire",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "special guests",
+          "apple_music": "https://music.apple.com/us/artist/special-guests/189924545",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Special Guests",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Touché Amoré",
+          "apple_music": "https://music.apple.com/us/artist/touch%C3%A9-amor%C3%A9/433437119",
+          "spotify": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB",
+          "confidence": 1.0,
+          "matched": "Touché Amoré",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-04",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "PRESALE 11/5",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/poison-the-well-alexisonfire-270404",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "In the space of barely a breath, Poison The Well pacify fits of jarring brutality with moments of fragile beauty. Their unmistakable melodic hardcore gently dilutes the venom of trauma, betrayal, depression, and loss with hard-won wisdom and diligently earned self-acceptance. For as much force as they commit to the riffs and the breakdowns, there’s an equal amount of naked emotion encoded in their relatable hooks. At this point, they are unassumingly, yet undeniably embedded in the DNA of modern metal and hardcore. Poison The Well’s 1999 debut, The Opposite of December… A Season of Separation has claimed spots on Brooklyn Vegan ’s “ 15 ‘90s Metalcore Albums That Still Resonate Today , ” KERRANG! ’s “21 Best U.S. Metalcore Albums of All Time , ” Loudwire ’s “25 Best Metalcore Albums of All Time , ” and Revolver ’ s “10 Most Influential Metalcore Albums of All Time . ” Stereogum put it best, “The Opposite of December… A Season of Separation influenced a whole generation of metalcore band"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Meshuggah",
           "apple_music": "https://music.apple.com/us/artist/meshuggah/17304969",
           "spotify": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY",
@@ -1204,26 +1278,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 32,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 36,
-      "exact": 35,
+      "unique_artists": 40,
+      "found": 39,
+      "exact": 38,
       "close": 1,
       "flagged": 0,
-      "not_found": 0
+      "not_found": 1
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 34,
-      "venue": 34,
+      "unique_artists": 40,
+      "linked": 35,
+      "venue": 35,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 33
     }
   }
 }

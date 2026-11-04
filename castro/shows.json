@@ -35,82 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 69,
+  "scraped_at": "2026-11-04",
+  "count": 68,
   "shows": [
-    {
-      "event_type": "film",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Club Kid",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-02",
-      "doors": "5:30 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://sffilm.org/event/club-kid?utm_source=partner&utm_medium=partner&utm_campaign=2026_sffilm_club_kid_castro_ape",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/club-kid-261102",
-      "room": null,
-      "age_rating": "R",
-      "note": "SFFILM presents",
-      "description": "The Bay Area’s premier film institution since 1957, SFFILM connects singular storytellers with passionate audiences through film programming, artist development, and youth education"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rebecca Black",
-          "apple_music": "https://music.apple.com/us/artist/rebecca-black/426285675",
-          "spotify": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9",
-          "confidence": 1.0,
-          "matched": "Rebecca Black",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "BAYLI",
-          "apple_music": "https://music.apple.com/us/artist/bayli/967938951",
-          "spotify": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9",
-          "confidence": 1.0,
-          "matched": "BAYLI",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/rebecca-black-261103",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Exhibitionism on Tour",
-      "description": "In an age where people crave authenticity, all eyes are on Rebecca Black. The pop star holds a mirror up to the question of what’s real and what’s fake with Age of the Exhibitionist, her self-released sophomore album out now. Led by the delicious, catchy and full-throttle bangers “Speakerphone”, “Hot Wet Delirious”, “Michael.” and “Anaheim Star,” Black has never been more ambitious, daring and herself. Her latest comes off the heels of a crowd-pleasing run opening for Katy Perry’s Lifetimes tour as well as her Boiler Room debut. This year, the singer/songwriter/DJ/producer celebrates 15 years since her viral debut single “Friday” and is marking the anniversary by continuing to surprise the world with her most audacious release yet"
-    },
     {
       "event_type": "film",
       "needs_review": false,
@@ -353,8 +280,8 @@
       "date": "2026-11-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/olafur-arnalds-san-francisco-california-11-11-2026/event/1C006425D688A714?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/olafur-arnalds-261111",
       "room": null,
       "age_rating": "all ages",
@@ -384,8 +311,8 @@
       "date": "2026-11-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/olafur-arnalds-san-francisco-california-11-12-2026/event/1C006425D68AA716?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/olafur-arnalds-261112",
       "room": null,
       "age_rating": "all ages",
@@ -1270,7 +1197,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Jaymin",
+          "apple_music": "https://music.apple.com/us/artist/jaymin/1821260030",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jaymin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -2139,6 +2077,37 @@
       "description": "This event is"
     },
     {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Boy Throb",
+          "apple_music": "https://music.apple.com/us/artist/boy-throb/1858762551",
+          "spotify": "https://open.spotify.com/artist/1bHaCRcLdMLvc9yLWqZhOK",
+          "confidence": 1.0,
+          "matched": "Boy Throb",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/boy-throbs-real-tour-san-francisco-california-04-03-2027/event/1C00655EE0644E58?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/boy-throb-270403",
+      "room": null,
+      "age_rating": null,
+      "note": "Boy Throb's Real Tour",
+      "description": null
+    },
+    {
       "event_type": "comedy",
       "needs_review": false,
       "headline_artists": [
@@ -2402,21 +2371,21 @@
     "event_types": {
       "music": 52,
       "comedy": 4,
-      "film": 11,
+      "film": 10,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 78,
+      "unique_artists": 77,
       "found": 60,
       "exact": 54,
       "close": 2,
       "flagged": 4,
-      "not_found": 18
+      "not_found": 17
     },
     "spotify": {
-      "unique_artists": 78,
-      "linked": 48,
-      "venue": 48,
+      "unique_artists": 77,
+      "linked": 47,
+      "venue": 47,
       "api": 0,
       "feed": 0,
       "shows_with_link": 41

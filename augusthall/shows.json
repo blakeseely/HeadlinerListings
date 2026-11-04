@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 35,
+  "scraped_at": "2026-11-04",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Olivia O’Brien",
-          "apple_music": "https://music.apple.com/us/artist/olivia-obrien/1023538468",
-          "spotify": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp",
-          "confidence": 1.0,
-          "matched": "Olivia O'Brien",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/olivia-obrien-san-francisco-california-11-03-2026/event/1C0064B3E6211880",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/olivia-obrien/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -84,7 +53,18 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Support by Taylor Armstrong",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Taylor Armstrong @ 70%)",
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -115,9 +95,20 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Support by Sister Ray",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Sister Nancy @ 55%)",
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
-      "show_title": "Industrial Sport & Sound",
+      "show_title": "Industrial Sport & Sound,",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-06",
@@ -136,12 +127,12 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Pinhead Gunpowder",
-          "apple_music": "https://music.apple.com/us/artist/pinhead-gunpowder/6800228",
+          "name": "Pinhead Gunpowder with Support by Constant Insult and False Flag",
+          "apple_music": null,
           "spotify": "https://open.spotify.com/artist/3FV6RFbfc6do1nCakWsNBx",
-          "confidence": 1.0,
-          "matched": "Pinhead Gunpowder",
-          "apple_label": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: False Flag @ 70%)",
           "spotify_label": null,
           "spotify_source": "api"
         }
@@ -158,7 +149,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/pinhead-gunpowder/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -210,7 +201,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "The Last Balloon Tour",
+      "show_title": "The Last Balloon Tour, with support by Ariel J. and DJ Zeus",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
@@ -260,13 +251,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Son Volt",
-          "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
+          "name": "Son Volt, with support by Kelly Willis",
+          "apple_music": null,
           "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
-          "confidence": 1.0,
-          "matched": "Son Volt",
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "close match: Son Volt",
           "spotify_source": "api"
         }
       ],
@@ -282,7 +273,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/son-volt/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -322,13 +313,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Eivør",
-          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
+          "name": "Eivør, with support by midori jaeger",
+          "apple_music": null,
           "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
-          "confidence": 1.0,
-          "matched": "Eivør",
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "close match: Eivør",
           "spotify_source": "api"
         }
       ],
@@ -344,7 +335,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/eivor/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -353,14 +344,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Agriculture",
-          "apple_music": "https://music.apple.com/us/artist/agriculture/1620725472",
-          "spotify": "https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY",
-          "confidence": 1.0,
-          "matched": "Agriculture",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "name": "Agriculture, with support by Dry Socket and Pure Hex",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Pure Hex @ 70%)",
+          "spotify_label": "no confident match (closest: Mountain Grass Unit @ 32%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -375,7 +366,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/agriculture/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -384,13 +375,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Boston Manor",
-          "apple_music": "https://music.apple.com/us/artist/boston-manor/453487358",
+          "name": "Boston Manor, with support by Ben Quad and Super Sometimes",
+          "apple_music": null,
           "spotify": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM",
-          "confidence": 1.0,
-          "matched": "Boston Manor",
-          "apple_label": null,
-          "spotify_label": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Super Sometimes @ 70%)",
+          "spotify_label": "close match: Boston Manor",
           "spotify_source": "api"
         }
       ],
@@ -406,7 +397,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/boston-manor/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -458,7 +449,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Doctrine of Love Tour",
+      "show_title": "Doctrine of Love Tour, with support by Brooke Combe",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-01",
@@ -468,7 +459,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/jalen-ngonda-doctrine-of-love-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -530,7 +521,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/the-pineapple-thief/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -561,7 +552,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/hunxho/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -592,7 +583,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/alexander-james-the-better-man-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -623,7 +614,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/disappear-here-a-ten-year-celebration-2/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -654,7 +645,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/disappear-here-a-ten-year-celebration/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -685,7 +676,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/death-from-above-1979/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -747,7 +738,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/james-marriott/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -778,7 +769,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/the-lemonheads-the-love-chant-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -809,7 +800,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/49-winchester-change-of-plans-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -840,7 +831,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/penelope-road/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -871,7 +862,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/begging-for-sax-tour-ii/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -933,7 +924,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/kid-francescoli-a-kind-wave-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -964,7 +955,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/the-mary-wallopers/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -973,13 +964,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Destroy Boys",
-          "apple_music": "https://music.apple.com/us/artist/destroy-boys/1202438410",
+          "name": "Destroy Boys, with support by illuminati hotties and The Rat Utopia Experiment",
+          "apple_music": null,
           "spotify": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5",
-          "confidence": 1.0,
-          "matched": "Destroy Boys",
-          "apple_label": null,
-          "spotify_label": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: The Rat Utopia Experiment @ 70%)",
+          "spotify_label": "close match: Destroy Boys",
           "spotify_source": "api"
         }
       ],
@@ -995,7 +986,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/destroy-boys/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1016,17 +1007,17 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "HOOMAN WORLD TOUR",
+      "show_title": "HOOMAN WORLD TOUR, with support by Zero 9:36",
       "presenters": [],
       "set_format": null,
       "date": "2027-04-18",
-      "doors": "7:00 pm",
+      "doors": "9:00 pm",
       "show_time": "10:00 pm",
       "ticket_link": "https://www.ticketmaster.com/sim-hooman-world-tour-san-francisco-california-04-18-2027/event/1C0064AF09A75C9E",
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sim-hooman-world-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1110,7 +1101,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/the-pre-show-speakeasy-with-hazlett/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1141,33 +1132,33 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/hazlett/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 30,
-      "exact": 30,
+      "unique_artists": 36,
+      "found": 23,
+      "exact": 23,
       "close": 0,
       "flagged": 0,
-      "not_found": 5
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 29,
+      "unique_artists": 36,
+      "linked": 27,
       "venue": 0,
-      "api": 29,
+      "api": 27,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 29
     }
   }
 }

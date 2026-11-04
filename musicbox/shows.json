@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 36,
+  "scraped_at": "2026-11-04",
+  "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Yuki Chiba",
-          "apple_music": "https://music.apple.com/us/artist/yuki-chiba/1727997785",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Yuki Chiba",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Yuki Hayashi @ 64%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DRAM",
-          "apple_music": "https://music.apple.com/us/artist/dram/962129771",
-          "spotify": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8",
-          "confidence": 1.0,
-          "matched": "DRAM",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": "First North America Headline Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14218764/yuki-chiba-first-north-america-headline-tour-w-dram",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1396,26 +1354,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 34,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 49,
-      "exact": 45,
+      "unique_artists": 56,
+      "found": 47,
+      "exact": 43,
       "close": 0,
       "flagged": 4,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 58,
-      "linked": 49,
+      "unique_artists": 56,
+      "linked": 48,
       "venue": 0,
-      "api": 49,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 33
     }
   }
 }

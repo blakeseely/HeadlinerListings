@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 35,
+  "scraped_at": "2026-11-04",
+  "count": 36,
   "shows": [
     {
       "event_type": "music",
@@ -892,7 +892,18 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Special Guest Seb Wildblood",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Seb Wildblood @ 70%)",
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": "Dream Live Tour",
       "presenters": [
@@ -1255,6 +1266,70 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Currents",
+          "apple_music": "https://music.apple.com/us/artist/currents/165052213",
+          "spotify": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu",
+          "confidence": 1.0,
+          "matched": "Currents",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Vana",
+          "apple_music": "https://music.apple.com/us/artist/vana/1571331866",
+          "spotify": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T",
+          "confidence": 1.0,
+          "matched": "Vana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Stick to Your Guns",
+          "apple_music": "https://music.apple.com/us/artist/stick-to-your-guns/218293843",
+          "spotify": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ",
+          "confidence": 1.0,
+          "matched": "Stick to Your Guns",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dreamwake",
+          "apple_music": "https://music.apple.com/us/artist/dreamwake/1466722391",
+          "spotify": "https://open.spotify.com/artist/7w7sMRp0FSQRRZM5SZG0Dm",
+          "confidence": 1.0,
+          "matched": "Dreamwake",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Our Fates Lie In Tandem",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-07",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547008581",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1683799",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Jersey",
           "apple_music": "https://music.apple.com/us/artist/jersey/1636705583",
           "spotify": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ",
@@ -1473,7 +1548,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547006825",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1683727",
       "room": null,
       "age_rating": "All Ages",
@@ -1516,26 +1591,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 36,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 59,
-      "found": 59,
-      "exact": 58,
+      "unique_artists": 64,
+      "found": 63,
+      "exact": 62,
       "close": 0,
       "flagged": 1,
-      "not_found": 0
+      "not_found": 1
     },
     "spotify": {
-      "unique_artists": 59,
-      "linked": 58,
+      "unique_artists": 64,
+      "linked": 62,
       "venue": 0,
-      "api": 55,
+      "api": 59,
       "feed": 3,
-      "shows_with_link": 35
+      "shows_with_link": 36
     }
   }
 }

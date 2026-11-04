@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 43,
+  "scraped_at": "2026-11-04",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sobs",
-          "apple_music": "https://music.apple.com/us/artist/sobs/1574549552",
-          "spotify": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i",
-          "confidence": 1.0,
-          "matched": "Sobs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lace",
-          "apple_music": "https://music.apple.com/us/artist/lace/1724199991",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "lace",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/sobs-with-lace-cafe-du-nord-tickets/15035033?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-03-sobs",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Dedicated to the power of pop music, Sobs are Singapore’s premier indiepop propagandists. After releasing a breakout bedroom pop EP Catflap and a dream-jangle LP Telltale Signs that brought international embrace, Sobs now assemble a front-to-back indiepop behemoth – Air Guitar – after a much anticipated three-year wait. A thirty-minute trip for the post-Internet consumer, Air Guitar calibrates…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -199,7 +155,7 @@
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-06-san-francisco-leonard-cohen-festival",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": "All ages",
       "note": null,
       "description": "Bay Area poets and singer/songwriters honor and explore the words and music of the late troubadour, Leonard Cohen. The San Francisco Leonard Cohen Festival, founded in 2018, is an annual celebration dedicated to honoring the poetry, music, and spirit of the legendary songwriter, poet, and author. Presented each November by Conspiracy of Beards—San Francisco’s renowned 30-member male choir…"
     },
@@ -297,7 +253,7 @@
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-festival",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": "All ages",
       "note": null,
       "description": "Conspiracy of Beards present their new show “The Song & Spirit of Leonard Cohen” along with special guests, Daniel Kahn and Jake Shulman-Ment. Detroit-born, Hamburg-based troubadour and multi-instrumentalist Daniel Kahn and New York master fiddler Jake Shulman-Ment have been playing, traveling and making music together for nearly twenty years – drawing on klezmer, folk, punk, poetry and a…"
     },
@@ -316,8 +272,29 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Pig the Gemini",
+          "apple_music": "https://music.apple.com/us/artist/pig-the-gemini/1503276294",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Pig the Gemini",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Hopper1000 (DJ)",
+          "apple_music": "https://music.apple.com/us/artist/hopper1000/1527306742",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Hopper1000",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -326,7 +303,7 @@
       "date": "2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/454-cafe-du-nord-tickets/14351274?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-du-nord-tickets/14351274?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-08-454",
       "room": null,
@@ -382,7 +359,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Joh Chase",
+          "apple_music": "https://music.apple.com/us/artist/joh-chase/423389339",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Joh Chase",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
@@ -392,7 +380,7 @@
       "date": "2026-11-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/kate-nash-swedish-american-hall-tickets/14313314?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/kate-nash-with-joh-chase-swedish-american-hall-tickets/14313314?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-11-15-kate-nash",
       "room": "Swedish American Hall (upstairs)",
@@ -645,7 +633,7 @@
       "date": "2026-12-07",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/keenan-trevon-cafe-du-nord-tickets/14329424?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/keenan-trevons-flowers-after-dark-cafe-du-nord-tickets/14329424?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-07-keenan-trevon",
       "room": null,
@@ -712,7 +700,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Kitty Ray",
+          "apple_music": "https://music.apple.com/us/artist/kitty-ray/1769106531",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "kitty ray",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [
@@ -722,7 +721,7 @@
       "date": "2026-12-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/why-swedish-american-hall-tickets/15003283?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/why-with-kitty-ray-swedish-american-hall-tickets/15003283?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-08-why",
       "room": "Swedish American Hall (upstairs)",
@@ -1592,6 +1591,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Yellow House",
+          "apple_music": "https://music.apple.com/us/artist/yellow-house/257145126",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Yellow House",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/yellow-house-cafe-du-nord-tickets/14384164?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://cafedunord.com/shows/2027-05-04-yellow-house",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": "Hailing from South Africa, Yellow House makes his long-awaited US live debut with a nationwide headlining tour. Since the release of his debut EP, A Carnival of Fears, in 2017, Yellow House has cultivated a devoted following across the United States with his distinctive blend of ethereal Dream Pop, soulful R&B, and folk inspired songwriting. Envisaged as a musical expression of impressionism…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "GAVN!",
           "apple_music": "https://music.apple.com/us/artist/gavn/1351519782",
           "spotify": null,
@@ -1619,25 +1651,58 @@
       "age_rating": "All ages",
       "note": null,
       "description": "GAVN! at Cafe du Nord, San Francisco."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALFIE JUKES",
+          "apple_music": "https://music.apple.com/us/artist/alfie-jukes/1593862264",
+          "spotify": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9",
+          "confidence": 1.0,
+          "matched": "Alfie Jukes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-06-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/alfie-jukes-funny-cafe-du-nord-tickets/14371174?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-06-02-alfie-jukes",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Alfie Jukes is a born storyteller. This young singer-songwriter is on the cusp of something huge, destined to share his remarkable music with the world. His songs are a much-needed balm for our troubled times; songs of love and hope, of moving away from home and coming of age, and they are always written from the heart."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 56,
-      "exact": 52,
+      "unique_artists": 61,
+      "found": 60,
+      "exact": 56,
       "close": 2,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 57,
+      "unique_artists": 61,
       "linked": 39,
       "venue": 39,
       "api": 0,

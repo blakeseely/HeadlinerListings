@@ -35,75 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 60,
+  "scraped_at": "2026-11-04",
+  "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Southern Culture on the Skids",
-          "apple_music": "https://music.apple.com/us/artist/southern-culture-on-the-skids/115708",
-          "spotify": "https://open.spotify.com/artist/1iJMsMDmedV0N4NZ2gAtcQ",
-          "confidence": 1.0,
-          "matched": "Southern Culture On the Skids",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-02",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/southern-culture-on-the-skids/690446",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/southern-culture-on-the-skids/690446",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Big Freedia",
-          "apple_music": "https://music.apple.com/us/artist/big-freedia/351297032",
-          "spotify": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr",
-          "confidence": 1.0,
-          "matched": "Big Freedia",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "KCRW and Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/big-freedia/696033",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/big-freedia/696033",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -154,7 +88,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/inner-wave/699757",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1484,8 +1418,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Abby Posner",
+          "apple_music": "https://music.apple.com/us/artist/abby-posner/413930233",
+          "spotify": "https://open.spotify.com/artist/4HwDnSGknwnSPJbN6dUZVs",
+          "confidence": 1.0,
+          "matched": "Abby Posner",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -1594,10 +1539,23 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Jesika von Rabbit",
+          "apple_music": "https://music.apple.com/us/artist/jesika-von-rabbit/987976004",
+          "spotify": "https://open.spotify.com/artist/228m37gn65MbaI86rMIEfM",
+          "confidence": 1.0,
+          "matched": "Jesika Von Rabbit",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-02",
       "doors": "8:30 pm",
@@ -1606,7 +1564,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/missing-persons/705772",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1625,10 +1583,23 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Tchotchke",
+          "apple_music": "https://music.apple.com/us/artist/tchotchke/1597904288",
+          "spotify": "https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG",
+          "confidence": 1.0,
+          "matched": "Tchotchke",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "(((folkYEAH!)) Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-03",
       "doors": "8:00 pm",
@@ -1637,7 +1608,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-lemon-twigs/708923",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2295,26 +2266,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 60,
+      "music": 58,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
-      "found": 82,
-      "exact": 79,
+      "unique_artists": 90,
+      "found": 83,
+      "exact": 80,
       "close": 0,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 89,
-      "linked": 79,
+      "unique_artists": 90,
+      "linked": 80,
       "venue": 0,
-      "api": 79,
+      "api": 80,
       "feed": 0,
-      "shows_with_link": 56
+      "shows_with_link": 54
     }
   }
 }

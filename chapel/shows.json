@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 40,
+  "scraped_at": "2026-11-04",
+  "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Election Night Watch Party: Hosted by Kochina Rude!",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Knight's Watch @ 34%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "5:00 pm",
-      "show_time": "5:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -484,14 +453,14 @@
       ],
       "support_artists": [
         {
-          "name": "KALW Welcomes",
+          "name": "Danny Paul Grody Duo",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx",
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Kaleo Wassman @ 46%)",
-          "spotify_source": null
+          "spotify_label": "close match: Danny Paul Grody",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1708,24 +1677,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40,
+      "music": 39,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 75,
+      "unique_artists": 74,
       "found": 54,
       "exact": 47,
       "close": 3,
       "flagged": 4,
-      "not_found": 21
+      "not_found": 20
     },
     "spotify": {
-      "unique_artists": 75,
-      "linked": 54,
+      "unique_artists": 74,
+      "linked": 55,
       "venue": 0,
-      "api": 54,
+      "api": 55,
       "feed": 0,
       "shows_with_link": 33
     }

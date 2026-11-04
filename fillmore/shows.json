@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 33,
+  "scraped_at": "2026-11-04",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -1294,11 +1294,63 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The California Honeydrops",
+          "apple_music": "https://music.apple.com/us/artist/the-california-honeydrops/299946363",
+          "spotify": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk",
+          "confidence": 1.0,
+          "matched": "The California Honeydrops",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lindsay Lou",
+          "apple_music": "https://music.apple.com/us/artist/lindsay-lou/396630491",
+          "spotify": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ",
+          "confidence": 1.0,
+          "matched": "Lindsay Lou",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jimmy James",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-james/3178791",
+          "spotify": "https://open.spotify.com/artist/4MpCHcOqKRsSXGiYuGR9JY",
+          "confidence": 1.0,
+          "matched": "Jimmy James",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "SAN FRANCISCO 2027 With Family & Friends",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-30-2027/event/1C0064E1F2555AA1",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-30-2027/event/1C0064E1F2555AA1",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 2
@@ -1317,7 +1369,7 @@
       "venue": 0,
       "api": 42,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 32
     }
   }
 }

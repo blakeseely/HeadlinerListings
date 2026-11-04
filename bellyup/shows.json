@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 113,
+  "scraped_at": "2026-11-04",
+  "count": 112,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fitz and The Tantrums – Picking Up The Pieces In Its Entirety",
-          "apple_music": "https://music.apple.com/us/artist/fitz/1109567198",
-          "spotify": "https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB",
-          "confidence": 0.95,
-          "matched": "FITZ",
-          "apple_label": "compound bill — links to FITZ only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": null,
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14935873/fitz-and-the-tantrums-picking-up-the-pieces-in-its-entirety",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4133,26 +4102,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 112,
+      "music": 111,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 149,
-      "found": 113,
+      "unique_artists": 148,
+      "found": 112,
       "exact": 92,
       "close": 5,
-      "flagged": 16,
+      "flagged": 15,
       "not_found": 36
     },
     "spotify": {
-      "unique_artists": 149,
-      "linked": 116,
+      "unique_artists": 148,
+      "linked": 115,
       "venue": 0,
-      "api": 116,
+      "api": 115,
       "feed": 0,
-      "shows_with_link": 84
+      "shows_with_link": 83
     }
   }
 }

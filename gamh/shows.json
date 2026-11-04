@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 20,
+  "scraped_at": "2026-11-04",
+  "count": 23,
   "shows": [
     {
       "event_type": "music",
@@ -415,6 +415,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "82MAJOR",
+          "apple_music": "https://music.apple.com/us/artist/82major/1710474482",
+          "spotify": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663",
+          "confidence": 1.0,
+          "matched": "82MAJOR",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8353762/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8353762/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $188",
+      "description": "82MAJOR at Great American Music Hall on Thursday 17th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Anna Von Hausswolff",
           "apple_music": "https://music.apple.com/us/artist/anna-von-hausswolff/351852229",
           "spotify": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6",
@@ -611,6 +642,78 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Charlotte Adigery",
+          "apple_music": "https://music.apple.com/us/artist/charlotte-adig%C3%A9ry/637953219",
+          "spotify": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy",
+          "confidence": 1.0,
+          "matched": "Charlotte Adigéry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Bolis Pupul",
+          "apple_music": "https://music.apple.com/us/artist/bolis-pupul/1108076473",
+          "spotify": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl",
+          "confidence": 1.0,
+          "matched": "Bolis Pupul",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-24",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8354052/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8354052/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Charlotte Adigery & Bolis Pupul at Great American Music Hall on Wednesday 24th March 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Elder",
+          "apple_music": "https://music.apple.com/us/artist/elder/461077602",
+          "spotify": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT",
+          "confidence": 1.0,
+          "matched": "Elder",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-20",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8354379/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8354379/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Elder at Great American Music Hall on Tuesday 20th April 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Faun",
           "apple_music": "https://music.apple.com/us/artist/faun/61412380",
           "spotify": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE",
@@ -671,26 +774,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 22,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 21,
-      "found": 21,
-      "exact": 18,
+      "unique_artists": 25,
+      "found": 25,
+      "exact": 22,
       "close": 0,
       "flagged": 3,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 21,
-      "linked": 21,
+      "unique_artists": 25,
+      "linked": 25,
       "venue": 0,
-      "api": 21,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 23
     }
   }
 }

@@ -35,93 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-02",
-  "count": 94,
+  "scraped_at": "2026-11-04",
+  "count": 96,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lexi Jayde",
-          "apple_music": "https://music.apple.com/us/artist/lexi-jayde/1318476177",
-          "spotify": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC",
-          "confidence": 1.0,
-          "matched": "Lexi Jayde",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ally Salort",
-          "apple_music": "https://music.apple.com/us/artist/ally-salort/1622933985",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Ally Salort",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-02",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/lexi-jayde-the-independent-tickets/14289744?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/lexi-jayde/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gilla Band",
-          "apple_music": "https://music.apple.com/us/artist/gilla-band/260798711",
-          "spotify": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S",
-          "confidence": 1.0,
-          "matched": "Gilla Band",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Annie-Claude Deschênes",
-          "apple_music": "https://music.apple.com/us/artist/annie-claude-desche-nes/1638839367",
-          "spotify": "https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i",
-          "confidence": 1.0,
-          "matched": "Annie-Claude Deschênes",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-03",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/gilla-band-the-independent-tickets/14941553?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/gilla-band/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -324,7 +240,7 @@
       "date": "2026-11-08",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
+      "ticket_link": "https://www.ticketweb.com/event/thao-the-independent-tickets/14995473?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/thao/",
       "room": null,
@@ -1711,6 +1627,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "(Multiple Artists)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "The Emo Night Tour",
+      "presenters": [
+        "It's Relative! Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-emo-night-tour-the-independent-tickets/14411134?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-14/",
+      "room": null,
+      "age_rating": null,
+      "note": "Various-artist night (a theme show); the lineup is not named on the venue page.",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Ray and Paul",
           "apple_music": "https://music.apple.com/us/artist/ray-paul/360138245",
           "spotify": "https://open.spotify.com/artist/4Z8ju2qdf7OhLNQtzQSk6o",
@@ -1763,6 +1712,37 @@
       "ticket_link": "https://www.ticketweb.com/event/thievery-corporation-the-independent-tickets/14403154?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/thievery-corporation/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SHĀHERI",
+          "apple_music": "https://music.apple.com/us/artist/sh%C4%81heri/1819907415",
+          "spotify": "https://open.spotify.com/artist/4Nt4WW1N7HJls6I2WdLeq8",
+          "confidence": 1.0,
+          "matched": "SHĀHERI",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-02",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/shheri-the-independent-tickets/14410004?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/shaheri/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2125,6 +2105,90 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "City of the Sun",
+          "apple_music": "https://music.apple.com/us/artist/city-of-the-sun/847581105",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "City of the Sun",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Valley Wolf",
+          "apple_music": "https://music.apple.com/us/artist/valley-wolf/1437040882",
+          "spotify": "https://open.spotify.com/artist/0RzJ4IJAdG4rN5ZnIDxvLK",
+          "confidence": 1.0,
+          "matched": "Valley Wolf",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/city-of-the-sun-the-independent-tickets/14249664?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jim E. Brown",
+          "apple_music": "https://music.apple.com/us/artist/jim-e-brown/1556075072",
+          "spotify": "https://open.spotify.com/artist/6DeLyy3rTPFUgp2jDnKBKR",
+          "confidence": 1.0,
+          "matched": "Jim E. Brown",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Faux Real",
+          "apple_music": "https://music.apple.com/us/artist/faux-real/620513308",
+          "spotify": "https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO",
+          "confidence": 1.0,
+          "matched": "Faux Real",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/jim-e-brown-the-independent-tickets/14409714?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/jim-e-brown/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Winona Fighter",
           "apple_music": "https://music.apple.com/us/artist/winona-fighter/1618260492",
           "spotify": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ",
@@ -2303,7 +2367,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two-Day Pass",
+      "show_title": "Three Nights",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2311,7 +2375,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2334,7 +2398,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Three Nights",
+      "show_title": "Two-Day Pass",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2342,7 +2406,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3519,26 +3583,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 94,
+      "music": 96,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 133,
-      "found": 125,
-      "exact": 117,
+      "unique_artists": 135,
+      "found": 126,
+      "exact": 118,
       "close": 3,
       "flagged": 5,
-      "not_found": 8
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 133,
-      "linked": 88,
-      "venue": 88,
+      "unique_artists": 135,
+      "linked": 89,
+      "venue": 89,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 78
+      "shows_with_link": 79
     }
   }
 }
