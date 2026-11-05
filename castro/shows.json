@@ -365,7 +365,18 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "The Wilder Blue",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD",
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
       "multi_artist": false,
       "show_title": null,
       "presenters": [],
@@ -378,7 +389,7 @@
       "event_page": "https://thecastro.com/events/paul-cauthen-261114",
       "room": null,
       "age_rating": "all ages",
-      "note": "The Wilder Blue",
+      "note": null,
       "description": "Whether he knows it or not, every man lives by a code. And for country provocateur Paul Cauthen, that code is simple. Always bet on yourself. A singer-songwriter with a well-documented distaste for playing by anyone else’s rules, the East Texas native spent two decades clawing his way through the country underground, embodying the independent spirit with a monolithic Big Velvet vocal. Fusing classic-country grit, gospel power, and a rhinestoned rock edge, four previous albums proclaimed his singular style with a booming baritone and near-biblical swagger. Taught to sing by his grandfather in a Church of Christ, Cauthen hit the scene with the duo Sons of Fathers in 2009, before My Gospel, Room 41, Country Coming Down, and Black on Black unveiled a vulnerable, fire-and-brimstone songwriter with brazen Texas attitude – craving deliverance, yet possessed by a “bird dog” instinct for theatrical rapture. Cauthen has toured the world, collaborating with Margo Price, Orville Peck, Cody Jinks, and Lana Del Rey. And with favorites like “Cocaine Country Dancing,” “Fuck You Money,” and his GOLD-certified collab with Shaboozey on “Last Of My Kind,” he counts 442 million global streams. Cauthen’"
     },
     {
@@ -2375,17 +2386,17 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 77,
+      "unique_artists": 78,
       "found": 60,
       "exact": 54,
       "close": 2,
       "flagged": 4,
-      "not_found": 17
+      "not_found": 18
     },
     "spotify": {
-      "unique_artists": 77,
-      "linked": 47,
-      "venue": 47,
+      "unique_artists": 78,
+      "linked": 48,
+      "venue": 48,
       "api": 0,
       "feed": 0,
       "shows_with_link": 41
