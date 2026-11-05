@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 20,
+  "scraped_at": "2026-11-05",
+  "count": 19,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lyle Lovett and his Small Large Band",
-          "apple_music": "https://music.apple.com/us/artist/lyle-lovett/39390",
-          "spotify": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es",
-          "confidence": 0.95,
-          "matched": "Lyle Lovett",
-          "apple_label": "compound bill — links to Lyle Lovett only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-04",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/lyle-lovett-and-his-small-the-sound-tickets/14215064?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14215064/lyle-lovett-and-his-small-large-band",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -740,26 +709,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 19,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 24,
-      "found": 20,
+      "unique_artists": 23,
+      "found": 19,
       "exact": 17,
       "close": 1,
-      "flagged": 2,
+      "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 24,
-      "linked": 22,
+      "unique_artists": 23,
+      "linked": 21,
       "venue": 0,
-      "api": 22,
+      "api": 21,
       "feed": 0,
-      "shows_with_link": 17
+      "shows_with_link": 16
     }
   }
 }

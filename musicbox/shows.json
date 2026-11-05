@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 35,
+  "scraped_at": "2026-11-05",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Six60",
-          "apple_music": "https://music.apple.com/us/artist/six60/386478059",
-          "spotify": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn",
-          "confidence": 1.0,
-          "matched": "SIX60",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Right Here Right Now - North America 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-04",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14249494/six60-right-here-right-now-north-america-2026",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1354,26 +1323,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 47,
-      "exact": 43,
+      "unique_artists": 55,
+      "found": 46,
+      "exact": 42,
       "close": 0,
       "flagged": 4,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 48,
+      "unique_artists": 55,
+      "linked": 47,
       "venue": 0,
-      "api": 48,
+      "api": 47,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

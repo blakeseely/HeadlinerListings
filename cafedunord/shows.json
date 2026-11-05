@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 44,
+  "scraped_at": "2026-11-05",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DICE",
-          "apple_music": "https://music.apple.com/us/artist/dice/1548915486",
-          "spotify": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC",
-          "confidence": 1.0,
-          "matched": "DICE",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Back Alley",
-          "apple_music": "https://music.apple.com/us/artist/the-back-alley/1679998324",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "The Back Alley",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-04",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/dice-with-the-back-alley-cafe-du-nord-tickets/14908043?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-04-dice",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "The Perth-based four-piece makes music for authentic connection. For movement, for feeling, and for being present. These are songs that push you to run outside and be a kid again, to fall in love, dance in your kitchen, take a spontaneous trip with mates, or lie in the grass doing nothing at all."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1688,26 +1644,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 61,
-      "found": 60,
-      "exact": 56,
+      "unique_artists": 59,
+      "found": 58,
+      "exact": 54,
       "close": 2,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 61,
-      "linked": 39,
-      "venue": 39,
+      "unique_artists": 59,
+      "linked": 38,
+      "venue": 38,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 38
     }
   }
 }

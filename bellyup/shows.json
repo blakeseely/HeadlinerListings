@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 112,
+  "scraped_at": "2026-11-05",
+  "count": 111,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "apple_music": "https://music.apple.com/us/artist/fitz-and-the-tantrums/321144807",
-          "spotify": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4",
-          "confidence": 1.0,
-          "matched": "Fitz and The Tantrums",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Greatest Hits Show",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-04",
-      "doors": null,
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14935903/fitz-and-the-tantrums-greatest-hits-show",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4102,26 +4071,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 111,
+      "music": 110,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 148,
-      "found": 112,
-      "exact": 92,
+      "unique_artists": 147,
+      "found": 111,
+      "exact": 91,
       "close": 5,
       "flagged": 15,
       "not_found": 36
     },
     "spotify": {
-      "unique_artists": 148,
-      "linked": 115,
+      "unique_artists": 147,
+      "linked": 114,
       "venue": 0,
-      "api": 115,
+      "api": 114,
       "feed": 0,
-      "shows_with_link": 83
+      "shows_with_link": 82
     }
   }
 }

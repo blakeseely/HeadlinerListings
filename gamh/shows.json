@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 23,
+  "scraped_at": "2026-11-05",
+  "count": 22,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pain Of Truth",
-          "apple_music": "https://music.apple.com/us/artist/pain-of-truth/1016853381",
-          "spotify": "https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql",
-          "confidence": 1.0,
-          "matched": "Pain of Truth",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-04",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.tenderloinmusichall.com/events/pain-of-truth-04-november-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.tenderloinmusichall.com/events/pain-of-truth-04-november-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": "From $137",
-      "description": "Hardcore comes to Great American Music Hall in San Francisco, CA on Wednesday, November 4th,..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -774,26 +743,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 22,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 25,
-      "found": 25,
-      "exact": 22,
+      "unique_artists": 24,
+      "found": 24,
+      "exact": 21,
       "close": 0,
       "flagged": 3,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 25,
-      "linked": 25,
+      "unique_artists": 24,
+      "linked": 24,
       "venue": 0,
-      "api": 25,
+      "api": 24,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 22
     }
   }
 }

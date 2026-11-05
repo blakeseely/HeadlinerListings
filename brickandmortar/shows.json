@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 21,
+  "scraped_at": "2026-11-05",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Blue Light",
-          "apple_music": "https://music.apple.com/us/artist/blue-light/2290560",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Blue Light",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sassy 009",
-          "apple_music": "https://music.apple.com/us/artist/sassy-009/1277035471",
-          "spotify": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L",
-          "confidence": 1.0,
-          "matched": "Sassy 009",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Swordes",
-          "apple_music": "https://music.apple.com/us/artist/swordes/1537910016",
-          "spotify": "https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb",
-          "confidence": 1.0,
-          "matched": "Swordes",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Tricky FM",
-          "apple_music": "https://music.apple.com/us/artist/tricky-fm/6787711012",
-          "spotify": "https://open.spotify.com/artist/2YUC5nYnx0PrmkE3s23Y0l",
-          "confidence": 1.0,
-          "matched": "Tricky FM",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-04",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/blue-light-with-sassy-009-brick-and-mortar-music-hall-tickets/14968513?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/blue-light-with-sassy-009/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "When trying to tap into the essence of her latest work, Lindgaard describes it as: “electronic, symphonic, poetic and hypnotizing.” all of which go someway to capturing the introspective euphoria of her latest work. Her vocals are at once fragile and floating, but also joyous and uplifting; underneath her voice sits rich, engulfing soundscapes, pulsing synths and cracking beats – it’s a place where ambient, dream pop, electronica and deconstructed club music all coalesce to find a new form."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -891,26 +829,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 38,
-      "exact": 36,
+      "unique_artists": 36,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 19,
-      "venue": 19,
+      "unique_artists": 36,
+      "linked": 16,
+      "venue": 16,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 14
+      "shows_with_link": 13
     }
   }
 }
