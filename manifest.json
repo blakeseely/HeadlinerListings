@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:37:39.448918+00:00",
+  "generated_at": "2026-11-05T16:46:02.408418+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -44,8 +44,8 @@
           "api"
         ]
       },
-      "show_count": 111,
-      "sha256_16": "5b0661fe1c1aaea0"
+      "show_count": 125,
+      "sha256_16": "db6784b1530fddbf"
     },
     {
       "venue_id": "bgc",
@@ -313,16 +313,17 @@
           "comedy"
         ],
         "ticket_status": [
+          "sold out",
           "on sale",
           "not on sale",
-          "sold out"
+          "on sale soon"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 34,
-      "sha256_16": "11b137233ccd5fad"
+      "show_count": 39,
+      "sha256_16": "141baa7787fe01e6"
     },
     {
       "venue_id": "pappy",
@@ -394,14 +395,20 @@
       "city": "San Diego, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
-      "oldest_show_date": null,
+      "oldest_show_date": "2027-02-24",
       "value_domains": {
-        "event_type": [],
-        "ticket_status": [],
-        "spotify_source": []
+        "event_type": [
+          "music"
+        ],
+        "ticket_status": [
+          "not on sale"
+        ],
+        "spotify_source": [
+          "api"
+        ]
       },
-      "show_count": 0,
-      "sha256_16": "7408ba59f72b203f"
+      "show_count": 1,
+      "sha256_16": "3609abc3d56a0220"
     },
     {
       "venue_id": "theobservatory",
@@ -436,8 +443,8 @@
           "api"
         ]
       },
-      "show_count": 19,
-      "sha256_16": "96a6f5966cace240"
+      "show_count": 25,
+      "sha256_16": "263aeb7c30e7db68"
     },
     {
       "venue_id": "warfield",

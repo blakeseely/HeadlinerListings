@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-05",
-  "count": 19,
+  "count": 25,
   "shows": [
     {
       "event_type": "music",
@@ -472,6 +472,121 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Greensky Bluegrass",
+          "apple_music": "https://music.apple.com/us/artist/greensky-bluegrass/187258500",
+          "spotify": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn",
+          "confidence": 1.0,
+          "matched": "Greensky Bluegrass",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Winter Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/greensky-bluegrass-winter-the-sound-tickets/14402104?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14402104/greensky-bluegrass-winter-tour-2027",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pepper",
+          "apple_music": "https://music.apple.com/us/artist/pepper/237301",
+          "spotify": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT",
+          "confidence": 1.0,
+          "matched": "Pepper",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bumpin Uglies",
+          "apple_music": "https://music.apple.com/us/artist/bumpin-uglies/445871157",
+          "spotify": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7",
+          "confidence": 1.0,
+          "matched": "Bumpin Uglies",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "20 Years of No Shame",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-17",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/pepper-20-years-the-sound-tickets/14409044?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14409044/pepper-20-years-of-no-shame-w-bumpin-uglies",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Portugal. The Man",
+          "apple_music": "https://music.apple.com/us/artist/portugal-the-man/167649475",
+          "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T",
+          "confidence": 1.0,
+          "matched": "Portugal. The Man",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Anthony Green",
+          "apple_music": "https://music.apple.com/us/artist/anthony-green/131770847",
+          "spotify": "https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I",
+          "confidence": 1.0,
+          "matched": "Anthony Green",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "IN THE MOUNTAIN IN THE CLOUD – 15 Year Anniversary Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/portugal-the-man-the-sound-tickets/14402204?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14402204/portugal-the-man-in-the-mountain-in-the-cloud-15-year-anniversary-tour-w-anthony-green",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "$1 from every ticket sold goes to support Portugal. The Man's community initiatives Pass The Mic and Frances Changed My Life. Pass The Mic is focused on building community resilience, empathy, and awareness through music, stories, art, education, and connectivity. The organization aims to convene and organize partnerships and projects informed by community need, then mobilize Portugal. The Man's listeners and supporters around that shared vision. Through the Frances Changed My Life campaign, Portugal. The Man is working to raise awareness and crucial funds to help change the future for Frances Gourley, and for all other kids and families navigating the emotional and financial toll of DHDDS and other Rare Diseases."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Dark Star Orchestra",
           "apple_music": "https://music.apple.com/us/artist/dark-star-orchestra/257543477",
           "spotify": "https://open.spotify.com/artist/4VjljDo2biBRVJ1WEXZ8GE",
@@ -638,6 +753,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "LSDREAM",
+          "apple_music": "https://music.apple.com/us/artist/lsdream/1380448832",
+          "spotify": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND",
+          "confidence": 1.0,
+          "matched": "LSDREAM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Kill the Noise | Vincent Antone | F A Y R V H",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Kill The Noise @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "BEE HERE NOW TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-24",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/lsdream-bee-here-now-tour-the-sound-tickets/14420034?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14420034/lsdream-bee-here-now-tour-w-kill-the-noise-vincent-antone-f-a-y-r-v-h",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "LSDREAM has partnered with PLUS1 so that $1 per ticket goes to supporting the Child Mind Institute's work advancing scientific research of the developing brain and supporting children's mental health; and The Jed Foundation and their work protecting emotional health and preventing suicide for our nation's teens and young adults."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Simon & Garfunkel Story",
           "apple_music": "https://music.apple.com/us/artist/simon-garfunkel/461503",
           "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE",
@@ -705,30 +862,103 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tally Hall",
+          "apple_music": "https://music.apple.com/us/artist/tally-hall/121984328",
+          "spotify": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL",
+          "confidence": 1.0,
+          "matched": "Tally Hall",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-01",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/tally-hall-the-sound-tickets/14408464?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14408464/tally-hall",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "THIS SHOW WAS MOVED FROM BELLY UP IN SOLANA BEACH. ALL TICKETS PURCHASED FOR THE ORIGINAL VENUE WILL BE HONORED."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "apple_music": "https://music.apple.com/us/artist/two-door-cinema-club/291005449",
+          "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl",
+          "confidence": 1.0,
+          "matched": "Two Door Cinema Club",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Friendly Fires",
+          "apple_music": "https://music.apple.com/us/artist/friendly-fires/202207367",
+          "spotify": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p",
+          "confidence": 1.0,
+          "matched": "Friendly Fires",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Tourist History 15th Anniversary Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-24",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/two-door-cinema-club-the-sound-tickets/14384934?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14384934/two-door-cinema-club-tourist-history-15th-anniversary-tour-w-friendly-fires",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 25,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 23,
-      "found": 19,
-      "exact": 17,
+      "unique_artists": 33,
+      "found": 28,
+      "exact": 26,
       "close": 1,
       "flagged": 1,
-      "not_found": 4
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 23,
-      "linked": 21,
+      "unique_artists": 33,
+      "linked": 30,
       "venue": 0,
-      "api": 21,
+      "api": 30,
       "feed": 0,
-      "shows_with_link": 16
+      "shows_with_link": 22
     }
   }
 }

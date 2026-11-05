@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-05",
-  "count": 34,
+  "count": 39,
   "shows": [
     {
       "event_type": "music",
@@ -83,7 +83,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124?REFID=bupwebsite",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14267124/paul-oakenfold-the-crystal-method-mission-underground-2026-tour-w-liquid-todd",
       "room": null,
       "age_rating": null,
@@ -191,11 +191,11 @@
       ],
       "support_artists": [
         {
-          "name": "Allie Paige",
-          "apple_music": "https://music.apple.com/us/artist/allie-paige/1312882125",
-          "spotify": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl",
+          "name": "Lydi Lynn",
+          "apple_music": "https://music.apple.com/us/artist/lydi-lynn/1596548664",
+          "spotify": "https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI",
           "confidence": 1.0,
-          "matched": "Allie Paige",
+          "matched": "lydi lynn",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -210,7 +210,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-allie-paige",
+      "event_page": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-lydi-lynn",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -544,7 +544,18 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Boys Don't Disco",
+          "apple_music": "https://music.apple.com/us/artist/boys-dont-disco/1014340623",
+          "spotify": "https://open.spotify.com/artist/4CN6gXWHkkhSst4ct3Z80S",
+          "confidence": 1.0,
+          "matched": "Boys Don't Disco",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
       "show_title": "Dream Live Tour",
       "presenters": [],
@@ -554,7 +565,7 @@
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/amtrac-dream-live-music-box-tickets/15032493?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15032493/amtrac-dream-live-tour",
+      "event_page": "https://bellyup.com/calendar/15032493/amtrac-dream-live-tour-w-boys-dont-disco",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -731,6 +742,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "by Alt 94.9's December to Remember",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Decemberists @ 44%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "The Linda Lindas"
+      ],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-linda-lindas-music-box-tickets/15053543?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15053543/the-linda-lindas-presented-by-alt-94-9s-december-to-remember",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "feeble little horse",
           "apple_music": "https://music.apple.com/us/artist/feeble-little-horse/1564273208",
           "spotify": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8",
@@ -783,17 +827,28 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Khal!l",
+          "apple_music": "https://music.apple.com/us/artist/khal-l/1472901286",
+          "spotify": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe",
+          "confidence": 1.0,
+          "matched": "Khal!l",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "North America Tour 26' Malik",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-16",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/venna-music-box-tickets/15018503?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/venna-north-america-music-box-tickets/15018503?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15018503/venna",
+      "event_page": "https://bellyup.com/calendar/15018503/venna-north-america-tour-26-malik-w-khall",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -848,6 +903,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Dyego",
+          "apple_music": "https://music.apple.com/us/artist/dyego/1622808992",
+          "spotify": "https://open.spotify.com/artist/56bkZKcxAWFBuODAyLBwd3",
+          "confidence": 1.0,
+          "matched": "dyego",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "BluNites",
+          "apple_music": "https://music.apple.com/us/artist/blunites/1303894060",
+          "spotify": "https://open.spotify.com/artist/1qT1IiHytkg4UA3jvn2zQE",
+          "confidence": 1.0,
+          "matched": "BluNites",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "Holiday Show and Toy Drive",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/dyego-holiday-show-music-box-tickets/15053603?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15053603/dyego-holiday-show-and-toy-drive-w-blunites",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Buckethead",
           "apple_music": "https://music.apple.com/us/artist/buckethead/81938625",
           "spotify": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV",
@@ -869,6 +966,47 @@
       "ticket_link": "https://www.ticketweb.com/event/buckethead-music-box-tickets/14265074?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14265074/buckethead",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Trouble Man - Marvin Gaye Tribute",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Marvin Gaye @ 70%)",
+          "spotify_label": "no confident match (closest: Marvin Gaye @ 70%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Kogee Soul Presents: The Sounds of Philly Soul",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Soul of Philly @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/trouble-man-marvin-music-box-tickets/14221594?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14221594/trouble-man-marvin-gaye-tribute-kogee-soul-presents-the-sounds-of-philly-soul",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -943,14 +1081,14 @@
       ],
       "support_artists": [
         {
-          "name": "Chad Tepper",
-          "apple_music": "https://music.apple.com/us/artist/chad-tepper/1310012098",
-          "spotify": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3",
-          "confidence": 1.0,
-          "matched": "Chad Tepper",
+          "name": "Chad Tepper | Keep Flying",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Chad Tepper @ 70%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": false,
@@ -962,7 +1100,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper",
+      "event_page": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper-keep-flying",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1003,8 +1141,39 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-the-music-box-tickets/14384244?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14384244/surfer-girl-the-midnight-tour-w-south-summit-and-joby",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Galdive | rum.gold",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: rum.gold",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A Friend Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-08",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/galdive-rumgold-music-box-tickets/14412664?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14412664/galdive-rum-gold-a-friend-tour",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1034,7 +1203,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-taylor-party-taylor-swift-music-box-tickets/14381584?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14381584/the-taylor-party-taylor-swift-night-21",
       "room": null,
       "age_rating": null,
@@ -1160,6 +1329,37 @@
       "ticket_link": "https://www.ticketweb.com/event/lunasa-music-box-tickets/15043003?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15043003/lunasa",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Little Big",
+          "apple_music": "https://music.apple.com/us/artist/little-big/310964912",
+          "spotify": "https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB",
+          "confidence": 1.0,
+          "matched": "Little Big",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-15",
+      "doors": null,
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/little-big-music-box-tickets/14416404?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14416404/little-big",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1304,7 +1504,18 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Hunter Metts",
+          "apple_music": "https://music.apple.com/us/artist/hunter-metts/1455284216",
+          "spotify": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14",
+          "confidence": 1.0,
+          "matched": "Hunter Metts",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": false,
       "show_title": "The Comeback Tour",
       "presenters": [],
@@ -1314,7 +1525,7 @@
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/hazlett-the-comeback-music-box-tickets/14348784?REFID=bupwebsite",
       "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour",
+      "event_page": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour-w-hunter-metts",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1323,26 +1534,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 38,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 46,
-      "exact": 42,
+      "unique_artists": 65,
+      "found": 51,
+      "exact": 47,
       "close": 0,
       "flagged": 4,
-      "not_found": 9
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 47,
+      "unique_artists": 65,
+      "linked": 53,
       "venue": 0,
-      "api": 47,
+      "api": 53,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 35
     }
   }
 }
