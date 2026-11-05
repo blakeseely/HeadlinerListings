@@ -765,13 +765,33 @@
       ],
       "support_artists": [
         {
-          "name": "Kill the Noise | Vincent Antone | F A Y R V H",
+          "name": "Kill the Noise",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.0,
+          "confidence": null,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Kill The Noise @ 70%)",
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Vincent Antone",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "F A Y R V H",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
           "spotify_source": null
         }
       ],
@@ -945,15 +965,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 33,
+      "unique_artists": 35,
       "found": 28,
       "exact": 26,
       "close": 1,
       "flagged": 1,
-      "not_found": 5
+      "not_found": 7
     },
     "spotify": {
-      "unique_artists": 33,
+      "unique_artists": 35,
       "linked": 30,
       "venue": 0,
       "api": 30,
