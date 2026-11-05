@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-05",
-  "count": 95,
+  "count": 97,
   "shows": [
     {
       "event_type": "music",
@@ -198,7 +198,7 @@
       "date": "2026-11-08",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/thao-the-independent-tickets/14995473?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/thao/",
       "room": null,
@@ -282,7 +282,7 @@
       "date": "2026-11-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
+      "ticket_link": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/15034003?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/weston-estate/",
       "room": null,
@@ -1424,7 +1424,7 @@
       "date": "2026-12-15",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
+      "ticket_link": "https://www.ticketweb.com/event/labiahead-california-tour-the-independent-tickets/14320784?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/labiahead-california-tour-2026/",
       "room": null,
@@ -1939,6 +1939,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Stinkfoot Orchestra",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "featuring Napoleon Murphy Brock",
+          "apple_music": "https://music.apple.com/us/artist/napoleon-murphy-brock/14954416",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Napoleon Murphy Brock",
+          "apple_label": "close match: Napoleon Murphy Brock",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-21",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-stinkfoot-orchestra-the-independent-tickets/14411184?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/the-stinkfoot-orchestra/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Brothers Comatose",
           "apple_music": "https://music.apple.com/us/artist/the-brothers-comatose/351492807",
           "spotify": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD",
@@ -2325,7 +2367,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Three Nights",
+      "show_title": "Two-Day Pass",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2333,7 +2375,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2356,7 +2398,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two-Day Pass",
+      "show_title": "Three Nights",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2364,7 +2406,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2897,6 +2939,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2932,37 +3005,6 @@
       "room": null,
       "age_rating": null,
       "note": "MOVED TO CASTRO THEATRE",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
       "description": null
     },
     {
@@ -3019,7 +3061,7 @@
       "date": "2027-03-16",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/sophia-stel-the-independent-tickets/15053793?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/sophia-stel/",
       "room": null,
@@ -3322,6 +3364,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "TWRP",
+          "apple_music": "https://music.apple.com/us/artist/twrp/410071172",
+          "spotify": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr",
+          "confidence": 1.0,
+          "matched": "TWRP",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jazz Emu",
+          "apple_music": "https://music.apple.com/us/artist/jazz-emu/1445586448",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jazz Emu",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": false,
+      "show_title": "The ACTION SEQUENCE TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-19",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/twrp-the-independent-tickets/14413984?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/twrp/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Too Many Zooz",
           "apple_music": "https://music.apple.com/us/artist/too-many-zooz/885114063",
           "spotify": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr",
@@ -3541,26 +3625,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 95,
+      "music": 97,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 133,
-      "found": 125,
-      "exact": 117,
+      "unique_artists": 137,
+      "found": 128,
+      "exact": 119,
       "close": 3,
-      "flagged": 5,
-      "not_found": 8
+      "flagged": 6,
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 133,
-      "linked": 88,
-      "venue": 88,
+      "unique_artists": 137,
+      "linked": 89,
+      "venue": 89,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 78
+      "shows_with_link": 79
     }
   }
 }
