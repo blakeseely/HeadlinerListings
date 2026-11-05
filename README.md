@@ -55,7 +55,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 | `date` | date \| null | `YYYY-MM-DD` |
 | `doors` / `show_time` | **free string** \| null | canonicalized to `H:MM pm` **when parseable** (e.g. the venue's `7 PM` and `8:00PM` both become `8:00 pm`); unparseable text passes through verbatim |
 | `ticket_link` | free string \| null | usually a URL, but some venues publish button text ("Buy Tickets"); sniff `http` if you need URLs only |
-| `ticket_status` | **free string** \| null | case/separator duplicates are folded (`On Sale`→`on sale`, `on-sale-soon`→`on sale soon`); all other wording is the venue's raw text. Observed: `on sale`, `sold out`, `not on sale`, `on sale soon`, `presale`, `coming soon`, `waitlist`, `cancelled` |
+| `ticket_status` | **free string** \| null | case/separator duplicates are folded (`On Sale`→`on sale`, `on-sale-soon`→`on sale soon`); all other wording is the venue's raw text. Observed: `on sale`, `sold out`, `not on sale`, `on sale soon`, `presale`, `coming soon`, `waitlist`, `moved` |
 | `event_page` | string \| null | the venue's own page for this event; **null** for calendar placeholder rows (a promoter listing with no detail page — e.g. bellyup "Private Event"). Never dereference without a null check. |
 | `room` | free string \| null | multi-room venues |
 | `age_rating` | **free string** \| null | the venue's own text, verbatim (15+ spellings of the same concept exist: `all ages` / `All Ages` / `All ages` / `5 and Over` …) — normalize client-side if you need a fixed set |
@@ -84,8 +84,8 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 - **Link presence IS the match signal.** An artist has an Apple Music link
   iff a confident catalog match was found (below the 0.80 link floor it is
   honest null + an `apple_label`). An artist with no Apple link may still
-  carry a Spotify link (27 of 1,017 unique do). For "does this act have *any*"
-  link", test `apple_music != null || spotify != null`. (Counts are
+  carry a Spotify link — for "does this act have *any* link", test
+  `apple_music != null || spotify != null`. (Counts are
   approximate — the nightly feed keeps growing; `manifest.json` + each file's
   `stats` block are the authoritative totals.)
 - **No derivable convenience fields.** The feed carries no `date_label` (was
@@ -122,7 +122,7 @@ a per-file `value_domains`; these are the union):
 | field | domain |
 |---|---|
 | `event_type` | `music`, `comedy`, `film`, `other`, null |
-| `ticket_status` | `on sale`, `sold out`, `not on sale`, `on sale soon`, `presale`, `coming soon`, `waitlist`, `cancelled` (free string — new venue wording passes through) |
+| `ticket_status` | `on sale`, `sold out`, `not on sale`, `on sale soon`, `presale`, `coming soon`, `waitlist`, `moved` (free string — new venue wording passes through) |
 | `doors` / `show_time` | `H:MM pm` when parseable; other venue text verbatim |
 | `age_rating` | free string (raw venue text) |
 | `artist.confidence` | null / 0.0 / fractional 0–1 |
