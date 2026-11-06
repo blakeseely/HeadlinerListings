@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-11-06T04:24:12.988313+00:00",
+  "generated_at": "2026-11-06T04:39:04.890991+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
       "file": "augusthall/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:12:21",
       "oldest_show_date": "2026-11-06",
       "value_domains": {
         "event_type": [
@@ -20,7 +21,7 @@
         ]
       },
       "show_count": 33,
-      "sha256_16": "4917190de51c9e63"
+      "sha256_16": "b1cc6d0b0ddd32bd"
     },
     {
       "venue_id": "bellyup",
@@ -28,6 +29,7 @@
       "city": "Solana Beach, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:44:27",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -45,7 +47,7 @@
         ]
       },
       "show_count": 125,
-      "sha256_16": "db6784b1530fddbf"
+      "sha256_16": "5d328bab598e987e"
     },
     {
       "venue_id": "bgc",
@@ -53,6 +55,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T09:13:09",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -69,7 +72,7 @@
         ]
       },
       "show_count": 19,
-      "sha256_16": "8849c3c6d9efc9af"
+      "sha256_16": "f7a47bb7a8435069"
     },
     {
       "venue_id": "brickandmortar",
@@ -77,6 +80,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T09:11:58",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -91,14 +95,15 @@
         ]
       },
       "show_count": 21,
-      "sha256_16": "1c6500a4db4879f6"
+      "sha256_16": "7bba23b349d81cb3"
     },
     {
       "venue_id": "cafedunord",
       "file": "cafedunord/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:12:27",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -114,7 +119,7 @@
         ]
       },
       "show_count": 43,
-      "sha256_16": "874e916366fd15f6"
+      "sha256_16": "71404a834e2c415f"
     },
     {
       "venue_id": "castro",
@@ -122,6 +127,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:49:52",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -139,7 +145,7 @@
         ]
       },
       "show_count": 68,
-      "sha256_16": "8774f4db5e4adca2"
+      "sha256_16": "df4913dadd716c09"
     },
     {
       "venue_id": "chapel",
@@ -147,6 +153,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T20:22:50",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -161,14 +168,15 @@
         ]
       },
       "show_count": 40,
-      "sha256_16": "556a79d2e4e36c25"
+      "sha256_16": "480b7eb8e0e8803b"
     },
     {
       "venue_id": "fillmore",
       "file": "fillmore/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:11:53",
       "oldest_show_date": "2026-11-06",
       "value_domains": {
         "event_type": [
@@ -183,7 +191,7 @@
         ]
       },
       "show_count": 34,
-      "sha256_16": "e4ced2ab33057a30"
+      "sha256_16": "cdac75d373b77f5e"
     },
     {
       "venue_id": "foxoakland",
@@ -191,6 +199,7 @@
       "city": "Oakland, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T20:22:51",
       "oldest_show_date": "2026-11-06",
       "value_domains": {
         "event_type": [
@@ -206,14 +215,15 @@
         ]
       },
       "show_count": 35,
-      "sha256_16": "03bf11de2633f6af"
+      "sha256_16": "77d5e46f739b8057"
     },
     {
       "venue_id": "frost",
       "file": "frost/shows.json",
       "city": "Palo Alto, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:12:52",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -221,14 +231,15 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "37ac34b79698ac8c"
+      "sha256_16": "73d16462651fc719"
     },
     {
       "venue_id": "gamh",
       "file": "gamh/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:11:54",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -243,7 +254,7 @@
         ]
       },
       "show_count": 22,
-      "sha256_16": "ac2365b7567f4a81"
+      "sha256_16": "978afe768f4b52e2"
     },
     {
       "venue_id": "greek",
@@ -251,6 +262,7 @@
       "city": "Berkeley, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T20:22:52",
       "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
@@ -265,7 +277,7 @@
         ]
       },
       "show_count": 3,
-      "sha256_16": "f31be7a985cc1644"
+      "sha256_16": "cabe2202e9e18556"
     },
     {
       "venue_id": "humphreys",
@@ -273,6 +285,7 @@
       "city": "San Diego, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:44:49",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -280,7 +293,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "29618779466bd208"
+      "sha256_16": "6978c1d61ca5c605"
     },
     {
       "venue_id": "independent",
@@ -288,6 +301,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T09:11:51",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -299,7 +313,7 @@
         ]
       },
       "show_count": 98,
-      "sha256_16": "6b3e3b2ada2071fb"
+      "sha256_16": "81273be336358780"
     },
     {
       "venue_id": "musicbox",
@@ -307,6 +321,7 @@
       "city": "San Diego, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:44:43",
       "oldest_show_date": "2026-11-06",
       "value_domains": {
         "event_type": [
@@ -324,14 +339,15 @@
         ]
       },
       "show_count": 39,
-      "sha256_16": "3cfc0e58ee1972e2"
+      "sha256_16": "df1093d642a99bd4"
     },
     {
       "venue_id": "pappy",
       "file": "pappy/shows.json",
       "city": "Pioneertown, CA",
       "metro": "Los Angeles",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:12:57",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -346,14 +362,15 @@
         ]
       },
       "show_count": 57,
-      "sha256_16": "d97af8247bf77f46"
+      "sha256_16": "ac7ad93a6e49efc6"
     },
     {
       "venue_id": "regency",
       "file": "regency/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
-      "updated_at": "2026-11-05",
+      "updated_at": "2026-11-04",
+      "fetched_at": "2026-11-04T04:11:56",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -369,7 +386,7 @@
         ]
       },
       "show_count": 36,
-      "sha256_16": "6bf8a04e60192541"
+      "sha256_16": "0ea91e419576cc1d"
     },
     {
       "venue_id": "rickshawstop",
@@ -377,6 +394,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T20:22:50",
       "oldest_show_date": "2026-11-05",
       "value_domains": {
         "event_type": [
@@ -391,7 +409,7 @@
         ]
       },
       "show_count": 48,
-      "sha256_16": "4654e8f339b43a18"
+      "sha256_16": "4a04e4249a261c1d"
     },
     {
       "venue_id": "thecasbah",
@@ -399,6 +417,7 @@
       "city": "San Diego, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:44:40",
       "oldest_show_date": "2027-02-24",
       "value_domains": {
         "event_type": [
@@ -412,7 +431,7 @@
         ]
       },
       "show_count": 1,
-      "sha256_16": "3609abc3d56a0220"
+      "sha256_16": "161acc5f7b005edf"
     },
     {
       "venue_id": "theobservatory",
@@ -420,6 +439,7 @@
       "city": "San Diego, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:44:42",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -427,7 +447,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "57171c2ea2f6e7a4"
+      "sha256_16": "80d4cd1c1ca3a9dd"
     },
     {
       "venue_id": "thesound",
@@ -435,6 +455,7 @@
       "city": "Del Mar, CA",
       "metro": "San Diego",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T08:44:36",
       "oldest_show_date": "2026-11-06",
       "value_domains": {
         "event_type": [
@@ -448,7 +469,7 @@
         ]
       },
       "show_count": 25,
-      "sha256_16": "9ddf5201302ea7b5"
+      "sha256_16": "3c08e78825f97f66"
     },
     {
       "venue_id": "warfield",
@@ -456,6 +477,7 @@
       "city": "San Francisco, CA",
       "metro": "San Francisco",
       "updated_at": "2026-11-05",
+      "fetched_at": "2026-11-05T09:11:54",
       "oldest_show_date": "2026-11-08",
       "value_domains": {
         "event_type": [
@@ -469,7 +491,7 @@
         ]
       },
       "show_count": 12,
-      "sha256_16": "a04152d53fce5e22"
+      "sha256_16": "bb5c7d5aa6a20899"
     }
   ]
 }

@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -96,7 +96,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -230,7 +230,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -282,7 +282,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -417,7 +417,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -469,7 +469,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -542,7 +542,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The 'Filters' Tour",
       "presenters": [],
       "set_format": null,
@@ -707,7 +707,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -811,7 +811,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,

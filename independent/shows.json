@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Mission District",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -65,7 +65,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -107,7 +107,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -149,7 +149,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -191,7 +191,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "\"Show Me\" Album Release",
       "presenters": [],
       "set_format": null,
@@ -233,7 +233,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -275,7 +275,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -327,7 +327,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -369,7 +369,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Self Titled Tour",
       "presenters": [],
       "set_format": null,
@@ -411,7 +411,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -473,7 +473,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -515,7 +515,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -588,7 +588,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -661,7 +661,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -703,7 +703,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -869,7 +869,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -911,7 +911,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Wonderful World of Weirdos Tour",
       "presenters": [],
       "set_format": null,
@@ -953,7 +953,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -995,7 +995,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1037,7 +1037,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Gospel 15-Year Anniversary",
       "presenters": [],
       "set_format": null,
@@ -1110,7 +1110,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Nature's Pill Tour",
       "presenters": [],
       "set_format": null,
@@ -1152,7 +1152,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1194,7 +1194,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "bitknot tour",
       "presenters": [],
       "set_format": null,
@@ -1236,7 +1236,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1309,7 +1309,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Raise at 35",
       "presenters": [
         "Brooklyn Vegan Presents"
@@ -1353,7 +1353,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Universal Bubba Tour",
       "presenters": [],
       "set_format": null,
@@ -1415,7 +1415,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "California Tour 2026 - 2 Nights",
       "presenters": [
         "LPR x Another Planet Entertainment Presents"
@@ -1479,7 +1479,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "California Tour 2026 - 2 Nights",
       "presenters": [
         "LPR x Another Planet Entertainment Presents"
@@ -1523,7 +1523,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1565,7 +1565,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1763,7 +1763,7 @@
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1815,7 +1815,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1857,7 +1857,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1961,7 +1961,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2127,7 +2127,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2169,7 +2169,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2242,7 +2242,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2532,7 +2532,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2574,7 +2574,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2742,7 +2742,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2784,7 +2784,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "DYNTBE? The Tour",
       "presenters": [],
       "set_format": null,
@@ -2857,7 +2857,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2992,7 +2992,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3189,7 +3189,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3386,7 +3386,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The ACTION SEQUENCE TOUR",
       "presenters": [],
       "set_format": null,
@@ -3649,7 +3649,7 @@
           "spotify_source": "venue"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,

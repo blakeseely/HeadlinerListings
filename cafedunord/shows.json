@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Presidio Heights",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-04",
   "count": 43,
   "shows": [
     {
@@ -65,7 +65,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -142,7 +142,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -327,7 +327,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -470,7 +470,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -514,7 +514,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -624,7 +624,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -668,7 +668,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -745,7 +745,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -954,7 +954,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1064,7 +1064,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1393,7 +1393,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"

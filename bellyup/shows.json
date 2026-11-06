@@ -6,7 +6,7 @@
   "city": "Solana Beach, CA",
   "metro": "San Diego",
   "neighborhood": "Solana Beach",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -168,7 +168,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Yacht Rock Forever!",
       "presenters": [],
       "set_format": null,
@@ -210,7 +210,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Industrial Sport & Sound",
       "presenters": [],
       "set_format": null,
@@ -252,7 +252,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "North America Tour 2026",
       "presenters": [],
       "set_format": null,
@@ -294,7 +294,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Apocalypse, Never! Tour",
       "presenters": [],
       "set_format": null,
@@ -482,7 +482,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "West Coast Tour",
       "presenters": [],
       "set_format": null,
@@ -801,7 +801,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1018,7 +1018,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Christmas Show",
       "presenters": [],
       "set_format": null,
@@ -1060,7 +1060,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Off the Fence Tour",
       "presenters": [],
       "set_format": null,
@@ -1102,7 +1102,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Eskimo Live",
       "presenters": [],
       "set_format": null,
@@ -1175,7 +1175,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1289,7 +1289,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "WHEN IT'S POURING 2026 TOUR",
       "presenters": [],
       "set_format": null,
@@ -1331,7 +1331,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1404,7 +1404,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "SOCKS: A Rock N' Roll Christmas Tour",
       "presenters": [],
       "set_format": null,
@@ -1477,7 +1477,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
       "presenters": [],
       "set_format": null,
@@ -1519,7 +1519,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1612,7 +1612,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Christmas Tribute To Charlie Brown ft Special Guest Courtney Fortune",
       "presenters": [],
       "set_format": null,
@@ -1716,7 +1716,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Lost Cause Lover Fool HOLIDAY TOUR",
       "presenters": [],
       "set_format": null,
@@ -1861,7 +1861,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2016,7 +2016,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "3rd Annual Buffett Birthday Bash",
       "presenters": [],
       "set_format": null,
@@ -2388,7 +2388,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Patrick Warburton is still Catholic",
       "presenters": [],
       "set_format": null,
@@ -2985,7 +2985,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3027,7 +3027,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3110,7 +3110,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3503,7 +3503,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Hippies, Thugs, and Heroes Tour",
       "presenters": [],
       "set_format": null,
@@ -3545,7 +3545,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Hippies, Thugs, and Heroes Tour",
       "presenters": [],
       "set_format": null,
@@ -3711,7 +3711,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "USA / CANADA TOUR 2027",
       "presenters": [],
       "set_format": null,
@@ -3846,7 +3846,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "ACT TWO: THE TOUR",
       "presenters": [],
       "set_format": null,
@@ -3960,7 +3960,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Change of Plans Tour",
       "presenters": [],
       "set_format": null,
@@ -4033,7 +4033,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -4137,7 +4137,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Yeah, It's That Easy 30th Anniversary Tour",
       "presenters": [],
       "set_format": null,
@@ -4220,7 +4220,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Maybe In Time Tour",
       "presenters": [],
       "set_format": null,
@@ -4520,7 +4520,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Farewell Tour",
       "presenters": [],
       "set_format": null,

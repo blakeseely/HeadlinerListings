@@ -6,7 +6,7 @@
   "city": "Palo Alto, CA",
   "metro": "San Francisco",
   "neighborhood": null,
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-04",
   "count": 0,
   "shows": [],
   "stats": {

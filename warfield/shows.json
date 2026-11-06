@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "SoMa",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -475,7 +475,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Pursuit of Anything Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -519,7 +519,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Everything's Falling World Tour",
       "presenters": [
         "Goldenvoice Presents"

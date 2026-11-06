@@ -6,7 +6,7 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Little Italy",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -117,7 +117,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Self Titled Tour",
       "presenters": [],
       "set_format": null,
@@ -159,7 +159,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Iconic 80's Recollections Tour 2026",
       "presenters": [],
       "set_format": null,
@@ -201,7 +201,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Good Grief Tour",
       "presenters": [],
       "set_format": null,
@@ -263,7 +263,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -305,7 +305,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Fall Tour 2026",
       "presenters": [],
       "set_format": null,
@@ -347,7 +347,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Keep It Warm Tour 2026",
       "presenters": [],
       "set_format": null,
@@ -430,7 +430,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Finally : OUTSIDE Tour",
       "presenters": [],
       "set_format": null,
@@ -472,7 +472,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "USA anarchy tour 2026",
       "presenters": [],
       "set_format": null,
@@ -514,7 +514,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Grouch & Eligh ft. Amp Live",
       "presenters": [],
       "set_format": null,
@@ -556,7 +556,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Dream Live Tour",
       "presenters": [],
       "set_format": null,
@@ -660,7 +660,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Chrysalis Tour",
       "presenters": [],
       "set_format": null,
@@ -797,7 +797,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "bitknot tour",
       "presenters": [],
       "set_format": null,
@@ -839,7 +839,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "North America Tour 26' Malik",
       "presenters": [],
       "set_format": null,
@@ -881,7 +881,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "KOMPANY (IN THE ROUND)"
@@ -925,7 +925,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Holiday Show and Toy Drive",
       "presenters": [],
       "set_format": null,
@@ -1049,7 +1049,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1101,7 +1101,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "We Ride at Dawn Tour",
       "presenters": [],
       "set_format": null,
@@ -1143,7 +1143,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Midnight Tour",
       "presenters": [],
       "set_format": null,
@@ -1526,7 +1526,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Comeback Tour",
       "presenters": [],
       "set_format": null,

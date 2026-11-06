@@ -6,7 +6,7 @@
   "city": "Del Mar, CA",
   "metro": "San Diego",
   "neighborhood": "Del Mar Fairgrounds",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -96,7 +96,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -169,7 +169,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The LORDY Tour",
       "presenters": [],
       "set_format": null,
@@ -211,7 +211,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Chosen Silences Tour Fall 2026",
       "presenters": [],
       "set_format": null,
@@ -525,7 +525,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "20 Years of No Shame",
       "presenters": [],
       "set_format": null,
@@ -567,7 +567,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "IN THE MOUNTAIN IN THE CLOUD – 15 Year Anniversary Tour",
       "presenters": [],
       "set_format": null,
@@ -640,7 +640,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "St. Patrick's Day 2027 Tour",
       "presenters": [],
       "set_format": null,
@@ -795,7 +795,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "BEE HERE NOW TOUR",
       "presenters": [],
       "set_format": null,
@@ -868,7 +868,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -941,7 +941,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Tourist History 15th Anniversary Tour",
       "presenters": [],
       "set_format": null,

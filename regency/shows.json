@@ -6,7 +6,7 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Castro",
-  "schema": 5,
+  "schema": 6,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-04",
   "count": 36,
   "shows": [
     {
@@ -65,7 +65,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Passover 2026 Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -109,7 +109,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "003 Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -153,7 +153,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "003 Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -197,7 +197,7 @@
           "spotify_source": "feed"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "EMOTIONAL WORLD TOUR",
       "presenters": [
         "Goldenvoice Presents"
@@ -241,7 +241,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "First North America Headline Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -361,7 +361,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "The Last Hurrah Tour 2026",
       "presenters": [
         "Goldenvoice Presents"
@@ -415,7 +415,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Oh Dear World",
       "presenters": [
         "Goldenvoice Presents"
@@ -492,7 +492,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "I Love My Computer And It Loves Me Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -536,7 +536,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "I Love My Computer And It Loves Me Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -580,7 +580,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "I Love My Computer And It Loves Me Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -624,7 +624,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Goldenvoice Presents"
@@ -698,7 +698,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Harmony US Tour 2026",
       "presenters": [
         "Goldenvoice Presents"
@@ -742,7 +742,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "North American Fall Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -806,7 +806,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "HOUSE OF CARDS 2026",
       "presenters": [
         "Goldenvoice Presents"
@@ -860,7 +860,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Finally : OUTSIDE Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -904,7 +904,7 @@
           "spotify_source": null
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Dream Live Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -1014,7 +1014,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Shape The Future / North America Tour",
       "presenters": [
         "Goldenvoice & KALW Present"
@@ -1157,7 +1157,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Goldenvoice Presents"
@@ -1244,7 +1244,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Eluveitie North American 25 Year Anniversary Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -1308,7 +1308,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "Our Fates Lie In Tandem",
       "presenters": [
         "Goldenvoice Presents"
@@ -1461,7 +1461,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "2027 North America Tour",
       "presenters": [
         "Goldenvoice Presents"
@@ -1505,7 +1505,7 @@
           "spotify_source": "api"
         }
       ],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": "A Guide to Love, Loss, & Desperation 20th Anniversary",
       "presenters": [
         "Goldenvoice Presents"
