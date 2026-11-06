@@ -36,14 +36,14 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-05",
-  "count": 41,
+  "count": 48,
   "shows": [
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "KENNEDY RYON",
+          "name": "Kennedy Ryon",
           "apple_music": "https://music.apple.com/us/artist/kennedy-ryon/1635200239",
           "spotify": "https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH",
           "confidence": 1.0,
@@ -53,19 +53,32 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "MALACHI",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "rickshaw stop + popscene co-present"
+      ],
       "set_format": null,
       "date": "2026-11-05",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/kennedy-ryon/700515",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/kennedy-ryon/700515",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -74,7 +87,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "GENESIS OWUSU",
+          "name": "Genesis Owusu",
           "apple_music": "https://music.apple.com/us/artist/genesis-owusu/1045380633",
           "spotify": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke",
           "confidence": 1.0,
@@ -84,19 +97,42 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "AFTER LOUISE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Aaron Axelsen",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Popscene + Rickshaw Stop + APE co-present"
+      ],
       "set_format": null,
       "date": "2026-11-06",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/genesis-owusu/692608",
-      "ticket_status": null,
-      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/genesis-owusu/692608",
+      "ticket_link": "https://wl.eventim.us/event/genesis-owusu/692608",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.eventim.us/event/genesis-owusu/692608",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -105,7 +141,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "PEACH TREE RASCALS",
+          "name": "Peach Tree Rascals",
           "apple_music": "https://music.apple.com/us/artist/peach-tree-rascals/1387703899",
           "spotify": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe",
           "confidence": 1.0,
@@ -115,19 +151,32 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Michael Sneed",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Popscene + Rickshaw Stop co-present"
+      ],
       "set_format": null,
       "date": "2026-11-07",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.eventim.us/event/peach-tree-rascals/704398",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/peach-tree-rascals/704398",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -136,7 +185,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "FORREST NOLAN",
+          "name": "Forrest Nolan",
           "apple_music": "https://music.apple.com/us/artist/forrest-nolan/1242535527",
           "spotify": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv",
           "confidence": 1.0,
@@ -146,19 +195,32 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Lola Blue",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Another Planet Entertainment + Rickshaw Stop co-present"
+      ],
       "set_format": null,
       "date": "2026-11-08",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/event/1C006539DDBBE763",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/event/1C006539DDBBE763",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -167,7 +229,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "SPARTA",
+          "name": "Sparta",
           "apple_music": "https://music.apple.com/us/artist/sparta/3447183",
           "spotify": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR",
           "confidence": 1.0,
@@ -180,16 +242,18 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Rickshaw Stop + Popscene co-present"
+      ],
       "set_format": null,
       "date": "2026-11-11",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/sparta/702137",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/sparta/702137",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -198,7 +262,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "JAKE MINCH",
+          "name": "Jake Minch",
           "apple_music": "https://music.apple.com/us/artist/jake-minch/1524217026",
           "spotify": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC",
           "confidence": 1.0,
@@ -208,19 +272,32 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Getting Big Tour",
-      "presenters": [],
+      "support_artists": [
+        {
+          "name": "Alix Page",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "rickshaw stop + popscene co-present"
+      ],
       "set_format": null,
       "date": "2026-11-12",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -229,7 +306,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "THE HAILS",
+          "name": "The Hails",
           "apple_music": "https://music.apple.com/us/artist/the-hails/1257472077",
           "spotify": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT",
           "confidence": 1.0,
@@ -239,19 +316,32 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Meldrop",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Popscene + Rickshaw Stop co-present"
+      ],
       "set_format": null,
       "date": "2026-11-13",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/the-hails/696075",
-      "ticket_status": null,
-      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/the-hails/696075",
+      "ticket_link": "https://wl.eventim.us/event/the-hails/696075",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.eventim.us/event/the-hails/696075",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -279,10 +369,10 @@
       "doors": "8:00 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://wl.seetickets.us/event/broadway-rave/703546",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/broadway-rave/703546",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -291,7 +381,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "FRANCISCA VALENZUELA",
+          "name": "Francisca Valenzuela",
           "apple_music": "https://music.apple.com/us/artist/francisca-valenzuela/277140196",
           "spotify": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt",
           "confidence": 1.0,
@@ -301,19 +391,76 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Gabi Bravo",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Another Planet Entertainment + Rickshaw Stop co-present"
+      ],
       "set_format": null,
       "date": "2026-11-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
-      "ticket_status": null,
-      "event_page": "https://urldefense.com/v3/__https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
+      "ticket_link": "https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jamila Woods",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Hannah Mayree",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/jamila-woods-10-years-of-heavn/709496",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/jamila-woods-10-years-of-heavn/709496",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -341,7 +488,7 @@
       "doors": "8:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/cannelle/703640",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/cannelle/703640",
       "room": null,
       "age_rating": null,
@@ -372,8 +519,39 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/natural-child/688788",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/natural-child/688788",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "EMO NITE at Rickshaw Stop - San Francisco, CA",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/709338",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/709338",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -403,7 +581,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/qendresa/701355",
-      "ticket_status": null,
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/qendresa/701355",
       "room": null,
       "age_rating": null,
@@ -434,7 +612,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/lrain/697892",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/lrain/697892",
       "room": null,
       "age_rating": null,
@@ -465,7 +643,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.eventim.us/event/emancipator/700476",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/emancipator/700476",
       "room": null,
       "age_rating": null,
@@ -496,7 +674,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.eventim.us/event/niko-rubio/705835",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/niko-rubio/705835",
       "room": null,
       "age_rating": null,
@@ -527,7 +705,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/alisons-halo/704948",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/alisons-halo/704948",
       "room": null,
       "age_rating": null,
@@ -589,7 +767,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/oliver-hazard/694276",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/oliver-hazard/694276",
       "room": null,
       "age_rating": null,
@@ -630,7 +808,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/graham-hunt-9million-co-headline/702096",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/graham-hunt-9million-co-headline/702096",
       "room": null,
       "age_rating": null,
@@ -661,7 +839,7 @@
       "doors": "8:00 pm",
       "show_time": "8:45 pm",
       "ticket_link": "https://wl.seetickets.us/event/tanukichan/702971",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/tanukichan/702971",
       "room": null,
       "age_rating": null,
@@ -692,8 +870,39 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/ruby-haunt/697882",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/ruby-haunt/697882",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "STARCRAWLER",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/starcrawler/709372",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.eventim.us/event/starcrawler/709372",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -723,7 +932,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/milk-and-bone/703435",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/milk-and-bone/703435",
       "room": null,
       "age_rating": null,
@@ -764,7 +973,7 @@
       "doors": "9:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/708474",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/708474",
       "room": null,
       "age_rating": null,
@@ -795,7 +1004,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/chris-simpson-plays-the-songs-of-mineral/706442",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/chris-simpson-plays-the-songs-of-mineral/706442",
       "room": null,
       "age_rating": null,
@@ -836,7 +1045,7 @@
       "doors": "8:00 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159",
       "room": null,
       "age_rating": null,
@@ -867,7 +1076,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/seb-lowe-us-tour-2027/705780",
-      "ticket_status": null,
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/seb-lowe-us-tour-2027/705780",
       "room": null,
       "age_rating": null,
@@ -898,7 +1107,7 @@
       "doors": "9:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://sickening.events/e/deepndark-jan-2027",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://sickening.events/e/deepndark-jan-2027",
       "room": null,
       "age_rating": null,
@@ -929,7 +1138,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/tara-clerkin-trio/706437",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/tara-clerkin-trio/706437",
       "room": null,
       "age_rating": null,
@@ -960,8 +1169,70 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/bree-runway/706363",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/bree-runway/706363",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FIFTEEN",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:00 pm",
+      "show_time": "7:45 pm",
+      "ticket_link": "https://wl.seetickets.us/event/fifteen/710011",
+      "ticket_status": "sold out",
+      "event_page": "https://wl.seetickets.us/event/fifteen/710011",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Starzdust",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "8:00 pm",
+      "show_time": "8:45 pm",
+      "ticket_link": "https://wl.seetickets.us/event/starzdust/710428",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/starzdust/710428",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -991,7 +1262,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/small-brown-bike/695336",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/small-brown-bike/695336",
       "room": null,
       "age_rating": null,
@@ -1022,7 +1293,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/starman-sf-david-bowie-tribute/708479",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/starman-sf-david-bowie-tribute/708479",
       "room": null,
       "age_rating": null,
@@ -1053,7 +1324,7 @@
       "doors": "7:00 pm",
       "show_time": "7:45 pm",
       "ticket_link": "https://wl.seetickets.us/event/radio-free-alice/708488",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/radio-free-alice/708488",
       "room": null,
       "age_rating": null,
@@ -1084,8 +1355,39 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/deathbyromy/706811",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/deathbyromy/706811",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CLOUD NOTHINGS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/cloud-nothings/709735",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/cloud-nothings/709735",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1115,7 +1417,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/girl-ultra/707528",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/girl-ultra/707528",
       "room": null,
       "age_rating": null,
@@ -1146,7 +1448,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/bess-atwell/707844",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/bess-atwell/707844",
       "room": null,
       "age_rating": null,
@@ -1177,7 +1479,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/fenne-lily/708757",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/fenne-lily/708757",
       "room": null,
       "age_rating": null,
@@ -1208,7 +1510,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/event/1C00654DD4E36280",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/event/1C00654DD4E36280",
       "room": null,
       "age_rating": null,
@@ -1239,7 +1541,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/dj-suzy/708799",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/dj-suzy/708799",
       "room": null,
       "age_rating": null,
@@ -1270,7 +1572,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/valencia-grace/697858",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/valencia-grace/697858",
       "room": null,
       "age_rating": null,
@@ -1301,7 +1603,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.eventim.us/event/the-f16s/708497",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/the-f16s/708497",
       "room": null,
       "age_rating": null,
@@ -1331,9 +1633,40 @@
       "date": "2027-04-29",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://urldefense.com/v3/__https://wl.eventim.us/event/paloma-morphy/689810",
-      "ticket_status": null,
-      "event_page": "https://urldefense.com/v3/__https://wl.eventim.us/event/paloma-morphy/689810",
+      "ticket_link": "https://wl.eventim.us/event/paloma-morphy/689810",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.eventim.us/event/paloma-morphy/689810",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "THE ACES",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/the-aces/709199",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/the-aces/709199",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1342,26 +1675,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 48,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 44,
+      "unique_artists": 60,
       "found": 38,
       "exact": 37,
       "close": 0,
       "flagged": 1,
-      "not_found": 6
+      "not_found": 22
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 38,
+      "unique_artists": 60,
+      "linked": 39,
       "venue": 0,
-      "api": 38,
+      "api": 39,
       "feed": 0,
-      "shows_with_link": 36
+      "shows_with_link": 37
     }
   }
 }

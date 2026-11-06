@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-05",
-  "count": 97,
+  "count": 98,
   "shows": [
     {
       "event_type": "music",
@@ -3621,30 +3621,72 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sawyer Hill",
+          "apple_music": "https://music.apple.com/us/artist/sawyer-hill/1651349181",
+          "spotify": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG",
+          "confidence": 1.0,
+          "matched": "Sawyer Hill",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Never Ending Fall",
+          "apple_music": "https://music.apple.com/us/artist/never-ending-fall/981613894",
+          "spotify": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT",
+          "confidence": 1.0,
+          "matched": "Never Ending Fall",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-10-20",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/postponed-sawyer-hill-the-independent-tickets/14972813?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
+      "room": null,
+      "age_rating": null,
+      "note": "Postponed",
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 97,
+      "music": 98,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 137,
-      "found": 128,
-      "exact": 119,
+      "unique_artists": 139,
+      "found": 130,
+      "exact": 121,
       "close": 3,
       "flagged": 6,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 137,
-      "linked": 89,
-      "venue": 89,
+      "unique_artists": 139,
+      "linked": 91,
+      "venue": 91,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 79
+      "shows_with_link": 80
     }
   }
 }

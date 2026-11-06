@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:13:19.252241+00:00",
+  "generated_at": "2026-11-06T04:24:12.988313+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -153,14 +153,15 @@
           "music"
         ],
         "ticket_status": [
-          "on sale"
+          "on sale",
+          "sold out"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 39,
-      "sha256_16": "13a632b35bc44e07"
+      "show_count": 40,
+      "sha256_16": "556a79d2e4e36c25"
     },
     {
       "venue_id": "fillmore",
@@ -204,8 +205,8 @@
           "venue"
         ]
       },
-      "show_count": 34,
-      "sha256_16": "438dbda5e190cb88"
+      "show_count": 35,
+      "sha256_16": "03bf11de2633f6af"
     },
     {
       "venue_id": "frost",
@@ -264,7 +265,7 @@
         ]
       },
       "show_count": 3,
-      "sha256_16": "5398b4526cfa65d9"
+      "sha256_16": "f31be7a985cc1644"
     },
     {
       "venue_id": "humphreys",
@@ -297,8 +298,8 @@
           "venue"
         ]
       },
-      "show_count": 97,
-      "sha256_16": "e20f8081262c5b3d"
+      "show_count": 98,
+      "sha256_16": "6b3e3b2ada2071fb"
     },
     {
       "venue_id": "musicbox",
@@ -381,13 +382,16 @@
         "event_type": [
           "music"
         ],
-        "ticket_status": [],
+        "ticket_status": [
+          "on sale",
+          "sold out"
+        ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 41,
-      "sha256_16": "4eaa097587d426d1"
+      "show_count": 48,
+      "sha256_16": "4654e8f339b43a18"
     },
     {
       "venue_id": "thecasbah",
