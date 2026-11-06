@@ -5,18 +5,23 @@ first. Every file is regenerated nightly by the headliners pipeline
 (`~/.hermes/projects/headliners`) from each venue's scraped calendar.
 The venue list grows over time — **trust `manifest.json`**, not this number.
 
-**Current schema: `5`.** Every venue file carries a `schema` integer
+**Current schema: `6`.** Every venue file carries a `schema` integer
 (incremented on any shape/contract change) and a `field_hints` map. Gate
 your parsing on `schema`, and on `field_hints` for per-field semantics.
-Since `4`→`5` the show record is still 18 keys and the artist record still
-8 keys — the changes are a **retention policy** (the feed is upcoming-only)
-and **full `field_hints` coverage** (all 26 fields, `event_page` included).
+`5`→`6`: **`multi_artist` is now derived centrally at build** —
+true when the show record itself bills 2+ artists
+(`headline_artists` + `support_artists` count ≥ 2), or the venue's source
+explicitly flags a compound bill (a "&"/"and" co-headline billed as one
+name, or a "(Multiple Artists)" pseudo-bill). Shape unchanged (show 18
+keys, artist 8 keys); the change is value-consistency: venue-local rules
+had drifted apart, values only gained `true`, none removed. Since `4`→`5`
+the feed is upcoming-only and `field_hints` covers all 26 fields.
 
 ## Layout
 
 ```
 manifest.json          venues: venue_id, file, city, metro, updated_at,
-                       oldest_show_date, show_count, sha256_16
+                       fetched_at, oldest_show_date, show_count, sha256_16
 <venue>/shows.json     venue, venue_id, venue_url, source_url, city, metro,
                        neighborhood, schema, field_hints, scraped_at, count,
                        shows[], stats
@@ -27,6 +32,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 |---|---|
 | `generated_at` | when this manifest was written (ISO 8601, UTC) |
 | `venues[].updated_at` | **when this venue's data was last refreshed** (= the file's `scraped_at`) |
+| `venues[].fetched_at` | **exact instant the venue site was last crawled** (ISO, local tz; newer of the fetch stamp and the capture file's mtime; `null` if no capture metadata) |
 | `venues[].oldest_show_date` | oldest show date in the file (the pre-rename meaning of `updated_at`; kept for old clients) |
 | `venues[].sha256_16` | first 16 hex of the file's SHA-256 — verify before use |
 | `venues[].value_domains` | the controlled vocabulary actually present in this file (see below) |
@@ -36,9 +42,9 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 |---|---|---|
 | `venue` / `venue_id` / `venue_url` / `source_url` | string | identity. The six Belly Up Presents San Diego venues intentionally share `venue_url: https://bellyup.com` (group calendar) |
 | `city` / `metro` / `neighborhood` | string \| null | geo tags; `metro` is one market value ("San Francisco" / "San Diego" / "Los Angeles") |
-| `schema` | int | **5** — the contract version this file speaks |
+| `schema` | int | **6** — the contract version this file speaks |
 | `field_hints` | object | per-field controlled-vs-raw contract (below) |
-| `scraped_at` | date | when this file was built (the refresh date) |
+| `scraped_at` | date | **the date the venue site was actually fetched** (not the build date; falls back to build date only when no capture metadata exists) |
 | `count` | int | `len(shows)` |
 | `shows` | array | sorted ascending by date; no duplicates within a file |
 
@@ -48,7 +54,7 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 | `event_type` | **controlled** | `music` \| `comedy` \| `film` \| `other` \| null |
 | `needs_review` | bool | bill-level flag (e.g. 3+ co-headliners); **independent** of artist `flagged` in stats |
 | `headline_artists` / `support_artists` | artist[] | see below |
-| `multi_artist` | bool | |
+| `multi_artist` | bool | derived at build: `headline_artists + support_artists >= 2` OR venue compound-bill flag ("&"/"and" co-headline as one name); never a venue-local guess |
 | `show_title` | free string \| null | tour/show name when billed separately |
 | `presenters` | string[] | "X Presents" |
 | `set_format` | free string \| null | "Live + DJ" style |
