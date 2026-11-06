@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
-  "count": 48,
+  "scraped_at": "2026-11-06",
+  "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Kennedy Ryon",
-          "apple_music": "https://music.apple.com/us/artist/kennedy-ryon/1635200239",
-          "spotify": "https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH",
-          "confidence": 1.0,
-          "matched": "Kennedy Ryon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "MALACHI",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "rickshaw stop + popscene co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/kennedy-ryon/700515",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/kennedy-ryon/700515",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -100,22 +56,22 @@
       "support_artists": [
         {
           "name": "AFTER LOUISE",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/after-louise/1874647339",
+          "spotify": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W",
+          "confidence": 1.0,
+          "matched": "After Louise",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Aaron Axelsen",
           "apple_music": null,
           "spotify": null,
-          "confidence": null,
+          "confidence": 0.741,
           "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
+          "apple_label": "no confident match (closest: Aaron Ackerson @ 74%)",
+          "spotify_label": "no confident match (closest: Aaron Ackerson @ 74%)",
           "spotify_source": null
         }
       ],
@@ -154,13 +110,13 @@
       "support_artists": [
         {
           "name": "Michael Sneed",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/michael-sneed/214823634",
+          "spotify": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl",
+          "confidence": 1.0,
+          "matched": "Michael Sneed",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -198,13 +154,13 @@
       "support_artists": [
         {
           "name": "Lola Blue",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/lola-blue/1874555980",
+          "spotify": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at",
+          "confidence": 1.0,
+          "matched": "Lola Blue",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -275,13 +231,13 @@
       "support_artists": [
         {
           "name": "Alix Page",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/alix-page/1498941774",
+          "spotify": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ",
+          "confidence": 1.0,
+          "matched": "Alix Page",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -319,13 +275,13 @@
       "support_artists": [
         {
           "name": "Meldrop",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/meldrop/1719163386",
+          "spotify": "https://open.spotify.com/artist/5LF6dG14gN6is7tby6bqRR",
+          "confidence": 1.0,
+          "matched": "Meldrop",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -394,13 +350,13 @@
       "support_artists": [
         {
           "name": "Gabi Bravo",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/gabi-bravo/1508586319",
+          "spotify": "https://open.spotify.com/artist/4DQQh7GMHo5EtXPibMfcFL",
+          "confidence": 1.0,
+          "matched": "Gabi Bravo",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -426,25 +382,25 @@
       "headline_artists": [
         {
           "name": "Jamila Woods",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/jamila-woods/999077974",
+          "spotify": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B",
+          "confidence": 1.0,
+          "matched": "Jamila Woods",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Hannah Mayree",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/hannah-mayree/1205650976",
+          "spotify": "https://open.spotify.com/artist/2twXevQwDBeLhekXkSLTcz",
+          "confidence": 1.0,
+          "matched": "Hannah Mayree",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -883,13 +839,13 @@
       "headline_artists": [
         {
           "name": "STARCRAWLER",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/starcrawler/1155687276",
+          "spotify": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i",
+          "confidence": 1.0,
+          "matched": "Starcrawler",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1183,12 +1139,12 @@
         {
           "name": "FIFTEEN",
           "apple_music": null,
-          "spotify": null,
-          "confidence": null,
+          "spotify": "https://open.spotify.com/artist/2JHIHcBfwz8RPsfA2MoZR0",
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1213,13 +1169,13 @@
       "headline_artists": [
         {
           "name": "Starzdust",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/starzdust/1843795505",
+          "spotify": "https://open.spotify.com/artist/0kD2D6v6GeetJOk48A6ick",
+          "confidence": 1.0,
+          "matched": "Starzdust",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1368,13 +1324,13 @@
       "headline_artists": [
         {
           "name": "CLOUD NOTHINGS",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/cloud-nothings/377952839",
+          "spotify": "https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT",
+          "confidence": 1.0,
+          "matched": "Cloud Nothings",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1647,13 +1603,13 @@
       "headline_artists": [
         {
           "name": "THE ACES",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/the-aces/1238525085",
+          "spotify": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe",
+          "confidence": 1.0,
+          "matched": "The Aces",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1675,26 +1631,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 48,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
-      "found": 38,
-      "exact": 37,
+      "unique_artists": 58,
+      "found": 49,
+      "exact": 48,
       "close": 0,
       "flagged": 1,
-      "not_found": 22
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 39,
+      "unique_artists": 58,
+      "linked": 51,
       "venue": 0,
-      "api": 39,
+      "api": 51,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 42
     }
   }
 }

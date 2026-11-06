@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 22,
+  "scraped_at": "2026-11-06",
+  "count": 23,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Danny L. Harle",
-          "apple_music": "https://music.apple.com/us/artist/danny-l-harle/985576556",
-          "spotify": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD",
-          "confidence": 0.9,
-          "matched": "Danny L Harle",
-          "apple_label": "close match: Danny L Harle",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8325235/buy-tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8325235/buy-tickets",
-      "room": null,
-      "age_rating": null,
-      "note": "From $72",
-      "description": "Danny L. Harle at Great American Music Hall on Thursday 5th November 2026 in San Francisco..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -539,6 +508,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Noah Gundersen",
+          "apple_music": "https://music.apple.com/us/artist/noah-gundersen/285059688",
+          "spotify": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi",
+          "confidence": 1.0,
+          "matched": "Noah Gundersen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-16",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8355575/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8355575/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $85",
+      "description": "Noah Gundersen at Great American Music Hall on Tuesday 16th March 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Nile",
           "apple_music": "https://music.apple.com/us/artist/nile/65885099",
           "spotify": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE",
@@ -739,30 +739,61 @@
       "age_rating": null,
       "note": "From $55",
       "description": "Yendry at Great American Music Hall on Friday 21st May 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sampa The Great",
+          "apple_music": "https://music.apple.com/us/artist/sampa-the-great/1026842498",
+          "spotify": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk",
+          "confidence": 1.0,
+          "matched": "Sampa the Great",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-08",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8356418/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8356418/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $47",
+      "description": "Sampa The Great at Great American Music Hall on Wednesday 8th September 2027 in San Francisco..."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 22,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 24,
-      "found": 24,
-      "exact": 21,
+      "unique_artists": 25,
+      "found": 25,
+      "exact": 23,
       "close": 0,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 24,
-      "linked": 24,
+      "unique_artists": 25,
+      "linked": 25,
       "venue": 0,
-      "api": 24,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 23
     }
   }
 }

@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
-  "count": 19,
+  "scraped_at": "2026-11-06",
+  "count": 18,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Moby",
-          "apple_music": "https://music.apple.com/us/artist/moby/789023",
-          "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF",
-          "confidence": 1.0,
-          "matched": "Moby",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Azzecca",
-          "apple_music": "https://music.apple.com/us/artist/azzecca/1627777746",
-          "spotify": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj",
-          "confidence": 1.0,
-          "matched": "Azzecca",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "DJ Holographic",
-          "apple_music": "https://music.apple.com/us/artist/dj-holographic/1518771232",
-          "spotify": "https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox",
-          "confidence": 1.0,
-          "matched": "DJ Holographic",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/moby-18-san-francisco-california-11-05-2026/event/1C006515F9551DE3?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://billgrahamcivic.com/events/moby-261105",
-      "room": null,
-      "age_rating": "18+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -911,26 +859,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 19,
+      "music": 18,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 43,
-      "found": 41,
-      "exact": 39,
+      "unique_artists": 40,
+      "found": 38,
+      "exact": 36,
       "close": 0,
       "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 43,
-      "linked": 42,
-      "venue": 39,
+      "unique_artists": 40,
+      "linked": 39,
+      "venue": 36,
       "api": 3,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 18
     }
   }
 }

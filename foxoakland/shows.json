@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-06",
   "count": 35,
   "shows": [
     {
@@ -969,10 +969,10 @@
       "headline_artists": [
         {
           "name": "Akira Yamaoka",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/akira-yamaoka/262028864",
           "spotify": "https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe",
-          "confidence": null,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Akira Yamaoka",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "venue"
@@ -1316,11 +1316,11 @@
     },
     "apple_music": {
       "unique_artists": 41,
-      "found": 39,
-      "exact": 38,
+      "found": 40,
+      "exact": 39,
       "close": 1,
       "flagged": 0,
-      "not_found": 2
+      "not_found": 1
     },
     "spotify": {
       "unique_artists": 41,

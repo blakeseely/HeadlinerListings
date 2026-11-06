@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
-  "count": 21,
+  "scraped_at": "2026-11-06",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "AZ Chike",
-          "apple_music": "https://music.apple.com/us/artist/az-chike/1252865921",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "AZ Chike",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/az-chike-brick-and-mortar-music-hall-tickets/14287724?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "sold out",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/az-chike/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -870,21 +839,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
-      "found": 36,
-      "exact": 34,
+      "unique_artists": 37,
+      "found": 35,
+      "exact": 33,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 38,
+      "unique_artists": 37,
       "linked": 17,
       "venue": 17,
       "api": 0,

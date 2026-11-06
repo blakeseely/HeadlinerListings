@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
-  "count": 98,
+  "scraped_at": "2026-11-06",
+  "count": 99,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Greg Freeman",
-          "apple_music": "https://music.apple.com/us/artist/greg-freeman/1607783391",
-          "spotify": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ",
-          "confidence": 1.0,
-          "matched": "Greg Freeman",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Trinity Ace",
-          "apple_music": "https://music.apple.com/us/artist/trinity-ace/1641008066",
-          "spotify": "https://open.spotify.com/artist/3O3IFttPeEWlD97qgHoc86",
-          "confidence": 1.0,
-          "matched": "Trinity Ace",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/greg-freeman-the-independent-tickets/14256774?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/greg-freeman/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -114,7 +72,7 @@
       "date": "2026-11-06",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/king-buffalo-the-independent-tickets/14925533?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/king-buffalo/",
       "room": null,
@@ -1711,6 +1669,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sab Star",
+          "apple_music": "https://music.apple.com/us/artist/sab-star/1836542536",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Sab Star",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gloomhead swell foop",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-06",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/sab-star-the-independent-tickets/14421644?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/sab-star/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Live on the Stoop",
           "apple_music": null,
           "spotify": null,
@@ -2342,40 +2342,9 @@
       "date": "2027-02-09",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/two-gallants-the-independent-tickets/14411014?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-3/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Two Gallants",
-          "apple_music": "https://music.apple.com/us/artist/two-gallants/7061506",
-          "spotify": "https://open.spotify.com/artist/38umPQJRH11dxydNwq8yGP",
-          "confidence": 1.0,
-          "matched": "Two Gallants",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Two-Day Pass",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-02-10",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-3/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2407,6 +2376,37 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Two Gallants",
+          "apple_music": "https://music.apple.com/us/artist/two-gallants/7061506",
+          "spotify": "https://open.spotify.com/artist/38umPQJRH11dxydNwq8yGP",
+          "confidence": 1.0,
+          "matched": "Two Gallants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Two-Day Pass",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3136,6 +3136,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Hudson Freeman",
+          "apple_music": "https://music.apple.com/us/artist/hudson-freeman/1067869141",
+          "spotify": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8",
+          "confidence": 1.0,
+          "matched": "Hudson Freeman",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sean Solomon",
+          "apple_music": "https://music.apple.com/us/artist/sean-solomon/45393110",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Sean Solomon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "This Tour Is Doomed",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-27",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/hudson-freeman-the-independent-tickets/14414224?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/hudson-freeman/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Worldpeace DMT",
           "apple_music": "https://music.apple.com/us/artist/worldpeace-dmt/1769361394",
           "spotify": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV",
@@ -3667,23 +3709,23 @@
   ],
   "stats": {
     "event_types": {
-      "music": 98,
+      "music": 99,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 139,
-      "found": 130,
-      "exact": 121,
+      "unique_artists": 141,
+      "found": 131,
+      "exact": 122,
       "close": 3,
       "flagged": 6,
-      "not_found": 9
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 139,
-      "linked": 91,
-      "venue": 91,
+      "unique_artists": 141,
+      "linked": 90,
+      "venue": 90,
       "api": 0,
       "feed": 0,
       "shows_with_link": 80

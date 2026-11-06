@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 57,
+  "scraped_at": "2026-11-06",
+  "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Keller Williams",
-          "apple_music": "https://music.apple.com/us/artist/keller-williams/5357822",
-          "spotify": "https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0",
-          "confidence": 1.0,
-          "matched": "Keller Williams",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/keller-williams/692390",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/keller-williams/692390",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -111,7 +78,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/paul-cauthen/696387",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -185,7 +152,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/the-california-honeydrops/699753",
-      "ticket_status": "sold out",
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-california-honeydrops/699753",
       "room": null,
       "age_rating": "All Ages",
@@ -865,8 +832,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "DJ Lee Joseph",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.632,
+          "matched": null,
+          "apple_label": "no confident match (closest: JOSEPH @ 63%)",
+          "spotify_label": "no confident match (closest: DJ TONYA LEE @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -1576,7 +1554,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-06",
       "doors": "7:00 pm",
@@ -1585,7 +1565,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/swirlies/706443",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1607,7 +1587,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-08",
       "doors": "8:30 pm",
@@ -1616,7 +1598,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/black-flag/706249",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1997,6 +1979,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Hot 8 Brass Band",
+          "apple_music": "https://music.apple.com/us/artist/hot-8-brass-band/258903175",
+          "spotify": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD",
+          "confidence": 1.0,
+          "matched": "Hot 8 Brass Band",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-25",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/hot-8-brass-band/709484",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/hot-8-brass-band/709484",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Umphrey’s McGee",
           "apple_music": "https://music.apple.com/us/artist/umphreys-mcgee/22134818",
           "spotify": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o",
@@ -2121,6 +2134,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Hudson Freeman",
+          "apple_music": "https://music.apple.com/us/artist/hudson-freeman/1067869141",
+          "spotify": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8",
+          "confidence": 1.0,
+          "matched": "Hudson Freeman",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-24",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/hudson-freeman/709475",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/hudson-freeman/709475",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Chasing Abbey",
           "apple_music": "https://music.apple.com/us/artist/chasing-abbey/1214387163",
           "spotify": "https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg",
@@ -2212,26 +2256,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 57,
+      "music": 58,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 87,
-      "found": 80,
-      "exact": 77,
+      "unique_artists": 89,
+      "found": 81,
+      "exact": 78,
       "close": 0,
       "flagged": 3,
-      "not_found": 7
+      "not_found": 8
     },
     "spotify": {
-      "unique_artists": 87,
-      "linked": 77,
+      "unique_artists": 89,
+      "linked": 78,
       "venue": 0,
-      "api": 77,
+      "api": 78,
       "feed": 0,
-      "shows_with_link": 53
+      "shows_with_link": 54
     }
   }
 }

@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 36,
+  "scraped_at": "2026-11-06",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Black Angels",
-          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
-          "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP",
-          "confidence": 1.0,
-          "matched": "The Black Angels",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "apple_music": "https://music.apple.com/us/artist/ghostwoman/1452069519",
-          "spotify": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy",
-          "confidence": 1.0,
-          "matched": "GHOSTWOMAN",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Passover 2026 Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAAC78S6%2bAgAAAAD6%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1408471",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1363,6 +1319,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "HYUKOH",
+          "apple_music": "https://music.apple.com/us/artist/hyukoh/927548906",
+          "spotify": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp",
+          "confidence": 1.0,
+          "matched": "HYUKOH",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "HYUKOH [33] TOUR",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-29",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547022093",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1688805",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "brakence",
           "apple_music": "https://music.apple.com/us/artist/brakence/1345560251",
           "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV",
@@ -1483,6 +1472,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Ricky Montgomery",
+          "apple_music": "https://music.apple.com/us/artist/ricky-montgomery/885635994",
+          "spotify": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw",
+          "confidence": 1.0,
+          "matched": "Ricky Montgomery",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Monty Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547002163",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1677271",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Wombats",
           "apple_music": "https://music.apple.com/us/artist/the-wombats/162731772",
           "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB",
@@ -1591,7 +1613,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 37,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1610,7 +1632,7 @@
       "venue": 0,
       "api": 59,
       "feed": 3,
-      "shows_with_link": 36
+      "shows_with_link": 37
     }
   }
 }

@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
+  "scraped_at": "2026-11-06",
   "count": 34,
   "shows": [
     {
@@ -1041,6 +1041,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Return of Jackie and Judy",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.345,
+          "matched": null,
+          "apple_label": "no confident match (closest: Count Basie and His Orchestra @ 34%)",
+          "spotify_label": "no confident match (closest: Julie Andrews @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Street Eaters",
+          "apple_music": "https://music.apple.com/us/artist/street-eaters/348422212",
+          "spotify": "https://open.spotify.com/artist/2vtoFRJjKBdGBYQSQMpKBr",
+          "confidence": 1.0,
+          "matched": "Street Eaters",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "New Year's Eve San Francisco",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/the-return-of-jackie-and-judy-san-francisco-california-12-31-2026/event/1C00655EA0BBBC8B",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/the-return-of-jackie-and-judy-san-francisco-california-12-31-2026/event/1C00655EA0BBBC8B",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 8:00pm / Show 9:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Dogs In A Pile",
           "apple_music": "https://music.apple.com/us/artist/dogs-in-a-pile/1564339412",
           "spotify": "https://open.spotify.com/artist/5lObmA5WxJpUj8QO6YX7yF",
@@ -1294,58 +1336,6 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The California Honeydrops",
-          "apple_music": "https://music.apple.com/us/artist/the-california-honeydrops/299946363",
-          "spotify": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk",
-          "confidence": 1.0,
-          "matched": "The California Honeydrops",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lindsay Lou",
-          "apple_music": "https://music.apple.com/us/artist/lindsay-lou/396630491",
-          "spotify": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ",
-          "confidence": 1.0,
-          "matched": "Lindsay Lou",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Jimmy James",
-          "apple_music": "https://music.apple.com/us/artist/jimmy-james/3178791",
-          "spotify": "https://open.spotify.com/artist/4MpCHcOqKRsSXGiYuGR9JY",
-          "confidence": 1.0,
-          "matched": "Jimmy James",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "SAN FRANCISCO 2027 With Family & Friends",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-01-30",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-30-2027/event/1C0064E1F2555AA1",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-30-2027/event/1C0064E1F2555AA1",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1356,18 +1346,18 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 44,
-      "found": 42,
-      "exact": 42,
+      "unique_artists": 46,
+      "found": 43,
+      "exact": 43,
       "close": 0,
       "flagged": 0,
-      "not_found": 2
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 42,
+      "unique_artists": 46,
+      "linked": 43,
       "venue": 0,
-      "api": 42,
+      "api": 43,
       "feed": 0,
       "shows_with_link": 32
     }

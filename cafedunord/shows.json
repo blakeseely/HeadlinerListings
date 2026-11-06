@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-04",
-  "count": 43,
+  "scraped_at": "2026-11-06",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Dave Hause & The Mermaid",
-          "apple_music": "https://music.apple.com/us/artist/dave-hause/352591246",
-          "spotify": "https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx",
-          "confidence": 0.8,
-          "matched": "Dave Hause",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Darius Koski",
-          "apple_music": "https://music.apple.com/us/artist/darius-koski/599120264",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Darius Koski",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/dave-hause-and-the-mermaid-cafe-du-nord-tickets/14887413?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-05-dave-hause-and-the-mermaid",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": "As far back as I can remember, I always wanted to be in a rock and roll band.” Dave Hause had an epiphany rewatching Goodfellas. “There's that scene in the beginning where Henry Hill says, ‘As far back as I can remember, I always wanted to be a gangster.’” The Philly-bred, California-based singer-songwriter always longed to be in a different kind of mob. This record is …And The Mermaid. And…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -403,7 +359,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/laya-lipstick-n-cafe-du-nord-tickets/14371104?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": "waitlist",
       "event_page": "https://cafedunord.com/shows/2026-11-18-laya",
       "room": null,
       "age_rating": "All ages",
@@ -700,8 +656,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Hudson Ingram",
+          "apple_music": "https://music.apple.com/us/artist/hudson-ingram/1670252125",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Hudson Ingram",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -710,7 +677,7 @@
       "date": "2026-12-15",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/josie-edwards-cafe-du-nord-tickets/14296744?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/josie-edwards-with-hudson-ingram-cafe-du-nord-tickets/14296744?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2026-12-15-josie-edwards",
       "room": null,
@@ -860,6 +827,39 @@
       "age_rating": "21+",
       "note": null,
       "description": "The Arcadian Wild is an indie folk/pop group from Nashville, TN, led by songwriters Isaac Horn, Lincoln Mick and Bailey Warren, The Arcadian Wild confidently inhabits and explores an intersection of genre, blending the traditional with the contemporary. Combining elements of confessional pop, folk, progressive bluegrass, and formal vocal music, The Arcadian Wild offer up songs of invitation…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Where's West?",
+          "apple_music": "https://music.apple.com/us/artist/wheres-west/1775935206",
+          "spotify": "https://open.spotify.com/artist/7380t6i98gEs1ysixt1cTO",
+          "confidence": 1.0,
+          "matched": "Where's West?",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/wheres-west-cafe-du-nord-tickets/14393364?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://cafedunord.com/shows/2027-02-04-wheres-west",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Los Angeles-based dance rock band Where's West? channels the spirit of the California coast through a vibrant blend of rock, indie, dance and funk. The band has quickly built a reputation for infectious melodies, high-energy performances and a sound that fuses funky rock grooves with dynamic synth layers and driving leads."
     },
     {
       "event_type": "music",
@@ -1547,6 +1547,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Palms",
+          "apple_music": "https://music.apple.com/us/artist/the-palms/421357282",
+          "spotify": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X",
+          "confidence": 1.0,
+          "matched": "The Palms",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-palms-cafe-du-nord-tickets/14410804?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-04-29-the-palms",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "\"The Palms have shifted toward creating music that is as catchy as pop, yet melded with poignant elements of blues, hip-hop, rock, and reggae. Rothbard's distinct vocals also invite the listener into each track, allowing the duo's intended messages to come through while simultaneously leaving space for individual interpretations.\" - Interview Magazine"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Yellow House",
           "apple_music": "https://music.apple.com/us/artist/yellow-house/257145126",
           "spotify": null,
@@ -1644,26 +1677,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 59,
-      "found": 58,
-      "exact": 54,
-      "close": 2,
+      "unique_artists": 60,
+      "found": 59,
+      "exact": 56,
+      "close": 1,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 59,
-      "linked": 38,
-      "venue": 38,
+      "unique_artists": 60,
+      "linked": 39,
+      "venue": 39,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 38
+      "shows_with_link": 39
     }
   }
 }

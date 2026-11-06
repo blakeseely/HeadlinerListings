@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-06",
   "count": 39,
   "shows": [
     {
@@ -81,7 +81,7 @@
       "set_format": null,
       "date": "2026-11-06",
       "doors": null,
-      "show_time": "9:00 pm",
+      "show_time": "8:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124?REFID=bupwebsite",
       "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14267124/paul-oakenfold-the-crystal-method-mission-underground-2026-tour-w-liquid-todd",
@@ -1081,24 +1081,14 @@
       ],
       "support_artists": [
         {
-          "name": "Chad Tepper",
-          "apple_music": "https://music.apple.com/us/artist/chad-tepper/1310012098",
-          "spotify": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3",
-          "confidence": 1.0,
-          "matched": "Chad Tepper",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Keep Flying",
+          "name": "Chad Tepper & Keep Flying",
           "apple_music": null,
-          "spotify": null,
-          "confidence": null,
+          "spotify": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3",
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1390,8 +1380,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Martian Circus",
+          "apple_music": "https://music.apple.com/us/artist/martian-circus/1574025335",
+          "spotify": "https://open.spotify.com/artist/3kQM2AnA0XxT8ttEbOynC6",
+          "confidence": 1.0,
+          "matched": "Martian Circus",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "The Conspiracy Theory Tour",
       "presenters": [],
       "set_format": null,
@@ -1400,7 +1401,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/saxsquatch-the-conspiracy-music-box-tickets/14369004?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14369004/saxsquatch-the-conspiracy-theory-tour",
+      "event_page": "https://bellyup.com/calendar/14369004/saxsquatch-the-conspiracy-theory-tour-w-martian-circus",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1559,9 +1560,9 @@
     },
     "spotify": {
       "unique_artists": 66,
-      "linked": 54,
+      "linked": 55,
       "venue": 0,
-      "api": 54,
+      "api": 55,
       "feed": 0,
       "shows_with_link": 35
     }

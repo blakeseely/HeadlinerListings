@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-06",
   "count": 25,
   "shows": [
     {
@@ -400,8 +400,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Massane",
+          "apple_music": "https://music.apple.com/us/artist/massane/1501382966",
+          "spotify": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz",
+          "confidence": 1.0,
+          "matched": "Massane",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "keep me awake tour",
       "presenters": [],
       "set_format": null,
@@ -410,7 +421,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/nimino-keep-me-awake-tour-the-sound-tickets/14974573?REFID=bupwebsite",
       "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14974573/nimino-keep-me-awake-tour",
+      "event_page": "https://bellyup.com/calendar/14974573/nimino-keep-me-awake-tour-w-massane",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -766,32 +777,32 @@
       "support_artists": [
         {
           "name": "Kill the Noise",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/kill-the-noise/280835500",
+          "spotify": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM",
+          "confidence": 1.0,
+          "matched": "Kill the Noise",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Vincent Antone",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/vincent-antone/1485458975",
+          "spotify": "https://open.spotify.com/artist/5k3Gs1EcCa9LW1bfR4wWb9",
+          "confidence": 1.0,
+          "matched": "Vincent Antone",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "F A Y R V H",
           "apple_music": null,
           "spotify": null,
-          "confidence": null,
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Wolfgang Amadeus Mozart @ 29%)",
           "spotify_source": null
         }
       ],
@@ -965,18 +976,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 28,
-      "exact": 26,
+      "unique_artists": 36,
+      "found": 31,
+      "exact": 29,
       "close": 1,
       "flagged": 1,
-      "not_found": 7
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 30,
+      "unique_artists": 36,
+      "linked": 33,
       "venue": 0,
-      "api": 30,
+      "api": 33,
       "feed": 0,
       "shows_with_link": 22
     }

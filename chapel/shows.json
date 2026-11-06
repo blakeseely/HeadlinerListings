@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
+  "scraped_at": "2026-11-06",
   "count": 40,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Squirrel Flower",
-          "apple_music": "https://music.apple.com/us/artist/squirrel-flower/1016930777",
-          "spotify": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni",
-          "confidence": 1.0,
-          "matched": "Squirrel Flower",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sour Widows",
-          "apple_music": "https://music.apple.com/us/artist/sour-widows/1474131660",
-          "spotify": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG",
-          "confidence": 1.0,
-          "matched": "Sour Widows",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -922,23 +880,23 @@
           "name": "The Fabulous Bud E. Luv Christmas Extravaganza",
           "apple_music": null,
           "spotify": null,
-          "confidence": null,
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: The Fabulous Thunderbirds @ 45%)",
           "spotify_source": null
         }
       ],
       "support_artists": [
         {
           "name": "Lady OFLO",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/lady-oflo/1599546467",
+          "spotify": "https://open.spotify.com/artist/0KOGLp31rPJR5Ft389cG2U",
+          "confidence": 1.0,
+          "matched": "Lady OFLO",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1544,6 +1502,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sylvie",
+          "apple_music": "https://music.apple.com/us/artist/sylvie/1577984863",
+          "spotify": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ",
+          "confidence": 1.0,
+          "matched": "Sylvie",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Rockers (Thin Lizzy Tribute)",
           "apple_music": "https://music.apple.com/us/artist/the-rockers/29292963",
           "spotify": "https://open.spotify.com/artist/6QL8rOBHt4rTMTURxto2YV",
@@ -1725,20 +1714,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 76,
+      "unique_artists": 75,
       "found": 54,
       "exact": 47,
       "close": 3,
       "flagged": 4,
-      "not_found": 22
+      "not_found": 21
     },
     "spotify": {
-      "unique_artists": 76,
+      "unique_artists": 75,
       "linked": 55,
       "venue": 0,
       "api": 55,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 34
     }
   }
 }

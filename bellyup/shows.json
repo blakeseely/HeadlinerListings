@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-05",
-  "count": 125,
+  "scraped_at": "2026-11-06",
+  "count": 124,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Don McLean",
-          "apple_music": "https://music.apple.com/us/artist/don-mclean/733872",
-          "spotify": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8",
-          "confidence": 1.0,
-          "matched": "Don McLean",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Celebrating America's 250th Birthday",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-05",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/don-mclean-celebrating-belly-up-tickets/14140644?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14140644/don-mclean-celebrating-americas-250th-birthday",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -340,7 +309,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": "Chest Fever - The Last Waltz featuring Kimmi Bitter, Noah C."
+      "description": null
     },
     {
       "event_type": "music",
@@ -1874,7 +1843,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": "Daring Greatly & Friends ft."
+      "description": null
     },
     {
       "event_type": "music",
@@ -3516,7 +3485,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": "Richard Thompson & Band, Tuesday, Feb."
+      "description": null
     },
     {
       "event_type": "music",
@@ -3558,7 +3527,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": "Richard Thompson & Band, Wednesday, Feb."
+      "description": null
     },
     {
       "event_type": "music",
@@ -3834,19 +3803,8 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [
-        {
-          "name": "Terror Jr",
-          "apple_music": "https://music.apple.com/us/artist/terror-jr/1113242310",
-          "spotify": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG",
-          "confidence": 1.0,
-          "matched": "Terror Jr",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": "ACT TWO: THE TOUR",
       "presenters": [],
       "set_format": null,
@@ -3855,7 +3813,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/marian-hill-act-belly-up-tickets/15002063?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour-w-terror-jr",
+      "event_page": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4477,8 +4435,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Lance Roark",
+          "apple_music": "https://music.apple.com/us/artist/lance-roark/1640381661",
+          "spotify": "https://open.spotify.com/artist/6i0HzrUPAeWOfZiXxOU903",
+          "confidence": 1.0,
+          "matched": "Lance Roark",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "On The Highway Tour",
       "presenters": [],
       "set_format": null,
@@ -4487,7 +4456,7 @@
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-castellows-on-belly-up-tickets/14407754?REFID=bupwebsite",
       "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14407754/the-castellows-on-the-highway-tour",
+      "event_page": "https://bellyup.com/calendar/14407754/the-castellows-on-the-highway-tour-w-lance-roark",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4600,26 +4569,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 124,
+      "music": 123,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 168,
-      "found": 125,
-      "exact": 104,
+      "unique_artists": 167,
+      "found": 124,
+      "exact": 103,
       "close": 6,
       "flagged": 15,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 168,
-      "linked": 129,
+      "unique_artists": 167,
+      "linked": 128,
       "venue": 0,
-      "api": 129,
+      "api": 128,
       "feed": 0,
-      "shows_with_link": 92
+      "shows_with_link": 91
     }
   }
 }
