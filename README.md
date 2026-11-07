@@ -20,8 +20,9 @@ the feed is upcoming-only and `field_hints` covers all 26 fields.
 ## Layout
 
 ```
-manifest.json          venues: venue_id, file, city, metro, updated_at,
-                       fetched_at, oldest_show_date, show_count, sha256_16
+manifest.json          venues: venue_id, file, city, metro, lat, lon,
+                       updated_at, fetched_at, oldest_show_date, show_count,
+                       sha256_16
 <venue>/shows.json     venue, venue_id, venue_url, source_url, city, metro,
                        neighborhood, schema, field_hints, scraped_at, count,
                        shows[], stats
@@ -31,6 +32,8 @@ manifest.json          venues: venue_id, file, city, metro, updated_at,
 | field | meaning |
 |---|---|
 | `generated_at` | when this manifest was written (ISO 8601, UTC) |
+| `venues[].city` / `venues[].metro` | geo tags (also inside the venue file) |
+| `venues[].lat` / `venues[].lon` | **flat decimal WGS84 coordinates** of the venue building — geocoded once when the venue was added and stable forever (safe to cache). `null` means the venue has no geo yet — treat as unknown, never as `(0, 0)` |
 | `venues[].updated_at` | **when this venue's data was last refreshed** (= the file's `scraped_at`) |
 | `venues[].fetched_at` | **exact instant the venue site was last crawled** (ISO, local tz; newer of the fetch stamp and the capture file's mtime; `null` if no capture metadata) |
 | `venues[].oldest_show_date` | oldest show date in the file (the pre-rename meaning of `updated_at`; kept for old clients) |
