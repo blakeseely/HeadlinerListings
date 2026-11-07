@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:22:47.025478+00:00",
+  "generated_at": "2026-11-07T02:48:05.011202+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -169,6 +169,29 @@
       },
       "show_count": 40,
       "sha256_16": "3c6fd0ec50fa5288"
+    },
+    {
+      "venue_id": "crystalball",
+      "file": "crystalball/shows.json",
+      "city": "Portland, OR",
+      "metro": "Portland",
+      "updated_at": "2026-11-06",
+      "fetched_at": "2026-11-06T18:47:05",
+      "oldest_show_date": "2026-11-07",
+      "value_domains": {
+        "event_type": [
+          "music",
+          "other"
+        ],
+        "ticket_status": [
+          "on sale"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 55,
+      "sha256_16": "36edb99ccc8480d7"
     },
     {
       "venue_id": "fillmore",

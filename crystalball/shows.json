@@ -1,0 +1,2068 @@
+{
+  "venue": "Crystal Ballroom",
+  "venue_id": "crystalball",
+  "venue_url": "https://www.crystalballroompdx.com/",
+  "source_url": "https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events",
+  "city": "Portland, OR",
+  "metro": "Portland",
+  "neighborhood": "West End",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-06",
+  "count": 55,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sienna Spiro",
+          "apple_music": "https://music.apple.com/us/artist/sienna-spiro/1745678083",
+          "spotify": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
+          "confidence": 1.0,
+          "matched": "SIENNA SPIRO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Summer Joy",
+          "apple_music": "https://music.apple.com/us/artist/summer-joy/1718326924",
+          "spotify": "https://open.spotify.com/artist/42qZnbJ0Ye2JSIvx6YWJOW",
+          "confidence": 1.0,
+          "matched": "Summer Joy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "My House Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/36367188/sienna-spiro-my-house-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277282-sienna-spiro-my-house-tour/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Saturday, November 7th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Black Angels",
+          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
+          "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP",
+          "confidence": 1.0,
+          "matched": "The Black Angels",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Passover 2026 Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Passion Pit @ 48%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "True West Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-10",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/77601705/the-black-angels-passover-2026-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/276344-the-black-angels/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Tuesday, November 10th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nekrogoblikon",
+          "apple_music": "https://music.apple.com/us/artist/nekrogoblikon/211735139",
+          "spotify": "https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF",
+          "confidence": 1.0,
+          "matched": "Nekrogoblikon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/36044578/20-years-of-nekrogoblikon-with-special-guests-aborted-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277142-nekrogoblikon/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Get ready to celebrate 20 YEARS OF NEKROGOBLIKON."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Allison Russell",
+          "apple_music": "https://music.apple.com/us/artist/allison-russell/451740458",
+          "spotify": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+          "confidence": 1.0,
+          "matched": "Allison Russell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "6:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/31085278/allison-russell-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278314-allison-russell/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Allison Russell has partnered with PLUS1 so that $1 from every ticket sold goes to ACLU and their work to protect the civil rights and civil liberties of all people in the United States."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Houndmouth",
+          "apple_music": "https://music.apple.com/us/artist/houndmouth/552021268",
+          "spotify": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5",
+          "confidence": 1.0,
+          "matched": "Houndmouth",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dogpark",
+          "apple_music": "https://music.apple.com/us/artist/dogpark/1710263796",
+          "spotify": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7",
+          "confidence": 1.0,
+          "matched": "Dogpark",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "True West Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/82597621/houndmouth-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277964-houndmouth/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Houndmouth is an American rock band from New Albany, In 2026, the band returns with Lordy, a stripped-back, emotionally direct record that marks a new chapter for frontman Matt Myers. After a period of creative stagnation shaped by major life changes, Myers reconnected with his songwriting through raw, unfiltered expression, largely writing alone for the first time. The result is an intimate, roots-driven album focused on rebuilding, acceptance, and forward motion. Supported by producer Brad Cook and a close-knit group of collaborators, the band continues its evolution while retaining the melodic instincts and Americana foundation that first defined its sound. Instagram: https://www.instagram.com/houndmouth/ Facebook: https://www.facebook.com/Houndmouth/ Website: http://houndmouth.com"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Russian Circles",
+          "apple_music": "https://music.apple.com/us/artist/russian-circles/145624352",
+          "spotify": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF",
+          "confidence": 1.0,
+          "matched": "Russian Circles",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Primitive Man",
+          "apple_music": "https://music.apple.com/us/artist/primitive-man/419043546",
+          "spotify": "https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx",
+          "confidence": 1.0,
+          "matched": "Primitive Man",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "True West Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/90924962/russian-circles-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277467-russian-circles/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Halfway through the four-year touring cycle for their eighth full-length record Gnosis , Chicago-based instrumental trio Russian Circles hit the two-decade anniversary of their formation. One might expect a band to capitalize on such a major milestone. Instead, guitarist Mike Sullivan, drummer Dave Turncrantz, and bassist/keyboardist Brian Cook spent 2024 unceremoniously touring in support of their most recent album across Australia, South America, Europe, and North America. After all, this is the work ethic that built Russian Circles into one of the biggest heavy instrumental rock bands in the world. This is a band with no hit songs. No fan consensus on their best album. Just a reputation for consistency and quality. Not that things haven’t changed in the last 22 years. The band is now spread out between Chicago, Los Angeles, and a rural island off the coast of Seattle. While the trio insists their music is a confluence of broad-ranging influences-the formidable Touch & Go artists of the Midwest, the prog giants of late ’60s and early ’70s England, the hypnotic motorik and kosmische grooves of West Germany, the international underground’s most caustic strains of metal-it is fair to say Russian Circles’ adventurous diversity has evolved into its own distinct sound. As one of the notoriously press-shy members anonymously mentioned, “the music we make is a collective process of reconciliation, navigation, and reflection upon aging both as individuals and as a creative entity. L"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Turnover",
+          "apple_music": "https://music.apple.com/us/artist/turnover/442727465",
+          "spotify": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52",
+          "confidence": 1.0,
+          "matched": "Turnover",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Down On Earth Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.343,
+          "matched": null,
+          "apple_label": "no confident match (closest: The Neighbourhood @ 34%)",
+          "spotify_label": "no confident match (closest: Earth to Eve @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-16",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/80903906/turnover-down-on-earth-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277458-turnover/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Monday, November 16th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "apple_music": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685",
+          "spotify": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF",
+          "confidence": 1.0,
+          "matched": "Rodrigo y Gabriela",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/97131606/rodrigo-y-gabriela-ourhome-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277359-rodrigo-y-gabriela/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Grammy-winning Mexican guitar duo Rodrigo y Gabriela return with OurHome , a bold new album and global tour that invites audiences into a dreamlike universe of rogue monsters, celestial birds, stardust, savage landscapes, and the search for inner peace. Self-produced in Tokyo, OurHome is both a love letter to Japan and a meditation on what it means to find home within yourself, delivered through the wildly expressive instrumental guitar music that has made Rodrigo Sánchez and Gabriela Quintero one of the most electrifying live acts in the world. For more than two decades, Rodrigo y Gabriela have pushed acoustic guitar into new territory, blending classical, rock, metal, cinematic atmosphere, and spiritual exploration into a sound entirely their own. From their early days busking on Dublin’s Grafton Street, they have gone on to win a GRAMMY Award for Mettavolution , headline Glastonbury, and sell out iconic stages including the Hollywood Bowl, Red Rocks Amphitheatre, Royal Albert Hall, Radio City Music Hall, and the Sydney Opera House. On OurHome , the duo returns to the textural beauty of acoustic instrumentation while expanding their world with guests including Marty Friedman and Hiromi. Live, Rodrigo’s lightning-fast lead lines and Gabriela’s hypnotic, hard-hitting rhythms become a pulse-raising journey of stillness, intensity, and unstoppable momentum. For longtime fans and first-timers alike, this is a rare chance to experience two master musicians at their most adventuro"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Silverstein",
+          "apple_music": "https://music.apple.com/us/artist/silverstein/2621140",
+          "spotify": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug",
+          "confidence": 1.0,
+          "matched": "Silverstein",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Camp Screamo Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: camp ghost @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/72899308/silverstein-story-of-the-year-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278093-silverstein/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Wednesday, November 18th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Thundercat",
+          "apple_music": "https://music.apple.com/us/artist/thundercat/367322286",
+          "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
+          "confidence": 1.0,
+          "matched": "Thundercat",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Distracted AF Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DISGRACEMODE @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/64977553/thundercatdistracted-af-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277813-thundercat/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "In recent years Thundercat, aka Stephen Bruner, has completed his transition from virtuoso bassist to bonafide star and cemented his reputation as a wholly unique voice, transcending genre. He has become a cornerstone of the Brainfeeder label having released “The Golden Age of Apocalypse” (2011), “Apocalypse” (2013), “Drunk” (2017), and his 2020 album “It Is What It Is” won Best Progressive R&B Album at the 63rd GRAMMY Awards, featuring Ty Dolla $ign, Childish Gambino, Lil B, Kamasi Washington, Steve Lacy, Steve Arrington, BADBADNOTGOOD, Louis Cole, Pedro Martins and Zack Fox. The record was produced by Thundercat and his longtime partner Flying Lotus who was GRAMMY-nominated in “Producer of the Year, Non-Classical” for his work on the album. 2023 kicked off with a bang, with Thundercat joining Steve Lacy live onstage at the 65th Annual GRAMMY Awards to perform the hit single “Bad Habit.” He also released his latest single “No More Lies” with Tame Impala, and announced a slew of tour dates spanning 5 continents. 2022 was a banner year, with highlights including his vocals and bass heavily featuring on Gorillaz single and title track “Cracker Island” which hit #1 on the Alternative radio charts. He also starred in the official music video and performed onstage with Gorillaz at Coachella and the MTV European Music Awards ceremony. He also joined Red Hot Chilli Peppers as support on their North American and EU stadium tour. Thundercat made his acting debut in 2022 with a recurri"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haley Johnsen",
+          "apple_music": "https://music.apple.com/us/artist/haley-johnsen/1004119393",
+          "spotify": "https://open.spotify.com/artist/4ucOu5swE2xW8ibx4yqHbE",
+          "confidence": 1.0,
+          "matched": "Haley Johnsen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Presidio",
+          "apple_music": "https://music.apple.com/us/artist/presidio/459830992",
+          "spotify": "https://open.spotify.com/artist/0k2LHfRiHCGrhX3OAUodiB",
+          "confidence": 1.0,
+          "matched": "PRESIDIO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "McMenamins Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/92209868/haley-johnsen-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Haley Johnsen is a Portland-based Americana artist blending alt-pop edge with powerhouse vocals and emotionally charged songwriting. Often compared to Brandi Carlile and Bonnie Raitt, she delivers heart-forward storytelling wrapped in bold, anthemic hooks and an electrifying live presence. Haley has toured with and opened for artists including Allen Stone, KT Tunstall, Joseph, The Talbott Brothers, and Liam St. John, and performed at the nation’s largest festival. Summerfest, last year in Milwaukie, WI. Her 2026 NPR Tiny Desk Contest submission featuring her single “Lyin’ Man” marks a bold new chapter of new music dropping May 2026. With millions of streams worldwide via the Virgin Music Group, sponsorships with Fender and Breedlove, and a headline slot at Seattle’s Fremont Fair Festival this summer, Haley Johnsen is bringing the Pacific Northwest’s freshest sound to the world, one unforgettable performance at a time."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "90's Dance Flashback",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Flashback 90 @ 70%)",
+          "spotify_label": "no confident match (closest: Salaam Remi @ 32%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Dance Flashback Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47868780/90s2010s-dance-flashback-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278430-90s-dance-flashback/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "Ticket allows entry to the ’90s Dance Flashback party in Crystal Ballroom AND the 2010s Dance Flashback party in Lola’s Room The 90s are alive in Portland! For over 13 years Dance Flashback has put on the best decade themed parties in the northwest. Come dance to only the best 90s music videos on giant video screens. Featuring music by T.L.C., Snoop Dog, Britney Spears, N’Sync, The Beastie Boys, Salt-N-Pepa, Biggie, The Spice Girls, Outkast and so much more…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Senses Fail",
+          "apple_music": "https://music.apple.com/us/artist/senses-fail/15138873",
+          "spotify": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ",
+          "confidence": 1.0,
+          "matched": "Senses Fail",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Still Searching",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-23",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71115057/senses-fail-presents-still-searching-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Senses Fail have been called any number of things across their near 25 years as a band – emo, screamo, post-hardcore, metalcore, pop punk. It’s testament to the band’s perpetual evolution as much as it is their steely endurance – a quality which frontman Buddy Nielsen has required bottomless reserves of along the ride. It’s through the songs of Senses Failthat Nielsen has forever made sense of and peace with life’s highs and lows; a journey that began in the leafy suburbs of Ridgewood, New Jersey with the iconic Gold-selling debut album Let It Enfold You, and which has since seen Senses Fail become one of rock music’s most cherished, celebrated names."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Decadent 80s Dance Party",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Pat Benatar @ 34%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": "8:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/59613739/decadent-80s-dance-party-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! D80s is Portland’s longest-running 80s night, celebrating 21 consecutive years of weekly events. Fans of 80s alternative music will feel right at home-D80s takes requests seriously while keeping each set fresh and dynamic week after week. Stop by and discover why D80s is Portland’s go-to 80s club dance night."
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Inaugural Holiday Bazaar Brewfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Holidays in United States @ 38%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Brewfest fun",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Bread Beatz @ 44%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": null,
+      "show_time": "1:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/85115632/1st-annual-holiday-bazaar-brewfest-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278692-inaugural-holiday-bazaar-brewfest/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "With four floors packed with festive fun, this holly, jolly brewfest might just be your new favorite holiday tradition! Put on your best (or worst!) ugly holiday sweater and join us for plenty of beer, cider, cocktails and other delicious beverages to taste, plus local artisan vendors for your holiday shopping needs, pics with Santa, reindeer games and so much more."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dirty Heads",
+          "apple_music": "https://music.apple.com/us/artist/dirty-heads/287941061",
+          "spotify": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f",
+          "confidence": 1.0,
+          "matched": "Dirty Heads",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Family Mystic",
+          "apple_music": "https://music.apple.com/us/artist/family-mystic/1565332767",
+          "spotify": "https://open.spotify.com/artist/0RvrErOqQIJsa0z6sJF0nM",
+          "confidence": 1.0,
+          "matched": "Family Mystic",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/75351986/december-to-rememberdirty-heads-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279125-dirty-heads/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Dirty Heads is SOLD OUT, be sure to get your tickets to the other December To Remember shows in advance!"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Yule Benefit Tour 2026",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: YULEE @ 37%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Kamasi Washington Bartees Strange",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Kamasi Washington @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/60104913/yule-benefit-tour-2026-with-kamasi-washingtonand-bartees-strange-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278582-yule-benefit-tour-2026/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "KEXP is taking Yule Benefit on the road, with three shows in three cities, headlined by Kamasi Washington with support from Bartees Strange. December 3rd at Showbox Seattle, December 4th at the Crystal Ballroom in Portland, and December 5th at the UC Theatre in Berkeley. Local openers join the show at each stop, with mega cat in Seattle, Stas THEE Boss in Portland, and Hannah Lew in Berkeley."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "apple_music": "https://music.apple.com/us/artist/buffalo-traffic-jam/1744636210",
+          "spotify": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7",
+          "confidence": 1.0,
+          "matched": "Buffalo Traffic Jam",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/85833862/december-to-rememberbuffalo-traffic-jam-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279126-buffalo-traffic-jam/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Sunday, December 6th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Cannons",
+          "apple_music": "https://music.apple.com/us/artist/cannons/65568551",
+          "spotify": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B",
+          "confidence": 1.0,
+          "matched": "Cannons",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-07",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/97361034/december-to-remembercannons-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279127-cannons/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Los Angeles-based trio Cannons, comprises Michelle Joy (vocals), Ryan Clapham (lead guitar), and Paul Davis (drums, keys), have established themselves as one of electro-pop’s most compelling modern acts. Through their seamless blend of hypnotic synth-craft, atmospheric production, and evocative lyricism, the group has amassed over 1.4 billion global streams, a performance on Jimmy Kimmel Live!, major festival slots, and sold-out headline shows under their belt. With all this success it would be reasonable to take their foot off the gas but Cannons is ready to take the next step in their musical journey with their entrancing fifth album, Everything Glows . Everything Glows radiates a strong senseof camaraderie between the band, who bear witness to one another through travails and triumphs and highs and lows of the past few years. The record’s 11 songs navigate heartbreak and codependence, brokenness and, ultimately, liberation, spotlighting a group that found new ways to move forward and absolute excitement in both the process and its results. Everything Glows is Cannons, cutting itself free."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "YAELOKRE",
+          "apple_music": "https://music.apple.com/us/artist/yaelokre/1722325489",
+          "spotify": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY",
+          "confidence": 1.0,
+          "matched": "Yaelokre",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-08",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/99886121/yaelokre-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277448-yaelokre/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Authoring fence-hopping billies and rabbits affright, the hopes of honouring Wonderment; a magic lost to us who have grown, and a promise made to the child we once were. “Meadowlark” is a diary-turned-storybook penned by writer and illustrator Keath Ósk as a means to portray oneself through melody-given apologues, performed by a cast of characters drawn from their own childhood, a medley of perspectives from then and the now and the who they wish to become. They voice to perform in their stead to remark on narrative, and with it offer parables played in song. To sing of fables retold and unsung, truth to make-believe, fostering the very same aria that brought them to existence; our ability to wield wonder. Website: https://www.yaelokre.com/"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Spike and the Gimme Gimmes",
+          "apple_music": "https://music.apple.com/us/artist/spike-and-the-gimme-gimmes/1851589000",
+          "spotify": "https://open.spotify.com/artist/3aNYAdtAmRjvpNpIA9f3hx",
+          "confidence": 1.0,
+          "matched": "Spike and the Gimme Gimmes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Riverboat Gamblers",
+          "apple_music": "https://music.apple.com/us/artist/riverboat-gamblers/14333350",
+          "spotify": "https://open.spotify.com/artist/70IS631hJba0OuAbmhZNOq",
+          "confidence": 1.0,
+          "matched": "Riverboat Gamblers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/52004419/spike-and-the-gimme-gimmes-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278878-spike-and-the-gimme-gimmes/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Wednesday, December 9th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Angine De Poitrine",
+          "apple_music": "https://music.apple.com/us/artist/angine-de-poitrine/1750092191",
+          "spotify": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2",
+          "confidence": 1.0,
+          "matched": "Angine de Poitrine",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Zouz",
+          "apple_music": "https://music.apple.com/us/artist/zouz/1447260841",
+          "spotify": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi",
+          "confidence": 1.0,
+          "matched": "zouz",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/e/1058938/angine-de-poitrine-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277005-angine-de-poitrine/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Disciples of planet Earth’s rock deities, space-time voyagers Klek and Khn de Poitrine gaze in wonder at hot dogs, pyramids, and rock music in all its glorious excess. Asymmetrical and dissonant, Angine de Poitrine’s music makes hearts race and bodies move with ecstatic abandon. Through tight, pulsing drum grooves and intricate tangles of double-neck microtonal guitar, the band summons swirling vortices of hypnotic sound and vision. Since the release of Vol. 1 in 2024, Angine de Poitrine are in the eye of an ever-growing storm of enthusiasm from audiences, critics, and music industry’s main actors. After delivering electrifying performances at Quebec’s major festivals, including the Festival International de Jazz de Montréal, Angine de Poitrine now sets their sights on the prestigious Trans Musicales in Rennes. All these facts are strictly reserved to the humanoids: Angine de Poitrine are simply thrilled to play rock ‘n’ roll. ABOUT Vol. 2 Repetition. Isn’t that the very essence of loop-based music? Hell no! A brisk, high-voltage album, Vol. 2 stretches the boundaries of the genre with even bolder, more dynamic structures. Its humor lies in the details, waiting to be decoded! Once again, three essential forces fuel the inspiration of the duo: acid techno, disco, and rock. ABOUT Mata Zyklek Driven by the rumble of the fifth and a breakneck tempo that exudes urgency, Mata Zyklek delivers a wild ride full of twists and turns. It unfolds like the parody of a low-budget Hollywood"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Angine De Poitrine",
+          "apple_music": "https://music.apple.com/us/artist/angine-de-poitrine/1750092191",
+          "spotify": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2",
+          "confidence": 1.0,
+          "matched": "Angine de Poitrine",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Zouz",
+          "apple_music": "https://music.apple.com/us/artist/zouz/1447260841",
+          "spotify": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi",
+          "confidence": 1.0,
+          "matched": "zouz",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/e/1058938/angine-de-poitrine-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/276842-angine-de-poitrine/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Disciples of planet Earth’s rock deities, space-time voyagers Klek and Khn de Poitrine gaze in wonder at hot dogs, pyramids, and rock music in all its glorious excess. Asymmetrical and dissonant, Angine de Poitrine’s music makes hearts race and bodies move with ecstatic abandon. Through tight, pulsing drum grooves and intricate tangles of double-neck microtonal guitar, the band summons swirling vortices of hypnotic sound and vision. Since the release of Vol. 1 in 2024, Angine de Poitrine are in the eye of an ever-growing storm of enthusiasm from audiences, critics, and music industry’s main actors. After delivering electrifying performances at Quebec’s major festivals, including the Festival International de Jazz de Montréal, Angine de Poitrine now sets their sights on the prestigious Trans Musicales in Rennes. All these facts are strictly reserved to the humanoids: Angine de Poitrine are simply thrilled to play rock ‘n’ roll. ABOUT Vol. 2 Repetition. Isn’t that the very essence of loop-based music? Hell no! A brisk, high-voltage album, Vol. 2 stretches the boundaries of the genre with even bolder, more dynamic structures. Its humor lies in the details, waiting to be decoded! Once again, three essential forces fuel the inspiration of the duo: acid techno, disco, and rock. ABOUT Mata Zyklek Driven by the rumble of the fifth and a breakneck tempo that exudes urgency, Mata Zyklek delivers a wild ride full of twists and turns. It unfolds like the parody of a low-budget Hollywood"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Young the Giant",
+          "apple_music": "https://music.apple.com/us/artist/young-the-giant/394582977",
+          "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT",
+          "confidence": 1.0,
+          "matched": "Young the Giant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/96243215/december-to-rememberyoung-the-giant-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279128-young-the-giant/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Young the Giant’s Victory Garden is an ode to radical empathy. Over the past fifteen years, the multi-platinum Southern California band has flourished through distinct sonic eras, progressively solidifying itself as one of the most consistent and influential rock bands of the 21st century. On their sixth full-length album and Fearless Records debut, Victory Garden, Young the Giant reconnects with the core experience of 100% band collaboration, writing and recording together as a unit in one room. Written largely during writing retreats in Idyllwild and Joshua Tree and produced by Brendan O’Brien (Springsteen, Pearl Jam, Soundgarden) at Henson Studios in Hollywood, Victory Garden is a cohesive album experience that both inspires and enthralls. Lyrically, the album is rooted in radical empathy, showcasing the band’s songwriting instincts at its most immediate and heartfelt. Musically, Victory Garden showcases the seasoned artist’s collective performances at their intuitive height. The result is a prolific record that beckons a new season of creative fertility for the band and presents Young the Giant as confident, refined, and fully inhabiting its voice."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "almost monday",
+          "apple_music": "https://music.apple.com/us/artist/almost-monday/1300723925",
+          "spotify": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E",
+          "confidence": 1.0,
+          "matched": "almost monday",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "In Color",
+          "apple_music": "https://music.apple.com/us/artist/in-color/1788977129",
+          "spotify": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk",
+          "confidence": 1.0,
+          "matched": "In Color",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/89152126/december-to-rememberalmost-monday-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279129-almost-monday/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "almost monday is the definition of a California state of mind. For the band, it all started in a San Diego surf shop, where three friends- Dawson Daugherty (vocals), Cole Clisby (guitar) and Luke Fabry (bass)-began shaping a sound that feels coastal without feeling cliché. Their early breakout “broken people” quietly snowballed into wider attention, earning a Sofi Tukker remix and setting the stage for a run of alternative radio momentum with the release of “ sun keeps on shining ” and culminating in a Billboard Alternative Airplay #1 with “ can’t slow down .” As the band’s cultural footprint continues to grow, their music has become a fixture across lifestyle and sports, racking up 50+ syncs spanning everything from ESPN and MLB broadcasts to March Madness, and the Vans US Open. The band kicked off the year with “ leaving is easy ,”an emotionally resonant track reflecting their continued growth as songwriters, followed by “ no more regrets ,” an upbeat track built for connection and movement and most recently “ skinny dip ,” which captures fleeting, youthful connection with a subtle emotional edge. The momentum continued with a 2026 iHeart Music Awards nomination for Best New Alternative Artist . The band recently performed at BottleRock in May and are currently on tour with Young the Giant and Cold War Kids, with the run wrapping June 27 in Nashville. Onstage, almost monday have built a reputation for high-voltage performances and a kinetic, sun-soaked energy. The band has"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2000s New Year's Eve Y2K Ball",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Nelly @ 24%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/50680894/2000s-new-years-eve-y2k-ball-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278431-2000s-new-years-eve-y2k-ball/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "Dance Flashback presents the 2000s Y2k Ball, this New Years Eve at the Crystal Ballroom! Come ring in 2027 with a two floor, massive dance party. Midnight countdown, champagne, drink specials, photo station, mirror ball and special surprises will help us celebrate the new year with a bang. There’ll be all your favorite music videos of the 2000s on the big screen upstairs and all your favorite bangers of the 2010s, on five screens in Lola’s down below. Dance the night away and countdown to 2027 with us at this epic bash!"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2nd Annual Dry January Fest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dryjacket @ 39%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Matt Mitchel’s Band",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mat Mitchell @ 71%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-02",
+      "doors": null,
+      "show_time": "11:00 am",
+      "ticket_link": "https://www.etix.com/ticket/p/66495048/dry-january-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/273672-2nd-annual-dry-january-fest/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "Whether you don’t drink alcohol, are observing Dry January or just want to explore all the fun options non-alcoholic (NA) beverages have to offer, this fest is for you! Sample from NA products such as NA wine, beer, cider, mocktails and a few THC products for those experimenting with ‘California sobriety.’ Details 30+ NA beverages to sample Ticket includes unlimited tastings of most products & a commemorative glass Live Music Camp Crush * 2-4pm Matt Mitchel’s Band * 4-6pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ninajirachi",
+          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
+          "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
+          "confidence": 1.0,
+          "matched": "Ninajirachi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "iKeda",
+          "apple_music": "https://music.apple.com/us/artist/ikeda/1701635700",
+          "spotify": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt",
+          "confidence": 1.0,
+          "matched": "iKeda",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-05",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/79209096/ninajirachis-i-love-my-computer-and-it-loves-me-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279011-ninajirachi/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Ninajirachi is raising the flag for a new generation of Australian artists on the international stage. From festival appearances at Coachella, Lollapalooza, Laneway, and Spilt Milk to sold-out headline shows on both sides of the Pacific, she has quickly become one of electronic music’s most electrifying new voices. With a sound and style “simultaneously garnering respect from the experimental underground and the mainstream” (Rolling Stone), Nina has been tapped by Nike, Sega, and even Ableton, who selected her to produce the official demo project for Ableton Live. Following the acclaim of 2024’s girl edm (disc 1), Ninajirachi entered 2025 with extraordinary momentum. Within the first six weeks of the year, she toured Australia with Porter Robinson, returned with Laneway Festival, and embarked on a sold-out US co-headline tour with PC Music’s umru. During this whirlwind period, she also released the anthemic ‘All I Am’, which soared to the top of triple j’s most-played list and marked her debut on the ARIA Singles Chart. A longtime’ fan-favourite from her live set, ‘All I Am’ offered the first glimpse of her debut album, I Love My Computer. Led by the singles ‘All I Am’, ‘iPod Touch’, ‘Fuck My Computer’, ‘Infohazard’, and ‘Delete’, I Love My Computer debuted at #1 on the ARIA Dance Albums Chart. Propelled by her fast-growing online community and a series of sold-out headline shows across Australia, New Zealand, and North America, the album became a cultural moment – earning an"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DJ Meredith Marks",
+          "apple_music": "https://music.apple.com/us/artist/dj-meredith-marks/1849794884",
+          "spotify": "https://open.spotify.com/artist/0W73pUmR0eKDF0RpJKnlCL",
+          "confidence": 1.0,
+          "matched": "DJ Meredith Marks",
+          "apple_label": null,
+          "spotify_label": "close match: Dj Meredith",
+          "spotify_source": "api"
+        },
+        {
+          "name": "YOU. CAN. DANCE. Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dance Gavin Dance @ 42%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/73160997/dj-meredith-marks-youcandancetour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278967-dj-meredith-marks/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "MEREDITH MARKS IS AN INTERNATIONAL DJ, ENTERTAINMENT MOGUL, AND ENTREPRENEUR, CELEBRATED FOR HER HIGH-ENERGY SETS THAT BLEND HOUSE, POP, AND UNEXPECTED, CROWD-IGNITING TWISTS. A CULTURAL FORCE THROUGH BRAVO TV’S THE REAL HOUSEWIVES OF SALT LAKE CITY, SHE BRINGS EFFORTLESS GLAMOUR, MODERN STYLE, AND A REFINED MUSICAL AESTHETIC TO EVERY PERFORMANCE. MEREDITH’S WORK SPANS CONCERT HALLS, LUXURY HOTELS, NIGHTLIFE DESTINATIONS, PRIVATE CELEBRATIONS, AND HIGH-IMPACT BRAND ACTIVATIONS, SOLIDIFYING HER STATUS AS A SOUGHT-AFTER PRESENCE FOR EXPERIENCE-DRIVEN EVENTS. A CHAMPION OF INCLUSIVITY, MEREDITH REGULARLY HEADLINES PRIDE-AFFILIATED EVENTS, CURATING SPACES THAT FEEL WELCOMING, CELEBRATORY, AND ELECTRIC. HER COMMITMENT TO COMMUNITY-COMBINED WITH HER DISTINCTIVE SOUND-HAS MADE HER A FAVORITE WITH DIVERSE AUDIENCES AROUND THE WORLD. RENOWNED FOR HER EDITORIAL EDGE AND IMPECCABLE TASTE, MEREDITH CREATES IMMERSIVE, HIGH-GLOSS MOMENTS THAT REFLECT HER ICONIC PERSONAL STYLE. AS SHE CONTINUES TO GROW HER GLOBAL DJ PORTFOLIO, MEREDITH DELIVERS A UNIQUELY POWERFUL FUSION OF STYLE, ENERGY, INCLUSIVITY, AND LUXURY-REDEFINING WHAT MODERN DJ CULTURE CAN BE."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Super Diamond",
+          "apple_music": "https://music.apple.com/us/artist/super-diamond/6771701161",
+          "spotify": "https://open.spotify.com/artist/2m3jFXO5syfHfhE6YahQ65",
+          "confidence": 1.0,
+          "matched": "SUPER DIAMOND",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Neil Diamond Tribute",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/72741868/super-diamond-the-san-francisco-neil-diamond-tribute-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279034-super-diamond-the-neil-diamond-tribute/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "An uncanny tribute to beloved master singer/songwriter/performer, American pop icon Neil Diamond – Super Diamond has appeared on The Late Show with David Letterman, CNN, VH1, Fox News, and Comedy Central, and has been featured in publications such as Rolling Stone Magazine, The New York Times, and the San Francisco Chronicle For three decades, San Francisco’s Super Diamond has become one of the most popular live shows at major nightclubs, theaters, ballrooms, festivals, and public events throughout the United States. Super Diamond delivers a glittering, powerful show that performs Neil Diamond’s hits with a rock edge and unrestrained enthusiasm. It is pure entertainment-classic music combined with fun, energy, and passion! Neil Diamond (the man himself) has sung his songs on stage with Super Diamond at their shows. Don’t let anyone tell you Neil Diamond doesn’t “ROCK!” Website: http://www.superdiamond.com"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fruition",
+          "apple_music": "https://music.apple.com/us/artist/fruition/189732852",
+          "spotify": "https://open.spotify.com/artist/4dDqxbEKfPN3RZYrGr36y8",
+          "confidence": 1.0,
+          "matched": "Fruition",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Something More",
+          "apple_music": "https://music.apple.com/us/artist/something-more/296469904",
+          "spotify": "https://open.spotify.com/artist/47yawJswuSfSvizYhItoOP",
+          "confidence": 1.0,
+          "matched": "Something More",
+          "apple_label": null,
+          "spotify_label": "close match: Something For Kate",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "The Final Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/64136373/fruition-something-more-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278536-fruition/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "As Fruition releases its eighth studio album, Something More, via Bloodshot Records, the acclaimed Americana band is also announcing plans to step away from touring following the scheduled tour dates, which now extend through January 2027. More than 15 years together, building a grassroots audience with stacked vocal harmonies and collaborative, song-driven Americana, this is American roots music at its broadest and boldest – a melting pot of rock, soul, folk, and pop. Produced by Grammy winner Tucker Martine (The Decemberists. My Morning Jacket), “this album is the culmination of almost two decades of making music as Fruition,” explains Jay Cobb Anderson. Asked about the mission behind Something More, Kellen Asebroek shares: “We set out to show the world what we’ve learned along the way, both musically and personally, but perhaps more importantly, this album makes a point to be honest about the things we’ve had to UNLEARN. The truth of this album is found in kicking old habits, letting go of control, interrogating our motives, and approaching each session with fearless, open hearts.” Website: http://www.fruitionstringband.com/ Facebook: https://www.facebook.com/pg/fruitionpdx/"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Portland's Folk Festival",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Portland Cello Project @ 56%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Federale Steve Poltz",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/7AAenH06H5mjmOh4tj3z5Y",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Steve Poltz",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/e/1058813/pff-2027-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/276751-portlands-folk-festival/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "An annual celebration of folk and Americana music showcasing 30 local and national artists hosted by the historic Crystal Ballroom. More information on Portland’s Folk Festival’s website! Portland’s Folk Festival at Crystal Ballroom through the years Website: https://portlandsfolkfestival.com/"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Portland's Folk Festival",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Portland Cello Project @ 56%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Shook Twins Cassandra Lewis",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Cassandra Lewis @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "2:00 pm",
+      "show_time": "3:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/e/1058813/pff-2027-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/276749-portlands-folk-festival/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "An annual celebration of folk and Americana music showcasing 30 local and national artists hosted by the historic Crystal Ballroom. More information on Portland’s Folk Festival’s website! Portland’s Folk Festival at Crystal Ballroom through the years Website: https://portlandsfolkfestival.com/"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "4th Annual Celebration of the 1968 Grateful Dead Concerts",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Grateful Dead @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Garcia Birthday Band",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Jerry Garcia Band @ 70%)",
+          "spotify_label": "no confident match (closest: Jerry Garcia Band @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65510837/garcia-birthday-band-4th-annual-celebration-of-the-grateful-dead-1968-concerts-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279578-4th-annual-celebration-of-the-1968-grateful-dead-concerts/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Saturday, February 6th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2000s Cupid’s Ball",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Cupid @ 44%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/94648548/2000s-cupids-ball-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279805-2000s-cupids-ball/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "Cupids Ball is back! This Valentine’s Day weekend we are celebrating by throwing an enormous 2000’s party… UPSTAIRS in a decorated Crystal Ballroom! Come dance to a special set of 2000s bangers, with a few “lovers slow jams” on the hour, sprinkled in! So bring that special someone or come ready to meet a future valentine. Or just come dance & people watch what’s going to be the best Valentine’s party in Portland."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "La Roux",
+          "apple_music": "https://music.apple.com/us/artist/la-roux/292533375",
+          "spotify": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA",
+          "confidence": 1.0,
+          "matched": "La Roux",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Old Flames Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Old Flame @ 64%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-16",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/85324044/la-rouxthe-old-flames-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278647-la-roux/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Tuesday, February 16th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Trampled by Turtles",
+          "apple_music": "https://music.apple.com/us/artist/trampled-by-turtles/165285861",
+          "spotify": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4",
+          "confidence": 1.0,
+          "matched": "Trampled By Turtles",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/58511089/trampled-by-turtles-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279149-trampled-by-turtles/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Trampled by Turtles are from Duluth, Minnesota, where frontman Dave Simonett initially formed the group as a side project in 2003. At the time, Simonett had lost most of his music gear, thanks to a group of enterprising car thieves who’d ransacked his vehicle while he played a show with his previous band. Left with nothing more than an acoustic guitar, he began piecing together a new band, this time taking inspiration from bluegrass, folk, and other genres that didn’t rely on amplification. Simonett hadn’t played any bluegrass music before, and he filled his lineup with other newcomers to the genre, including fiddler Ryan Young (who’d previously played drums in a speed metal act) and bassist Tim Saxhaug. Along with mandolinist Erik Berry and banjo player Dave Carroll, the group began carving out a fast, frenetic sound that owed as much to rock & roll as bluegrass. There crossover appeal has landed them on the #1 spot of Billboard’s Bluegrass Charts on every record they’ve released while playing marquee festivals like Coachella, ACL Fest, and Lollapalooza. Countless tours with diverse artists ranging Shakey Graves, Zach Bryan, Wilco, Caamp, Mt Joy, Willie Nelson, Avett Brothers, Lord Huron and many more have followed solidifying a loyal fanbase. Their last full length album Alpenglow was produced by Wilco’s Jeﬀ Tweedy. 2025 began with the band releasing a cover of Bon Iver’s “ From Emma ” with Caamp’s Taylor Meier (aka Sumbuck) on lead vocals. A few new collaborations are set"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sylvan Esso",
+          "apple_music": "https://music.apple.com/us/artist/sylvan-esso/661273932",
+          "spotify": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv",
+          "confidence": 1.0,
+          "matched": "Sylvan Esso",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-22",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/80986909/sylvan-esso-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277205-sylvan-esso/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Sylvan Esso announce their first new album in four years, and their first to be released on their own, on their own record label. Arriving September 11th via Psychic Hotline, Ow ∞ is a trust fall into our dystopian present, past and future: arms wide open, embracing and absorbing the pain of cities under water or on fire, and piecing oneself back together as a tactile, scotch-taped collage of memories, ephemera, Y2K-era burned CDs and backseat makeouts. Produced by Sylvan Esso’s Amelia Meath and Nick Sanborn, Ow ∞ is also the longest the band has ever spent writing a record, yet it arrives with an intense immediacy that is messy, hellish and free, metabolizing a life of making music with people into making art that you just love. Website: http://www.sylvanesso.com/ Instagram: https://www.instagram.com/sylvanesso/?hl=en Facebook: https://www.facebook.com/SylvanEsso/?fref=ts YouTube: https://www.youtube.com/channel/UCb8sEm2FC4V0bM2p4Gg7oNA"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sylvan Esso",
+          "apple_music": "https://music.apple.com/us/artist/sylvan-esso/661273932",
+          "spotify": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv",
+          "confidence": 1.0,
+          "matched": "Sylvan Esso",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-23",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/57712890/sylvan-esso-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277206-sylvan-esso/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Sylvan Esso announce their first new album in four years, and their first to be released on their own, on their own record label. Arriving September 11th via Psychic Hotline, Ow ∞ is a trust fall into our dystopian present, past and future: arms wide open, embracing and absorbing the pain of cities under water or on fire, and piecing oneself back together as a tactile, scotch-taped collage of memories, ephemera, Y2K-era burned CDs and backseat makeouts. Produced by Sylvan Esso’s Amelia Meath and Nick Sanborn, Ow ∞ is also the longest the band has ever spent writing a record, yet it arrives with an intense immediacy that is messy, hellish and free, metabolizing a life of making music with people into making art that you just love. Website: http://www.sylvanesso.com/ Instagram: https://www.instagram.com/sylvanesso/?hl=en Facebook: https://www.facebook.com/SylvanEsso/?fref=ts YouTube: https://www.youtube.com/channel/UCb8sEm2FC4V0bM2p4Gg7oNA"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Alan Walker",
+          "apple_music": "https://music.apple.com/us/artist/alan-walker/1062085272",
+          "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN",
+          "confidence": 1.0,
+          "matched": "Alan Walker",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-04",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/88950774/alan-walker-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278693-alan-walker/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "Thursday, March 4th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Blondshell",
+          "apple_music": "https://music.apple.com/us/artist/blondshell/1624592688",
+          "spotify": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij",
+          "confidence": 1.0,
+          "matched": "Blondshell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/69828763/blondshell-scaring-strangers-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/276943-blondshell/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Friday, March 5th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Braxton Keith",
+          "apple_music": "https://music.apple.com/us/artist/braxton-keith/1461689256",
+          "spotify": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf",
+          "confidence": 1.0,
+          "matched": "Braxton Keith",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Tyla Rodrigues",
+          "apple_music": "https://music.apple.com/us/artist/tyla-rodrigues/1606749256",
+          "spotify": "https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV",
+          "confidence": 1.0,
+          "matched": "Tyla Rodrigues",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49849117/braxton-keith-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279010-braxton-keith/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Wednesday, March 10th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Mary Wallopers",
+          "apple_music": "https://music.apple.com/us/artist/the-mary-wallopers/1480009717",
+          "spotify": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2",
+          "confidence": 1.0,
+          "matched": "The Mary Wallopers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-30",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/62118396/the-mary-wallopers-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278187-the-mary-wallopers/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "The Mary Wallopers have released a new track from their forthcoming third album Paddywhackery (due for release 18th September 2026), and announced their next headline tour of the US and Canada. Kit Kat Club rides in on the back of a primal guitar riff – think heavy rockabilly music built in Ireland specifically for the 21st century gig goer – and proceeds to tell the tale of a drinking mission that “sent them down to Hell”. That domain is a place full of “demons drinking pints of stout”, and somewhere the writer can proudly declare their own status as a socialist. Actually, it sounds more like Heaven from here. Kit Kat Club – like all of Paddywhackery – was produced by James Skelly (The Coral) at Kempston Street Studios in Liverpool. It follows the recently released tracks Crowns Of England – described as “sure to have Nigel Farage spitting his bitter out” by The Guardian – and the band’s pure and simple anti-gentry anthem Landlord’s Demise . Following summer festival performances across Europe, including second headliner on the main stage at Ireland’s huge All Together Now last weekend, and at Crystal Palace in London with Kneecap recently, The Mary Wallopers will play a huge series of dates in the autumn, including arena shows in the UK and Ireland, before heading to the US and Canada early next year."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nothing But Thieves",
+          "apple_music": "https://music.apple.com/us/artist/nothing-but-thieves/524830875",
+          "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp",
+          "confidence": 1.0,
+          "matched": "Nothing But Thieves",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-01",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/50540043/nothing-but-thieves-the-stray-dogs-world-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277040-nothing-but-thieves/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Thursday, April 1st at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Elovaters",
+          "apple_music": "https://music.apple.com/us/artist/the-elovaters/1196949898",
+          "spotify": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3",
+          "confidence": 1.0,
+          "matched": "The Elovaters",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "6:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45963990/the-elovaters-shark-belly-motel-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279180-the-elovaters/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Friday, April 2nd at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lambrini Girls",
+          "apple_music": "https://music.apple.com/us/artist/lambrini-girls/1541291393",
+          "spotify": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb",
+          "confidence": 1.0,
+          "matched": "Lambrini Girls",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sprints",
+          "apple_music": "https://music.apple.com/us/artist/sprints/1457102942",
+          "spotify": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY",
+          "confidence": 1.0,
+          "matched": "SPRINTS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-16",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/68156358/lambrini-girls-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278493-lambrini-girls/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "When Lambrini Girls roared out of the traps at the start of the decade, cultivating a no-nonsense message of rightful anger purpose-built to galvanise the Left and piss off the Right, Phoebe Lunny and Selin Macieira-Boşgelmez announced themselves as the band that some people (internet trolls, transphobes, most -ists) might not have wanted but we all needed. With 2025 debut album ‘Who Let The Dogs Out’, the Brighton-formed duo watched their music grow bigger and travel further than they could have imagined: to a UK Top 20 album chart placing, magazine covers from Kerrang! to NME, and sold out tours across the globe. Fighting the good fight with guts, wit and an unmissably carnage-filled live show, it felt like Lambrini Girls had reached a climax – infuriating all the right people, and watching their crowds swell in tandem – at exactly the right time for a world gone mad. And then, the world got even worse. Enter ‘No Refunds’: a darker, even more direct and radical record for a moment in history where little else would make sense. Its contents reads like a litany of modern horrors: genocide, fascism, the rise of AI and the descent into the grubby basement of the ‘manosphere’. That all of these separately terrifying ideas are happening concurrently, in the small window of time since Lambrini Girls’ debut not-two years ago, speaks to how necessary its writing became for the pair. The album arrives as a leap forward for the band – both in the confidence and maturity of their lyric"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "brakence",
+          "apple_music": "https://music.apple.com/us/artist/brakence/1345560251",
+          "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV",
+          "confidence": 1.0,
+          "matched": "brakence",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-18",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/83519527/brakence-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279466-brakence/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Sunday, April 18th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FKJ",
+          "apple_music": "https://music.apple.com/us/artist/fkj/644688726",
+          "spotify": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z",
+          "confidence": 1.0,
+          "matched": "FKJ",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-20",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65210955/fkj-tyber-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277132-fkj/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Tuesday, April 20th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Interrupters",
+          "apple_music": "https://music.apple.com/us/artist/the-interrupters/886243994",
+          "spotify": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF",
+          "confidence": 1.0,
+          "matched": "The Interrupters",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Rat Boy",
+          "apple_music": "https://music.apple.com/us/artist/rat-boy/981610998",
+          "spotify": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC",
+          "confidence": 1.0,
+          "matched": "RAT BOY",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-27",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49201989/the-interrupters-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/278583-the-interrupters/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Tuesday, April 27th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ricky Montgomery",
+          "apple_music": "https://music.apple.com/us/artist/ricky-montgomery/885635994",
+          "spotify": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw",
+          "confidence": 1.0,
+          "matched": "Ricky Montgomery",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Monty Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-03",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/72298177/the-old-world-is-dyingand-the-new-world-struggles-to-be-bornnow-is-the-time-of-monty-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279373-ricky-montgomery-the-monty-tour/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Ricky Montgomery has partnered with PLUS1 so that $1 from every ticket sold will go toward organizations protecting immigrant rights and safety. Music always lures Ricky Montgomery back. He blames the internet. First a devotee of the Vine underground, and now-nearly a decade and several jobs later-an unexpected hitmaker, the Los Angeles native has spent the last few years trying to reconcile with his artist self. He recently surpassed 1 billion global streams thanks to Platinum indie-pop hits “Mr. Loverman” and “Line Without a Hook.” But those songs, written when he was a teen, have come to feel like they were by a whole other person-at least to Ricky. In 2023, we got to meet Rick , a sophomore set that arrived seven years later, rich with electro-laced, emo-tinged alt-pop that spins stories about life in all its messy and mundane glory. Ricky’s journey fits the bill: a childhood in L.A. interrupted by divorce, an adolescence playing in the basement bands of suburban Missouri, a viral explosion on a soon-to-implode platform, and a brief music career back on the West Coast that sent his songs up the Rock and Alternative charts. That was in 2014, before ife intervened and he quit music for good… until the world discovered his sunny, sardonic songs. Now, with millions of social followers and a string of sold-out tours under his belt, Ricky sets out to document “my long, awkward path toward remembering myself as an artist,” he says. “It’s been embarrassing and difficult, but also"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Saint Levant",
+          "apple_music": "https://music.apple.com/us/artist/saint-levant/1592125003",
+          "spotify": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT",
+          "confidence": 1.0,
+          "matched": "Saint Levant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Afandi World Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Afandi @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-09",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/39915469/saint-levant-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/277966-saint-levant/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Marwan Abdelhamid, known professionally as Saint Levant, was born in Jerusalem during the second Intifada to a French-Algerian mother and a Serbian-Palestinian father. He spent seven defining years growing up in Gaza, an experience that would later inspire his debut EP, From Gaza, With Love. Drawing inspiration from his origins with influences that combine traditional Arabic music, R&B and hip-hop, Saint Levant embraces the plurality of his own cultural heritage, the Arab community worldwide and the Palestinian struggle abroad. His songs – written in Arabic, English and French – have captivated a global audience with their international appeal. This foundation culminated in DEIRA, his debut album – a project that laid the emotional and sonic groundwork for Saint Levant’s wider artistic world. Released on Valentine’s Day, Love Letters / رسائل حب marked a turning point in Saint Levant’s artistic evolution. The project explores different facets of his world – triumphant, reflective, hopeful and heartfelt – through an A-side rooted in Arab and North African musical traditions and a B-side inspired by Western ’80s funk and contemporary pop. Following its success, Saint Levant expanded the project with Love Letters / رسائل حب (Deluxe), featuring collaborations with Fares Sokar, NORDO and Babylone, further cementing his position as an artist whose work moves easily between cultures, geographies and genres. The AFANDI album marks a new chapter rooted in timeless elegance. Inspired by"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Enjambre",
+          "apple_music": "https://music.apple.com/us/artist/enjambre/55061637",
+          "spotify": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR",
+          "confidence": 1.0,
+          "matched": "Enjambre",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-16",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/32544221/enjambre-2027-us-canada-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279530-enjambre/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Fresh off sold-out stadium run in México City and landmark festival appearances, acclaimed Mexican rock band Enjambre has officially announced their 2027 U.S. Tour, kicking off on April 30th, 2027, in Atlanta, GA. Ahead of the tour rollout, the band will perform in Boston on October 29th at Symphony Hall headlining the Boston Pops’ third annual Day of the Dead (Día de Muertos) concert, marking their debut appearance at the landmark event. The newly announced U.S. headlining tour spans 21 major dates across the U.S. & Canada, kicking-off on April 30th in Atlanta, GA at Masquerade with a final tour stop on June 1st in Austin, TX. The nationwide trek carries the momentum of the band’s massive Daños Luz tour in México, a landmark run highlighted by a historic, two-night sold-out shows at Mexico City’s Estadio GNP Seguros alongside tour stops across Tabasco, Durango, Monterrey, and Torreón. Following their Boston Pops performance in the U.S., Enjambre will return to Mexico for a massive presentation at the historic Zócalo in Mexico City on November 8th, headlining Vitae Fest 2026. The festival brings together a genre-spanning lineup alongside Banda Los Recoditos, Mau y Ricky, and Alexander Acha to amplify messages of unity, peace, and community. Tras una serie de conciertos con localidades agotadas en estadios de la Ciudad de México y participar en festivals emblemáticos, la aclamada banda mexicana de rock Enjambre anunció oficialmente su gira 2027 por Estados Unidos, que arrancar"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An evening with They Might Be Giants",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: They Might Be Giants @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-04",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49407877/an-evening-with-they-might-be-giants-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279496-an-evening-with-they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": "THREE NIGHTS WITH THEY MIGHT BE GIANTS The Bigger Show Tour. Only 2026 area appearances! Ages 16+ 3 very different shows. 3 “Evening with” performances. 8-piece band. 3 horns. 2 sets. 0 openers. Starts early. Gets loud. Renowned for their infamous live shows, They Might Be Giants has now expanded to an eight-piece band, including a three-piece horn section. Audiences can expect a spontaneous, sprawling, and utterly enthralling musical event unlike any other. Yes, TMBG is in top form and back on the road with a show that is truly ever-evolving. The first set of each night spotlights a different album, while the second set will draw from every era of their career – from the earliest days of Dial-A-Song and the platinum album Flood to their brand new 2026 releases. With all the favorites, remarkable deep cuts, and dazzling musical improvisations, each performance is a distinct celebration of the band’s singular songbook. These shows, along with their stand-alone EP, Eyeball, and all-new album The World Is to Dig, are all testament to the fact that this band will not slow down. A limited number of multi-night ticket packages are available for purchase – that means reduced ticketing fees!"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An evening with They Might Be Giants",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: They Might Be Giants @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-05",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71593027/an-evening-with-they-might-be-giants-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279493-an-evening-with-they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": "THREE NIGHTS WITH THEY MIGHT BE GIANTS The Bigger Show Tour. Only 2026 area appearances! Ages 16+ 3 very different shows. 3 “Evening with” performances. 8-piece band. 3 horns. 2 sets. 0 openers. Starts early. Gets loud. Renowned for their infamous live shows, They Might Be Giants has now expanded to an eight-piece band, including a three-piece horn section. Audiences can expect a spontaneous, sprawling, and utterly enthralling musical event unlike any other. Yes, TMBG is in top form and back on the road with a show that is truly ever-evolving. The first set of each night spotlights a different album, while the second set will draw from every era of their career – from the earliest days of Dial-A-Song and the platinum album Flood to their brand new 2026 releases. With all the favorites, remarkable deep cuts, and dazzling musical improvisations, each performance is a distinct celebration of the band’s singular songbook. These shows, along with their stand-alone EP, Eyeball, and all-new album The World Is to Dig, are all testament to the fact that this band will not slow down. A limited number of multi-night ticket packages are available for purchase – that means reduced ticketing fees!"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An evening with They Might Be Giants",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: They Might Be Giants @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-06",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/68676680/an-evening-with-they-might-be-giants-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/279495-an-evening-with-they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": "THREE NIGHTS WITH THEY MIGHT BE GIANTS The Bigger Show Tour. Only 2026 area appearances! Ages 16+ 3 very different shows. 3 “Evening with” performances. 8-piece band. 3 horns. 2 sets. 0 openers. Starts early. Gets loud. Renowned for their infamous live shows, They Might Be Giants has now expanded to an eight-piece band, including a three-piece horn section. Audiences can expect a spontaneous, sprawling, and utterly enthralling musical event unlike any other. Yes, TMBG is in top form and back on the road with a show that is truly ever-evolving. The first set of each night spotlights a different album, while the second set will draw from every era of their career – from the earliest days of Dial-A-Song and the platinum album Flood to their brand new 2026 releases. With all the favorites, remarkable deep cuts, and dazzling musical improvisations, each performance is a distinct celebration of the band’s singular songbook. These shows, along with their stand-alone EP, Eyeball, and all-new album The World Is to Dig, are all testament to the fact that this band will not slow down. A limited number of multi-night ticket packages are available for purchase – that means reduced ticketing fees!"
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 54,
+      "comedy": 0,
+      "film": 0,
+      "other": 1
+    },
+    "apple_music": {
+      "unique_artists": 76,
+      "found": 53,
+      "exact": 53,
+      "close": 0,
+      "flagged": 0,
+      "not_found": 23
+    },
+    "spotify": {
+      "unique_artists": 76,
+      "linked": 54,
+      "venue": 0,
+      "api": 54,
+      "feed": 0,
+      "shows_with_link": 43
+    }
+  }
+}
