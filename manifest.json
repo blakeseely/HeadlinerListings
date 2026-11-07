@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:22:38.077575+00:00",
+  "generated_at": "2026-11-07T08:27:02.808472+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -435,6 +435,30 @@
       },
       "show_count": 58,
       "sha256_16": "d219e78612f75f1b"
+    },
+    {
+      "venue_id": "polarishall",
+      "file": "polarishall/shows.json",
+      "city": "Portland, OR",
+      "metro": "Portland",
+      "updated_at": "2026-11-07",
+      "fetched_at": "2026-11-07T00:25:04",
+      "oldest_show_date": "2026-11-07",
+      "value_domains": {
+        "event_type": [
+          "music",
+          "comedy"
+        ],
+        "ticket_status": [
+          "on sale",
+          "sold out"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 57,
+      "sha256_16": "19e1e83db8ac5cec"
     },
     {
       "venue_id": "regency",

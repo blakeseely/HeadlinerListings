@@ -1,0 +1,2266 @@
+{
+  "venue": "Polaris Hall",
+  "venue_id": "polarishall",
+  "venue_url": "https://polarishall.com/",
+  "source_url": "https://polarishall.com/",
+  "city": "Portland, OR",
+  "metro": "Portland",
+  "neighborhood": "St. Johns",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-07",
+  "count": 57,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Shamanic Sound Healing",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/3igPdppNzEJyGES2ZG4MOf",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Shamanic Healing",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "a Portal Experience",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "10:15 am",
+      "show_time": "11:00 am",
+      "ticket_link": "https://www.etix.com/ticket/p/47843621",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pedro the Lion (Night 1)",
+          "apple_music": "https://music.apple.com/us/artist/pedro-the-lion/3087997",
+          "spotify": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr",
+          "confidence": 1.0,
+          "matched": "Pedro the Lion",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Earlimart",
+          "apple_music": "https://music.apple.com/us/artist/earlimart/2455278",
+          "spotify": "https://open.spotify.com/artist/4U5dJPiHBoGjq6GGtth4TF",
+          "confidence": 1.0,
+          "matched": "Earlimart",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47201881",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pedro the Lion (Night 2)",
+          "apple_music": "https://music.apple.com/us/artist/pedro-the-lion/3087997",
+          "spotify": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr",
+          "confidence": 1.0,
+          "matched": "Pedro the Lion",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Earlimart",
+          "apple_music": "https://music.apple.com/us/artist/earlimart/2455278",
+          "spotify": "https://open.spotify.com/artist/4U5dJPiHBoGjq6GGtth4TF",
+          "confidence": 1.0,
+          "matched": "Earlimart",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/81027746",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "James Ivy",
+          "apple_music": "https://music.apple.com/us/artist/james-ivy/1361383211",
+          "spotify": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ",
+          "confidence": 1.0,
+          "matched": "James Ivy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Harry Teardrop",
+          "apple_music": "https://music.apple.com/us/artist/harry-teardrop/1346480037",
+          "spotify": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV",
+          "confidence": 1.0,
+          "matched": "Harry Teardrop",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/73058347",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Craig Finn & The Band of Forgiveness",
+          "apple_music": "https://music.apple.com/us/artist/craig-finn/282243559",
+          "spotify": "https://open.spotify.com/artist/78DZaDfOK3i88eRVPkzZu2",
+          "confidence": 0.95,
+          "matched": "Craig Finn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/81091663",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Vansire",
+          "apple_music": "https://music.apple.com/us/artist/vansire/1039595626",
+          "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY",
+          "confidence": 1.0,
+          "matched": "Vansire",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ann Annie",
+          "apple_music": "https://music.apple.com/us/artist/ann-annie/959943810",
+          "spotify": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG",
+          "confidence": 1.0,
+          "matched": "Ann Annie",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/85298255",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Alex Cameron",
+          "apple_music": "https://music.apple.com/us/artist/alex-cameron/305609747",
+          "spotify": "https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG",
+          "confidence": 1.0,
+          "matched": "Alex Cameron",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Josh da Costa",
+          "apple_music": "https://music.apple.com/us/artist/josh-da-costa/1732335208",
+          "spotify": "https://open.spotify.com/artist/1tXtrQXExzdyrNptNQLeZk",
+          "confidence": 1.0,
+          "matched": "Josh da Costa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/59428735",
+      "ticket_status": "sold out",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "80s",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/38ylZWQc9kkWXXJTmZmOsp",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "90s New Wave/Alt Video Dance Attack",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Massive Attack @ 41%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "8:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55289076",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Stephen Day",
+          "apple_music": "https://music.apple.com/us/artist/stephen-day/1105545677",
+          "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5",
+          "confidence": 1.0,
+          "matched": "Stephen Day",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Elysia Biro",
+          "apple_music": "https://music.apple.com/us/artist/elysia-biro/1559427047",
+          "spotify": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L",
+          "confidence": 1.0,
+          "matched": "Elysia Biro",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Self Titled Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/84386206",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pretty Sick",
+          "apple_music": "https://music.apple.com/us/artist/pretty-sick/1347399810",
+          "spotify": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e",
+          "confidence": 1.0,
+          "matched": "Pretty Sick",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Computerwife",
+          "apple_music": "https://music.apple.com/us/artist/computerwife/1505813266",
+          "spotify": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ",
+          "confidence": 1.0,
+          "matched": "Computerwife",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/91855822",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The PIXIE Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sophie Cates",
+          "apple_music": "https://music.apple.com/us/artist/sophie-cates/1439656094",
+          "spotify": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2",
+          "confidence": 1.0,
+          "matched": "Sophie Cates",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Olivia O’Brien"
+      ],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55541535",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "WHITMER THOMAS",
+          "apple_music": "https://music.apple.com/us/artist/whitmer-thomas/1491347092",
+          "spotify": "https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1",
+          "confidence": 1.0,
+          "matched": "Whitmer Thomas",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "+with comedy from CLAY TATUM",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dry Bar Comedy @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41356454",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mattress 20",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/0YkTO6J7YkOB4pXwUd5Fh0",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Mattress",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Joe Von Appen",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Jorge Von Appen @ 70%)",
+          "spotify_label": "no confident match (closest: Joe Bonamassa @ 54%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Thrones",
+          "apple_music": "https://music.apple.com/us/artist/thrones/3195729",
+          "spotify": "https://open.spotify.com/artist/3HoyYECCSwK0Zl2C0xCOHU",
+          "confidence": 1.0,
+          "matched": "Thrones",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dragging An Ox Through Water",
+          "apple_music": "https://music.apple.com/us/artist/dragging-an-ox-through-water/337932388",
+          "spotify": "https://open.spotify.com/artist/55vx2X8Vu0bUHQX3pCc1A5",
+          "confidence": 1.0,
+          "matched": "Dragging an Ox through Water",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Black Shelton",
+          "apple_music": "https://music.apple.com/us/artist/black-shelton/1457604574",
+          "spotify": "https://open.spotify.com/artist/5GQjsgFJjvqKHOJZ6I9RZG",
+          "confidence": 1.0,
+          "matched": "Black Shelton",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "20 Years Of Mattress",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/91263217",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Teacher Show",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.333,
+          "matched": null,
+          "apple_label": "no confident match (closest: George Michael @ 33%)",
+          "spotify_label": "no confident match (closest: The Teaching @ 64%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Comedy from the Classroom (Night 1)",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/73273847",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Teacher Show",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.333,
+          "matched": null,
+          "apple_label": "no confident match (closest: George Michael @ 33%)",
+          "spotify_label": "no confident match (closest: The Teaching @ 64%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Comedy from the Classroom (Night 2)",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65038002",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mx. Dahlia Belle",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Merry Belle @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Affirmed (A Live Comedy Taping)",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-22",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/36347493",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Babe Haven",
+          "apple_music": "https://music.apple.com/us/artist/babe-haven/1598477704",
+          "spotify": "https://open.spotify.com/artist/0b0NRq58okVkvcHSGOzM4x",
+          "confidence": 1.0,
+          "matched": "Babe Haven",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Spaced",
+          "apple_music": "https://music.apple.com/us/artist/spaced/1578305972",
+          "spotify": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8",
+          "confidence": 1.0,
+          "matched": "SPACED",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Scarlet Demore",
+          "apple_music": "https://music.apple.com/us/artist/scarlet-demore/1476938393",
+          "spotify": "https://open.spotify.com/artist/6cO7GKXtnHxzX3prlNraDR",
+          "confidence": 1.0,
+          "matched": "Scarlet Demore",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/59224066",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Portland School III",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Portland State Chamber Choir @ 60%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Pyxis Quartet",
+          "apple_music": "https://music.apple.com/us/artist/pyxis-quartet/1689696274",
+          "spotify": null,
+          "confidence": 0.9,
+          "matched": "Pyxis Quartet",
+          "apple_label": "close match: Pyxis Quartet",
+          "spotify_label": "no confident match (closest: Ryder Quartet @ 60%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-24",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/36916561",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MOVED TO ALADDIN THEATER: Emma Ruth Rundle - THESE KILLING TIMES",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Killing Joke @ 24%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Cinder Well",
+          "apple_music": "https://music.apple.com/us/artist/cinder-well/1374833337",
+          "spotify": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV",
+          "confidence": 1.0,
+          "matched": "Cinder Well",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/94434785",
+      "ticket_status": "sold out",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sap",
+          "apple_music": "https://music.apple.com/us/artist/sap/1664601993",
+          "spotify": "https://open.spotify.com/artist/7jFNUgx7zjFGb1Cbe1UKCi",
+          "confidence": 1.0,
+          "matched": "Sap",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sludge Mother",
+          "apple_music": "https://music.apple.com/us/artist/sludge-mother/1762121311",
+          "spotify": "https://open.spotify.com/artist/4z2Ca5a6IR3ZLMEgMVRTjH",
+          "confidence": 1.0,
+          "matched": "Sludge Mother",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Jewelry",
+          "apple_music": "https://books.apple.com/us/artist/the-jewelry/1644555073",
+          "spotify": "https://open.spotify.com/artist/6AOYNbPVGxfTbYvYXjnqso",
+          "confidence": 1.0,
+          "matched": "The Jewelry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/90939965",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "THE KILANS",
+          "apple_music": "https://music.apple.com/us/artist/the-kilans/1724909321",
+          "spotify": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt",
+          "confidence": 1.0,
+          "matched": "The Kilans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Margot Sinclair",
+          "apple_music": "https://music.apple.com/us/artist/margot-sinclair/1698058667",
+          "spotify": "https://open.spotify.com/artist/7gWwQF3iKBH4GH5yAg7SIz",
+          "confidence": 1.0,
+          "matched": "Margot Sinclair",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "COULD YOU KEEP IT DARK? TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/90086202",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Thoughts on Bowling",
+          "apple_music": "https://music.apple.com/us/artist/thoughts-on-bowling/1768678540",
+          "spotify": "https://open.spotify.com/artist/2uYZl0JqofhYv9Nma8LVUw",
+          "confidence": 1.0,
+          "matched": "Thoughts on Bowling",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Softly",
+          "apple_music": "https://music.apple.com/us/artist/softly/1770195619",
+          "spotify": "https://open.spotify.com/artist/1asVFyNIt8ILBV7Ae4Cjk8",
+          "confidence": 1.0,
+          "matched": "Softly",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "HummusVacuum",
+          "apple_music": "https://music.apple.com/us/artist/hummusvacuum/1621168903",
+          "spotify": "https://open.spotify.com/artist/2wSIgoUvKlJyVQmBK88PQO",
+          "confidence": 1.0,
+          "matched": "HummusVacuum",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "MooseCreek Park",
+          "apple_music": "https://music.apple.com/us/artist/moosecreek-park/1617146923",
+          "spotify": "https://open.spotify.com/artist/0fDkJta7XRi6eDBgLDRP4f",
+          "confidence": 1.0,
+          "matched": "MooseCreek Park",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/64205006",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fat",
+          "apple_music": "https://music.apple.com/us/artist/fat-nwigwe/1567243656",
+          "spotify": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov",
+          "confidence": 0.95,
+          "matched": "Fat Nwigwe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Evil Children",
+          "apple_music": "https://music.apple.com/us/artist/fat-evil-children/1716164786",
+          "spotify": "https://open.spotify.com/artist/6m207mDPCrde3IiOjJpuJg",
+          "confidence": 0.8,
+          "matched": "Fat, Evil Children",
+          "apple_label": "close match: Fat, Evil Children",
+          "spotify_label": "close match: Fat, Evil Children",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Blaize Jenkins",
+          "apple_music": "https://music.apple.com/us/artist/blaize-jenkins/1463439016",
+          "spotify": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn",
+          "confidence": 1.0,
+          "matched": "Blaize Jenkins",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/61233706",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "HARBOUR",
+          "apple_music": "https://music.apple.com/us/artist/harbour/274378426",
+          "spotify": "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO",
+          "confidence": 1.0,
+          "matched": "HARBOUR",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Silkies",
+          "apple_music": "https://music.apple.com/us/artist/the-silkies/534639733",
+          "spotify": "https://open.spotify.com/artist/1aombEPpQvi0zy5h7etuac",
+          "confidence": 1.0,
+          "matched": "The Silkies",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47408418",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "WHY?",
+          "apple_music": "https://music.apple.com/us/artist/why/5524452",
+          "spotify": "https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH",
+          "confidence": 1.0,
+          "matched": "WHY?",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Kitty Ray",
+          "apple_music": "https://music.apple.com/us/artist/kitty-ray/1769106531",
+          "spotify": "https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV",
+          "confidence": 1.0,
+          "matched": "kitty ray",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/38655516",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Alison's Halo",
+          "apple_music": "https://music.apple.com/us/artist/alisons-halo/261000869",
+          "spotify": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg",
+          "confidence": 1.0,
+          "matched": "Alison's Halo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Cathedral Bells",
+          "apple_music": "https://music.apple.com/us/artist/cathedral-bells/1421689365",
+          "spotify": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2",
+          "confidence": 1.0,
+          "matched": "Cathedral Bells",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/50221107",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bryan Andrews",
+          "apple_music": "https://music.apple.com/us/artist/bryan-andrews/263806442",
+          "spotify": "https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB",
+          "confidence": 1.0,
+          "matched": "Bryan Andrews",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lou Ridley",
+          "apple_music": "https://music.apple.com/us/artist/lou-ridley/1313339287",
+          "spotify": "https://open.spotify.com/artist/67GbNlaClUAmqMkGHhkAl4",
+          "confidence": 1.0,
+          "matched": "Lou Ridley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/70407603",
+      "ticket_status": "sold out",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Duke Of Cello",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: The Duke Of Welli @ 70%)",
+          "spotify_label": "no confident match (closest: 2CELLOS @ 42%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/82870240",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mason Jennings",
+          "apple_music": "https://music.apple.com/us/artist/mason-jennings/7376123",
+          "spotify": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo",
+          "confidence": 1.0,
+          "matched": "Mason Jennings",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Anna Diem",
+          "apple_music": "https://music.apple.com/us/artist/anna-diem/1086711372",
+          "spotify": "https://open.spotify.com/artist/61wmcUfJuzR8tthXXQXVqA",
+          "confidence": 1.0,
+          "matched": "Anna Diem",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/97950899",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Robber Robber",
+          "apple_music": "https://music.apple.com/us/artist/robber-robber/1581686860",
+          "spotify": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM",
+          "confidence": 1.0,
+          "matched": "Robber Robber",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "bloodsports",
+          "apple_music": "https://music.apple.com/us/artist/bloodsports/1645896487",
+          "spotify": "https://open.spotify.com/artist/6HqDHzNgjf9fIXCVlQzEGS",
+          "confidence": 1.0,
+          "matched": "bloodsports",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71876197",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ruby Haunt",
+          "apple_music": "https://music.apple.com/us/artist/ruby-haunt/1138827311",
+          "spotify": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5",
+          "confidence": 1.0,
+          "matched": "Ruby Haunt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "VHS Ghost",
+          "apple_music": "https://music.apple.com/us/artist/vhs-ghost/1551276585",
+          "spotify": "https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl",
+          "confidence": 1.0,
+          "matched": "vhs ghost",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/42616781",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Graham Hunt / 9Million",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Graham Barham @ 51%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Amulets",
+          "apple_music": "https://music.apple.com/us/artist/amulets/1056627238",
+          "spotify": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt",
+          "confidence": 1.0,
+          "matched": "Amulets",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/44720856",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Home For The Holidays",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/2A4YAeUVDUcyOZ0GPTL3WF",
+          "confidence": 0.457,
+          "matched": null,
+          "apple_label": "no confident match (closest: The Beach Boys @ 46%)",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/87684712",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Grass",
+          "apple_music": "https://music.apple.com/us/artist/grass/1599316048",
+          "spotify": "https://open.spotify.com/artist/0razZwrEBUw3dXGrlfbGbb",
+          "confidence": 1.0,
+          "matched": "Grass",
+          "apple_label": null,
+          "spotify_label": "close match: The Grass Museum",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Class featuring Band of Comerados",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Classic Crime @ 40%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49320816",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "New Year's Eve",
+          "apple_music": "https://music.apple.com/us/artist/the-new-years-eve/1667651934",
+          "spotify": "https://open.spotify.com/artist/4IQdZ4PddAua2xMDdhnLW5",
+          "confidence": 0.9,
+          "matched": "The New Year's Eve",
+          "apple_label": "close match: The New Year's Eve",
+          "spotify_label": "close match: New Year's Eve Playlist",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "DJ Anjali and The Incredible Kid",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.316,
+          "matched": null,
+          "apple_label": "no confident match (closest: Anjali @ 32%)",
+          "spotify_label": "no confident match (closest: DJ incredible @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49920507",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Swirlies",
+          "apple_music": "https://music.apple.com/us/artist/swirlies/205714775",
+          "spotify": "https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D",
+          "confidence": 1.0,
+          "matched": "Swirlies",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Seko",
+          "apple_music": "https://music.apple.com/us/artist/seko/1771342122",
+          "spotify": "https://open.spotify.com/artist/5OxOS7Emweje69KG7yPz8M",
+          "confidence": 1.0,
+          "matched": "Seko",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/68494828",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Magic Of 7",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.455,
+          "matched": null,
+          "apple_label": "no confident match (closest: The 1975 @ 46%)",
+          "spotify_label": "no confident match (closest: The Magic Of Nomads @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-19",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/83449465",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "apple_music": "https://music.apple.com/us/artist/tara-clerkin-trio/1496979363",
+          "spotify": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F",
+          "confidence": 1.0,
+          "matched": "Tara Clerkin Trio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/35763427",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Angela Autumn",
+          "apple_music": "https://music.apple.com/us/artist/angela-autumn/1448004359",
+          "spotify": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ",
+          "confidence": 1.0,
+          "matched": "Angela Autumn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/79070971",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "galdive & rum.gold",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A Friend Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49234574",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Aubory Bugg",
+          "apple_music": "https://music.apple.com/us/artist/aubory-bugg/1679692459",
+          "spotify": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U",
+          "confidence": 1.0,
+          "matched": "Aubory Bugg",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/80560698",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bold Voices",
+          "apple_music": "https://music.apple.com/us/artist/bold-voices/6774794688",
+          "spotify": "https://open.spotify.com/artist/6qziVllNoxZbetODXbim0E",
+          "confidence": 1.0,
+          "matched": "Bold Voices",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Alberga & Beethoven",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-16",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/72924617",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "@",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Wendy Eisenberg",
+          "apple_music": "https://music.apple.com/us/artist/wendy-eisenberg/1140547966",
+          "spotify": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi",
+          "confidence": 1.0,
+          "matched": "Wendy Eisenberg",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/59168154",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Powerplant",
+          "apple_music": "https://music.apple.com/us/artist/powerplant/1434185281",
+          "spotify": "https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx",
+          "confidence": 1.0,
+          "matched": "Powerplant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Faze",
+          "apple_music": "https://music.apple.com/us/artist/faze/1466071642",
+          "spotify": "https://open.spotify.com/artist/5JV9mEqpwVT7biLaRQEjZ3",
+          "confidence": 1.0,
+          "matched": "Faze",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49245439",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "HOT FREAKS",
+          "apple_music": "https://music.apple.com/us/artist/hot-freaks/475970550",
+          "spotify": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9",
+          "confidence": 1.0,
+          "matched": "Hot Freaks",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "SOFT BODY TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/79230493",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Claud and the Live Music",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1",
+          "confidence": 0.5,
+          "matched": null,
+          "apple_label": "no confident match (closest: Christine and the Queens @ 50%)",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47231395",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brooke Alexx",
+          "apple_music": "https://music.apple.com/us/artist/brooke-alexx/870557676",
+          "spotify": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7",
+          "confidence": 1.0,
+          "matched": "Brooke Alexx",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dream Girl Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65853898",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Christian Kuria",
+          "apple_music": "https://music.apple.com/us/artist/christian-kuria/1153133878",
+          "spotify": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG",
+          "confidence": 1.0,
+          "matched": "Christian Kuria",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "EAST TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/89304668",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Luke Kidgell",
+          "apple_music": "https://music.apple.com/us/artist/luke-kidgell/1744983825",
+          "spotify": "https://open.spotify.com/artist/01UbYa6dKE9uCk7RAq33tx",
+          "confidence": 1.0,
+          "matched": "Luke Kidgell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/42812493",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Charlotte Adigéry & Bolis Pupul",
+          "apple_music": "https://music.apple.com/us/artist/charlotte-adig%C3%A9ry/637953219",
+          "spotify": "https://open.spotify.com/artist/47eFeXYThmTYYbOSuQIS2x",
+          "confidence": 0.95,
+          "matched": "Charlotte Adigéry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Mainland Madinina",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/44819323",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Games We Play – \"I Wish I Never Quit\" US Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Games We Play @ 70%)",
+          "spotify_label": "no confident match (closest: Games We Play @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bears in Trees",
+          "apple_music": "https://music.apple.com/us/artist/bears-in-trees/1259787420",
+          "spotify": "https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2",
+          "confidence": 1.0,
+          "matched": "Bears in Trees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/62479117",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rikas North America 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Silas Northwind @ 51%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/46754874",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Worldpeace DMT",
+          "apple_music": "https://music.apple.com/us/artist/worldpeace-dmt/1769361394",
+          "spotify": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV",
+          "confidence": 1.0,
+          "matched": "Worldpeace DMT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-31",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/92282133",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Valencia Grace",
+          "apple_music": "https://music.apple.com/us/artist/valencia-grace/1532649578",
+          "spotify": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A",
+          "confidence": 1.0,
+          "matched": "Valencia Grace",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/83463584",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "KOO KOO",
+          "apple_music": "https://music.apple.com/us/artist/koo-koo/381459658",
+          "spotify": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb",
+          "confidence": 1.0,
+          "matched": "Koo Koo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-17",
+      "doors": "12:00 pm",
+      "show_time": "1:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71453109",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Coming Together",
+          "apple_music": "https://music.apple.com/us/artist/coming-together/387464386",
+          "spotify": "https://open.spotify.com/artist/2eCM71UY6hKfwgNNrTq4Qg",
+          "confidence": 1.0,
+          "matched": "Coming Together",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-20",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/87453810",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jealousy To Collaboration",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mori Calliope @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-17",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55187444",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 54,
+      "comedy": 3,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 95,
+      "found": 72,
+      "exact": 66,
+      "close": 3,
+      "flagged": 3,
+      "not_found": 23
+    },
+    "spotify": {
+      "unique_artists": 95,
+      "linked": 77,
+      "venue": 0,
+      "api": 77,
+      "feed": 0,
+      "shows_with_link": 49
+    }
+  }
+}
