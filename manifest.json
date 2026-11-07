@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:56:07.290205+00:00",
+  "generated_at": "2026-11-07T07:53:37.363785+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -301,6 +301,32 @@
       },
       "show_count": 3,
       "sha256_16": "0745d7f2866fe635"
+    },
+    {
+      "venue_id": "holocene",
+      "file": "holocene/shows.json",
+      "city": "Portland, OR",
+      "metro": "Portland",
+      "updated_at": "2026-11-06",
+      "fetched_at": "2026-11-06T23:47:53",
+      "oldest_show_date": "2026-11-06",
+      "value_domains": {
+        "event_type": [
+          "other",
+          "music",
+          "comedy"
+        ],
+        "ticket_status": [
+          "at the door",
+          "on sale",
+          "sold out"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 48,
+      "sha256_16": "db0146e6c0c66e1c"
     },
     {
       "venue_id": "humphreys",

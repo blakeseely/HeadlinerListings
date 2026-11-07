@@ -1,0 +1,1742 @@
+{
+  "venue": "Holocene",
+  "venue_id": "holocene",
+  "venue_url": "https://www.holocene.org/",
+  "source_url": "https://www.holocene.org/events",
+  "city": "Portland, OR",
+  "metro": "Portland",
+  "neighborhood": "Buckman",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-06",
+  "count": 48,
+  "shows": [
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Emo Nite at Holocene presented by Emo Nite LA",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-06",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": null,
+      "ticket_status": "at the door",
+      "event_page": "https://www.holocene.org/events/2026-11-06-emo-nite-at-holocene-presented-by-emo-nite-la-21-event",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "REGGAETON Y 2000s (Perreo Classics + Y2K Bangers All Night!)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: 2000 @ 38%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": null,
+      "show_time": "10:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/36430316/reggaeton-y-2000s-perreo-classics-y2k-bangers-all-night-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-07-reggaeton-y-2000s-perreo-classics-y2k-bangers-all-night",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RHYTHM IS A DANCER: An early evening 90s Dance Party hosted by SNAP!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Ultra Naté @ 15%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": null,
+      "show_time": "5:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/51248619/rhythm-is-a-dancer-an-early-evening-90s-dance-party-hosted-by-snap-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-07-rhythm-is-a-dancer-an-early-evening-90s-dance-party-hosted-by-snap",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "AZ CHIKE",
+          "apple_music": "https://music.apple.com/us/artist/az-chike/1252865921",
+          "spotify": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw",
+          "confidence": 1.0,
+          "matched": "AZ Chike",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "DJ Scout",
+          "apple_music": "https://music.apple.com/us/artist/dj-scout/1714853090",
+          "spotify": "https://open.spotify.com/artist/71S5oT5DuJS0CKM4f1d1XY",
+          "confidence": 1.0,
+          "matched": "DJ SCOUT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Holocene presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/35344614/sold-out-az-chike-w-dj-scout-21-portland-holocene?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://www.holocene.org/events/2026-11-08-sold-out-az-chike-w-dj-scout",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jake Minch",
+          "apple_music": "https://music.apple.com/us/artist/jake-minch/1524217026",
+          "spotify": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC",
+          "confidence": 1.0,
+          "matched": "Jake Minch",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Alix Page",
+          "apple_music": "https://music.apple.com/us/artist/alix-page/1498941774",
+          "spotify": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ",
+          "confidence": 1.0,
+          "matched": "Alix Page",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Getting Big Tour",
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/34683824/jake-minch-getting-big-tour-w-alix-page-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-09-jake-minch-getting-big-tour-w-alix-page",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sassy 009",
+          "apple_music": "https://music.apple.com/us/artist/sassy-009/1277035471",
+          "spotify": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L",
+          "confidence": 1.0,
+          "matched": "Sassy 009",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Madi Gaines",
+          "apple_music": "https://music.apple.com/us/artist/madi-gaines/1754480400",
+          "spotify": "https://open.spotify.com/artist/2rHElo6MDBlUF0WzOlGrfF",
+          "confidence": 1.0,
+          "matched": "Madi Gaines",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Holocene presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-10",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71890164/sassy-009-w-madi-gaines-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-10-sassy-009-w-madi-gaines",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BIEBER AND A BEAT: A JUSTIN BIEBER NIGHT",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Justin Bieber @ 70%)",
+          "spotify_label": "no confident match (closest: J BIEBER @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "What The Dance Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": null,
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/54508584/bieber-and-a-beat-a-justin-bieber-night-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-11-bieber-and-a-beat-a-justin-bieber-night",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CITY POP! Japanese Boogie, J-jazz, & New Wave Night",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.159,
+          "matched": null,
+          "apple_label": "no confident match (closest: Cyndi Lauper @ 16%)",
+          "spotify_label": "no confident match (closest: Night Tempo @ 16%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "SEASIDE.FM + JOE BALL",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Joe Ball @ 70%)",
+          "spotify_label": "no confident match (closest: Joe Bataan @ 39%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "w/ special guest Reiko Takahashi!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/92594434/city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-w-special-guest-reiko-takahashi-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-12-city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-w-special-g",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Share Your Joy: Arts for Learning NW Celebration",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Learning Station @ 50%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Early event!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": null,
+      "show_time": "4:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/63241655/share-your-joy-arts-for-learning-nw-celebration-early-event-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-12-share-your-joy-arts-for-learning-nw-celebration-early-event",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Party Girl",
+          "apple_music": "https://music.apple.com/us/artist/party-girl/296263828",
+          "spotify": "https://open.spotify.com/artist/4S0EgUnEI7PY2pRaeavIPx",
+          "confidence": 1.0,
+          "matched": "Party Girl",
+          "apple_label": null,
+          "spotify_label": "close match: PartyGirl",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A Night Of Party Girl Anthems",
+      "presenters": [
+        "presented by Lights and Music"
+      ],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/66131609/party-girl-a-night-of-party-girl-anthems-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-13-party-girl-a-night-of-party-girl-anthems",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "[BOO’D UP] THA RNB NITE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Nitepunk @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/63626014/boo-d-up-tha-rnb-nite-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-14-boo-d-up-tha-rnb-nite",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Peach Tree Rascals: The Shine4ya Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Peach Tree Rascals @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Michael Sneed",
+          "apple_music": "https://music.apple.com/us/artist/michael-sneed/214823634",
+          "spotify": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl",
+          "confidence": 1.0,
+          "matched": "Michael Sneed",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "EARLY SHOW!",
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/53566247/peach-tree-rascals-the-shine4ya-tour-w-michael-sneed-early-show-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-14-peach-tree-rascals-the-shine4ya-tour-w-michael-sneed-early-show",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fleetmac Wood present Chiffon Frenzy (Day Party!)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Static Orchard @ 37%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": null,
+      "show_time": "3:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41763162/fleetmac-wood-present-chiffon-frenzy-day-party-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-15-fleetmac-wood-present-chiffon-frenzy-day-party",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Silvertongue // Bikini Drone // AUROCHS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: silver seraph @ 38%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/91536533/silvertongue-bikini-drone-aurochs-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-18-silvertongue-bikini-drone-aurochs",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amtrac @ PROCESS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Amtrac @ 55%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene & Spend the Night present"
+      ],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/93499436/amtrac-process-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-19-amtrac-process",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SCHROTTHAGEN: NEW WORLD TOUR 2026",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Schrotthagen @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/90331569/schrotthagen-new-world-tour-2026-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-19-schrotthagen-new-world-tour-2026",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SORRY FOR PARTY ROCKING: (2010-2015 Pop & EDM All Night Long!)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: GoonRock @ 38%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45721552/sorry-for-party-rocking-2010-2015-pop-edm-all-night-long-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-20-sorry-for-party-rocking-2010-2015-pop-edm-all-night-long",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Laffy Taffy Presents: Twerky Twerky Twerky (A Friendsgiving Function)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Laffy taffy @ 70%)",
+          "spotify_label": "no confident match (closest: MAF Teeski @ 27%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/80717807/laffy-taffy-presents-twerky-twerky-twerky-a-friendsgiving-function-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-21-laffy-taffy-presents-twerky-twerky-twerky-a-friendsgiving-function",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Spanish Love Songs",
+          "apple_music": "https://music.apple.com/us/artist/spanish-love-songs/982837028",
+          "spotify": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV",
+          "confidence": 1.0,
+          "matched": "Spanish Love Songs",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Cost of Living Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-24",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/50070290/spanish-love-songs-the-cost-of-living-tour-portland-holocene?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://www.holocene.org/events/2026-11-24-spanish-love-songs-the-cost-of-living-tour",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FLASH TRASH: An Electro Dance Party feat. guest DJ set by UFFIE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Flux Pavilion @ 16%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "What The Dance Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/86481210/flash-trash-an-electro-dance-party-feat-guest-dj-set-by-uffie-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-25-flash-trash-an-electro-dance-party-feat-guest-dj-set-by-uffie",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SNAP! '90s Dance Party!: '90s Thanksgiving Edition",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: SNAP! @ 18%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/62961141/snap-90s-dance-party-90s-thanksgiving-edition-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-27-snap-90s-dance-party-90s-thanksgiving-edition",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "VROOM VROOM: A Charli XCX Dance Night ft: DJ sets by Mr. Harry & PLUS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Charli xcx @ 70%)",
+          "spotify_label": "no confident match (closest: Charli xcx @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/52584430/vroom-vroom-a-charli-xcx-dance-night-ft-dj-sets-by-mr-harry-plus-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-28-vroom-vroom-a-charli-xcx-dance-night-ft-dj-sets-by-mr-harry-plus",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Chai & Roses: Disco Tea Dance Party for QTBIPOC & Allies",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Christoph Andersson @ 32%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-29",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/40974314/chai-roses-disco-tea-dance-party-for-qtbipoc-allies-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-11-29-chai-roses-disco-tea-dance-party-for-qtbipoc-allies",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tommy Fleece: Live. Loud. Ultrasonic. Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Tommy Fleece @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Reserv",
+          "apple_music": "https://music.apple.com/us/artist/reserv/1522172777",
+          "spotify": "https://open.spotify.com/artist/2TirMwFqYsNDTIOURZb9LS",
+          "confidence": 1.0,
+          "matched": "Reserv",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Minty Boi Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/59598144/tommy-fleece-live-loud-ultrasonic-tour-w-reserv-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-02-tommy-fleece-live-loud-ultrasonic-tour-w-reserv",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Una Noche De Bienestar ft. Barrio Mestizo",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Barreto El Show @ 32%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/52044054/una-noche-de-bienestar-ft-barrio-mestizo-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-03-una-noche-de-bienestar-ft-barrio-mestizo",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Renee Christine",
+          "apple_music": "https://music.apple.com/us/artist/renee-christine/1765597045",
+          "spotify": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2",
+          "confidence": 1.0,
+          "matched": "Renee Christine",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Katy",
+          "apple_music": "https://music.apple.com/us/artist/katy-perry/64387566",
+          "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X",
+          "confidence": 0.95,
+          "matched": "Katy Perry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "the Null Sets",
+          "apple_music": "https://music.apple.com/us/artist/katy-the-null-sets/1173894554",
+          "spotify": "https://open.spotify.com/artist/5DfpYV9ixO09DJohlRlqth",
+          "confidence": 0.8,
+          "matched": "Katy & the Null Sets",
+          "apple_label": "close match: Katy & the Null Sets",
+          "spotify_label": "close match: The Null Spectre",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "EARLY SHOW!",
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/66675165/renee-christine-w-katy-and-the-null-sets-early-show-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-04-renee-christine-w-katy-and-the-null-sets-early-show",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "apple_music": "https://music.apple.com/us/artist/jeremiah-chiu/1358466444",
+          "spotify": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa",
+          "confidence": 1.0,
+          "matched": "Jeremiah Chiu",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Omari Jazz",
+          "apple_music": "https://music.apple.com/us/artist/omari-jazz/606163083",
+          "spotify": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT",
+          "confidence": 1.0,
+          "matched": "Omari Jazz",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "DJ Cuica",
+          "apple_music": "https://music.apple.com/us/artist/dj-cuca/118716070",
+          "spotify": "https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe",
+          "confidence": 0.933,
+          "matched": "Dj Cuca",
+          "apple_label": "close match: Dj Cuca",
+          "spotify_label": "close match: DJ Unic",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Holocene and CMG Present"
+      ],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/46707871/jeremiah-chiu-w-omari-jazz-dj-cuica-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-06-jeremiah-chiu-w-omari-jazz-dj-cuica",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Father Of Peace",
+          "apple_music": "https://music.apple.com/us/artist/father-of-peace/1747590941",
+          "spotify": "https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO",
+          "confidence": 1.0,
+          "matched": "Father Of Peace",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Year Of Madness & The Mystery Century Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/43232147/father-of-peace-the-year-of-madness-the-mystery-century-tour-portland-holocene?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://www.holocene.org/events/2026-12-07-father-of-peace-the-year-of-madness-the-mystery-century-tour",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Salo // Psychic Guilt // Mourning Service",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Psychic Ills @ 42%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/83125422/salo-psychic-guilt-mourning-service-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-09-salo-psychic-guilt-mourning-service",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "daine",
+          "apple_music": "https://music.apple.com/us/artist/daine/1512838237",
+          "spotify": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG",
+          "confidence": 1.0,
+          "matched": "daine",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Eilish Constance",
+          "apple_music": "https://music.apple.com/us/artist/eilish-constance/1744811230",
+          "spotify": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj",
+          "confidence": 1.0,
+          "matched": "Eilish Constance",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Holocene and mr. harry Present"
+      ],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/90460512/sold-out-daine-w-eilish-constance-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://www.holocene.org/events/2026-12-10-sold-out-daine-w-eilish-constance",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Candi Pop Christmas Party: A Girly Pop Dance Party",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Candy Christmas @ 43%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "presented by Lights and Music"
+      ],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/78551275/candi-pop-christmas-party-a-girly-pop-dance-party-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-11-candi-pop-christmas-party-a-girly-pop-dance-party",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Josie Edwards",
+          "apple_music": "https://music.apple.com/us/artist/josie-edwards/1750143054",
+          "spotify": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq",
+          "confidence": 1.0,
+          "matched": "Josie Edwards",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65149336/josie-edwards-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-13-josie-edwards",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Moth StorySLAM: ANYTHING GOES",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Sam Haft @ 29%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/57391778/the-moth-storyslam-anything-goes-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-14-the-moth-storyslam-anything-goes",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucky Star (album release show) // Grolixes // Big Top",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Lullabelle Starlight @ 42%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41109343/lucky-star-album-release-show-grolixes-big-top-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-16-lucky-star-album-release-show-grolixes-big-top",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gothmas: Constant Debauchery (Depeche Mode), Kiss Me Kiss Me Kiss Me (The Cure), Precious Machinery (Siouxsie and the Banshees)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Siouxsie and the Banshees @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45458927/gothmas-constant-debauchery-depeche-mode-kiss-me-kiss-me-kiss-me-the-cure-precious-machinery-siouxsie-and-the-banshees-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-20-gothmas-constant-debauchery-depeche-mode-kiss-me-kiss-me-kiss-me-the-cure-precio",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Hugs // Brites // Tradie",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Cheaks @ 32%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/57344181/the-hugs-brites-tradie-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-03-the-hugs-brites-tradie",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT 🐰",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Slayyyter @ 58%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "What The Dance Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/53208442/club-slayyy-slayyyter-hyperpop-night-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-14-club-slayyy-slayyyter-hyperpop-night",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dungeons & Drag Queens",
+          "apple_music": "https://music.apple.com/us/artist/dungeons-drag-queens/260922829",
+          "spotify": "https://open.spotify.com/artist/6mCs8iYN2TXIU2pLcA9nvE",
+          "confidence": 1.0,
+          "matched": "Dungeons & Drag Queens",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "EARLY SHOW!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/40491785/dungeons-drag-queens-early-show-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-23-dungeons-drag-queens-early-show",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Madds Buckley 2026/2027 North American Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Madds Buckley @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Sparkbird",
+          "apple_music": "https://music.apple.com/us/artist/sparkbird/1544613449",
+          "spotify": "https://open.spotify.com/artist/5DZZ6l0y3YgzotE100iJSO",
+          "confidence": 1.0,
+          "matched": "Sparkbird",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/44368005/madds-buckley-2026-2027-north-american-tour-w-sparkbird-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-28-madds-buckley-2026-2027-north-american-tour-w-sparkbird",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Romare (live)",
+          "apple_music": "https://music.apple.com/us/artist/romare/504834916",
+          "spotify": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo",
+          "confidence": 1.0,
+          "matched": "Romare",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene and Spend the Night Present"
+      ],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/34393956/romare-live-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-04-romare-live",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Spend The Night Presents: Jacques Greene",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Jacques Greene @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "jg album tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45782678/spend-the-night-presents-jacques-greene-jg-album-tour-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-13-spend-the-night-presents-jacques-greene-jg-album-tour",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sylvie",
+          "apple_music": "https://music.apple.com/us/artist/sylvie/1577984863",
+          "spotify": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ",
+          "confidence": 1.0,
+          "matched": "Sylvie",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41621050/sylvie-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-21-sylvie",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sam Gendel + Sam Wilkes",
+          "apple_music": "https://music.apple.com/us/artist/sam-gendel/1300818661",
+          "spotify": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk",
+          "confidence": 1.0,
+          "matched": "Sam Gendel",
+          "apple_label": "compound bill — links to Sam Gendel only",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55502710/sam-gendel-sam-wilkes-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-03-06-sam-gendel-sam-wilkes",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bo Staloch",
+          "apple_music": "https://music.apple.com/us/artist/bo-staloch/1698048247",
+          "spotify": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh",
+          "confidence": 1.0,
+          "matched": "Bo Staloch",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The 'Too Big, Too Big’ Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/38131370/bo-staloch-the-too-big-too-big-tour-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-03-16-bo-staloch-the-too-big-too-big-tour",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "sophia stel: the greatest tour of all time",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Sophia Stel @ 70%)",
+          "spotify_label": "no confident match (closest: Sophia Stel @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene and mr. harry Present"
+      ],
+      "set_format": null,
+      "date": "2027-03-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/70319745/sophia-stel-the-greatest-tour-of-all-time-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://www.holocene.org/events/2027-03-18-sophia-stel-the-greatest-tour-of-all-time",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Helena Deland",
+          "apple_music": "https://music.apple.com/us/artist/helena-deland/961746386",
+          "spotify": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0",
+          "confidence": 1.0,
+          "matched": "Helena Deland",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "EARLY SHOW!",
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-20",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/62171577/helena-deland-early-show-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-03-20-helena-deland-early-show",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jack & Jack",
+          "apple_music": "https://music.apple.com/us/artist/jack-jack/944171951",
+          "spotify": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq",
+          "confidence": 1.0,
+          "matched": "Jack & Jack",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/61640364/jack-jack-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-04-11-jack-jack",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Terrian: Mad Big World Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Terrian @ 41%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/95443127/terrian-mad-big-world-tour-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-05-04-terrian-mad-big-world-tour",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 44,
+      "comedy": 1,
+      "film": 0,
+      "other": 3
+    },
+    "apple_music": {
+      "unique_artists": 60,
+      "found": 28,
+      "exact": 24,
+      "close": 1,
+      "flagged": 3,
+      "not_found": 32
+    },
+    "spotify": {
+      "unique_artists": 60,
+      "linked": 29,
+      "venue": 0,
+      "api": 29,
+      "feed": 0,
+      "shows_with_link": 21
+    }
+  }
+}
