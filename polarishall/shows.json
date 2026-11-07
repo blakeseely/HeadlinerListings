@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-07",
-  "count": 57,
+  "count": 56,
   "shows": [
     {
       "event_type": "music",
@@ -774,48 +774,6 @@
       "show_time": "7:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/36916561",
       "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "MOVED TO ALADDIN THEATER: Emma Ruth Rundle - THESE KILLING TIMES",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Killing Joke @ 24%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cinder Well",
-          "apple_music": "https://music.apple.com/us/artist/cinder-well/1374833337",
-          "spotify": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV",
-          "confidence": 1.0,
-          "matched": "Cinder Well",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/94434785",
-      "ticket_status": "sold out",
       "event_page": null,
       "room": null,
       "age_rating": null,
@@ -2241,26 +2199,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 95,
-      "found": 72,
-      "exact": 66,
+      "unique_artists": 93,
+      "found": 71,
+      "exact": 65,
       "close": 3,
       "flagged": 3,
-      "not_found": 23
+      "not_found": 22
     },
     "spotify": {
-      "unique_artists": 95,
-      "linked": 77,
+      "unique_artists": 93,
+      "linked": 76,
       "venue": 0,
-      "api": 77,
+      "api": 76,
       "feed": 0,
-      "shows_with_link": 49
+      "shows_with_link": 48
     }
   }
 }
