@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-07",
-  "count": 123,
+  "count": 130,
   "shows": [
     {
       "event_type": "other",
@@ -190,6 +190,37 @@
       "event_page": "https://www.stgpresents.org/events/isaiah-rashad/",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Not For Radio",
+          "apple_music": "https://music.apple.com/us/artist/not-for-radio/1834193679",
+          "spotify": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT",
+          "confidence": 1.0,
+          "matched": "Not For Radio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A Summer In The Forest: North America Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/not-for-radio-2026/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/not-for-radio-2026/",
+      "room": null,
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -433,6 +464,68 @@
       "date": "2026-11-20",
       "doors": null,
       "show_time": "10:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/josh-johnsons-comedy-band-camp/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/josh-johnsons-comedy-band-camp/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Josh Johnson’s Comedy Band Camp",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Josh Johnson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": null,
+      "show_time": "5:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/josh-johnsons-comedy-band-camp/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/josh-johnsons-comedy-band-camp/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Josh Johnson’s Comedy Band Camp",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Josh Johnson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": null,
+      "show_time": "8:30 pm",
       "ticket_link": "https://www.stgpresents.org/events/josh-johnsons-comedy-band-camp/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/josh-johnsons-comedy-band-camp/",
@@ -1157,6 +1250,37 @@
       "date": "2026-12-23",
       "doors": "one hour prior",
       "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/beauty-and-the-beast/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/beauty-and-the-beast/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Beauty and The Beast",
+          "apple_music": "https://music.apple.com/us/artist/beauty-and-the-beast/6860346",
+          "spotify": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d",
+          "confidence": 1.0,
+          "matched": "Beauty and the Beast",
+          "apple_label": null,
+          "spotify_label": "close match: Chorus - Beauty And the Beast",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-24",
+      "doors": "one hour prior",
+      "show_time": "1:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/beauty-and-the-beast/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/beauty-and-the-beast/",
@@ -1961,6 +2085,68 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-22",
+      "doors": "one hour prior",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/hadestown/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/hadestown/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "one hour prior",
+      "show_time": "2:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/hadestown/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/hadestown/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
       "doors": "one hour prior",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/hadestown/",
@@ -3523,6 +3709,37 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
+      "date": "2027-06-01",
+      "doors": "one hour prior",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-sound-of-music/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-sound-of-music/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: 'The Sound Of Music' 2006 London Palladium Cast @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
       "date": "2027-06-02",
       "doors": "one hour prior",
       "show_time": "7:30 pm",
@@ -4002,10 +4219,10 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
-      "comedy": 4,
+      "music": 45,
+      "comedy": 6,
       "film": 0,
-      "other": 75
+      "other": 79
     },
     "apple_music": {
       "unique_artists": 63,
@@ -4021,7 +4238,7 @@
       "venue": 0,
       "api": 48,
       "feed": 0,
-      "shows_with_link": 97
+      "shows_with_link": 101
     }
   }
 }

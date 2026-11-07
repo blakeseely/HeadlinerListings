@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-07",
-  "count": 53,
+  "count": 58,
   "shows": [
     {
       "event_type": "music",
@@ -298,6 +298,48 @@
       "description": null
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Switchfoot",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Anberlin",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/switchfoot/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/switchfoot/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "other",
       "needs_review": false,
       "headline_artists": [
@@ -364,14 +406,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Prateek Kuhad – CANCELED",
+          "name": "Prateek Kuhad",
           "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7",
-          "confidence": 0.0,
+          "spotify": null,
+          "confidence": null,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "close match: Prateek Kuhad",
-          "spotify_source": "api"
+          "spotify_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -383,7 +425,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/prateek-kuhad/",
-      "ticket_status": "on sale",
+      "ticket_status": "cancelled",
       "event_page": "https://www.stgpresents.org/events/prateek-kuhad/",
       "room": null,
       "age_rating": "All Ages",
@@ -418,6 +460,37 @@
       "event_page": "https://www.stgpresents.org/events/alter-bridge/",
       "room": null,
       "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Rewatchables Live!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-01",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-rewatchables-live/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-rewatchables-live/",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -633,6 +706,68 @@
       "ticket_link": "https://www.stgpresents.org/events/dusty-slay/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/dusty-slay/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gianmarco Soresi",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Misery Loves Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/gianmarco-soresi/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/gianmarco-soresi/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gianmarco Soresi",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Misery Loves Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "6:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/gianmarco-soresi/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/gianmarco-soresi/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1347,10 +1482,52 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Crystal Methyd – CANCELED",
+          "name": "Vacations",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.0,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "TWEN",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Pursuit Of Anything Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/vacations/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/vacations/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Crystal Methyd",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
@@ -1366,7 +1543,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/crystal-methyd-the-enchanted-forest/",
-      "ticket_status": "on sale",
+      "ticket_status": "cancelled",
       "event_page": "https://www.stgpresents.org/events/crystal-methyd-the-enchanted-forest/",
       "room": null,
       "age_rating": "18+",
@@ -1759,26 +1936,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 29,
+      "music": 34,
       "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 48,
+      "unique_artists": 54,
       "found": 33,
       "exact": 29,
       "close": 1,
       "flagged": 3,
-      "not_found": 15
+      "not_found": 21
     },
     "spotify": {
-      "unique_artists": 48,
-      "linked": 14,
+      "unique_artists": 54,
+      "linked": 13,
       "venue": 0,
-      "api": 14,
+      "api": 13,
       "feed": 0,
-      "shows_with_link": 16
+      "shows_with_link": 15
     }
   }
 }

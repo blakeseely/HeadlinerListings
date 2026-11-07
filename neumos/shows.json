@@ -36,7 +36,7 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-07",
-  "count": 12,
+  "count": 57,
   "shows": [
     {
       "event_type": "music",
@@ -549,25 +549,1718 @@
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amtrac",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-22",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1575402/amtrac-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/amtrac-tickets-1575402",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Emma Ruth Rundle",
+          "apple_music": "https://music.apple.com/us/artist/emma-ruth-rundle/360994442",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Emma Ruth Rundle",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Cinder Well",
+          "apple_music": "https://music.apple.com/us/artist/cinder-well/1374833337",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Cinder Well",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "These Killing Times",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-24",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1535118/emma-ruth-rundle-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/emma-ruth-rundle-tickets-1535118",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mamma Mia",
+          "apple_music": "https://music.apple.com/us/artist/mamma-mia/44248855",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mamma Mia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Seattle's Best 70's Dance Night",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": "9:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1681847/mamma-mia-seattles-best-70s-dance-night-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/mamma-mia-seattles-best-70s-dance-night-tickets-1681847",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DJ Raphi",
+          "apple_music": "https://music.apple.com/us/artist/dj-raphi/1502761004",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "DJ Raphi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Hype Tour 2.0",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-29",
+      "doors": "12:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1541153/dj-raphi-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/dj-raphi-tickets-1541153",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "feeble little horse",
+          "apple_music": "https://music.apple.com/us/artist/feeble-little-horse/1564273208",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "feeble little horse",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "MOP",
+          "apple_music": "https://music.apple.com/us/artist/mop/1664329629",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mop",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "bitknot tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1459430/feeble-little-horse-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/feeble-little-horse-tickets-1459430",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Under The Mistletoe",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Meet Me Under The Mistletoe @ 70%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Justin Bieber Dance Party!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "10:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1682546/under-the-mistletoe-justin-bieber-dance-party-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/under-the-mistletoe-justin-bieber-dance-party-tickets-1682546",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "New Constellations",
+          "apple_music": "https://music.apple.com/us/artist/new-constellations/1543078051",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "New Constellations",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Vox Rea",
+          "apple_music": "https://music.apple.com/us/artist/vox-rea/1523887517",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Vox Rea",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "It Comes in Waves Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1505913/new-constellations-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/new-constellations-tickets-1505913",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Father Of Peace",
+          "apple_music": "https://music.apple.com/us/artist/father-of-peace/1747590941",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Father Of Peace",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Roe Kapara",
+          "apple_music": "https://music.apple.com/us/artist/roe-kapara/1496480968",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Roe Kapara",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Year Of Madness & The Mystery Century Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1496637/father-of-peace-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/father-of-peace-tickets-1496637",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ripe",
+          "apple_music": "https://music.apple.com/us/artist/ripe/650012595",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ripe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Play The Fall Game Tour 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-08",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1585380/ripe-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/ripe-tickets-1585380",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Casi",
+          "apple_music": "https://music.apple.com/us/artist/casi/1317403891",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Casi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Love So Deep",
+          "apple_music": "https://music.apple.com/us/artist/love-so-deep/1707491979",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Love So Deep",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Visitor Coach",
+          "apple_music": "https://music.apple.com/us/artist/visitor-coach/1823594393",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Visitor Coach",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1619051/casi-x-love-so-deep-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/casi-x-love-so-deep-tickets-1619051",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pedro The Lion",
+          "apple_music": "https://music.apple.com/us/artist/pedro-the-lion/3087997",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Pedro the Lion",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "St. Yuma",
+          "apple_music": "https://music.apple.com/us/artist/st-yuma/1390301442",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "St. Yuma",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1455616/pedro-the-lion-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/pedro-the-lion-tickets-1455616",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The 6th Annual Holly Jolly Holiday Show",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "feat. Local Musicians",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Comedians",
+          "apple_music": "https://music.apple.com/us/artist/comedians-you-should-know/414055837",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Comedians You Should Know",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "and Drag Queens!",
+          "apple_music": "https://music.apple.com/us/artist/dungeons-drag-queens/260922829",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Dungeons & Drag Queens",
+          "apple_label": "close match: Dungeons & Drag Queens",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "6:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1678590/the-6th-annual-holly-jolly-holiday-show-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/the-6th-annual-holly-jolly-holiday-show-tickets-1678590",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Swervedriver",
+          "apple_music": "https://music.apple.com/us/artist/swervedriver/388347",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Swervedriver",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Love Battery",
+          "apple_music": "https://music.apple.com/us/artist/love-battery/3906292",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Love Battery",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "raise at 35",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1443845/swervedriver-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/swervedriver-tickets-1443845",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Takuya Nakamura",
+          "apple_music": "https://music.apple.com/us/artist/takuya-nakamura/328475107",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Takuya Nakamura",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "RP Boo",
+          "apple_music": "https://music.apple.com/us/artist/rp-boo/404956999",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "RP Boo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Shape The Future",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1601822/takuya-nakamura-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/takuya-nakamura-tickets-1601822",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CRANKMA$",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Playing Slayyyter, Adéla, Tinashe, and more!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "10:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1683774/crankma-playing-slayyyter-adela-tinashe-and-more-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/crankma-playing-slayyyter-adela-tinashe-and-more-tickets-1683774",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "90’s vs. 2000’s Dance Party!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.171,
+          "matched": null,
+          "apple_label": "no confident match (closest: Tove Lo @ 17%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "feat. All4Doras",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "+ DJ Dance Dance",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.4,
+          "matched": null,
+          "apple_label": "no confident match (closest: DNCE @ 40%)",
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Lo Knows",
+          "apple_music": "https://music.apple.com/us/artist/lolo-knows/1716953911",
+          "spotify": null,
+          "confidence": 0.889,
+          "matched": "LoLo Knows",
+          "apple_label": "close match: LoLo Knows",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-02",
+      "doors": "9:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1631688/90s-vs-2000s-dance-party-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/90s-vs-2000s-dance-party-tickets-1631688",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "apple_music": "https://music.apple.com/us/artist/anna-von-hausswolff/351852229",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Anna von Hausswolff",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "KatzPascale",
+          "apple_music": "https://music.apple.com/us/artist/katzpascale/1822411561",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "KatzPascale",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-12",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1364330/anna-von-hausswolff-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/anna-von-hausswolff-tickets-1364330",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Charles Zaid",
+          "apple_music": "https://music.apple.com/us/artist/charles-zaid/1550563544",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Charles Zaid",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Talaya",
+          "apple_music": "https://music.apple.com/us/artist/talaya/1523173010",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "TALAYA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "JOVEN",
+          "apple_music": "https://music.apple.com/us/artist/joven/507308719",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Joven",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-21",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1640622/charles-zaid-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/charles-zaid-tickets-1640622",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "apple_music": "https://music.apple.com/us/artist/mollie-elizabeth/1780515318",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mollie Elizabeth",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "People Pleaser Live",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "6:30 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1655377/mollie-elizabeth-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/mollie-elizabeth-tickets-1655377",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Galdive",
+          "apple_music": "https://music.apple.com/us/artist/galdive/1442177293",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Galdive",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "rum.gold",
+          "apple_music": "https://music.apple.com/us/artist/rum-gold/1387886053",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "rum.gold",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "A Friend Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-02",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1688770/galdive-x-rumgold-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/galdive-x-rumgold-tickets-1688770",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rare Americans",
+          "apple_music": "https://music.apple.com/us/artist/rare-americans/1401691888",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Rare Americans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Naethan Apollo",
+          "apple_music": "https://music.apple.com/us/artist/naethan-apollo/1519309327",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Naethan Apollo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Welcome to the Crooked City Tour 27",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1638955/rare-americans-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/rare-americans-tickets-1638955",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Winona Fighter",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "BRUTAL & EXTREMELY UNDERRATED…the tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1645256/winona-fighter-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/winona-fighter-tickets-1645256",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wolves in the Throne Room",
+          "apple_music": "https://music.apple.com/us/artist/wolves-in-the-throne-room/146055657",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Wolves in the Throne Room",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Stygian Bough",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Spirit Possession",
+          "apple_music": "https://music.apple.com/us/artist/spirit-possession/1514387937",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Spirit Possession",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "6:30 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1644155/wolves-in-the-throne-room-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/wolves-in-the-throne-room-tickets-1644155",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lovely Colours",
+          "apple_music": "https://music.apple.com/us/artist/lovely-colours/1347462742",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Lovely Colours",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "La Fonda",
+          "apple_music": "https://music.apple.com/us/artist/la-fonda/497299833",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "La Fonda",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Justin Harden",
+          "apple_music": "https://books.apple.com/us/author/justin-harden/id826937863",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Justin Harden",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": "5:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1672787/lovely-colours-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/lovely-colours-tickets-1672787",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "strongboi",
+          "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "strongboi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "apple_music": "https://music.apple.com/us/artist/salami-rose-joe-louis/1055288813",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Salami Rose Joe Louis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "headline tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1482122/strongboi-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/strongboi-tickets-1482122",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Vincent Lima",
+          "apple_music": "https://music.apple.com/us/artist/vincent-lima/1435649835",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Vincent Lima",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "6:30 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1664472/vincent-lima-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/vincent-lima-tickets-1664472",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Christian Kuria",
+          "apple_music": "https://music.apple.com/us/artist/christian-kuria/1153133878",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Christian Kuria",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "EAST TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-13",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1601824/christian-kuria-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/christian-kuria-tickets-1601824",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bo Staloch",
+          "apple_music": "https://music.apple.com/us/artist/bo-staloch/1698048247",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Bo Staloch",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The 'Too Big, Too Big' Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-15",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1615785/bo-staloch-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/bo-staloch-tickets-1615785",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ruby Waters",
+          "apple_music": "https://music.apple.com/us/artist/ruby-waters/1441595388",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ruby Waters",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Suppre$$ions North America Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-16",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1653656/ruby-waters-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/ruby-waters-tickets-1653656",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sophia Stel",
+          "apple_music": "https://music.apple.com/us/artist/sophia-stel/1473708664",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Sophia Stel",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "the greatest tour of all time",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1672985/sophia-stel-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/sophia-stel-tickets-1672985",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hans Williams",
+          "apple_music": "https://music.apple.com/us/artist/hans-williams/1368674949",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Hans Williams",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-20",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1644698/hans-williams-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/hans-williams-tickets-1644698",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dan & Peggy Reeder",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-27",
+      "doors": "6:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1520019/dan-peggy-reeder-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/dan-peggy-reeder-tickets-1520019",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Charlotte Adigéry & Bolis Pupul",
+          "apple_music": "https://music.apple.com/us/artist/charlotte-adig%C3%A9ry/637953219",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Charlotte Adigéry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Mainland Madinina",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-28",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1681861/charlotte-adigery-bolis-pupul-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/charlotte-adigery-bolis-pupul-tickets-1681861",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Susannah Joffe",
+          "apple_music": "https://music.apple.com/us/artist/susannah-joffe/1497474765",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Susannah Joffe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Dust Settles Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-29",
+      "doors": "6:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1676086/susannah-joffe-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/susannah-joffe-tickets-1676086",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Iceage",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1554505/iceage-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/iceage-tickets-1554505",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jersey",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-07",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1664442/jersey-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/jersey-tickets-1664442",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gus Dapperton",
+          "apple_music": "https://music.apple.com/us/artist/gus-dapperton/1083049158",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Gus Dapperton",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "4 Dear Life Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-08",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1674923/gus-dapperton-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/gus-dapperton-tickets-1674923",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Destroy Boys",
+          "apple_music": "https://music.apple.com/us/artist/destroy-boys/1202438410",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Destroy Boys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Illuminati Hotties",
+          "apple_music": "https://music.apple.com/us/artist/illuminati-hotties/1264905232",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "illuminati hotties",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "The Rat Utopia Experiment",
+          "apple_music": "https://music.apple.com/us/artist/the-rat-utopia-experiment/1659256959",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Rat Utopia Experiment",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Fois Gras",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-13",
+      "doors": "6:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1670884/destroy-boys-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/destroy-boys-tickets-1670884",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Alex Sampson",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Nonstop Flight Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-21",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1662620/alex-sampson-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/alex-sampson-tickets-1662620",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Palms",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-26",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1688803/the-palms-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/the-palms-tickets-1688803",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "French 79",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "CLOSE TO THE GIANTS",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-01",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1405890/french-79-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/french-79-tickets-1405890",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Northwest Terror Fest IX",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-06",
+      "doors": "4:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1616990/northwest-terror-fest-ix-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/northwest-terror-fest-ix-tickets-1616990",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "cleopatrick",
+          "apple_music": "https://music.apple.com/us/artist/cleopatrick/1079055121",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "cleopatrick",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-12",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1645218/cleopatrick-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/cleopatrick-tickets-1645218",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Limiñanas",
+          "apple_music": "https://music.apple.com/us/artist/the-limi%C3%B1anas/389053777",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Limiñanas",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Native Sun",
+          "apple_music": "https://music.apple.com/us/artist/native-sun/1282564579",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Native Sun",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-18",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1396774/the-liminanas-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/the-liminanas-tickets-1396774",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "NSQK",
+          "apple_music": "https://music.apple.com/us/artist/nsqk/1480741185",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Nsqk",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "mosca",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-12",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1673695/nsqk-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/nsqk-tickets-1673695",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 12,
+      "music": 57,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 21,
-      "found": 21,
-      "exact": 21,
-      "close": 0,
-      "flagged": 0,
-      "not_found": 0
+      "unique_artists": 94,
+      "found": 77,
+      "exact": 73,
+      "close": 2,
+      "flagged": 2,
+      "not_found": 17
     },
     "spotify": {
-      "unique_artists": 21,
+      "unique_artists": 94,
       "linked": 0,
       "venue": 0,
       "api": 0,

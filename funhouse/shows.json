@@ -76,7 +76,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "My Big Fat Gay Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
@@ -95,14 +95,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "stop.drop.rewind",
+          "name": "Stop.Drop.Rewind",
           "apple_music": "https://music.apple.com/us/artist/stop-drop-rewind/532322015",
-          "spotify": "https://open.spotify.com/artist/6cyOnkhucDmohL6xXmUuNG",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "stop.drop.rewind",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -313,38 +313,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Cofgod",
-          "apple_music": "https://music.apple.com/us/artist/cofgod/1875538086",
+          "name": "Cofgod / Kuwaisiana / PR for Monsters",
+          "apple_music": null,
           "spotify": null,
-          "confidence": 1.0,
-          "matched": "Cofgod",
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Coda @ 60%)",
+          "spotify_label": null,
           "spotify_source": null
-        },
-        {
-          "name": "Kuwaisiana",
-          "apple_music": "https://music.apple.com/us/artist/kuwaisiana/1380507423",
-          "spotify": "https://open.spotify.com/artist/5auSGzjqAqPUgQ3HqYzIt6",
-          "confidence": 1.0,
-          "matched": "Kuwaisiana",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "PR for Monsters",
-          "apple_music": "https://music.apple.com/us/artist/pr-for-monsters/1656537630",
-          "spotify": "https://open.spotify.com/artist/60HJFoGqhZhp0kxnOy2mVs",
-          "confidence": 1.0,
-          "matched": "PR for Monsters",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": true,
+      "multi_artist": false,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -488,14 +468,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Jady",
+          "name": "JADY",
           "apple_music": "https://music.apple.com/us/artist/jady/1468801354",
-          "spotify": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Jady",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -521,7 +501,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "The Nosebleeds Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
@@ -540,14 +520,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Ok Goodnight",
+          "name": "OK Goodnight",
           "apple_music": "https://music.apple.com/us/artist/ok-goodnight/1455689335",
-          "spotify": "https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Ok Goodnight",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -696,48 +676,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Bad Wallpaper",
-          "apple_music": "https://music.apple.com/us/artist/bad-wallpaper/1713092950",
-          "spotify": "https://open.spotify.com/artist/0CsScFExZhhOr0AHsqRYDT",
-          "confidence": 1.0,
-          "matched": "Bad Wallpaper",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Narbs",
+          "name": "Bad Wallpaper / Narbs / One Night at the Eagles / Public Witness",
           "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/0pkPOXDVAtqn8tztd0rtEG",
-          "confidence": 0.75,
+          "spotify": null,
+          "confidence": 0.0,
           "matched": null,
-          "apple_label": "no confident match (closest: Nas @ 75%)",
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "One Night at the Eagles",
-          "apple_music": "https://music.apple.com/us/artist/one-night-at-the-eagles/1525817979",
-          "spotify": "https://open.spotify.com/artist/6mYsimKfcShVeIBExBq1LQ",
-          "confidence": 1.0,
-          "matched": "One Night at the Eagles",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Public Witness",
-          "apple_music": "https://music.apple.com/us/artist/public-witness-program/1863620199",
-          "spotify": "https://open.spotify.com/artist/0mqogzdRaahLDkXDv2GVME",
-          "confidence": 0.8,
-          "matched": "Public Witness Program",
-          "apple_label": "close match: Public Witness Program",
-          "spotify_label": "close match: Public Witness Program",
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": true,
+      "multi_artist": false,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -757,14 +707,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Crucible Of Absolution",
-          "apple_music": "https://music.apple.com/us/artist/crucible-of-absolution/1763968814",
-          "spotify": "https://open.spotify.com/artist/2pTwUL8h1iioFQd31UkHRT",
-          "confidence": 1.0,
-          "matched": "Crucible Of Absolution",
+          "name": "Divinity Productions presents",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -839,14 +789,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "The OBGMs",
+          "name": "The OBGM's",
           "apple_music": "https://music.apple.com/us/artist/the-obgms/903262315",
-          "spotify": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI",
-          "confidence": 1.0,
+          "spotify": null,
+          "confidence": 0.947,
           "matched": "The OBGMs",
-          "apple_label": null,
+          "apple_label": "close match: The OBGMs",
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -872,7 +822,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Heart Problems Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-21",
@@ -891,30 +841,40 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "brokeNCYDE",
+          "name": "Brokencyde",
           "apple_music": "https://music.apple.com/us/artist/brokencyde/266962025",
-          "spotify": "https://open.spotify.com/artist/22WwE0lMmGx4AJeyUfT7rh",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Brokencyde",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
         {
-          "name": "Dot Dot Curve",
+          "name": "Dot Dot Curve :)",
           "apple_music": "https://music.apple.com/us/artist/dot-dot-curve/305696063",
-          "spotify": "https://open.spotify.com/artist/17T9n6qQEPbKvrR7mG3mVn",
-          "confidence": 1.0,
+          "spotify": null,
+          "confidence": 0.9,
           "matched": "Dot Dot Curve",
+          "apple_label": "close match: Dot Dot Curve",
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Nitrah Neon",
+          "apple_music": "https://music.apple.com/us/artist/nitrah-neon/1121271918",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Nitrah Neon",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
-      "show_title": "), Nitrah Neon",
+      "show_title": "A Very Scary Crunkmas Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-22",
@@ -1068,7 +1028,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Goat Talk Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-24",
@@ -1087,19 +1047,19 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Ayria",
+          "name": "AYRIA",
           "apple_music": "https://music.apple.com/us/artist/ayria/112212166",
-          "spotify": "https://open.spotify.com/artist/4BTJnYa0TMqVLjAJ0yFoOE",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Ayria",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "13 Stitches 2026 Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
@@ -1151,7 +1111,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Echoes Over America Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-29",
@@ -1170,48 +1130,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Afterbirth Pulp",
+          "name": "Afterbirth Pulp / Running Savage / No Signs of Serenity / Jettizon",
           "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/2ogyPQ5zxhMcMIwmHO8DUc",
+          "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "close match: Afterbirth",
-          "spotify_source": "api"
-        },
-        {
-          "name": "Running Savage",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.609,
-          "matched": null,
-          "apple_label": "no confident match (closest: 21 Savage @ 61%)",
-          "spotify_label": "no confident match (closest: Bryce Savage @ 62%)",
+          "spotify_label": null,
           "spotify_source": null
-        },
-        {
-          "name": "No Signs Of Serenity",
-          "apple_music": "https://music.apple.com/us/artist/no-signs-of-serenity/1862587935",
-          "spotify": "https://open.spotify.com/artist/0ng9TXAtcwIWUxVxmyhyYz",
-          "confidence": 1.0,
-          "matched": "No Signs Of Serenity",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Jettizon",
-          "apple_music": "https://music.apple.com/us/artist/jettizon/6781314034",
-          "spotify": "https://open.spotify.com/artist/7qip7jxZsqyyIxBsAggrZk",
-          "confidence": 1.0,
-          "matched": "Jettizon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": true,
+      "multi_artist": false,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1274,7 +1204,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "Prattle in Seattle",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-04",
@@ -1293,14 +1223,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "The Dread Crew of Oddwood",
+          "name": "The Dread Crew Of Oddwood",
           "apple_music": "https://music.apple.com/us/artist/the-dread-crew-of-oddwood/621138338",
-          "spotify": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "The Dread Crew of Oddwood",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1324,38 +1254,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Far Reaches",
-          "apple_music": "https://music.apple.com/us/artist/far-reaches/1648342451",
-          "spotify": "https://open.spotify.com/artist/2RGnwoWThoA5mX35cLb0cm",
-          "confidence": 1.0,
-          "matched": "Far Reaches",
+          "name": "Far Reaches / Killbilly / Primal Beast",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Killbilly",
-          "apple_music": "https://music.apple.com/us/artist/killbilly/1763694177",
-          "spotify": "https://open.spotify.com/artist/5VpUbvNyQ9c4BLSccc8Qpf",
-          "confidence": 1.0,
-          "matched": "Killbilly",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Primal Beast",
-          "apple_music": "https://music.apple.com/us/artist/primal-beast/1418758754",
-          "spotify": "https://open.spotify.com/artist/5AXV0xjBEV4DrrsSSxgHOm",
-          "confidence": 1.0,
-          "matched": "Primal Beast",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": true,
+      "multi_artist": false,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1437,38 +1347,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Red Sky Riot",
-          "apple_music": "https://music.apple.com/us/artist/red-sky-riot/1859179832",
-          "spotify": "https://open.spotify.com/artist/2gCDGC4wxTlqlr9iWplU5K",
-          "confidence": 1.0,
-          "matched": "Red Sky Riot",
+          "name": "Red Sky Riot / Drop Sea / No More Enemies",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Drop Sea",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5Orhlg8nWvIMgY0pjAjKAQ",
-          "confidence": 0.667,
-          "matched": null,
-          "apple_label": "no confident match (closest: DROP @ 67%)",
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "No More Enemies",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5cAQKGum8e9ej6bB8nH2Ck",
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Faith No More @ 70%)",
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": true,
+      "multi_artist": false,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1521,7 +1411,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "If You’re Treadin’ Water You’re Still Kickin’!!! 2027 Tour",
       "presenters": [],
       "set_format": null,
       "date": "2027-01-30",
@@ -1552,7 +1442,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "The Airwaves World Tour",
       "presenters": [],
       "set_format": null,
       "date": "2027-03-05",
@@ -1617,20 +1507,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 92,
-      "found": 80,
-      "exact": 76,
+      "unique_artists": 81,
+      "found": 68,
+      "exact": 63,
       "close": 2,
-      "flagged": 2,
-      "not_found": 12
+      "flagged": 3,
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 92,
-      "linked": 83,
+      "unique_artists": 81,
+      "linked": 59,
       "venue": 0,
-      "api": 83,
+      "api": 59,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 21
     }
   }
 }

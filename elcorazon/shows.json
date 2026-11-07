@@ -55,7 +55,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "TENEBRE",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-07",
@@ -179,7 +179,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Injury Episode USA Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
@@ -270,19 +270,19 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Punchis Punchis Banda Rave",
-          "apple_music": null,
+          "name": "Punchis Punchis",
+          "apple_music": "https://music.apple.com/us/artist/punchis-punchis/1644942706",
           "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Punchis Punchis",
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Punch Brothers @ 45%)",
+          "spotify_label": null,
           "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "Banda Rave Experience",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-14",
@@ -313,7 +313,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "STRAIGHT BASS Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-15",
@@ -375,7 +375,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Cybernetic Domination Tour 2026",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-20",
@@ -394,14 +394,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Psycroptic",
-          "apple_music": "https://music.apple.com/us/artist/psycroptic/152588505",
-          "spotify": "https://open.spotify.com/artist/2O8ZayBAqBqoXujSAAx7pm",
-          "confidence": 1.0,
-          "matched": "Psycroptic",
+          "name": "KISW (99.9 FM) Metal Shop presents",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -509,7 +509,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Into Despair USA Tour 2026",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-25",
@@ -528,14 +528,24 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Bodysnatcher",
-          "apple_music": "https://music.apple.com/us/artist/bodysnatcher/331072097",
-          "spotify": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm",
-          "confidence": 1.0,
-          "matched": "Bodysnatcher",
+          "name": "Bodysnatcher - Hell Is Here",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
+        },
+        {
+          "name": "Hell Is Home Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.4,
+          "matched": null,
+          "apple_label": "no confident match (closest: Ella Mai @ 40%)",
+          "spotify_label": null,
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -550,18 +560,28 @@
           "spotify_source": "api"
         },
         {
-          "name": "Psycho",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR",
-          "confidence": 0.0,
-          "matched": null,
+          "name": "Psycho-Frame",
+          "apple_music": "https://music.apple.com/us/artist/psycho-frame/1679480358",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "PSYCHO-FRAME",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
+        },
+        {
+          "name": "Volatile Ways",
+          "apple_music": "https://music.apple.com/us/artist/volatile-ways/1491386186",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Volatile Ways",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
-      "show_title": "Frame, Volatile Ways",
+      "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-11-28",
@@ -592,7 +612,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "Butthole Surfers Mania",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-04",
@@ -735,14 +755,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Eyes Set to Kill",
+          "name": "Eyes Set To Kill",
           "apple_music": "https://music.apple.com/us/artist/eyes-set-to-kill/271973862",
-          "spotify": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Eyes Set to Kill",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -768,7 +788,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Guilty Pleasures Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-11",
@@ -810,7 +830,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Love & Heartbreak Tour",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-11",
@@ -1361,7 +1381,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "The Sub Pop Years",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-12",
@@ -1380,14 +1400,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Codefendants",
+          "name": "CODEFENDANTS",
           "apple_music": "https://music.apple.com/us/artist/codefendants/1656143063",
-          "spotify": "https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Codefendants",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         },
         {
           "name": "Jakob Nowell and THE CASTLE",
@@ -1421,19 +1441,19 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Beast in Black",
+          "name": "Beast In Black",
           "apple_music": "https://music.apple.com/us/artist/beast-in-black/1275559022",
-          "spotify": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Beast in Black",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "North American Tour 2027",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-26",
@@ -1589,7 +1609,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Jack Kays And His Band",
       "presenters": [],
       "set_format": null,
       "date": "2027-03-03",
@@ -1631,7 +1651,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "The Love Chant Tour",
       "presenters": [],
       "set_format": null,
       "date": "2027-03-11",
@@ -1650,14 +1670,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Nervosa",
+          "name": "NERVOSA",
           "apple_music": "https://music.apple.com/us/artist/nervosa/511556134",
-          "spotify": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH",
+          "spotify": null,
           "confidence": 1.0,
           "matched": "Nervosa",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1683,7 +1703,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Slave Machine Tour 2027",
       "presenters": [],
       "set_format": null,
       "date": "2027-03-12",
@@ -1702,24 +1722,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Nile",
-          "apple_music": "https://music.apple.com/us/artist/nile/65885099",
-          "spotify": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE",
-          "confidence": 1.0,
-          "matched": "Nile",
+          "name": "Nile / Coroner",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Coroner",
-          "apple_music": "https://music.apple.com/us/artist/coroner/191721935",
-          "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV",
-          "confidence": 1.0,
-          "matched": "Coroner",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -1797,7 +1807,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "Rise or Die Trying 25 Year Anniversary Tour",
       "presenters": [],
       "set_format": null,
       "date": "2027-04-03",
@@ -1847,13 +1857,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Council Hill",
+          "name": "by Council Hill",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.424,
+          "confidence": 0.359,
           "matched": null,
-          "apple_label": "no confident match (closest: St Paul's Castle Hill @ 42%)",
-          "spotify_label": "no confident match (closest: Council @ 74%)",
+          "apple_label": "no confident match (closest: Gladys Knight & The Pips @ 36%)",
+          "spotify_label": null,
           "spotify_source": null
         }
       ],
@@ -1890,7 +1900,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "The Dumblond Tour",
       "presenters": [],
       "set_format": null,
       "date": "2027-05-11",
@@ -1952,7 +1962,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": null,
+      "show_title": "My Whitesnake Years",
       "presenters": [],
       "set_format": null,
       "date": "2027-05-22",
@@ -1975,20 +1985,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 107,
-      "found": 99,
-      "exact": 98,
+      "unique_artists": 108,
+      "found": 98,
+      "exact": 97,
       "close": 0,
       "flagged": 1,
-      "not_found": 8
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 107,
-      "linked": 99,
+      "unique_artists": 108,
+      "linked": 90,
       "venue": 0,
-      "api": 99,
+      "api": 90,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

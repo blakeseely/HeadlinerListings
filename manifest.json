@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:55:22.626110+00:00",
+  "generated_at": "2026-11-07T19:42:44.859551+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -255,7 +255,7 @@
         ]
       },
       "show_count": 35,
-      "sha256_16": "f7819906a4c1c48c"
+      "sha256_16": "314c4656c7b5e542"
     },
     {
       "venue_id": "fillmore",
@@ -346,7 +346,7 @@
         ]
       },
       "show_count": 30,
-      "sha256_16": "55d5319c90449130"
+      "sha256_16": "cd0f8a5dafcb4a47"
     },
     {
       "venue_id": "gamh",
@@ -499,7 +499,7 @@
       "lat": 47.6117,
       "lon": -122.3414,
       "updated_at": "2026-11-07",
-      "fetched_at": "2026-11-07T10:36:16",
+      "fetched_at": "2026-11-07T11:23:55",
       "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
@@ -508,14 +508,15 @@
           "other"
         ],
         "ticket_status": [
-          "on sale"
+          "on sale",
+          "cancelled"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 53,
-      "sha256_16": "cea9071332dd4a38"
+      "show_count": 58,
+      "sha256_16": "72f22ef7eb22bf4a"
     },
     {
       "venue_id": "musicbox",
@@ -552,7 +553,7 @@
       "lat": 47.6611,
       "lon": -122.314,
       "updated_at": "2026-11-07",
-      "fetched_at": "2026-11-07T10:37:15",
+      "fetched_at": "2026-11-07T11:25:05",
       "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
@@ -562,12 +563,12 @@
         ],
         "ticket_status": [
           "on sale",
-          "needs_review"
+          "postponed"
         ],
         "spotify_source": []
       },
-      "show_count": 103,
-      "sha256_16": "4424acfab8321f84"
+      "show_count": 106,
+      "sha256_16": "49ca9546aaa81e53"
     },
     {
       "venue_id": "neumos",
@@ -577,19 +578,20 @@
       "lat": 47.614,
       "lon": -122.3196,
       "updated_at": "2026-11-07",
-      "fetched_at": "2026-11-07T10:28:13",
+      "fetched_at": "2026-11-07T11:12:04",
       "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
           "music"
         ],
         "ticket_status": [
-          "on sale"
+          "on sale",
+          "coming soon"
         ],
         "spotify_source": []
       },
-      "show_count": 12,
-      "sha256_16": "061efb1fab1153ed"
+      "show_count": 57,
+      "sha256_16": "ea484d10d02e0249"
     },
     {
       "venue_id": "pappy",
@@ -624,7 +626,7 @@
       "lat": 47.6132,
       "lon": -122.3314,
       "updated_at": "2026-11-07",
-      "fetched_at": "2026-11-07T09:55:32",
+      "fetched_at": "2026-11-07T11:22:46",
       "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
@@ -639,8 +641,8 @@
           "api"
         ]
       },
-      "show_count": 123,
-      "sha256_16": "c2793ac33b7773bf"
+      "show_count": 130,
+      "sha256_16": "679616db060f0a14"
     },
     {
       "venue_id": "polarishall",
@@ -752,7 +754,7 @@
       "lat": 47.6085,
       "lon": -122.3395,
       "updated_at": "2026-11-07",
-      "fetched_at": "2026-11-07T10:27:21",
+      "fetched_at": "2026-11-07T11:11:23",
       "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
@@ -765,7 +767,7 @@
         "spotify_source": []
       },
       "show_count": 56,
-      "sha256_16": "b25da99c0faf06c1"
+      "sha256_16": "83ed10eeee5dcd75"
     },
     {
       "venue_id": "showboxsodo",
@@ -775,7 +777,7 @@
       "lat": 47.588,
       "lon": -122.3339,
       "updated_at": "2026-11-07",
-      "fetched_at": "2026-11-07T10:27:44",
+      "fetched_at": "2026-11-07T11:11:24",
       "oldest_show_date": "2026-11-13",
       "value_domains": {
         "event_type": [
