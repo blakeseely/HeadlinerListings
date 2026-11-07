@@ -35,86 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 44,
+  "scraped_at": "2026-11-07",
+  "count": 42,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "San Francisco Leonard Cohen Festival",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "SF Leonard Cohen Festival presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-poetry-swedish-american-hall-tickets/14293834?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-06-san-francisco-leonard-cohen-festival",
-      "room": "Swedish American Hall (upstairs)",
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Bay Area poets and singer/songwriters honor and explore the words and music of the late troubadour, Leonard Cohen. The San Francisco Leonard Cohen Festival, founded in 2018, is an annual celebration dedicated to honoring the poetry, music, and spirit of the legendary songwriter, poet, and author. Presented each November by Conspiracy of Beards—San Francisco’s renowned 30-member male choir…"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "IAN SWEET",
-          "apple_music": "https://music.apple.com/us/artist/ian-sweet/1115847009",
-          "spotify": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD",
-          "confidence": 1.0,
-          "matched": "IAN SWEET",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Luella",
-          "apple_music": "https://music.apple.com/us/artist/luella/304198297",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "LUELLA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/ian-sweet-with-luella-cafe-du-nord-tickets/14851843?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-06-ian-sweet",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": "As IAN SWEET prepares for an exciting new chapter in her decade-strong discography, 2026 promises to be Medford's most realized songwriting era to date. IAN SWEET’s music has been streamed millions of times worldwide and has been praised by the likes of The FADER, KEXP, The New York Times, NPR Music, Pitchfork, Rolling Stone, Stereogum, and elsewhere. “One of the most thrilling and experimental…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1568,7 +1491,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-palms-cafe-du-nord-tickets/14410804?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-04-29-the-palms",
       "room": null,
       "age_rating": "All ages",
@@ -1667,7 +1590,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/alfie-jukes-funny-cafe-du-nord-tickets/14371174?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-06-02-alfie-jukes",
       "room": null,
       "age_rating": "All ages",
@@ -1677,26 +1600,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 42,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
-      "found": 59,
-      "exact": 56,
+      "unique_artists": 58,
+      "found": 57,
+      "exact": 54,
       "close": 1,
       "flagged": 2,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 39,
-      "venue": 39,
+      "unique_artists": 58,
+      "linked": 38,
+      "venue": 38,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 38
     }
   }
 }

@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 67,
+  "scraped_at": "2026-11-07",
+  "count": 66,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SYML",
-          "apple_music": "https://music.apple.com/us/artist/syml/1078016819",
-          "spotify": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0",
-          "confidence": 1.0,
-          "matched": "SYML",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Olivia Vedder",
-          "apple_music": "https://music.apple.com/us/artist/olivia-vedder/1580411904",
-          "spotify": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E",
-          "confidence": 1.0,
-          "matched": "Olivia Vedder",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/syml-san-francisco-california-11-06-2026/event/1C00648E9B6C9370?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/syml-261106",
-      "room": null,
-      "age_rating": null,
-      "note": "Solo in North America",
-      "description": "SYML is the solo venture of Seattle artist Brian Fennell. Welsh for “simple”— he makes music that taps into the instincts that drive us to places of sanctuary, whether that be a place or a person. Fennell’s latest offering, Nobody Lives Here, marks his clearest, crispest writing. Written, recorded, and produced by him and his longtime collaborator Brian Eichelberger, it is fueled by the keen understanding that life is a contradiction, a fleeting moment. But as we accept the presence of loss, we can still welcome others into our space with melody, lyrics, a slide guitar, or a cello’s hum. His sense of humanity is his musical compass. As an artist, Fennell takes license to both gut and be gutted. “If the dark inspires the good, that’s a good thing to be honest about,” he says. He released his self-titled debut album in 2019, which includes the multiplatinum song “Where’s My Love” and the Gold Record fan favorite “Girl.” His 2023 sophomore album, The Day My Father Died, described by NPR as “euphoric,” was recorded at Studio X with renowned producer Phil Ek and features collaborations with Elbow’s Guy Garvey, Lucius, Sara Watkins of Nickel Creek, and Charlotte Lawrence. His music has b"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2079,8 +2037,8 @@
       "date": "2027-04-03",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/boy-throbs-real-tour-san-francisco-california-04-03-2027/event/1C00655EE0644E58?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/boy-throb-270403",
       "room": null,
       "age_rating": null,
@@ -2349,26 +2307,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 51,
       "comedy": 4,
       "film": 9,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 77,
-      "found": 61,
-      "exact": 55,
+      "unique_artists": 75,
+      "found": 59,
+      "exact": 53,
       "close": 2,
       "flagged": 4,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 77,
-      "linked": 48,
-      "venue": 48,
+      "unique_artists": 75,
+      "linked": 46,
+      "venue": 46,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 40
     }
   }
 }

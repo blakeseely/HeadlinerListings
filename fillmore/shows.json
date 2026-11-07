@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
+  "scraped_at": "2026-11-07",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Thee Sinseers",
-          "apple_music": "https://music.apple.com/us/artist/thee-sinseers/1457604920",
-          "spotify": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS",
-          "confidence": 1.0,
-          "matched": "Thee Sinseers",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Charities",
-          "apple_music": "https://music.apple.com/us/artist/the-charities/1444159416",
-          "spotify": "https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf",
-          "confidence": 1.0,
-          "matched": "The Charities",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Love Stories Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/thee-sinseers-love-stories-tour-san-francisco-california-11-06-2026/event/1C0064A7C0CACE11",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/thee-sinseers-love-stories-tour-san-francisco-california-11-06-2026/event/1C0064A7C0CACE11",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1071,7 +1029,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketmaster.com/the-return-of-jackie-and-judy-san-francisco-california-12-31-2026/event/1C00655EA0BBBC8B",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/the-return-of-jackie-and-judy-san-francisco-california-12-31-2026/event/1C00655EA0BBBC8B",
       "room": null,
       "age_rating": null,
@@ -1336,6 +1294,58 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The California Honeydrops",
+          "apple_music": "https://music.apple.com/us/artist/the-california-honeydrops/299946363",
+          "spotify": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk",
+          "confidence": 1.0,
+          "matched": "The California Honeydrops",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lindsay Lou",
+          "apple_music": "https://music.apple.com/us/artist/lindsay-lou/396630491",
+          "spotify": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ",
+          "confidence": 1.0,
+          "matched": "Lindsay Lou",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jimmy James",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-james/3178791",
+          "spotify": "https://open.spotify.com/artist/4MpCHcOqKRsSXGiYuGR9JY",
+          "confidence": 1.0,
+          "matched": "Jimmy James",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "SAN FRANCISCO 2027 With Family & Friends",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-30-2027/event/1C0064E1F2555AA1",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-30-2027/event/1C0064E1F2555AA1",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1346,18 +1356,18 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 46,
-      "found": 43,
-      "exact": 43,
+      "unique_artists": 44,
+      "found": 41,
+      "exact": 41,
       "close": 0,
       "flagged": 0,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 46,
-      "linked": 43,
+      "unique_artists": 44,
+      "linked": 41,
       "venue": 0,
-      "api": 43,
+      "api": 41,
       "feed": 0,
       "shows_with_link": 32
     }

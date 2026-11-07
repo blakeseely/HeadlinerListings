@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
+  "scraped_at": "2026-11-07",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Clay Street Unit",
-          "apple_music": "https://music.apple.com/us/artist/clay-street-unit/1648140695",
-          "spotify": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb",
-          "confidence": 1.0,
-          "matched": "Clay Street Unit",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Maxwell Oaks",
-          "apple_music": "https://music.apple.com/us/artist/maxwell-oaks/1870468364",
-          "spotify": "https://open.spotify.com/artist/0Rtu7I23v5vbwEmf07yIhD",
-          "confidence": 1.0,
-          "matched": "Maxwell Oaks",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/clay-street-unit-maxwell-oaks-brick-and-mortar-music-hall-tickets/14244714?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/clay-street-unit/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Hailing from Denver, Colorado, Clay Street Unit mixes the acoustic instrumentation of bluegrass and folk with the amplified energy of Americana and country. The result is a singular interpretation of American roots music that blurs the borders between genre and geography, fusing the influence of the Rocky Mountains with the traditions of the Appalachians. Driven forward by drums, sharp songwriting, and the chemistry of good friends and musical brothers who've shared countless hours on stage, Clay Street Unit's music doesn't just nod to the band's influences; it reshapes them into something new. With their debut album on the horizon, Clay Street Unit are staking their claim as torchbearers of something both fresh and familiar, nodding to the foundations of American music while sharpening their own progressive edge."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -835,6 +793,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Geordie Kieffer",
+          "apple_music": "https://music.apple.com/us/artist/geordie-kieffer/333752472",
+          "spotify": "https://open.spotify.com/artist/4jZfJWTKg0oea9gn2EER4C",
+          "confidence": 1.0,
+          "matched": "Geordie Kieffer",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/geordie-kieffer-brick-mortar-music-hall-tickets/14292004?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/geordie-kieffer/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -845,17 +834,17 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 35,
-      "exact": 33,
+      "unique_artists": 36,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 17,
-      "venue": 17,
+      "unique_artists": 36,
+      "linked": 16,
+      "venue": 16,
       "api": 0,
       "feed": 0,
       "shows_with_link": 14

@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 18,
+  "scraped_at": "2026-11-07",
+  "count": 27,
   "shows": [
     {
       "event_type": "music",
@@ -539,6 +539,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "San Francisco vs. Atlanta",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atlantic Starr @ 36%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-10",
+      "doors": null,
+      "show_time": "5:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-atlanta",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Madison",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Madison Beer @ 38%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-madison",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Tape B",
           "apple_music": "https://music.apple.com/us/artist/tape-b/1485251074",
           "spotify": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi",
@@ -595,6 +657,68 @@
       "age_rating": "18+",
       "note": null,
       "description": "Tape B, born Kemal Berk Alkanat, is a dynamic force in today’s electronic music scene, merging the nostalgic vibes of old-school dubstep with contemporary bass music and hip-hop. Born in Turkey and raised in the U.S. from the age of three, Tape B brings a distinctive sound that captivates with a blend of nostalgia and modernity, termed &#8220;Old School x New School.&#8221; His musical journey began at the University of Central Florida, influenced by early 2000s hip-hop and electronic pioneers like UKF and The Glitch Mob. His career took a professional turn after a revelatory experience at the Lost Lands Music Festival in 2019. Tape B&#8217;s rise to prominence was fueled by viral SoundCloud mixes and dynamic live performances, including his iconic &#8220;Yo, Tape B&#8221; tag which has become a recognizable call throughout modern clubland and festivals. Over the past year, Tape B has reached new heights, including a sold-out headline debut at Red Rocks Amphitheatre and a 33-date fall bus tour with standout sellouts at premier venues such as The Salt Shed, The Armory, Echostage, and The Shrine. His high-profile B3B performance alongside Zeds Dead and Subtronics to close out the year further solidified his place at the forefront of modern bass music, alongside a growing catalog of collaborations including work with GRiZ. With continued support from industry leaders like Subtronics, Zeds Dead, Excision, Ganja White Night, Wooli, and Peekaboo, Tape B’s rise reflects both a deep"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Austin",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Austin Snell @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-austin",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Salt Lake",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Salt-N-Pepa @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-salt-lake",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
     },
     {
       "event_type": "music",
@@ -683,6 +807,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "San Francisco vs. Miami",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: San Francisco Symphony @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-09",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-miami",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Minnesota",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: San Francisco Symphony @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-minnesota",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "2hollis",
           "apple_music": "https://music.apple.com/us/artist/2hollis/1535847112",
           "spotify": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
@@ -729,6 +915,99 @@
       "age_rating": "All ages",
       "note": null,
       "description": "2hollis is the Los Angeles-based artist, producer and songwriter at the forefront of a new generation reshaping contemporary music. Equal parts architect and avatar, he has become a defining figure in the underground-to-mainstream pipeline; an artist turning online mythology, club catharsis, and vulnerable pop instincts into a fully realized world. Pairing emotional songwriting with chest-caving production that blurs the lines of underground electronic, rap, alternative and pop, he has made an indelible mark in multiple music scenes over the past few years. His 2025 major-label debut, star, marked a pinnacle breakthrough, earning critical acclaim, tens of millions of streams and world wide shows. In the months that followed, 2hollis sold out a North American headline tour, completed two sold out European run, made his debut at major festivals including Coachella and Lollapalooza, Stereogum and Consequence ultimately named star among the best albums of the year and Pitchfork praised it as “ambitious, stadium-sized, and risky,” naming the single “Flash” as one of the 100 best songs of 2025. On the way, he’s also received praise from outlets like GQ, Rolling Stone, i-D, 032C, The Face, The New York Times, 032c, Dazed, and more. After developing his chops by making electronic music in his bedroom as a young teen, his first songs as2hollis announced a knack for reshaping a universe of influences in his image. Early projects like 2022’s WhiteTiger and 2023’s 2 established him as on"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Salt Lake",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Salt-N-Pepa @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-salt-lake-march",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Nebraska",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: San Francisco Symphony @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-nebraska",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "San Francisco vs. Los Angeles",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.367,
+          "matched": null,
+          "apple_label": "no confident match (closest: Banda Corona del Rey @ 37%)",
+          "spotify_label": "no confident match (closest: San Francisco Symphony @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-24",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": "LEARN MORE",
+      "event_page": "https://billgrahamcivic.com/events/sf-vs-la",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "San Francisco Signal is the Bay Area’s professional women’s volleyball team, beginning play in 2027 as part of League One Volleyball (LOVB), the largest youth-to-professional volleyball ecosystem in the United States. Built by a women-led ownership group alongside athletes, business leaders and community members, the Signal is creating a modern professional sports franchise rooted in elite competition, community and culture. &nbsp;"
     },
     {
       "event_type": "music",
@@ -859,21 +1138,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 18,
+      "music": 27,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
+      "unique_artists": 48,
       "found": 38,
       "exact": 36,
       "close": 0,
       "flagged": 2,
-      "not_found": 2
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 40,
+      "unique_artists": 48,
       "linked": 39,
       "venue": 36,
       "api": 3,

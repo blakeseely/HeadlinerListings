@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 35,
+  "scraped_at": "2026-11-07",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jessie Reyez",
-          "apple_music": "https://music.apple.com/us/artist/jessie-reyez/1043591612",
-          "spotify": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P",
-          "confidence": 1.0,
-          "matched": "Jessie Reyez",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Adria Kain",
-          "apple_music": "https://music.apple.com/us/artist/adria-kain/766068900",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Adria Kain",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "A Little Vengeance Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/jessie-reyez-a-little-vengeance-tour-oakland-california-11-06-2026/event/1C006514C671E34B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "sold out",
-      "event_page": "https://thefoxoakland.com/events/jessie-reyez-261106",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "A certified global phenomenon known for her fearless lyricism and emotive performances, Reyez’s releases have earned press praise from Rolling Stone, Harper’s Bazaar, Associated Press, T Magazine, Genius, People, GRAMMY.com , and more. In recent years, Reyez released her first book of poems, Words of a Goat Princess , contributed to Netflix’s Rebel Moon soundtrack with the single “Child of Fire,” and delivered a unique rendition of “Is This Love” featured on the Bob Marley: One Love – Music Inspired by the Film soundtrack, which went on to win a Grammy Award for Best Reggae Album . A hitmaker behind the scenes, Reyez has penned songs for Dua Lipa, Sam Smith, Kehlani, LISA (BLACKPINK), and Calvin Harris . In 2024, she was awarded Billboard Canada’s Women in Music Trailblazer Award and recognized as a TikTok Visionary Voice for Latin Heritage Month . Following her run as a supporting act on transcendent pop artist Sam Smith ’s GLORIA tour in 2023, Reyez dominated the stage at Lollapalooz"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1309,26 +1267,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 40,
-      "exact": 39,
+      "unique_artists": 39,
+      "found": 38,
+      "exact": 37,
       "close": 1,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 36,
-      "venue": 36,
+      "unique_artists": 39,
+      "linked": 35,
+      "venue": 35,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 33
     }
   }
 }

@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
+  "scraped_at": "2026-11-07",
   "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Genesis Owusu",
-          "apple_music": "https://music.apple.com/us/artist/genesis-owusu/1045380633",
-          "spotify": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke",
-          "confidence": 1.0,
-          "matched": "Genesis Owusu",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "AFTER LOUISE",
-          "apple_music": "https://music.apple.com/us/artist/after-louise/1874647339",
-          "spotify": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W",
-          "confidence": 1.0,
-          "matched": "After Louise",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Aaron Axelsen",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.741,
-          "matched": null,
-          "apple_label": "no confident match (closest: Aaron Ackerson @ 74%)",
-          "spotify_label": "no confident match (closest: Aaron Ackerson @ 74%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Popscene + Rickshaw Stop + APE co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.eventim.us/event/genesis-owusu/692608",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.eventim.us/event/genesis-owusu/692608",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -425,7 +371,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "CANNELLE",
+          "name": "Cannelle",
           "apple_music": "https://music.apple.com/us/artist/cannelle/1754623505",
           "spotify": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg",
           "confidence": 1.0,
@@ -438,7 +384,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "popscene + rickshaw stop co-presents"
+      ],
       "set_format": null,
       "date": "2026-11-19",
       "doors": "8:00 pm",
@@ -447,7 +395,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/cannelle/703640",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1168,6 +1116,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "FIFTEEN",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/2JHIHcBfwz8RPsfA2MoZR0",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "2nd show added!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "8:00 pm",
+      "show_time": "8:45 pm",
+      "ticket_link": "https://wl.seetickets.us/event/fifteen-2nd-show-added/710597",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/fifteen-2nd-show-added/710597",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Starzdust",
           "apple_music": "https://music.apple.com/us/artist/starzdust/1843795505",
           "spotify": "https://open.spotify.com/artist/0kD2D6v6GeetJOk48A6ick",
@@ -1637,18 +1616,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 49,
-      "exact": 48,
+      "unique_artists": 55,
+      "found": 47,
+      "exact": 46,
       "close": 0,
       "flagged": 1,
-      "not_found": 9
+      "not_found": 8
     },
     "spotify": {
-      "unique_artists": 58,
-      "linked": 51,
+      "unique_artists": 55,
+      "linked": 49,
       "venue": 0,
-      "api": 51,
+      "api": 49,
       "feed": 0,
       "shows_with_link": 42
     }

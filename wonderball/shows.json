@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 33,
+  "scraped_at": "2026-11-07",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "INOHA",
-          "apple_music": "https://music.apple.com/us/artist/inoha/1655983242",
-          "spotify": "https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h",
-          "confidence": 1.0,
-          "matched": "INOHA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/38392652/inoha-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://wonderballroom.com/event/inoha/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1229,26 +1196,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 42,
-      "found": 36,
-      "exact": 34,
+      "unique_artists": 41,
+      "found": 35,
+      "exact": 33,
       "close": 1,
       "flagged": 1,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 42,
-      "linked": 36,
+      "unique_artists": 41,
+      "linked": 35,
       "venue": 0,
-      "api": 36,
+      "api": 35,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 28
     }
   }
 }

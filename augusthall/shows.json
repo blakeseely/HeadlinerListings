@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 32,
+  "scraped_at": "2026-11-07",
+  "count": 31,
   "shows": [
     {
       "event_type": "music",
@@ -632,37 +632,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "James Marriott",
-          "apple_music": "https://music.apple.com/us/artist/james-marriott/458203329",
-          "spotify": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL",
-          "confidence": 1.0,
-          "matched": "James Marriott",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-02-28",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/james-marriott-san-francisco-california-02-28-2027/event/1C006532C56E5748",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/james-marriott/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "The Lemonheads",
           "apple_music": "https://music.apple.com/us/artist/the-lemonheads/312507",
           "spotify": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X",
@@ -1055,26 +1024,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 32,
-      "found": 21,
-      "exact": 21,
+      "unique_artists": 31,
+      "found": 20,
+      "exact": 20,
       "close": 0,
       "flagged": 0,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 32,
-      "linked": 25,
+      "unique_artists": 31,
+      "linked": 24,
       "venue": 0,
-      "api": 25,
+      "api": 24,
       "feed": 0,
-      "shows_with_link": 27
+      "shows_with_link": 26
     }
   }
 }

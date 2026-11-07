@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 99,
+  "scraped_at": "2026-11-07",
+  "count": 98,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "King Buffalo",
-          "apple_music": "https://music.apple.com/us/artist/king-buffalo/779559027",
-          "spotify": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R",
-          "confidence": 1.0,
-          "matched": "King Buffalo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "L.A. Witch",
-          "apple_music": "https://music.apple.com/us/artist/l-a-witch/825803479",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "L.A. WITCH",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/king-buffalo/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2939,37 +2897,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -3005,6 +2932,37 @@
       "room": null,
       "age_rating": null,
       "note": "MOVED TO CASTRO THEATRE",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
       "description": null
     },
     {
@@ -3709,26 +3667,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 99,
+      "music": 98,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 141,
-      "found": 131,
-      "exact": 122,
+      "unique_artists": 139,
+      "found": 129,
+      "exact": 120,
       "close": 3,
       "flagged": 6,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 141,
-      "linked": 90,
-      "venue": 90,
+      "unique_artists": 139,
+      "linked": 89,
+      "venue": 89,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 80
+      "shows_with_link": 79
     }
   }
 }

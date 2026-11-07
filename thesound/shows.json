@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 25,
+  "scraped_at": "2026-11-07",
+  "count": 24,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Billy Joel Legacy",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Billy Joel",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "A Tribute Experience",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-billy-joel-legacy-the-sound-tickets/14248134?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14248134/the-billy-joel-legacy-a-tribute-experience",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -970,26 +939,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 25,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
+      "unique_artists": 35,
       "found": 31,
       "exact": 29,
       "close": 1,
       "flagged": 1,
-      "not_found": 5
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 33,
+      "unique_artists": 35,
+      "linked": 32,
       "venue": 0,
-      "api": 33,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 21
     }
   }
 }

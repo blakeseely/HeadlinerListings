@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-06",
-  "count": 37,
+  "scraped_at": "2026-11-07",
+  "count": 38,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lucy Bedroque",
-          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
-          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-          "confidence": 1.0,
-          "matched": "Lucy Bedroque",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "pinponpanpon",
-          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
-          "spotify": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng",
-          "confidence": 1.0,
-          "matched": "pinponpanpon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "003 Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546772061",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1580816",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1274,7 +1230,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547008581",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1683799",
       "room": null,
       "age_rating": "All Ages",
@@ -1344,6 +1300,68 @@
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1688805",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nick Cave",
+          "apple_music": "https://music.apple.com/us/artist/nick-cave/3691438",
+          "spotify": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p",
+          "confidence": 1.0,
+          "matched": "Nick Cave",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Conversations With Nick Cave",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-16",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://us.atgtickets.com/events/nick-cave/orpheum-theatre/",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1684862",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nick Cave",
+          "apple_music": "https://music.apple.com/us/artist/nick-cave/3691438",
+          "spotify": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p",
+          "confidence": 1.0,
+          "matched": "Nick Cave",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Conversations With Nick Cave",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-17",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://us.atgtickets.com/events/nick-cave-second-show/orpheum-theatre/",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1684864",
+      "room": null,
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1613,26 +1631,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 37,
+      "music": 38,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 63,
-      "exact": 62,
+      "unique_artists": 65,
+      "found": 64,
+      "exact": 63,
       "close": 0,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 62,
+      "unique_artists": 65,
+      "linked": 63,
       "venue": 0,
-      "api": 59,
+      "api": 60,
       "feed": 3,
-      "shows_with_link": 37
+      "shows_with_link": 38
     }
   }
 }
