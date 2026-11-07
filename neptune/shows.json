@@ -1,0 +1,3454 @@
+{
+  "venue": "The Neptune",
+  "venue_id": "neptune",
+  "venue_url": "https://www.stgpresents.org/stg-venues/neptune-theatre/",
+  "source_url": "https://www.stgpresents.org/calendar/",
+  "city": "Seattle, WA",
+  "metro": "Seattle",
+  "neighborhood": "University District",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-07",
+  "count": 103,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Kevonstage",
+          "apple_music": "https://music.apple.com/us/artist/kevonstage/1088803808",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Kevonstage",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/kevonstage/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/kevonstage/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Aterciopelados",
+          "apple_music": "https://music.apple.com/us/artist/aterciopelados/296208",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Aterciopelados",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "La Pipa De La Paz 30 Años Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/aterciopelados/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/aterciopelados/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "National Park After Dark (Postponed)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/national-park-after-dark/",
+      "ticket_status": "needs_review",
+      "event_page": "https://www.stgpresents.org/events/national-park-after-dark/",
+      "room": null,
+      "age_rating": null,
+      "note": "listed Postponed on STG calendar",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Residency",
+          "apple_music": "https://music.apple.com/us/artist/the-residency/1191366766",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Residency",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A Night of NW Hip Hop",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-residency/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-residency/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Foy Vance",
+          "apple_music": "https://music.apple.com/us/artist/foy-vance/68235486",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Foy Vance",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Celebrating \"The Wake\" And The Songs of \"If\"",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/foy-vance/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/foy-vance/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ron Funches",
+          "apple_music": "https://music.apple.com/us/artist/ron-funches/443281931",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ron Funches",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ron-funches/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ron-funches/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ron Funches",
+          "apple_music": "https://music.apple.com/us/artist/ron-funches/443281931",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ron Funches",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": null,
+      "show_time": "9:45 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ron-funches/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ron-funches/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Eivør",
+          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Eivør",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/eivor/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/eivor/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RHYE",
+          "apple_music": "https://music.apple.com/us/artist/rhye/490808665",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Rhye",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Joy Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/rhye/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/rhye/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Todd Rundgren",
+          "apple_music": "https://music.apple.com/us/artist/todd-rundgren/482336",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Todd Rundgren",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "DAMNED IF I DO TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/todd-rundgren/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/todd-rundgren/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gary Numan",
+          "apple_music": "https://music.apple.com/us/artist/gary-numan/2780160",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Gary Numan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "TREMOURS",
+          "apple_music": "https://music.apple.com/us/artist/tremours/1630704631",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Tremours",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/gary-numan/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/gary-numan/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Phoebe Robinson",
+          "apple_music": "https://books.apple.com/us/author/phoebe-robinson/id1093341867",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Phoebe Robinson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/phoebe-robinson/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/phoebe-robinson/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Emily Catalano",
+          "apple_music": "https://music.apple.com/us/artist/emily-catalano/1745774102",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Emily Catalano",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": null,
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/emily-catalano/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/emily-catalano/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Emily Catalano",
+          "apple_music": "https://music.apple.com/us/artist/emily-catalano/1745774102",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Emily Catalano",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/emily-catalano/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/emily-catalano/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Music of Hey Arnold! Live!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Hey Arnold @ 70%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Feat. Jim Lang and The PS 118 AllStars with Special Guest Craig Bartlett",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-music-of-hey-arnold-live/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-music-of-hey-arnold-live/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Senses Fail",
+          "apple_music": "https://music.apple.com/us/artist/senses-fail/15138873",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Senses Fail",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Initiate",
+          "apple_music": "https://music.apple.com/us/artist/initiate/1440572303",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Initiate",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Koyo",
+          "apple_music": "https://music.apple.com/us/artist/koyo/1501270833",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Koyo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-24",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/senses-fail/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/senses-fail/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haley Heynderickx",
+          "apple_music": "https://music.apple.com/us/artist/haley-heynderickx/1067448264",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Haley Heynderickx",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/haley-heynderickx/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/haley-heynderickx/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dweezil Zappa",
+          "apple_music": "https://music.apple.com/us/artist/dweezil-zappa/2324179",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dweezil Zappa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "DZ20: Like Father, Like Son",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/dweezil-zappa/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/dweezil-zappa/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "A John Waters Christmas",
+          "apple_music": "https://music.apple.com/us/artist/john-waters/1561860431",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "John Waters",
+          "apple_label": "close match: John Waters",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/a-john-waters-christmas/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/a-john-waters-christmas/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Matt Rogers",
+          "apple_music": "https://music.apple.com/us/artist/matt-rogers/1710028857",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Matt Rogers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/matt-rogers/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/matt-rogers/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Jayhawks",
+          "apple_music": "https://music.apple.com/us/artist/the-jayhawks/1587874",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Jayhawks",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Mary Gauthier",
+          "apple_music": "https://music.apple.com/us/artist/mary-gauthier/4288624",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mary Gauthier",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Sanctuary Park Tour: Celebrating 40 Years",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-jayhawks/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-jayhawks/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amber Autry",
+          "apple_music": "https://music.apple.com/us/artist/amber-rutty/1520080240",
+          "spotify": null,
+          "confidence": 0.818,
+          "matched": "Amber Rutty",
+          "apple_label": "close match: Amber Rutty",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/amber-autry/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/amber-autry/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amber Autry",
+          "apple_music": "https://music.apple.com/us/artist/amber-rutty/1520080240",
+          "spotify": null,
+          "confidence": 0.818,
+          "matched": "Amber Rutty",
+          "apple_label": "close match: Amber Rutty",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "6:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/amber-autry/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/amber-autry/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "John Craigie",
+          "apple_music": "https://music.apple.com/us/artist/john-craigie/259716390",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "John Craigie",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Marley Hale",
+          "apple_music": "https://music.apple.com/us/artist/marley-hale/1588142501",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Marley Hale",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Keep It Warm Tour 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/john-craigie/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/john-craigie/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Strawberry Guy",
+          "apple_music": "https://music.apple.com/us/artist/strawberry-guy/1369292981",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Strawberry Guy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jean-Luc Eldenwood",
+          "apple_music": "https://music.apple.com/us/artist/jean-luc-eldenwood/1533619707",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jean-Luc Eldenwood",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/strawberry-guy/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/strawberry-guy/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "UNKLE",
+          "apple_music": "https://music.apple.com/us/artist/unkle/133444",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "UNKLE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/unkle/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/unkle/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tiny Habits",
+          "apple_music": "https://music.apple.com/us/artist/tiny-habits/1643949763",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Tiny Habits",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Keepers Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/tiny-habits/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/tiny-habits/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dean Johnson & Cat Clyde",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/dean-johnson-cat-clyde/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/dean-johnson-cat-clyde/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Pineapple Thief",
+          "apple_music": "https://music.apple.com/us/artist/the-pineapple-thief/278648772",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Pineapple Thief",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-pineapple-thief/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-pineapple-thief/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Christopher Titus",
+          "apple_music": "https://music.apple.com/us/artist/christopher-titus/250410443",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Christopher Titus",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Doomed To Repeat",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/christopher-titus/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/christopher-titus/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pokey LaFarge",
+          "apple_music": "https://music.apple.com/us/artist/pokey-lafarge/209549495",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Pokey LaFarge",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/pokey-lafarge/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/pokey-lafarge/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Criminal Presents",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Black Criminal Presents DeCRIM @ 70%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Phoebe Judge",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.762,
+          "matched": null,
+          "apple_label": "no confident match (closest: Phoebe Jo @ 76%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "An Evening",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/criminal-presents-an-evening-with-phoebe-judge/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/criminal-presents-an-evening-with-phoebe-judge/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jingle All The Gay",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/jingle-all-the-gay/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/jingle-all-the-gay/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jingle All The Gay",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": null,
+      "show_time": "5:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/jingle-all-the-gay/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/jingle-all-the-gay/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-26",
+      "doors": "7:00 pm",
+      "show_time": "5:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-26",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-27",
+      "doors": "7:00 pm",
+      "show_time": "4:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling of the Holidays",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dec. 21 to 31, 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darling-of-the-holidays/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling’s New Year’s Extravaganza",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darlings-new-years-extravaganza/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darlings-new-years-extravaganza/",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Darling’s New Year’s Extravaganza",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": null,
+      "show_time": "10:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/lucy-darlings-new-years-extravaganza/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/lucy-darlings-new-years-extravaganza/",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dogs In A Pile",
+          "apple_music": "https://music.apple.com/us/artist/dogs-in-a-pile/1564339412",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dogs In A Pile",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "OPENER",
+          "apple_music": "https://music.apple.com/us/artist/opener/1292345006",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Opener",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/dogs-in-a-pile/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/dogs-in-a-pile/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rock Out",
+          "apple_music": "https://music.apple.com/us/artist/rock-out/1535484939",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Rock Out",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Feed Seattle!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "Featuring",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/rock-out-feed-seattle/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/rock-out-feed-seattle/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Pigs On The Wing",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.308,
+          "matched": null,
+          "apple_label": "no confident match (closest: Pink Floyd @ 31%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Beyond Pompeii",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/pigs-on-the-wing/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/pigs-on-the-wing/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TesseracT",
+          "apple_music": "https://music.apple.com/us/artist/tesseract/279204661",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "TesseracT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Entheos",
+          "apple_music": "https://music.apple.com/us/artist/entheos/65557334",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Entheos",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Sunborn",
+          "apple_music": "https://music.apple.com/us/artist/sunborn/1667389591",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Sunborn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/tesseract/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/tesseract/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fruition",
+          "apple_music": "https://music.apple.com/us/artist/fruition/189732852",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Fruition",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Rainbow Girls",
+          "apple_music": "https://music.apple.com/us/artist/rainbow-girls/944525452",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Rainbow Girls",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Something More: The Final Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/fruition/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/fruition/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ray Lau",
+          "apple_music": "https://music.apple.com/us/artist/ray-luv/74538240",
+          "spotify": null,
+          "confidence": 0.857,
+          "matched": "Ray Luv",
+          "apple_label": "close match: Ray Luv",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": null,
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ray-lau/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ray-lau/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ray Lau",
+          "apple_music": "https://music.apple.com/us/artist/ray-luv/74538240",
+          "spotify": null,
+          "confidence": 0.857,
+          "matched": "Ray Luv",
+          "apple_label": "close match: Ray Luv",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ray-lau/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ray-lau/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Watch What Crappens",
+          "apple_music": "https://music.apple.com/us/artist/watch-what-crappens/1250650687",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Watch What Crappens",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "In The Mix Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/watch-what-crappens/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/watch-what-crappens/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brandy Clark",
+          "apple_music": "https://music.apple.com/us/artist/brandy-clark/128654750",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Brandy Clark",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Carlile Family Band",
+          "apple_music": "https://music.apple.com/us/artist/the-carlile-family-band/1765021826",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Carlile Family Band",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/brandy-clark/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/brandy-clark/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jason Cheny",
+          "apple_music": "https://music.apple.com/us/artist/jason-cheny/1427791232",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jason Cheny",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": null,
+      "show_time": "3:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/jason-cheny/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/jason-cheny/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jason Cheny",
+          "apple_music": "https://music.apple.com/us/artist/jason-cheny/1427791232",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jason Cheny",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/jason-cheny/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/jason-cheny/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Michael Shannon & Jason Narducy",
+          "apple_music": "https://music.apple.com/us/artist/michael-shannon/1389380126",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Michael Shannon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-07",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/michael-shannon-jason-narducy/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/michael-shannon-jason-narducy/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Richard Thompson & Band",
+          "apple_music": "https://music.apple.com/us/artist/richard-thompson/264023",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Richard Thompson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "OPENER",
+          "apple_music": "https://music.apple.com/us/artist/opener/1292345006",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Opener",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/richard-thompson-band/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/richard-thompson-band/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Aaron Chen",
+          "apple_music": "https://music.apple.com/us/artist/aaron-chen/1505352688",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Aaron Chen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/aaron-chen/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/aaron-chen/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Aaron Chen",
+          "apple_music": "https://music.apple.com/us/artist/aaron-chen/1505352688",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Aaron Chen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": null,
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/aaron-chen/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/aaron-chen/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mania",
+          "apple_music": "https://music.apple.com/us/artist/mania/1720449640",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "MANIA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The ABBA Tribute",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-17",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/mania-the-abba-tribute/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/mania-the-abba-tribute/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Movement",
+          "apple_music": "https://music.apple.com/us/artist/the-movement/1017059132",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Movement",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "KBong &amp; Johnny Cosmic",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-18",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-movement/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-movement/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Denny Love",
+          "apple_music": "https://music.apple.com/us/artist/denny-love/523967688",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Denny Love",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/denny-love/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/denny-love/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Bouncing Souls ‘Born To Be Tour’",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Suicide Machines",
+          "apple_music": "https://music.apple.com/us/artist/the-suicide-machines/3297161",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Suicide Machines",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "'Born To Be Tour'",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/the-bouncing-souls-born-to-be-tour/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/the-bouncing-souls-born-to-be-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nordic Pop",
+          "apple_music": "https://music.apple.com/us/artist/nordic-pop-anthems/1871458128",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Nordic Pop Anthems",
+          "apple_label": "close match: Nordic Pop Anthems",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-21",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/nordic-pop/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/nordic-pop/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Valley",
+          "apple_music": "https://music.apple.com/us/artist/valley/1004752984",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Valley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/valley/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/valley/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dustin Nickerson",
+          "apple_music": "https://music.apple.com/us/artist/dustin-nickerson/1545462905",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dustin Nickerson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/dustin-nickerson/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/dustin-nickerson/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dustin Nickerson",
+          "apple_music": "https://music.apple.com/us/artist/dustin-nickerson/1545462905",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dustin Nickerson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "5:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/dustin-nickerson/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/dustin-nickerson/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Michael Kosta",
+          "apple_music": "https://books.apple.com/us/artist/michael-kosta/417397764",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Michael Kosta",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/michael-kosta/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/michael-kosta/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Oteil & Friends",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.242,
+          "matched": null,
+          "apple_label": "no confident match (closest: Hank Williams, Jr. @ 24%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "featuring Steve Kimock, Jason Crosby, Lamar Williams Jr., Johnny Kimock, &amp; Tom Guarna",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/oteil-friends/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/oteil-friends/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Peter Antoniou",
+          "apple_music": "https://books.apple.com/us/author/peter-anthony/id254250175",
+          "spotify": null,
+          "confidence": 0.815,
+          "matched": "Peter Anthony",
+          "apple_label": "close match: Peter Anthony",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/peter-antoniou/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/peter-antoniou/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "David Nihill",
+          "apple_music": "https://music.apple.com/us/artist/david-hill/1637664",
+          "spotify": null,
+          "confidence": 0.909,
+          "matched": "David Hill",
+          "apple_label": "close match: David Hill",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-13",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/david-nihill/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/david-nihill/",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Northlane",
+          "apple_music": "https://music.apple.com/us/artist/northlane/347235419",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Northlane",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-17",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/northlane/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/northlane/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rising Appalachia",
+          "apple_music": "https://music.apple.com/us/artist/rising-appalachia/252429113",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Rising Appalachia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Paper Wings",
+          "apple_music": "https://music.apple.com/us/artist/paper-wings/1047085080",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Paper Wings",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Trade My Troubles Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/rising-appalachia/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/rising-appalachia/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BERTHA",
+          "apple_music": "https://music.apple.com/us/artist/bertha-grateful-drag/1743215675",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "BERTHA: Grateful Drag",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Grateful Drag",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/bertha-grateful-drag/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/bertha-grateful-drag/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "VNV Nation",
+          "apple_music": "https://music.apple.com/us/artist/vnv-nation/49251259",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "VNV Nation",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-24",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/vnv-nation-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/vnv-nation-2027/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Daniel Donato",
+          "apple_music": "https://music.apple.com/us/artist/daniel-donato/353023732",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Daniel Donato",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/daniel-donato/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/daniel-donato/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Will Burkart",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.667,
+          "matched": null,
+          "apple_label": "no confident match (closest: Will McCartt @ 67%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-27",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/will-burkart/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/will-burkart/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ashley Gavin",
+          "apple_music": "https://music.apple.com/us/artist/ashley-gavin/1850486236",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ashley Gavin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ashley-gavin/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ashley-gavin/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bruce Cockburn",
+          "apple_music": "https://music.apple.com/us/artist/bruce-cockburn/497130",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Bruce Cockburn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/bruce-cockburn/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/bruce-cockburn/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bruce Cockburn",
+          "apple_music": "https://music.apple.com/us/artist/bruce-cockburn/497130",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Bruce Cockburn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/bruce-cockburn/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/bruce-cockburn/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "moe",
+          "apple_music": "https://music.apple.com/us/artist/moe/1419758023",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Moe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "No Hibernation Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/moe/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/moe/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "apple_music": "https://music.apple.com/us/artist/brad-mehldau-trio/275971254",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Brad Mehldau Trio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "with Larry Grenadier &amp; Marcus Gilmore",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-11",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/brad-mehldau-trio/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/brad-mehldau-trio/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sona Jobarteh",
+          "apple_music": "https://music.apple.com/us/artist/sona-jobarteh/433731587",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Sona Jobarteh",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/sona-jobarteh/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/sona-jobarteh/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Harsh Gujral",
+          "apple_music": "https://music.apple.com/us/artist/harsh-gujral/1698612613",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Harsh Gujral",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-16",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/harsh-gujral/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/harsh-gujral/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Elder",
+          "apple_music": "https://music.apple.com/us/artist/elder/461077602",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Elder",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/elder-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/elder-2027/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ari Matti",
+          "apple_music": "https://music.apple.com/us/artist/ari-matti-saira/722312214",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Ari-Matti Saira",
+          "apple_label": "close match: Ari-Matti Saira",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-23",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ari-matti/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ari-matti/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ari Matti",
+          "apple_music": "https://music.apple.com/us/artist/ari-matti-saira/722312214",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Ari-Matti Saira",
+          "apple_label": "close match: Ari-Matti Saira",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-23",
+      "doors": null,
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ari-matti/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ari-matti/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mei Semones",
+          "apple_music": "https://music.apple.com/us/artist/mei-semones/1502896956",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mei Semones",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/mei-semones/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/mei-semones/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Faun",
+          "apple_music": "https://music.apple.com/us/artist/faun/61412380",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Faun",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-29",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/faun/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/faun/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening",
+          "apple_music": "https://music.apple.com/us/artist/an-evening-redness/1601547711",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "An Evening Redness",
+          "apple_label": "close match: An Evening Redness",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "CG5",
+          "apple_music": "https://music.apple.com/us/artist/cg5/870726129",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "CG5",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The GAMER Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/an-evening-with-cg5/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/an-evening-with-cg5/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Palaye Royale",
+          "apple_music": "https://music.apple.com/us/artist/palaye-royale/508487574",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Palaye Royale",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "With Beauty School Dropout",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/palaye-royale/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/palaye-royale/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Too Many Zooz",
+          "apple_music": "https://music.apple.com/us/artist/too-many-zooz/885114063",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Too Many Zooz",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Audio Lipstick Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/too-many-zooz/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/too-many-zooz/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Enjambre",
+          "apple_music": "https://music.apple.com/us/artist/enjambre/55061637",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Enjambre",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/enjambre/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/enjambre/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Kunal Kamra",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/kunal-kamra/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/kunal-kamra/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hazlett",
+          "apple_music": "https://music.apple.com/us/artist/hazlett/274443511",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Hazlett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Musical Guest: Hunter Metts",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/hazlett-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/hazlett-2027/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "John Splithoff",
+          "apple_music": "https://music.apple.com/us/artist/john-splithoff/715959373",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "John Splithoff",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/john-splithoff/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/john-splithoff/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "They Might Be Giants",
+          "apple_music": "https://music.apple.com/us/artist/they-might-be-giants/149020",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "They Might Be Giants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "An Evening With",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "They Might Be Giants",
+          "apple_music": "https://music.apple.com/us/artist/they-might-be-giants/149020",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "They Might Be Giants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "An Evening With",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "They Might Be Giants",
+          "apple_music": "https://music.apple.com/us/artist/they-might-be-giants/149020",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "They Might Be Giants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "An Evening With",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "They Might Be Giants",
+          "apple_music": "https://music.apple.com/us/artist/they-might-be-giants/149020",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "They Might Be Giants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "An Evening With",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/they-might-be-giants/",
+      "room": null,
+      "age_rating": "16+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Steam Powered Giraffe",
+          "apple_music": "https://music.apple.com/us/artist/steam-powered-giraffe/316683061",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Steam Powered Giraffe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Live In Concert",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-07-31",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/steam-powered-giraffe/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/steam-powered-giraffe/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Steve Hofstetter",
+          "apple_music": "https://music.apple.com/us/artist/steve-hofstetter/130203571",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Steve Hofstetter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-06",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/steve-hofstetter-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/steve-hofstetter-2027/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 77,
+      "comedy": 22,
+      "film": 0,
+      "other": 4
+    },
+    "apple_music": {
+      "unique_artists": 98,
+      "found": 83,
+      "exact": 72,
+      "close": 3,
+      "flagged": 8,
+      "not_found": 15
+    },
+    "spotify": {
+      "unique_artists": 98,
+      "linked": 0,
+      "venue": 0,
+      "api": 0,
+      "feed": 0,
+      "shows_with_link": 0
+    }
+  }
+}

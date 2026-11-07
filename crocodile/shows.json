@@ -1,0 +1,467 @@
+{
+  "venue": "The Crocodile",
+  "venue_id": "crocodile",
+  "venue_url": "https://www.thecrocodile.com/",
+  "source_url": "https://www.ticketweb.com/venue/the-crocodile-seattle-wa/10352",
+  "city": "Seattle, WA",
+  "metro": "Seattle",
+  "neighborhood": "Belltown",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-07",
+  "count": 10,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tank and The Bangas",
+          "apple_music": "https://music.apple.com/us/artist/tank-and-the-bangas/685630243",
+          "spotify": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7",
+          "confidence": 1.0,
+          "matched": "Tank and the Bangas",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ariel J. &amp; Zeus",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Ariel J. @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-10",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/tank-and-the-bangas-the-crocodile-tickets/14795943",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/tank-and-the-bangas-the-crocodile-tickets/14795943",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Armand Hammer",
+          "apple_music": "https://music.apple.com/us/artist/armand-hammer/717788605",
+          "spotify": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C",
+          "confidence": 1.0,
+          "matched": "Armand Hammer",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sha Ray",
+          "apple_music": "https://music.apple.com/us/artist/sha-ray/1715343231",
+          "spotify": "https://open.spotify.com/artist/6kHupYxKkDFa7hIlQTu4ON",
+          "confidence": 1.0,
+          "matched": "sha ray",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "DJ Haram",
+          "apple_music": "https://music.apple.com/us/artist/dj-haram/1126058225",
+          "spotify": "https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl",
+          "confidence": 1.0,
+          "matched": "DJ Haram",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/armand-hammer-sha-ray-dj-the-crocodile-tickets/14010024",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/armand-hammer-sha-ray-dj-the-crocodile-tickets/14010024",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nekrogoblikon",
+          "apple_music": "https://music.apple.com/us/artist/nekrogoblikon/211735139",
+          "spotify": "https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF",
+          "confidence": 1.0,
+          "matched": "Nekrogoblikon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Aborted",
+          "apple_music": "https://music.apple.com/us/artist/aborted/155833533",
+          "spotify": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR",
+          "confidence": 1.0,
+          "matched": "Aborted",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "apple_music": "https://music.apple.com/us/artist/signs-of-the-swarm/1109559990",
+          "spotify": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS",
+          "confidence": 1.0,
+          "matched": "Signs of the Swarm",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Party Cannon",
+          "apple_music": "https://music.apple.com/us/artist/party-cannon/906091085",
+          "spotify": "https://open.spotify.com/artist/5Oz5WX5xkESHBH5I4Wp09C",
+          "confidence": 1.0,
+          "matched": "Party Cannon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nekrogoblikon-aborted-signs-of-the-the-crocodile-tickets/14978383",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/nekrogoblikon-aborted-signs-of-the-the-crocodile-tickets/14978383",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Son Volt",
+          "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
+          "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
+          "confidence": 1.0,
+          "matched": "Son Volt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Kelly Willis",
+          "apple_music": "https://music.apple.com/us/artist/kelly-willis/70312",
+          "spotify": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E",
+          "confidence": 1.0,
+          "matched": "Kelly Willis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/son-volt-kelly-willis-the-crocodile-tickets/14896643",
+      "ticket_status": "sold out",
+      "event_page": "https://www.ticketweb.com/event/son-volt-kelly-willis-the-crocodile-tickets/14896643",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Stephen Day Presents",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5",
+          "confidence": 0.4,
+          "matched": null,
+          "apple_label": "no confident match (closest: Sunday Service Choir @ 40%)",
+          "spotify_label": "close match: Stephen Day",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": null,
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/stephen-day-presents-the-self-the-crocodile-tickets/14970773",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/stephen-day-presents-the-self-the-crocodile-tickets/14970773",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nite Wave present: The Cure",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.457,
+          "matched": null,
+          "apple_label": "no confident match (closest: The Cure @ 46%)",
+          "spotify_label": "no confident match (closest: The Cure @ 46%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Depeche Mode &amp; New Order Tribute Night",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Depeche Mode @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": null,
+      "show_time": "8:45 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nite-wave-present-the-cure-the-crocodile-tickets/14866603",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/nite-wave-present-the-cure-the-crocodile-tickets/14866603",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Buck Meek",
+          "apple_music": "https://music.apple.com/us/artist/buck-meek/945437033",
+          "spotify": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR",
+          "confidence": 1.0,
+          "matched": "Buck Meek",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Kisser",
+          "apple_music": "https://music.apple.com/us/artist/kisser/308589160",
+          "spotify": "https://open.spotify.com/artist/7oSTBGTdRpwnvPLEOFB9bQ",
+          "confidence": 1.0,
+          "matched": "Kisser",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/buck-meek-kisser-the-crocodile-tickets/14171594",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/buck-meek-kisser-the-crocodile-tickets/14171594",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mohanad Elshieky: Green Books",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mohamad Eskandar @ 49%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/mohanad-elshieky-green-books-the-crocodile-tickets/14768543",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/mohanad-elshieky-green-books-the-crocodile-tickets/14768543",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Book of Love",
+          "apple_music": "https://music.apple.com/us/artist/book-of-love/903133",
+          "spotify": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo",
+          "confidence": 1.0,
+          "matched": "Book of Love",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": null,
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/book-of-love-the-crocodile-tickets/15033413",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/book-of-love-the-crocodile-tickets/15033413",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Death From Above 1979",
+          "apple_music": "https://music.apple.com/us/artist/death-from-above-1979/31683901",
+          "spotify": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj",
+          "confidence": 1.0,
+          "matched": "Death from Above 1979",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-31",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/death-from-above-1979-the-crocodile-tickets/14896893",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketweb.com/event/death-from-above-1979-the-crocodile-tickets/14896893",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 9,
+      "comedy": 0,
+      "film": 0,
+      "other": 1
+    },
+    "apple_music": {
+      "unique_artists": 19,
+      "found": 14,
+      "exact": 14,
+      "close": 0,
+      "flagged": 0,
+      "not_found": 5
+    },
+    "spotify": {
+      "unique_artists": 19,
+      "linked": 15,
+      "venue": 0,
+      "api": 15,
+      "feed": 0,
+      "shows_with_link": 8
+    }
+  }
+}

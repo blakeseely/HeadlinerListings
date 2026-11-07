@@ -1,0 +1,2275 @@
+{
+  "venue": "The Showbox",
+  "venue_id": "showbox",
+  "venue_url": "https://www.showboxpresents.com",
+  "source_url": "https://www.showboxpresents.com/events/",
+  "city": "Seattle, WA",
+  "metro": "Seattle",
+  "neighborhood": "Downtown",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-07",
+  "count": 56,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dax",
+          "apple_music": "https://music.apple.com/us/artist/dax/1368102340",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dax",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Navv",
+          "apple_music": "https://music.apple.com/us/artist/navv/1696190942",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "NAVV",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Anger Management Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1451267/dax-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1451267",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Black Angels",
+          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Black Angels",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "GHOSTWOMAN",
+          "apple_music": "https://music.apple.com/us/artist/ghostwoman/1452069519",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "GHOSTWOMAN",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Passover 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1408464/the-black-angels-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1408464",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "pinponpanpon",
+          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "pinponpanpon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1572733/lucy-bedroque-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1572733",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "L7",
+          "apple_music": "https://music.apple.com/us/artist/l7/192131",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "L7",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Nobro",
+          "apple_music": "https://music.apple.com/us/artist/nobro/1450330746",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "NOBRO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Last Hurrah Tour 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1435102/l7-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1435102",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Allison Russell",
+          "apple_music": "https://music.apple.com/us/artist/allison-russell/451740458",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Allison Russell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Autumn Nicholas",
+          "apple_music": "https://music.apple.com/us/artist/autumn-nicholas/417555561",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Autumn Nicholas",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1559304/allison-russell-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1559304",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Yuki Chiba",
+          "apple_music": "https://music.apple.com/us/artist/yuki-chiba/1727997785",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Yuki Chiba",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "FIRST NORTH AMERICA HEADLINE TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1533680/yuki-chiba-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1533680",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Inna",
+          "apple_music": "https://music.apple.com/us/artist/inna/269986851",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "INNA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1321052/inna-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1321052",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "GorillaT",
+          "apple_music": "https://music.apple.com/us/artist/gorillat/1545259749",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "GorillaT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Montycler and Gensuo",
+          "apple_music": "https://music.apple.com/us/artist/montycler/1080006529",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "MontyCler",
+          "apple_label": "compound bill — links to MontyCler only",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "INNER MIND TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1538054/gorillat-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1538054",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Russian Circles",
+          "apple_music": "https://music.apple.com/us/artist/russian-circles/145624352",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Russian Circles",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Primitive Man",
+          "apple_music": "https://music.apple.com/us/artist/primitive-man/419043546",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Primitive Man",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1497540/russian-circles-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1497540",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Arch Enemy & The Black Dahlia Murder",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Septicflesh",
+          "apple_music": "https://music.apple.com/us/artist/septicflesh/275730586",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Septicflesh",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Crypta",
+          "apple_music": "https://music.apple.com/us/artist/crypta/1562339110",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Crypta",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "and Thrown Into Exile",
+          "apple_music": "https://music.apple.com/us/artist/thrown-into-exile/619888175",
+          "spotify": null,
+          "confidence": 0.9,
+          "matched": "Thrown into Exile",
+          "apple_label": "close match: Thrown into Exile",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Wrath Across North America 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-16",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.axs.com/events/1451139/arch-enemy-the-black-dahlia-murder-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1451139",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Turnover",
+          "apple_music": "https://music.apple.com/us/artist/turnover/442727465",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Turnover",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Nothing and Trauma Ray",
+          "apple_music": "https://music.apple.com/us/artist/nothing/593213453",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Nothing",
+          "apple_label": "compound bill — links to Nothing only",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1496268/turnover-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1496268",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "State Champs",
+          "apple_music": "https://music.apple.com/us/artist/state-champs/388451690",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "State Champs",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Cartel",
+          "apple_music": "https://music.apple.com/us/artist/cartel/19107135",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Cartel",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Taylor Acorn",
+          "apple_music": "https://music.apple.com/us/artist/taylor-acorn/1161476048",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Taylor Acorn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "and Like Roses",
+          "apple_music": "https://music.apple.com/us/artist/like-roses/1194077299",
+          "spotify": null,
+          "confidence": 0.9,
+          "matched": "Like Roses",
+          "apple_label": "close match: Like Roses",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "10 YEARS OF ‘AROUND THE WORLD AND BACK'",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1484026/state-champs-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1484026",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lil Tracy performing live! with special guests",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1644690/lil-tracy-performing-live-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1644690",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Baby Smoove Live!",
+          "apple_music": "https://music.apple.com/us/artist/baby-smoove/1209282817",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Baby Smoove",
+          "apple_label": "close match: Baby Smoove",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Purple Heart Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1610757/baby-smoove-live-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1610757",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jai Wolf",
+          "apple_music": "https://music.apple.com/us/artist/jai-wolf/896670451",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jai Wolf",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Conrad",
+          "apple_music": "https://music.apple.com/us/artist/conrad/1504597473",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Conrad",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "10 Year Anniversary Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1495149/jai-wolf-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1495149",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Boston Manor",
+          "apple_music": "https://music.apple.com/us/artist/boston-manor/453487358",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Boston Manor",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ben Quad",
+          "apple_music": "https://music.apple.com/us/artist/ben-quad/1433413372",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ben Quad",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Super Sometimes",
+          "apple_music": "https://music.apple.com/us/artist/super-sometimes/1822567064",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Super Sometimes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "\"Be Nothing\" 10 Year Anniversary",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1462887/boston-manor-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1462887",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DENNETT",
+          "apple_music": "https://music.apple.com/us/artist/dennett/1509557629",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dennett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Back to the Roadhouse Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1566275/dennett-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1566275",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Valentino Khan",
+          "apple_music": "https://music.apple.com/us/artist/valentino-khan/508730372",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Valentino Khan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jake Shore",
+          "apple_music": "https://music.apple.com/us/artist/jake-shore/1518622610",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jake Shore",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "EXTRAMANIA",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1471585/valentino-khan-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1471585",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wolf Parade",
+          "apple_music": "https://music.apple.com/us/artist/wolf-parade/73516820",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Wolf Parade",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1425271/wolf-parade-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1425271",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Insomnium & Amorphis",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Hinayana",
+          "apple_music": "https://music.apple.com/us/artist/hinayana/615846969",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Hinayana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-02",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1583424/insomnium-amorphis-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1583424",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Kamasi Washington",
+          "apple_music": "https://music.apple.com/us/artist/kamasi-washington/154076564",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Kamasi Washington",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bartees Strange",
+          "apple_music": "https://music.apple.com/us/artist/bartees-strange/1450776625",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Bartees Strange",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "mega cat",
+          "apple_music": "https://music.apple.com/us/artist/mega-cat/1712210496",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "mega cat",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Yule Benefit Tour 2026",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1593448/kamasi-washington-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1593448",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BOLO THE DJ",
+          "apple_music": "https://music.apple.com/us/artist/bolo-the-dj/1618572991",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "BOLO THE DJ",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1569821/bolo-the-dj-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1569821",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wild Rumours",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.333,
+          "matched": null,
+          "apple_label": "no confident match (closest: Depeche Mode @ 33%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bowie/Rex & His Boogie Army",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.263,
+          "matched": null,
+          "apple_label": "no confident match (closest: David Bowie @ 26%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "A Fleetwood Mac Experience",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1622829/wild-rumours-a-fleetwood-mac-experience-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1622829",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Suicide Silence",
+          "apple_music": "https://music.apple.com/us/artist/suicide-silence/181915332",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Suicide Silence",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Emmure",
+          "apple_music": "https://music.apple.com/us/artist/emmure/215655584",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Emmure",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "AngelMaker",
+          "apple_music": "https://music.apple.com/us/artist/angelmaker/987766441",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Angelmaker",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "and Synestia",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.514,
+          "matched": null,
+          "apple_label": "no confident match (closest: PROTOTYPE & SYNESTHESIA @ 51%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "REMINDERS OF HELL TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-08",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1521766/suicide-silence-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1521766",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Yaelokre",
+          "apple_music": "https://music.apple.com/us/artist/yaelokre/1722325489",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Yaelokre",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ben Caplan",
+          "apple_music": "https://music.apple.com/us/artist/ben-caplan/477212909",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ben Caplan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1489846/yaelokre-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1489846",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Spike & The Gimme Gimmes",
+          "apple_music": "https://music.apple.com/us/artist/spike-and-the-gimme-gimmes/1851589000",
+          "spotify": null,
+          "confidence": 0.9,
+          "matched": "Spike and the Gimme Gimmes",
+          "apple_label": "close match: Spike and the Gimme Gimmes",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Riverboat Gamblers",
+          "apple_music": "https://music.apple.com/us/artist/the-riverboat-gamblers/1697237801",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Riverboat Gamblers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Fan Club",
+          "apple_music": "https://music.apple.com/us/artist/fan-club/1755676198",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Fan Club",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1616994/spike-the-gimme-gimmes-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1616994",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jason Ross",
+          "apple_music": "https://music.apple.com/us/artist/jason-ross/129061595",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jason Ross",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE TRUE NORTH TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "11:00 pm",
+      "show_time": "11:00 pm",
+      "ticket_link": "https://www.axs.com/events/1433027/jason-ross-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1433027",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Earlybirds Club",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "6:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.axs.com/events/1645261/earlybirds-club-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1645261",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SMooCH 2026",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.125,
+          "matched": null,
+          "apple_label": "no confident match (closest: Creed @ 12%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Deep Sea Diver and Soul Asylum",
+          "apple_music": "https://music.apple.com/us/artist/deep-sea-diver/529644109",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Deep Sea Diver",
+          "apple_label": "compound bill — links to Deep Sea Diver only",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "7:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1616986/smooch-2026-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1616986",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dead Poet Society",
+          "apple_music": "https://music.apple.com/us/artist/dead-poet-society/583985425",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dead Poet Society",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Honey Revenge",
+          "apple_music": "https://music.apple.com/us/artist/honey-revenge/1589490332",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Honey Revenge",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "HUNNY",
+          "apple_music": "https://music.apple.com/us/artist/hunny/1050839371",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "HUNNY",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        },
+        {
+          "name": "Broadside",
+          "apple_music": "https://music.apple.com/us/artist/broadside/169939373",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Broadside",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": "5:30 pm",
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.axs.com/events/1536062/dead-poet-society-x-honey-revenge-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1536062",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "JUNHEE",
+          "apple_music": "https://music.apple.com/us/artist/junhee/1832614751",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "JUNHEE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1690260/junhee-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1690260",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "apple_music": "https://music.apple.com/us/artist/jkyl-hyde/1281696918",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jkyl & Hyde",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Klo and Nghtrunr",
+          "apple_music": "https://music.apple.com/us/artist/klo/1503314246",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Klo",
+          "apple_label": "compound bill — links to Klo only",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1601658/jkyl-hyde-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1601658",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "High On Fire",
+          "apple_music": "https://music.apple.com/us/artist/high-on-fire/19111598",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "High On Fire",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "ZEKE",
+          "apple_music": "https://music.apple.com/us/artist/zeke/7383927",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Zeke",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1612168/high-on-fire-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1612168",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Super Diamond",
+          "apple_music": "https://music.apple.com/us/artist/super-diamond/6771701161",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "SUPER DIAMOND",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Neil Diamond Tribute",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1502845/super-diamond-the-neil-diamond-tribute-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1502845",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Glee Night",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.632,
+          "matched": null,
+          "apple_label": "no confident match (closest: Glee Cast @ 63%)",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "9:00 pm",
+      "show_time": "10:00 pm",
+      "ticket_link": "https://www.axs.com/events/1683839/glee-night-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1683839",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bad Suns",
+          "apple_music": "https://music.apple.com/us/artist/bad-suns/623897863",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Bad Suns",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Disappear Here: A 10 Year Celebration",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1605520/bad-suns-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1605520",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Smith & Myers",
+          "apple_music": "https://music.apple.com/us/artist/smith-myers/797363260",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Smith & Myers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Brian Dunne",
+          "apple_music": "https://music.apple.com/us/artist/brian-dunne/254576265",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Brian Dunne",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1608410/smith-myers-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1608410",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "La Roux",
+          "apple_music": "https://music.apple.com/us/artist/la-roux/292533375",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "La Roux",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE OLD FLAMES TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-15",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1600934/la-roux-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1600934",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "James Marriott",
+          "apple_music": "https://music.apple.com/us/artist/james-marriott/458203329",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "James Marriott",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-25",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1621552/james-marriott-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1621552",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Caroline Rose",
+          "apple_music": "https://music.apple.com/us/artist/caroline-rose/436333749",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Caroline Rose",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Uncle Carol's World of Fun Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1664415/caroline-rose-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1664415",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Braxton Keith",
+          "apple_music": "https://music.apple.com/us/artist/braxton-keith/1461689256",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Braxton Keith",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Tyla Rodrigues",
+          "apple_music": "https://music.apple.com/us/artist/tyla-rodrigues/1606749256",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Tyla Rodrigues",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1617577/braxton-keith-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1617577",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Grateful Shred",
+          "apple_music": "https://music.apple.com/us/artist/grateful-shred/1454461227",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Grateful Shred",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1596351/grateful-shred-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1596351",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Little Big",
+          "apple_music": "https://music.apple.com/us/artist/little-big/310964912",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Little Big",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1687951/little-big-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1687951",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "HYUKOH",
+          "apple_music": "https://music.apple.com/us/artist/hyukoh/927548906",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "HYUKOH",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "HYUKOH [33] TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-31",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1690449/hyukoh-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1690449",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "THE ELOVATERS",
+          "apple_music": "https://music.apple.com/us/artist/the-elovaters/1196949898",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Elovaters",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dylan Cotrone",
+          "apple_music": "https://music.apple.com/us/artist/dylan-cotrone/1738973934",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Dylan Cotrone",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "SHARK BELLY MOTEL TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-01",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1638918/the-elovaters-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1638918",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Damned",
+          "apple_music": "https://music.apple.com/us/artist/the-damned/3184019",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Damned",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Mudhoney",
+          "apple_music": "https://music.apple.com/us/artist/mudhoney/191949",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mudhoney",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "FINAL DAMNATION 50",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-04",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.axs.com/events/1663933/the-damned-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1663933",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Boy Throb's Real Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1681875/boy-throbs-real-tour-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1681875",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Chats",
+          "apple_music": "https://music.apple.com/us/artist/the-chats/1321961023",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Chats",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Chain Whip and Gymshorts",
+          "apple_music": "https://music.apple.com/us/artist/chain-whip/1397000632",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Chain Whip",
+          "apple_label": "compound bill — links to Chain Whip only",
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "US TOUR 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1678568/the-chats-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1678568",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lambrini Girls",
+          "apple_music": "https://music.apple.com/us/artist/lambrini-girls/1541291393",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Lambrini Girls",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "SPRINTS",
+          "apple_music": "https://music.apple.com/us/artist/sprints/1457102942",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "SPRINTS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "No Refunds Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1662628/lambrini-girls-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1662628",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TWRP",
+          "apple_music": "https://music.apple.com/us/artist/twrp/410071172",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "TWRP",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jazz Emu",
+          "apple_music": "https://music.apple.com/us/artist/jazz-emu/1445586448",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Jazz Emu",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The ACTION SEQUENCE TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1690446/twrp-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1690446",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "apple_music": "https://music.apple.com/us/artist/mass-of-the-fermenting-dregs/270350271",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "MASS OF THE FERMENTING DREGS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-24",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1556878/mass-of-the-fermenting-dregs-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1556878",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ocean Alley",
+          "apple_music": "https://music.apple.com/us/artist/ocean-alley/703863167",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ocean Alley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Mild Orange",
+          "apple_music": "https://music.apple.com/us/artist/mild-orange/1291290816",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Mild Orange",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1674984/ocean-alley-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1674984",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DIIV",
+          "apple_music": "https://music.apple.com/us/artist/diiv/526559399",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "DIIV",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "she's green",
+          "apple_music": "https://music.apple.com/us/artist/shes-green/1614567574",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "she's green",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "ZIRP! The World",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1674902/diiv-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1674902",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Wombats A Guide to Love Loss",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Lathums",
+          "apple_music": "https://music.apple.com/us/artist/the-lathums/1397009313",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Lathums",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "And Desperation 20th Anniversary",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-19",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1661462/the-wombats-a-guide-to-love-loss-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1661462",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "She Past Away",
+          "apple_music": "https://music.apple.com/us/artist/she-past-away/347750887",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "She Past Away",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Mizantrop Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1660131/she-past-away-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1660131",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "apple_music": "https://music.apple.com/us/artist/the-airborne-toxic-event/252572441",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Airborne Toxic Event",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Way Home 20 Year Anniversary Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1439169/the-airborne-toxic-event-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1439169",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 56,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 100,
+      "found": 89,
+      "exact": 80,
+      "close": 0,
+      "flagged": 9,
+      "not_found": 11
+    },
+    "spotify": {
+      "unique_artists": 100,
+      "linked": 0,
+      "venue": 0,
+      "api": 0,
+      "feed": 0,
+      "shows_with_link": 0
+    }
+  }
+}

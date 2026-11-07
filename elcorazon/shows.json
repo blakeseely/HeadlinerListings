@@ -1,0 +1,1994 @@
+{
+  "venue": "El Corazón",
+  "venue_id": "elcorazon",
+  "venue_url": "https://www.elcorazonseattle.com",
+  "source_url": "https://www.elcorazonseattle.com/calendar",
+  "city": "Seattle, WA",
+  "metro": "Seattle",
+  "neighborhood": "South Lake Union",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-07",
+  "count": 35,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Claudio Simonetti’s Goblin",
+          "apple_music": "https://music.apple.com/us/artist/claudio-simonettis-goblin/885492325",
+          "spotify": "https://open.spotify.com/artist/4FwmOYxQRj3VWzyh55CFIM",
+          "confidence": 1.0,
+          "matched": "Claudio Simonetti's Goblin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/claudio-simonetti-s-goblin-tenebre-07-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Exhumed",
+          "apple_music": "https://music.apple.com/us/artist/exhumed/74420429",
+          "spotify": "https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu",
+          "confidence": 1.0,
+          "matched": "Exhumed",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jarhead Fertilizer",
+          "apple_music": "https://music.apple.com/us/artist/jarhead-fertilizer/1375103289",
+          "spotify": "https://open.spotify.com/artist/58NoEzpin3N6OEtvVZwOtj",
+          "confidence": 1.0,
+          "matched": "Jarhead Fertilizer",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Savage Master",
+          "apple_music": "https://music.apple.com/us/artist/savage-master/1087959517",
+          "spotify": "https://open.spotify.com/artist/2i1pwiHsoPzbnD74nnRZ2T",
+          "confidence": 1.0,
+          "matched": "Savage Master",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Molder",
+          "apple_music": "https://music.apple.com/us/artist/molder/133148909",
+          "spotify": "https://open.spotify.com/artist/6edvy7ZayyReFco74MJU5k",
+          "confidence": 1.0,
+          "matched": "Molder",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/exhumed-08-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Static Dress",
+          "apple_music": "https://music.apple.com/us/artist/static-dress/1476714067",
+          "spotify": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi",
+          "confidence": 1.0,
+          "matched": "Static Dress",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "I Promised The World",
+          "apple_music": "https://music.apple.com/us/artist/i-promised-the-world/1815804141",
+          "spotify": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk",
+          "confidence": 1.0,
+          "matched": "I Promised The World",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Car Underwater",
+          "apple_music": "https://music.apple.com/us/artist/car-underwater/1856862721",
+          "spotify": "https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF",
+          "confidence": 1.0,
+          "matched": "Car Underwater",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sherane",
+          "apple_music": "https://music.apple.com/us/artist/sherane/1864674535",
+          "spotify": "https://open.spotify.com/artist/69ctHvaLA49rTg5Udcy4cW",
+          "confidence": 1.0,
+          "matched": "Sherane",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/static-dress-injury-episode-usa-tour-12-nov",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Goddamn Gallows",
+          "apple_music": "https://music.apple.com/us/artist/the-goddamn-gallows/359528113",
+          "spotify": "https://open.spotify.com/artist/2U05isWo2NVpmgI2BF72l3",
+          "confidence": 1.0,
+          "matched": "The Goddamn Gallows",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "King Sickabilly",
+          "apple_music": "https://music.apple.com/us/artist/king-sickabilly/6797447145",
+          "spotify": "https://open.spotify.com/artist/5tuHumunp3Wpy5fiGiN29x",
+          "confidence": 1.0,
+          "matched": "KING SICKABILLY",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "1876",
+          "apple_music": "https://music.apple.com/us/artist/1876/1529186599",
+          "spotify": "https://open.spotify.com/artist/17QrBbpLM92JWcGUx0cyPb",
+          "confidence": 1.0,
+          "matched": "1876",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Shivering Denizens",
+          "apple_music": "https://music.apple.com/us/artist/the-shivering-denizens/340259662",
+          "spotify": "https://open.spotify.com/artist/0gg6kl3pkSOxX08D7Uwmoe",
+          "confidence": 1.0,
+          "matched": "The Shivering Denizens",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Stoned Evergreen Travelers",
+          "apple_music": "https://music.apple.com/us/artist/stoned-evergreen-travelers/1229513782",
+          "spotify": "https://open.spotify.com/artist/1V4Je1uv6GnPSnnLNmermD",
+          "confidence": 1.0,
+          "matched": "Stoned Evergreen Travelers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/the-goddamn-gallows-13-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Punchis Punchis Banda Rave",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Punch Brothers @ 45%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/punchis-punchis-banda-rave-experience-15-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2slimey",
+          "apple_music": "https://music.apple.com/us/artist/2slimey/1577410850",
+          "spotify": "https://open.spotify.com/artist/0ZXbQLu4a7sk3iQ8tlgFy4",
+          "confidence": 1.0,
+          "matched": "2slimey",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/2slimey-straight-bass-tour-15-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fear Factory",
+          "apple_music": "https://music.apple.com/us/artist/fear-factory/15773169",
+          "spotify": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX",
+          "confidence": 1.0,
+          "matched": "Fear Factory",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Darkest Hour",
+          "apple_music": "https://music.apple.com/us/artist/darkest-hour/15366902",
+          "spotify": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq",
+          "confidence": 1.0,
+          "matched": "Darkest Hour",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Brotality",
+          "apple_music": "https://music.apple.com/us/artist/brotality/1498074541",
+          "spotify": "https://open.spotify.com/artist/1YKdG7Vru85xcH0DDBlQW8",
+          "confidence": 1.0,
+          "matched": "Brotality",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Lacabra",
+          "apple_music": "https://music.apple.com/us/artist/lacabra/1622791161",
+          "spotify": "https://open.spotify.com/artist/3vUiPAhpOCW2r5TdcyQrc3",
+          "confidence": 1.0,
+          "matched": "LACABRA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/fear-factory-cybernetic-domination-tour-2026-20-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Psycroptic",
+          "apple_music": "https://music.apple.com/us/artist/psycroptic/152588505",
+          "spotify": "https://open.spotify.com/artist/2O8ZayBAqBqoXujSAAx7pm",
+          "confidence": 1.0,
+          "matched": "Psycroptic",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Inferi",
+          "apple_music": "https://music.apple.com/us/artist/inferi/259113105",
+          "spotify": "https://open.spotify.com/artist/2DlKh1IzbG3EwAMaTF2p4A",
+          "confidence": 1.0,
+          "matched": "Inferi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Cognitive",
+          "apple_music": "https://music.apple.com/us/artist/cognitive/551895725",
+          "spotify": "https://open.spotify.com/artist/0Hlqz8aUm8vneFH4NFxepf",
+          "confidence": 1.0,
+          "matched": "Cognitive",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Summoning The Lich",
+          "apple_music": "https://music.apple.com/us/artist/summoning-the-lich/1299309627",
+          "spotify": "https://open.spotify.com/artist/50hQBBOvJ0XIyUmFEnCy2W",
+          "confidence": 1.0,
+          "matched": "Summoning the Lich",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-21",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/psycroptic-21-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Distant",
+          "apple_music": "https://music.apple.com/us/artist/distant/1456297458",
+          "spotify": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ",
+          "confidence": 1.0,
+          "matched": "Distant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Heavy//Hitter",
+          "apple_music": "https://music.apple.com/us/artist/heavy-hitter/1469761697",
+          "spotify": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU",
+          "confidence": 1.0,
+          "matched": "Heavy//Hitter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Torn Open",
+          "apple_music": "https://music.apple.com/us/artist/torn-open/1804013367",
+          "spotify": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX",
+          "confidence": 1.0,
+          "matched": "Torn Open",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Katywentmissing",
+          "apple_music": "https://music.apple.com/us/artist/katywentmissing/1746449022",
+          "spotify": "https://open.spotify.com/artist/7jSZJeY778ix9GGxbTuvFk",
+          "confidence": 1.0,
+          "matched": "Katywentmissing",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Gouged",
+          "apple_music": "https://music.apple.com/us/artist/gouged/1651744398",
+          "spotify": "https://open.spotify.com/artist/5YBdymBwFJxlqr0l23Dusl",
+          "confidence": 1.0,
+          "matched": "Gouged",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/distant-into-despair-usa-tour-2026-25-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bodysnatcher",
+          "apple_music": "https://music.apple.com/us/artist/bodysnatcher/331072097",
+          "spotify": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm",
+          "confidence": 1.0,
+          "matched": "Bodysnatcher",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gideon",
+          "apple_music": "https://music.apple.com/us/artist/gideon/186561005",
+          "spotify": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ",
+          "confidence": 1.0,
+          "matched": "Gideon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Psycho",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Frame, Volatile Ways",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/bodysnatcher-28-nov",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gibby Haynes",
+          "apple_music": "https://books.apple.com/us/artist/gibby-haynes/31734166",
+          "spotify": "https://open.spotify.com/artist/53zHmd1TV9gYuZW6iiI4gE",
+          "confidence": 1.0,
+          "matched": "Gibby Haynes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/gibby-haynes-butthole-surfers-mania-04-dec",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Guilt Trip",
+          "apple_music": "https://music.apple.com/us/artist/guilt-trip/1463581100",
+          "spotify": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU",
+          "confidence": 1.0,
+          "matched": "Guilt Trip",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gates to Hell",
+          "apple_music": "https://music.apple.com/us/artist/gates-to-hell/1474307662",
+          "spotify": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw",
+          "confidence": 1.0,
+          "matched": "Gates to Hell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Mauled",
+          "apple_music": "https://music.apple.com/us/artist/mauled/1691523331",
+          "spotify": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2",
+          "confidence": 1.0,
+          "matched": "Mauled",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Wicked Game",
+          "apple_music": "https://music.apple.com/us/artist/wicked-game/1631646368",
+          "spotify": "https://open.spotify.com/artist/0um8HuZTS0vGw0zJh5AV3L",
+          "confidence": 1.0,
+          "matched": "Wicked Game",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/mammoth-nw-presents-guilt-trip-05-dec",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Instant Crush",
+          "apple_music": "https://music.apple.com/us/artist/instant-crush/1585238851",
+          "spotify": "https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu",
+          "confidence": 1.0,
+          "matched": "instant crush",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Palettes",
+          "apple_music": "https://music.apple.com/us/artist/palettes/1688486877",
+          "spotify": "https://open.spotify.com/artist/6fktdsYeSWl3qSGekown62",
+          "confidence": 1.0,
+          "matched": "palettes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Pastel Faces",
+          "apple_music": "https://music.apple.com/us/artist/pastel-faces/1579535669",
+          "spotify": "https://open.spotify.com/artist/2ynLWEnx8MMjgKBVN7AfWo",
+          "confidence": 1.0,
+          "matched": "Pastel Faces",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Honeyed",
+          "apple_music": "https://music.apple.com/us/artist/honeyed/1723939157",
+          "spotify": "https://open.spotify.com/artist/6J0zvCuXn9wCuU89NRLXkC",
+          "confidence": 1.0,
+          "matched": "Honeyed",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/instant-crush-palettes-pastel-faces-honeyed-06-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Eyes Set to Kill",
+          "apple_music": "https://music.apple.com/us/artist/eyes-set-to-kill/271973862",
+          "spotify": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP",
+          "confidence": 1.0,
+          "matched": "Eyes Set to Kill",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "SickSense",
+          "apple_music": "https://music.apple.com/us/artist/sicksense/1579360754",
+          "spotify": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc",
+          "confidence": 1.0,
+          "matched": "Sicksense",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Twist It",
+          "apple_music": "https://music.apple.com/us/artist/twist-it/1638510896",
+          "spotify": "https://open.spotify.com/artist/3bpZqU4O7iDRfWpXQe0zcU",
+          "confidence": 1.0,
+          "matched": "Twist It",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/eyes-set-to-kill-guilty-pleasures-tour-11-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MISSIO",
+          "apple_music": "https://music.apple.com/us/artist/missio/1228281701",
+          "spotify": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS",
+          "confidence": 1.0,
+          "matched": "MISSIO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Wrung",
+          "apple_music": "https://music.apple.com/us/artist/wrung/1814662404",
+          "spotify": "https://open.spotify.com/artist/2McAgQvGiCCHh202F1hn0e",
+          "confidence": 1.0,
+          "matched": "Wrung",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-11",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/missio-love-heartbreak-tour-11-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Emo Night Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Rock Emo Nightcore @ 67%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "8:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/the-emo-night-tour-12-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ignite",
+          "apple_music": "https://music.apple.com/us/artist/ignite/19303538",
+          "spotify": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr",
+          "confidence": 1.0,
+          "matched": "IGNITE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Year of the Cobra",
+          "apple_music": "https://music.apple.com/us/artist/year-of-the-cobra/1476455581",
+          "spotify": "https://open.spotify.com/artist/1EVrYCCBDAobe64D8pUG0h",
+          "confidence": 1.0,
+          "matched": "Year Of The Cobra",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Filth Is Eternal",
+          "apple_music": "https://music.apple.com/us/artist/filth-is-eternal/1560773182",
+          "spotify": "https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0",
+          "confidence": 1.0,
+          "matched": "Filth is Eternal",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/ignite-w-year-of-the-cobra-13-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RAIN CITY DOOM FEST 2026",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Rain City Drive @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "YOB",
+          "apple_music": "https://music.apple.com/us/artist/yob/39276097",
+          "spotify": "https://open.spotify.com/artist/1hiIe6hmDchjc246cpoAOM",
+          "confidence": 1.0,
+          "matched": "YOB",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "King Woman",
+          "apple_music": "https://music.apple.com/us/artist/king-woman/694710738",
+          "spotify": "https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn",
+          "confidence": 1.0,
+          "matched": "King Woman",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Earthless",
+          "apple_music": "https://music.apple.com/us/artist/earthless/58157191",
+          "spotify": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi",
+          "confidence": 1.0,
+          "matched": "Earthless",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Christian Mistress",
+          "apple_music": "https://music.apple.com/us/artist/christian-mistress/385042629",
+          "spotify": "https://open.spotify.com/artist/0fEyv0n8MBgXZQLOMcHbZO",
+          "confidence": 1.0,
+          "matched": "Christian Mistress",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Early Moods",
+          "apple_music": "https://music.apple.com/us/artist/early-moods/1494277066",
+          "spotify": "https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i",
+          "confidence": 1.0,
+          "matched": "Early Moods",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Hell",
+          "apple_music": "https://music.apple.com/us/artist/hell/442050809",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Hell",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: HELLMERRY @ 62%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Witch Ripper",
+          "apple_music": "https://music.apple.com/us/artist/witch-ripper/1370698164",
+          "spotify": "https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI",
+          "confidence": 1.0,
+          "matched": "Witch Ripper",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Moon Destroys",
+          "apple_music": "https://music.apple.com/us/artist/moon-destroys/1494535402",
+          "spotify": "https://open.spotify.com/artist/0D6RVpw4LAC3XyRlianqq0",
+          "confidence": 1.0,
+          "matched": "Moon Destroys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sorcia",
+          "apple_music": "https://music.apple.com/us/artist/sorcia/690180817",
+          "spotify": "https://open.spotify.com/artist/1Yy3XvKls9yjdnRQAhcrK5",
+          "confidence": 1.0,
+          "matched": "Sorcia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Nott",
+          "apple_music": "https://music.apple.com/us/artist/nott/1192518876",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Nott",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: North West @ 57%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Heiress",
+          "apple_music": "https://music.apple.com/us/artist/heiress/435823906",
+          "spotify": "https://open.spotify.com/artist/3sKj3Oc9JJog5J5XIAxi7v",
+          "confidence": 1.0,
+          "matched": "Heiress",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Death Parade",
+          "apple_music": "https://music.apple.com/us/artist/death-parade/1595268123",
+          "spotify": "https://open.spotify.com/artist/3bEV1PmyJoIZ1PCHOFOFzm",
+          "confidence": 1.0,
+          "matched": "Death Parade",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sun Crow",
+          "apple_music": "https://music.apple.com/us/artist/sun-crow/1537341716",
+          "spotify": "https://open.spotify.com/artist/5RsGTkPrSGRTERy7ZPONB0",
+          "confidence": 1.0,
+          "matched": "Sun Crow",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Wizzerd",
+          "apple_music": "https://music.apple.com/us/artist/wizzerd/1130657899",
+          "spotify": "https://open.spotify.com/artist/4EqSAAt3mo3Y7A43A9hlsP",
+          "confidence": 1.0,
+          "matched": "Wizzerd",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Vacancy Floor",
+          "apple_music": "https://music.apple.com/us/artist/vacancy-floor/1831414423",
+          "spotify": "https://open.spotify.com/artist/43CElP48t7Qij3g1KEbrHA",
+          "confidence": 1.0,
+          "matched": "Vacancy Floor",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Mount Saturn",
+          "apple_music": "https://music.apple.com/us/artist/mount-saturn/1453468877",
+          "spotify": "https://open.spotify.com/artist/1a7Rk3101PadFf27XfzWAS",
+          "confidence": 1.0,
+          "matched": "Mount Saturn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Bathypelagic",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: MAGIC! @ 44%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Tigers On Opium",
+          "apple_music": "https://music.apple.com/us/artist/tigers-on-opium/1318024349",
+          "spotify": "https://open.spotify.com/artist/345jBtj5f3Rq1h3KFOCIYy",
+          "confidence": 1.0,
+          "matched": "Tigers on Opium",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": "6:00 pm",
+      "show_time": "6:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/rain-city-doom-fest-2026-18-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "RAIN CITY DOOM FEST 2026 (DAY 2)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Rain City Drive @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "YOB",
+          "apple_music": "https://music.apple.com/us/artist/yob/39276097",
+          "spotify": "https://open.spotify.com/artist/1hiIe6hmDchjc246cpoAOM",
+          "confidence": 1.0,
+          "matched": "YOB",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Christian Mistress",
+          "apple_music": "https://music.apple.com/us/artist/christian-mistress/385042629",
+          "spotify": "https://open.spotify.com/artist/0fEyv0n8MBgXZQLOMcHbZO",
+          "confidence": 1.0,
+          "matched": "Christian Mistress",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Early Moods",
+          "apple_music": "https://music.apple.com/us/artist/early-moods/1494277066",
+          "spotify": "https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i",
+          "confidence": 1.0,
+          "matched": "Early Moods",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Witch Ripper",
+          "apple_music": "https://music.apple.com/us/artist/witch-ripper/1370698164",
+          "spotify": "https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI",
+          "confidence": 1.0,
+          "matched": "Witch Ripper",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sorcia",
+          "apple_music": "https://music.apple.com/us/artist/sorcia/690180817",
+          "spotify": "https://open.spotify.com/artist/1Yy3XvKls9yjdnRQAhcrK5",
+          "confidence": 1.0,
+          "matched": "Sorcia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Heiress",
+          "apple_music": "https://music.apple.com/us/artist/heiress/435823906",
+          "spotify": "https://open.spotify.com/artist/3sKj3Oc9JJog5J5XIAxi7v",
+          "confidence": 1.0,
+          "matched": "Heiress",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sun Crow",
+          "apple_music": "https://music.apple.com/us/artist/sun-crow/1537341716",
+          "spotify": "https://open.spotify.com/artist/5RsGTkPrSGRTERy7ZPONB0",
+          "confidence": 1.0,
+          "matched": "Sun Crow",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Vacancy Floor",
+          "apple_music": "https://music.apple.com/us/artist/vacancy-floor/1831414423",
+          "spotify": "https://open.spotify.com/artist/43CElP48t7Qij3g1KEbrHA",
+          "confidence": 1.0,
+          "matched": "Vacancy Floor",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Bathypelagic",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: MAGIC! @ 44%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Tigers On Opium",
+          "apple_music": "https://music.apple.com/us/artist/tigers-on-opium/1318024349",
+          "spotify": "https://open.spotify.com/artist/345jBtj5f3Rq1h3KFOCIYy",
+          "confidence": 1.0,
+          "matched": "Tigers on Opium",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "5:30 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/rain-city-doom-fest-2026-day-2-19-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mustard Plug",
+          "apple_music": "https://music.apple.com/us/artist/mustard-plug/6834637",
+          "spotify": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu",
+          "confidence": 1.0,
+          "matched": "Mustard Plug",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Planet Smashers",
+          "apple_music": "https://music.apple.com/us/artist/the-planet-smashers/21888380",
+          "spotify": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3",
+          "confidence": 1.0,
+          "matched": "The Planet Smashers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Venomous Pinks",
+          "apple_music": "https://music.apple.com/us/artist/the-venomous-pinks/911930377",
+          "spotify": "https://open.spotify.com/artist/32b9fv7pPBjVrcdGYKQXH8",
+          "confidence": 1.0,
+          "matched": "The Venomous Pinks",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Mister Blank",
+          "apple_music": "https://music.apple.com/us/artist/mister-blank/1315773275",
+          "spotify": "https://open.spotify.com/artist/7iCgVDrZSVxLEoe6Ajm1rg",
+          "confidence": 1.0,
+          "matched": "Mister Blank",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": "7:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/mustard-plug-14-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Black Flag",
+          "apple_music": "https://music.apple.com/us/artist/black-flag/6451942",
+          "spotify": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV",
+          "confidence": 1.0,
+          "matched": "Black Flag",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/black-flag-19-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Reverend Horton Heat",
+          "apple_music": "https://music.apple.com/us/artist/the-reverend-horton-heat/105453",
+          "spotify": "https://open.spotify.com/artist/7KBNQ0xkfEucHXdGKWdalg",
+          "confidence": 0.9,
+          "matched": "The Reverend Horton Heat",
+          "apple_label": "close match: The Reverend Horton Heat",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/reverend-horton-heat-the-sub-pop-years-12-feb",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Codefendants",
+          "apple_music": "https://music.apple.com/us/artist/codefendants/1656143063",
+          "spotify": "https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe",
+          "confidence": 1.0,
+          "matched": "Codefendants",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jakob Nowell and THE CASTLE",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/7ow3oet1KgRVJHxHAAOapO",
+          "confidence": 0.6,
+          "matched": null,
+          "apple_label": "no confident match (closest: Jakobs Castle @ 60%)",
+          "spotify_label": "close match: Jakob Nowell",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-24",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/codefendants-jakob-nowell-and-the-castle-24-feb",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Beast in Black",
+          "apple_music": "https://music.apple.com/us/artist/beast-in-black/1275559022",
+          "spotify": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH",
+          "confidence": 1.0,
+          "matched": "Beast in Black",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/beast-in-black-north-american-tour-2027-26-feb",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Eluveitie",
+          "apple_music": "https://music.apple.com/us/artist/eluveitie/269358403",
+          "spotify": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT",
+          "confidence": 1.0,
+          "matched": "Eluveitie",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "NiNi",
+          "apple_music": "https://music.apple.com/us/artist/nini/1737822309",
+          "spotify": "https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm",
+          "confidence": 1.0,
+          "matched": "NiNi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "ILLUMISHADE",
+          "apple_music": "https://music.apple.com/us/artist/illumishade/1494763050",
+          "spotify": "https://open.spotify.com/artist/0Jjf1JZMQZeXyrZAfKEMcg",
+          "confidence": 1.0,
+          "matched": "ILLUMISHADE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/eluveitie-27-feb",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Caskets",
+          "apple_music": "https://music.apple.com/us/artist/caskets/1436620435",
+          "spotify": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK",
+          "confidence": 1.0,
+          "matched": "Caskets",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Nerv",
+          "apple_music": "https://music.apple.com/us/artist/nerv/1305377229",
+          "spotify": "https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b",
+          "confidence": 1.0,
+          "matched": "Nerv",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "True North",
+          "apple_music": "https://music.apple.com/us/artist/true-north/1136474205",
+          "spotify": "https://open.spotify.com/artist/6E8FJvFB2KBbNyAWUUH155",
+          "confidence": 1.0,
+          "matched": "True North",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/caskets-28-feb",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jack Kays",
+          "apple_music": "https://music.apple.com/us/artist/jack-kays/1421268766",
+          "spotify": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54",
+          "confidence": 1.0,
+          "matched": "Jack Kays",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Willowake",
+          "apple_music": "https://music.apple.com/us/artist/willowake/1641476289",
+          "spotify": "https://open.spotify.com/artist/1DdLuQwxYMLYx7QJ0ZwNsC",
+          "confidence": 1.0,
+          "matched": "Willowake",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dear Cincinnati",
+          "apple_music": "https://music.apple.com/us/artist/dear-cincinnati/1785520092",
+          "spotify": "https://open.spotify.com/artist/3BXxeKZkoP5P5eUKIPrhhD",
+          "confidence": 1.0,
+          "matched": "Dear Cincinnati",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/jack-kays-jack-kays-and-his-band-03-mar",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Lemonheads",
+          "apple_music": "https://music.apple.com/us/artist/the-lemonheads/312507",
+          "spotify": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X",
+          "confidence": 1.0,
+          "matched": "The Lemonheads",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Moon is Flat",
+          "apple_music": "https://music.apple.com/us/artist/the-moon-is-flat/1554436646",
+          "spotify": "https://open.spotify.com/artist/3UgKjqFxsgIkVaPIZ4cwCu",
+          "confidence": 1.0,
+          "matched": "The Moon is Flat",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/the-lemonheads-the-love-chant-tour-11-mar",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nervosa",
+          "apple_music": "https://music.apple.com/us/artist/nervosa/511556134",
+          "spotify": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH",
+          "confidence": 1.0,
+          "matched": "Nervosa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Castrator",
+          "apple_music": "https://music.apple.com/us/artist/castrator/1628177430",
+          "spotify": "https://open.spotify.com/artist/5kKePK6ZZE4BmkOTePOnnc",
+          "confidence": 1.0,
+          "matched": "Castrator",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Anger Within",
+          "apple_music": "https://music.apple.com/us/artist/anger-within/1506357148",
+          "spotify": "https://open.spotify.com/artist/1SvILus3wf1JpkpqHmI585",
+          "confidence": 1.0,
+          "matched": "Anger Within",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "6:00 pm",
+      "show_time": "6:45 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/nervosa-slave-machine-tour-2027-12-mar",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nile",
+          "apple_music": "https://music.apple.com/us/artist/nile/65885099",
+          "spotify": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE",
+          "confidence": 1.0,
+          "matched": "Nile",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Coroner",
+          "apple_music": "https://music.apple.com/us/artist/coroner/191721935",
+          "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV",
+          "confidence": 1.0,
+          "matched": "Coroner",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Syn Absence",
+          "apple_music": "https://music.apple.com/us/artist/syn-absence/1491625976",
+          "spotify": "https://open.spotify.com/artist/5ffztm2TEi4H4TYM32H6uW",
+          "confidence": 1.0,
+          "matched": "Syn Absence",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-14",
+      "doors": "6:00 pm",
+      "show_time": "6:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/nile-coroner-14-mar",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Four Year Strong",
+          "apple_music": "https://music.apple.com/us/artist/four-year-strong/192476371",
+          "spotify": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn",
+          "confidence": 1.0,
+          "matched": "Four Year Strong",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Drug Church",
+          "apple_music": "https://music.apple.com/us/artist/drug-church/535993200",
+          "spotify": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ",
+          "confidence": 1.0,
+          "matched": "Drug Church",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Heart Attack Man",
+          "apple_music": "https://music.apple.com/us/artist/heart-attack-man/949770256",
+          "spotify": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN",
+          "confidence": 1.0,
+          "matched": "Heart Attack Man",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "sunbloc",
+          "apple_music": "https://music.apple.com/us/artist/sunbloc/1580941671",
+          "spotify": "https://open.spotify.com/artist/7wfbwZyhasLmQ5bM7sJN8y",
+          "confidence": 1.0,
+          "matched": "Sunbloc",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-03",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/four-year-strong-rise-or-die-trying-25-year-anniversary-tour-03-apr",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Aesthetic Perfection",
+          "apple_music": "https://music.apple.com/us/artist/aesthetic-perfection/175621289",
+          "spotify": "https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN",
+          "confidence": 1.0,
+          "matched": "Aesthetic Perfection",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-12",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/aesthetic-perfection-13-apr",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Council Hill",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.424,
+          "matched": null,
+          "apple_label": "no confident match (closest: St Paul's Castle Hill @ 42%)",
+          "spotify_label": "no confident match (closest: Council @ 74%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/dad-rock-night-2000s-rock-tribute-presented-by-council-hill-14-apr",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haiden Henderson",
+          "apple_music": "https://music.apple.com/us/artist/haiden-henderson/1553587317",
+          "spotify": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p",
+          "confidence": 1.0,
+          "matched": "Haiden Henderson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/haiden-henderson-the-dumblond-tour-11-may",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Vandenberg",
+          "apple_music": "https://music.apple.com/us/artist/vandenberg/57202204",
+          "spotify": "https://open.spotify.com/artist/3hAv15rFpsTe7zteKhhJTx",
+          "confidence": 1.0,
+          "matched": "Vandenberg",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Vinnie Moore",
+          "apple_music": "https://music.apple.com/us/artist/vinnie-moore/3247863",
+          "spotify": "https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4",
+          "confidence": 1.0,
+          "matched": "Vinnie Moore",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Marco Mendoza",
+          "apple_music": "https://music.apple.com/us/artist/marco-mendoza/81137792",
+          "spotify": "https://open.spotify.com/artist/7mnsWRY95TpZRGbiCh93Ob",
+          "confidence": 1.0,
+          "matched": "Marco Mendoza",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Deraps",
+          "apple_music": "https://music.apple.com/us/artist/deraps/1502409564",
+          "spotify": "https://open.spotify.com/artist/7svbQBCP61byfinsJMzFkr",
+          "confidence": 1.0,
+          "matched": "Deraps",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/vandenberg-my-whitesnake-years-22-may",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 35,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 107,
+      "found": 99,
+      "exact": 98,
+      "close": 0,
+      "flagged": 1,
+      "not_found": 8
+    },
+    "spotify": {
+      "unique_artists": 107,
+      "linked": 99,
+      "venue": 0,
+      "api": 99,
+      "feed": 0,
+      "shows_with_link": 32
+    }
+  }
+}
