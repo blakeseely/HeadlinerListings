@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:53:37.363785+00:00",
+  "generated_at": "2026-11-07T08:02:57.087393+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -459,6 +459,29 @@
       },
       "show_count": 47,
       "sha256_16": "e03c4bcb6a1ba890"
+    },
+    {
+      "venue_id": "roseland",
+      "file": "roseland/shows.json",
+      "city": "Portland, OR",
+      "metro": "Portland",
+      "updated_at": "2026-11-06",
+      "fetched_at": "2026-11-06T23:57:40",
+      "oldest_show_date": "2026-11-08",
+      "value_domains": {
+        "event_type": [
+          "music"
+        ],
+        "ticket_status": [
+          "on sale",
+          "sold out"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 33,
+      "sha256_16": "838c59fb252155c4"
     },
     {
       "venue_id": "thecasbah",

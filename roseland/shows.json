@@ -1,0 +1,1628 @@
+{
+  "venue": "Roseland Theater",
+  "venue_id": "roseland",
+  "venue_url": "https://roselandpdx.com/",
+  "source_url": "https://roselandpdx.com/events/",
+  "city": "Portland, OR",
+  "metro": "Portland",
+  "neighborhood": "Old Town / Chinatown",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-06",
+  "count": 33,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Syd",
+          "apple_music": "https://music.apple.com/us/artist/syd/504550699",
+          "spotify": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx",
+          "confidence": 1.0,
+          "matched": "Syd",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Beard Tour",
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/81998178/sydbeard-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/syd-beard-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening With Band of Horses",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Evening Elephants",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/74643459/an-evening-with-band-of-horses-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/an-evening-with-band-of-horses/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "nimino",
+          "apple_music": "https://music.apple.com/us/artist/nimino/955907712",
+          "spotify": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV",
+          "confidence": 1.0,
+          "matched": "nimino",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "keep me awake tour",
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41805731/niminokeep-me-awake-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/nimino-keep-me-awake-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bonobo",
+          "apple_music": "https://music.apple.com/us/artist/bonobo/416281071",
+          "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
+          "confidence": 1.0,
+          "matched": "Bonobo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "1",
+          "apple_music": "https://music.apple.com/us/artist/1/1476059941",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "1",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: 112 @ 50%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "800 GIRLS",
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/74811454/bonobo-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/bonobo/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "State Champs",
+          "apple_music": "https://music.apple.com/us/artist/state-champs/388451690",
+          "spotify": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr",
+          "confidence": 1.0,
+          "matched": "State Champs",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Cartel",
+          "apple_music": "https://music.apple.com/us/artist/cartel/19107135",
+          "spotify": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk",
+          "confidence": 1.0,
+          "matched": "Cartel",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Taylor Acorn",
+          "apple_music": "https://music.apple.com/us/artist/taylor-acorn/1161476048",
+          "spotify": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY",
+          "confidence": 1.0,
+          "matched": "Taylor Acorn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Like Roses",
+          "apple_music": "https://music.apple.com/us/artist/like-roses/1194077299",
+          "spotify": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI",
+          "confidence": 1.0,
+          "matched": "Like Roses",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/36575270/state-champs-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/state-champs/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Alter Bridge",
+          "apple_music": "https://music.apple.com/us/artist/alter-bridge/73789273",
+          "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU",
+          "confidence": 1.0,
+          "matched": "Alter Bridge",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Big Wreck",
+          "apple_music": "https://music.apple.com/us/artist/big-wreck/150589",
+          "spotify": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS",
+          "confidence": 1.0,
+          "matched": "Big Wreck",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Tim Montana",
+          "apple_music": "https://music.apple.com/us/artist/tim-montana/263068617",
+          "spotify": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC",
+          "confidence": 1.0,
+          "matched": "Tim Montana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "What Lies Within Tour",
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-24",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55176920/alter-bridge-what-lies-within-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/alter-bridge-what-lies-within-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Saosin",
+          "apple_music": "https://music.apple.com/us/artist/saosin/28673579",
+          "spotify": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
+          "confidence": 1.0,
+          "matched": "Saosin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Silent Planet",
+          "apple_music": "https://music.apple.com/us/artist/silent-planet/935501728",
+          "spotify": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU",
+          "confidence": 1.0,
+          "matched": "Silent Planet",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Like Moths To Flames",
+          "apple_music": "https://music.apple.com/us/artist/like-moths-to-flames/354095901",
+          "spotify": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw",
+          "confidence": 1.0,
+          "matched": "Like Moths to Flames",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "& Save Us",
+          "apple_music": "https://music.apple.com/us/artist/save-us/1698971562",
+          "spotify": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1",
+          "confidence": 0.9,
+          "matched": "SAVE US",
+          "apple_label": "close match: SAVE US",
+          "spotify_label": "close match: SAVE US",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "20 Years of Self-Titled",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/53260583/saosin20-years-of-selftitled-portland-roseland-theater?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://roselandpdx.com/event/saosin-20-years-of-self-titled/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Amity Affliction",
+          "apple_music": "https://music.apple.com/us/artist/the-amity-affliction/449513466",
+          "spotify": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK",
+          "confidence": 1.0,
+          "matched": "The Amity Affliction",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Blessthefall",
+          "apple_music": "https://music.apple.com/us/artist/blessthefall/202971163",
+          "spotify": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9",
+          "confidence": 1.0,
+          "matched": "blessthefall",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Orthodox",
+          "apple_music": "https://music.apple.com/us/artist/orthodox/1065245226",
+          "spotify": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP",
+          "confidence": 1.0,
+          "matched": "Orthodox",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Buried In Spring",
+          "apple_music": "https://music.apple.com/us/artist/buried-in-spring/1896125306",
+          "spotify": "https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY",
+          "confidence": 1.0,
+          "matched": "Buried In Spring",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "HOUSE OF CARDS 2026",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/74596907/the-amity-afflictionhouse-of-cards-2026-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/the-amity-affliction-house-of-cards-2026/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Frankie and the Witch Fingers",
+          "apple_music": "https://music.apple.com/us/artist/frankie-and-the-witch-fingers/1780921421",
+          "spotify": "https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU",
+          "confidence": 1.0,
+          "matched": "Frankie and the Witch Fingers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Gibby Haynes",
+          "apple_music": "https://books.apple.com/us/artist/gibby-haynes/31734166",
+          "spotify": "https://open.spotify.com/artist/53zHmd1TV9gYuZW6iiI4gE",
+          "confidence": 1.0,
+          "matched": "Gibby Haynes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Spoon Bender",
+          "apple_music": "https://music.apple.com/us/artist/spoon-bender/544489255",
+          "spotify": "https://open.spotify.com/artist/0xMp6RS1udvg0N3LQFsrN9",
+          "confidence": 1.0,
+          "matched": "Spoon Bender",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jonny's Day Out",
+          "apple_music": "https://music.apple.com/us/artist/jonnys-day-out/1669125599",
+          "spotify": "https://open.spotify.com/artist/0xY8XemCP3i1SaSciB5YbK",
+          "confidence": 1.0,
+          "matched": "Jonny's Day Out",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Butthole Surfer Mania",
+      "presenters": [
+        "Desert Daze & Mammoth NW Present"
+      ],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/66168666/frankie-and-the-witch-fingers-gibby-haynesbutthole-surfer-mania-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/frankie-and-the-witch-fingers-gibby-haynes-butthole-surfer-mania/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FROST CHILDREN",
+          "apple_music": "https://music.apple.com/us/artist/frost-children/1505504789",
+          "spotify": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag",
+          "confidence": 1.0,
+          "matched": "Frost Children",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Kuru",
+          "apple_music": "https://music.apple.com/us/artist/kuru/1548508786",
+          "spotify": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu",
+          "confidence": 1.0,
+          "matched": "kuru",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71988781/frost-children-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/frost-children/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rumble At The Roseland #136",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/27TkZdQovhywoLlxppv5s8",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Caged Promotions Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/38868000/rumble-at-the-roseland-136-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/rumble-at-the-roseland-136/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Honey Revenge",
+          "apple_music": "https://music.apple.com/us/artist/honey-revenge/1589490332",
+          "spotify": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK",
+          "confidence": 1.0,
+          "matched": "Honey Revenge",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dead Poet Society",
+          "apple_music": "https://music.apple.com/us/artist/dead-poet-society/583985425",
+          "spotify": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe",
+          "confidence": 1.0,
+          "matched": "Dead Poet Society",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "HUNNY",
+          "apple_music": "https://music.apple.com/us/artist/hunny/1050839371",
+          "spotify": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh",
+          "confidence": 1.0,
+          "matched": "HUNNY",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Broadside",
+          "apple_music": "https://music.apple.com/us/artist/broadside/169939373",
+          "spotify": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo",
+          "confidence": 1.0,
+          "matched": "Broadside",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65167861/honey-revenge-x-dead-poet-society-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/honey-revenge-x-dead-poet-society/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "High On Fire",
+          "apple_music": "https://music.apple.com/us/artist/high-on-fire/19111598",
+          "spotify": "https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf",
+          "confidence": 1.0,
+          "matched": "High On Fire",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "ZEKE",
+          "apple_music": "https://music.apple.com/us/artist/zeke/7383927",
+          "spotify": "https://open.spotify.com/artist/7HvjR3M6xzluBLTnioRzvu",
+          "confidence": 1.0,
+          "matched": "Zeke",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-30",
+      "doors": "7:00 pm",
+      "show_time": "7:50 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/66141352/high-on-fire-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/high-on-fire/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Bridge City Sinners",
+          "apple_music": "https://music.apple.com/us/artist/the-bridge-city-sinners/1271591127",
+          "spotify": "https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt",
+          "confidence": 1.0,
+          "matched": "The Bridge City Sinners",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Riley Downing",
+          "apple_music": "https://music.apple.com/us/artist/riley-downing/575173876",
+          "spotify": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6",
+          "confidence": 1.0,
+          "matched": "Riley Downing",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Roselit Bone",
+          "apple_music": "https://music.apple.com/us/artist/roselit-bone/942970557",
+          "spotify": "https://open.spotify.com/artist/37ycePIPQXwy6rXkjMLojU",
+          "confidence": 1.0,
+          "matched": "Roselit Bone",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/50811774/the-bridge-city-sinners-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/the-bridge-city-sinners/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Elvin Bishop & The Hell Raisin’ Revue",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Cascadia Productions & Mammoth NW Present"
+      ],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/56351388/elvin-bishops-raisin-hell-review-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/elvin-bishops-raisin-hell-review/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TesseracT",
+          "apple_music": "https://music.apple.com/us/artist/tesseract/279204661",
+          "spotify": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r",
+          "confidence": 1.0,
+          "matched": "TesseracT",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Entheos",
+          "apple_music": "https://music.apple.com/us/artist/entheos/65557334",
+          "spotify": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI",
+          "confidence": 1.0,
+          "matched": "Entheos",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Sunborn",
+          "apple_music": "https://music.apple.com/us/artist/sunborn/1667389591",
+          "spotify": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS",
+          "confidence": 1.0,
+          "matched": "Sunborn",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/98888488/tesseract-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/tesseract/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Smith & Myers",
+          "apple_music": "https://music.apple.com/us/artist/smith-myers/797363260",
+          "spotify": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe",
+          "confidence": 1.0,
+          "matched": "Smith & Myers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Brian Dunne",
+          "apple_music": "https://music.apple.com/us/artist/brian-dunne/254576265",
+          "spotify": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V",
+          "confidence": 1.0,
+          "matched": "Brian Dunne",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/51242753/smith-myers-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/smith-myers/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Beast In Black",
+          "apple_music": "https://music.apple.com/us/artist/beast-in-black/1275559022",
+          "spotify": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH",
+          "confidence": 1.0,
+          "matched": "Beast in Black",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gloryhammer",
+          "apple_music": "https://music.apple.com/us/artist/gloryhammer/609712495",
+          "spotify": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV",
+          "confidence": 1.0,
+          "matched": "Gloryhammer",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "North American Tour 2027",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/49203167/beast-in-blacknorth-american-tour-2027-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/beast-in-black-north-american-tour-2027/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Blue October",
+          "apple_music": "https://music.apple.com/us/artist/blue-october/559128",
+          "spotify": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh",
+          "confidence": 1.0,
+          "matched": "Blue October",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Foiled 20th Anniversary World Tour",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/87015027/blue-octoberfoiled-20th-anniversary-world-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://roselandpdx.com/event/blue-october-foiled-20th-anniversary-world-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Blue October",
+          "apple_music": "https://music.apple.com/us/artist/blue-october/559128",
+          "spotify": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh",
+          "confidence": 1.0,
+          "matched": "Blue October",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Foiled 20th Anniversary World Tour",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/76452291/blue-octoberfoiled-20th-anniversary-world-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/blue-october-foiled-20th-anniversary-world-tour-2/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Biamp Portland Jazz Festival",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Art Porter @ 37%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bobby Torres Ensemble x plus a welcoming performance by Forest Grove High School Mariachi Tradición",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Bobby Valentin @ 46%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Lila Downs",
+      "presenters": [
+        "Biamp Portland Jazz Festival Presented By PDX Jazz"
+      ],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/70780838/biamp-portland-jazz-festivallila-downs-with-bobby-torres-ensemble-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/biamp-portland-jazz-festival-lila-downs-with-bobby-torres-ensemble/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Frank Turner & The Sleeping Souls",
+          "apple_music": "https://music.apple.com/us/artist/frank-turner/108696785",
+          "spotify": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp",
+          "confidence": 0.95,
+          "matched": "Frank Turner",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Skinny Lister",
+          "apple_music": "https://music.apple.com/us/artist/skinny-lister/314416620",
+          "spotify": "https://open.spotify.com/artist/30VFmfxKlxl2LmNe6rtMis",
+          "confidence": 1.0,
+          "matched": "Skinny Lister",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Beans On Toast",
+          "apple_music": "https://music.apple.com/us/artist/beans-on-toast/212784894",
+          "spotify": "https://open.spotify.com/artist/6fVeXD7D2RpFoR6bzNEDPo",
+          "confidence": 1.0,
+          "matched": "Beans On Toast",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Last Evenings World Tour",
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-08",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/61884836/frank-turner-the-sleeping-soulslast-evenings-world-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/frank-turner-the-sleeping-souls-last-evenings-world-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Frank Turner & The Sleeping Souls",
+          "apple_music": "https://music.apple.com/us/artist/frank-turner/108696785",
+          "spotify": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp",
+          "confidence": 0.95,
+          "matched": "Frank Turner",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Skinny Lister",
+          "apple_music": "https://music.apple.com/us/artist/skinny-lister/314416620",
+          "spotify": "https://open.spotify.com/artist/30VFmfxKlxl2LmNe6rtMis",
+          "confidence": 1.0,
+          "matched": "Skinny Lister",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Beans On Toast",
+          "apple_music": "https://music.apple.com/us/artist/beans-on-toast/212784894",
+          "spotify": "https://open.spotify.com/artist/6fVeXD7D2RpFoR6bzNEDPo",
+          "confidence": 1.0,
+          "matched": "Beans On Toast",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Last Evenings World Tour",
+      "presenters": [
+        "Live Nation Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/83625578/frank-turner-the-sleeping-soulslast-evenings-world-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/frank-turner-the-sleeping-souls-last-evenings-world-tour-2/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2hollis",
+          "apple_music": "https://music.apple.com/us/artist/2hollis/1535847112",
+          "spotify": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
+          "confidence": 1.0,
+          "matched": "2hollis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lucy Bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Conceal",
+          "apple_music": "https://music.apple.com/us/artist/conceal/1708822039",
+          "spotify": "https://open.spotify.com/artist/7LBljrINPLwWlPT4Ey53uL",
+          "confidence": 1.0,
+          "matched": "Conceal",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Pirouette Tour",
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/59280936/2hollisthe-pirouette-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/2hollis-the-pirouette-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "2hollis",
+          "apple_music": "https://music.apple.com/us/artist/2hollis/1535847112",
+          "spotify": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG",
+          "confidence": 1.0,
+          "matched": "2hollis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lucy Bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Conceal",
+          "apple_music": "https://music.apple.com/us/artist/conceal/1708822039",
+          "spotify": "https://open.spotify.com/artist/7LBljrINPLwWlPT4Ey53uL",
+          "confidence": 1.0,
+          "matched": "Conceal",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Pirouette Tour",
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/67476037/2hollisthe-pirouette-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/2hollis-the-pirouette-tour-2/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Chelsea Cutler",
+          "apple_music": "https://music.apple.com/us/artist/chelsea-cutler/398935148",
+          "spotify": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp",
+          "confidence": 1.0,
+          "matched": "Chelsea Cutler",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "googly eyes",
+          "apple_music": "https://music.apple.com/us/artist/googly-eyes/1636772519",
+          "spotify": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa",
+          "confidence": 1.0,
+          "matched": "googly eyes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "IS THIS THE END? Tour",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55282132/chelseacutleris-this-the-endtour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/chelsea-cutler-is-this-the-end-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Northlane",
+          "apple_music": "https://music.apple.com/us/artist/northlane/347235419",
+          "spotify": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9",
+          "confidence": 1.0,
+          "matched": "Northlane",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Aviana",
+          "apple_music": "https://music.apple.com/us/artist/aviana/270116272",
+          "spotify": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy",
+          "confidence": 1.0,
+          "matched": "Aviana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Allt",
+          "apple_music": "https://music.apple.com/us/artist/allt/1529369992",
+          "spotify": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM",
+          "confidence": 1.0,
+          "matched": "Allt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Reliqa",
+          "apple_music": "https://music.apple.com/us/artist/reliqa/1328211762",
+          "spotify": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK",
+          "confidence": 1.0,
+          "matched": "Reliqa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "THE ANEMOIA TOUR",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-18",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/92058908/northlanethe-anemoia-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/northlane-the-anemoia-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Akira Yamaoka",
+          "apple_music": "https://music.apple.com/us/artist/akira-yamaoka/262028864",
+          "spotify": "https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe",
+          "confidence": 1.0,
+          "matched": "Akira Yamaoka",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45994177/akira-yamaoka-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/akira-yamaoka/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wheeler Walker Jr",
+          "apple_music": "https://music.apple.com/us/artist/wheeler-walker-jr/1031980513",
+          "spotify": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia",
+          "confidence": 0.9,
+          "matched": "Wheeler Walker Jr.",
+          "apple_label": "close match: Wheeler Walker Jr.",
+          "spotify_label": "close match: Wheeler Walker Jr.",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Pullin’ Out: The Farewell Tour",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/60389142/wheeler-walker-jrpullinoutthe-farewell-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/wheeler-walker-jr-pullin-out-the-farewell-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Four Year Strong",
+          "apple_music": "https://music.apple.com/us/artist/four-year-strong/192476371",
+          "spotify": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn",
+          "confidence": 1.0,
+          "matched": "Four Year Strong",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Drug Church",
+          "apple_music": "https://music.apple.com/us/artist/drug-church/535993200",
+          "spotify": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ",
+          "confidence": 1.0,
+          "matched": "Drug Church",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Heart Attack Man",
+          "apple_music": "https://music.apple.com/us/artist/heart-attack-man/949770256",
+          "spotify": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN",
+          "confidence": 1.0,
+          "matched": "Heart Attack Man",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "& Sunbloc",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/7wfbwZyhasLmQ5bM7sJN8y",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Sunbloc",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Rise or Die Trying 25 Year Anniversary Tour",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-04",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/97377999/four-year-strongrise-or-die-trying-25-year-anniversary-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/four-year-strong-rise-or-die-trying-25-year-anniversary-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Chats US TOUR",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Chats @ 69%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Chain Whip",
+          "apple_music": "https://music.apple.com/us/artist/chain-whip/1397000632",
+          "spotify": "https://open.spotify.com/artist/2rkcFHE35Y9tRqxzT6FKNc",
+          "confidence": 1.0,
+          "matched": "Chain Whip",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Gymshorts",
+          "apple_music": "https://music.apple.com/us/artist/gymshorts/919201624",
+          "spotify": "https://open.spotify.com/artist/7beEZjleJaaPl01bT6S4bz",
+          "confidence": 1.0,
+          "matched": "Gymshorts",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/38262008/the-chats-us-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/the-chats-us-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Warning",
+          "apple_music": "https://music.apple.com/us/artist/the-warning/260719953",
+          "spotify": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
+          "confidence": 1.0,
+          "matched": "The Warning",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "wilt",
+          "apple_music": "https://music.apple.com/us/artist/wilt/1653188857",
+          "spotify": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy",
+          "confidence": 1.0,
+          "matched": "wilt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Everything’s Falling World Tour",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/51036633/thewarningeverythings-falling-world-tour-portland-roseland-theater?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://roselandpdx.com/event/the-warning-everythings-falling-world-tour/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FAUN",
+          "apple_music": "https://music.apple.com/us/artist/faun/61412380",
+          "spotify": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE",
+          "confidence": 1.0,
+          "matched": "Faun",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "USA & CANADA TOUR 2027",
+      "presenters": [
+        "Mammoth Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-30",
+      "doors": "7:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/91653168/faun-usa-canada-tour-2027-portland-roseland-theater?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://roselandpdx.com/event/faun-usa-canada-tour-2027/roseland-theater/portland-oregon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 33,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 71,
+      "found": 64,
+      "exact": 61,
+      "close": 1,
+      "flagged": 2,
+      "not_found": 7
+    },
+    "spotify": {
+      "unique_artists": 71,
+      "linked": 67,
+      "venue": 0,
+      "api": 67,
+      "feed": 0,
+      "shows_with_link": 32
+    }
+  }
+}
