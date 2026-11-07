@@ -36,39 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-06",
-  "count": 48,
+  "count": 47,
   "shows": [
-    {
-      "event_type": "other",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Emo Nite at Holocene presented by Emo Nite LA",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": null,
-      "ticket_status": "at the door",
-      "event_page": "https://www.holocene.org/events/2026-11-06-emo-nite-at-holocene-presented-by-emo-nite-la-21-event",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1720,23 +1689,23 @@
       "music": 44,
       "comedy": 1,
       "film": 0,
-      "other": 3
+      "other": 2
     },
     "apple_music": {
-      "unique_artists": 60,
+      "unique_artists": 59,
       "found": 28,
       "exact": 24,
       "close": 1,
       "flagged": 3,
-      "not_found": 32
+      "not_found": 31
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 29,
+      "unique_artists": 59,
+      "linked": 28,
       "venue": 0,
-      "api": 29,
+      "api": 28,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 20
     }
   }
 }

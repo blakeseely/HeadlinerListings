@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:02:57.087393+00:00",
+  "generated_at": "2026-11-07T08:22:38.077575+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -309,15 +309,14 @@
       "metro": "Portland",
       "updated_at": "2026-11-06",
       "fetched_at": "2026-11-06T23:47:53",
-      "oldest_show_date": "2026-11-06",
+      "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
-          "other",
           "music",
+          "other",
           "comedy"
         ],
         "ticket_status": [
-          "at the door",
           "on sale",
           "sold out"
         ],
@@ -325,8 +324,8 @@
           "api"
         ]
       },
-      "show_count": 48,
-      "sha256_16": "db0146e6c0c66e1c"
+      "show_count": 47,
+      "sha256_16": "0758685c6bc4efde"
     },
     {
       "venue_id": "humphreys",
@@ -363,6 +362,30 @@
       },
       "show_count": 99,
       "sha256_16": "e7f7d2efc4feac14"
+    },
+    {
+      "venue_id": "keller",
+      "file": "keller/shows.json",
+      "city": "Portland, OR",
+      "metro": "Portland",
+      "updated_at": "2026-11-07",
+      "fetched_at": "2026-11-07T00:21:42",
+      "oldest_show_date": "2026-11-14",
+      "value_domains": {
+        "event_type": [
+          "comedy",
+          "music",
+          "other"
+        ],
+        "ticket_status": [
+          "on sale"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 71,
+      "sha256_16": "d72b60ebe78cb0ae"
     },
     {
       "venue_id": "musicbox",
