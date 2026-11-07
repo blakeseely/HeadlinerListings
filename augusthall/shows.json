@@ -36,50 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-06",
-  "count": 33,
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Bahamas",
-          "apple_music": "https://music.apple.com/us/artist/bahamas/323244975",
-          "spotify": "https://open.spotify.com/artist/1sKGaT8Fh2bjT5BhVWVvs8",
-          "confidence": 1.0,
-          "matched": "Bahamas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Support by Sister Ray",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Sister Nancy @ 55%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Industrial Sport & Sound,",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/bahamas-industrial-sport-sound-san-francisco-california-11-06-2026/event/1C006464D18357F4",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/bahamas-industrial-sport-sound/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1097,26 +1055,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 34,
-      "found": 22,
-      "exact": 22,
+      "unique_artists": 32,
+      "found": 21,
+      "exact": 21,
       "close": 0,
       "flagged": 0,
-      "not_found": 12
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 34,
-      "linked": 26,
+      "unique_artists": 32,
+      "linked": 25,
       "venue": 0,
-      "api": 26,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 27
     }
   }
 }

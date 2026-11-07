@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:28:05.983238+00:00",
+  "generated_at": "2026-11-07T08:29:43.986616+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -8,7 +8,7 @@
       "metro": "San Francisco",
       "updated_at": "2026-11-06",
       "fetched_at": "2026-11-06T04:03:07",
-      "oldest_show_date": "2026-11-06",
+      "oldest_show_date": "2026-11-07",
       "value_domains": {
         "event_type": [
           "music"
@@ -20,8 +20,8 @@
           "api"
         ]
       },
-      "show_count": 33,
-      "sha256_16": "b22884bb9f2c3b03"
+      "show_count": 32,
+      "sha256_16": "30e1a5cc71cefd45"
     },
     {
       "venue_id": "bellyup",
@@ -597,22 +597,22 @@
       "metro": "San Francisco",
       "updated_at": "2026-11-06",
       "fetched_at": "2026-11-06T06:09:20",
-      "oldest_show_date": "2026-11-06",
+      "oldest_show_date": "2026-11-08",
       "value_domains": {
         "event_type": [
           "music"
         ],
         "ticket_status": [
-          "on sale",
           "cancelled",
+          "on sale",
           "coming soon"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 25,
-      "sha256_16": "cdc6b637ee19de2c"
+      "show_count": 24,
+      "sha256_16": "4eb06f8fa94b9e23"
     },
     {
       "venue_id": "wonderball",

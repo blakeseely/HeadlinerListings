@@ -36,41 +36,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-06",
-  "count": 25,
+  "count": 24,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Buena Vista Orchestra",
-          "apple_music": "https://music.apple.com/us/artist/the-buena-vista-orchestra/1837732333",
-          "spotify": "https://open.spotify.com/artist/79bG7tuDQZaqpmsOizA6uc",
-          "confidence": 0.9,
-          "matched": "The Buena Vista Orchestra",
-          "apple_label": "close match: The Buena Vista Orchestra",
-          "spotify_label": "close match: The Buena Vista Orchestra",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-06",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1428072/buena-vista-orchestra-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1428072",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1122,26 +1089,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 25,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 46,
-      "found": 42,
+      "unique_artists": 45,
+      "found": 41,
       "exact": 40,
       "close": 1,
-      "flagged": 1,
+      "flagged": 0,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 46,
-      "linked": 44,
+      "unique_artists": 45,
+      "linked": 43,
       "venue": 0,
-      "api": 44,
+      "api": 43,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 22
     }
   }
 }
