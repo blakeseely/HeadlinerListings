@@ -1,0 +1,1254 @@
+{
+  "venue": "Wonder Ballroom",
+  "venue_id": "wonderball",
+  "venue_url": "https://wonderballroom.com/",
+  "source_url": "https://wonderballroom.com/events/",
+  "city": "Portland, OR",
+  "metro": "Portland",
+  "neighborhood": "Sullivan's Gulch",
+  "schema": 6,
+  "field_hints": {
+    "event_type": "controlled",
+    "needs_review": "bool",
+    "headline_artists": "artist[]",
+    "support_artists": "artist[]",
+    "multi_artist": "bool",
+    "show_title": "free_string",
+    "presenters": "string[]",
+    "set_format": "free_string",
+    "date": "date",
+    "doors": "free_string",
+    "show_time": "free_string",
+    "ticket_link": "free_string",
+    "ticket_status": "free_string",
+    "event_page": "url_or_null",
+    "room": "free_string",
+    "age_rating": "free_string",
+    "note": "free_string",
+    "description": "free_string",
+    "artist.name": "free_string",
+    "artist.apple_music": "url",
+    "artist.spotify": "url",
+    "artist.confidence": "float",
+    "artist.matched": "free_string",
+    "artist.apple_label": "free_string",
+    "artist.spotify_label": "free_string",
+    "artist.spotify_source": "controlled"
+  },
+  "scraped_at": "2026-11-06",
+  "count": 33,
+  "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "INOHA",
+          "apple_music": "https://music.apple.com/us/artist/inoha/1655983242",
+          "spotify": "https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h",
+          "confidence": 1.0,
+          "matched": "INOHA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-06",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/38392652/inoha-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/inoha/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "JOSEPH",
+          "apple_music": "https://music.apple.com/us/artist/joseph/1053275225",
+          "spotify": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO",
+          "confidence": 1.0,
+          "matched": "JOSEPH",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "BendreTheGiant",
+          "apple_music": "https://music.apple.com/us/artist/bendrethegiant/1549000718",
+          "spotify": "https://open.spotify.com/artist/0shIMtgnKC8fYwBUPyXUiw",
+          "confidence": 1.0,
+          "matched": "BendreTheGiant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "10 Year Anniversary of “I’m Alone, No You’re Not”",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/83397042/joseph-10-year-anniversary-of-im-aloneno-youre-not-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "sold out",
+      "event_page": "https://wonderballroom.com/event/joseph-10-year-anniversary-of-im-alone-no-youre-not/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DAX",
+          "apple_music": "https://music.apple.com/us/artist/dax/1368102340",
+          "spotify": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39",
+          "confidence": 1.0,
+          "matched": "Dax",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Nevv",
+          "apple_music": "https://music.apple.com/us/artist/nevv/1434336858",
+          "spotify": "https://open.spotify.com/artist/4zA6WWblDDef2tQ3N7QkSv",
+          "confidence": 1.0,
+          "matched": "Nevv",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Anger Management Tour",
+      "presenters": [
+        "Showbox Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/32692922/dax-the-anger-management-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/dax-the-anger-management-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lucy Bedroque",
+          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
+          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+          "confidence": 1.0,
+          "matched": "Lucy Bedroque",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/89100259/lucy-bedroque-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/lucy-bedroque/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Allison Russell",
+          "apple_music": "https://music.apple.com/us/artist/allison-russell/451740458",
+          "spotify": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+          "confidence": 1.0,
+          "matched": "Allison Russell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/40914619/allison-russell-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/allison-russell-2/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Earlybirds Club",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Early Birds @ 67%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-14",
+      "doors": null,
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/84477339/earlybirds-club-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/earlybirds-club-6/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "ages 21 +",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SUECO",
+          "apple_music": "https://music.apple.com/us/artist/sueco/1458454556",
+          "spotify": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD",
+          "confidence": 1.0,
+          "matched": "Sueco",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/82030772/sueco-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/sueco/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "The Residents",
+          "apple_music": "https://music.apple.com/us/artist/the-residents/26238269",
+          "spotify": "https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm",
+          "confidence": 1.0,
+          "matched": "The Residents",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Eskimo Live! Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/99038188/cancelledthe-residents-eskimo-livetour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "cancelled",
+      "event_page": "https://wonderballroom.com/event/cancelled-the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": "venue bills it as *CANCELLED*",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Eivør",
+          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
+          "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
+          "confidence": 1.0,
+          "matched": "Eivør",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Midori Jaeger",
+          "apple_music": "https://music.apple.com/us/artist/midori-jaeger/1482434343",
+          "spotify": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp",
+          "confidence": 1.0,
+          "matched": "midori jaeger",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/65250726/eiv%C3%B8r-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/eiv%c3%b8r/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jamila Woods",
+          "apple_music": "https://music.apple.com/us/artist/jamila-woods/999077974",
+          "spotify": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B",
+          "confidence": 1.0,
+          "matched": "Jamila Woods",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "WRK!",
+          "apple_music": "https://music.apple.com/us/artist/wrk/335489500",
+          "spotify": "https://open.spotify.com/artist/42ZXF04BiEWPIJgPlkXTKY",
+          "confidence": 0.9,
+          "matched": "Wrk",
+          "apple_label": "close match: Wrk",
+          "spotify_label": "close match: Hendrik Wrk",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "10 Years of HEAVN",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/46498233/jamila-woods10-years-of-heavn-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/jamila-woods-10-years-of-heavn/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Growing Pains",
+          "apple_music": "https://music.apple.com/us/artist/growing-pains/1459072528",
+          "spotify": "https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc",
+          "confidence": 1.0,
+          "matched": "Growing Pains",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/64253673/growing-pains-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Cure",
+          "apple_music": "https://music.apple.com/us/artist/the-cure/566519",
+          "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s",
+          "confidence": 1.0,
+          "matched": "The Cure",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Depeche Mode & New Order Tribute Night",
+          "apple_music": "https://music.apple.com/us/artist/depeche-mode/148377",
+          "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX",
+          "confidence": 0.95,
+          "matched": "Depeche Mode",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "J-Fell & Nite Wave"
+      ],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/70048567/jfell-nite-wave-presentthe-curedepeche-mode-new-order-tribute-night-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/j-fell-nite-wave-present-the-cure-depeche-mode-new-order-tribute-night/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jalen Ngonda",
+          "apple_music": "https://music.apple.com/us/artist/jalen-ngonda/1127697768",
+          "spotify": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ",
+          "confidence": 1.0,
+          "matched": "Jalen Ngonda",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Doctrine of Love Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47876613/jalen-ngondadoctrine-of-love-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/jalen-ngonda-doctrine-of-love-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "New Constellations",
+          "apple_music": "https://music.apple.com/us/artist/new-constellations/1543078051",
+          "spotify": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9",
+          "confidence": 1.0,
+          "matched": "New Constellations",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "It Comes In Waves Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/74357581/new-constellationsit-comes-in-waves-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/new-constellations-it-comes-in-waves-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "feeble little horse",
+          "apple_music": "https://music.apple.com/us/artist/feeble-little-horse/1564273208",
+          "spotify": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8",
+          "confidence": 1.0,
+          "matched": "feeble little horse",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "bitknot tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71615863/feeble-little-horse-bitknot-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/feeble-little-horse-bitknot-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "TINY HABITS",
+          "apple_music": "https://music.apple.com/us/artist/tiny-habits/1643949763",
+          "spotify": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn",
+          "confidence": 1.0,
+          "matched": "Tiny Habits",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Keepers Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-07",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/46242423/tiny-habits-the-keepers-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/tiny-habits-the-keepers-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "apple_music": "https://music.apple.com/us/artist/anna-von-hausswolff/351852229",
+          "spotify": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6",
+          "confidence": 1.0,
+          "matched": "Anna von Hausswolff",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "KatzPascale",
+          "apple_music": "https://music.apple.com/us/artist/katzpascale/1822411561",
+          "spotify": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H",
+          "confidence": 1.0,
+          "matched": "KatzPascale",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Iconoclasts Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/32782327/annavonhausswolfficonoclasts-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/anna-von-hausswolff-iconoclasts-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rare Americans",
+          "apple_music": "https://music.apple.com/us/artist/rare-americans/1401691888",
+          "spotify": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt",
+          "confidence": 1.0,
+          "matched": "Rare Americans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Naethan Apollo",
+          "apple_music": "https://music.apple.com/us/artist/naethan-apollo/1519309327",
+          "spotify": "https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi",
+          "confidence": 1.0,
+          "matched": "Naethan Apollo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Welcome to Crooked City Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/74129427/rare-americans-welcome-to-crooked-city-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/rare-americans-welcome-to-crooked-city-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Whitey Morgan and the 78s",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Whitey Morgan and the 78's @ 70%)",
+          "spotify_label": "no confident match (closest: Whitey Morgan and the 78's @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/66286427/whiteymorgan-and-the-78s-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/whitey-morgan-and-the-78s-2/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wolves In The Throne Room",
+          "apple_music": "https://music.apple.com/us/artist/wolves-in-the-throne-room/146055657",
+          "spotify": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet",
+          "confidence": 1.0,
+          "matched": "Wolves in the Throne Room",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Soundcontrol PDX and Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55643425/wolves-in-the-throne-room-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/wolves-in-the-throne-room/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "THE MOVEMENT TOUR",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr",
+          "confidence": 0.353,
+          "matched": null,
+          "apple_label": "no confident match (closest: Foster the People @ 35%)",
+          "spotify_label": "close match: The Movement",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "WINTER 2027",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/52972807/the-movement-tourwinter-2027-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/the-movement-tour-winter-2027/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "VALLEY",
+          "apple_music": "https://music.apple.com/us/artist/valley/1004752984",
+          "spotify": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc",
+          "confidence": 1.0,
+          "matched": "Valley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Do You Need to Be Entertained Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/43112266/valley-do-you-need-to-be-entertained-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/valley-do-you-need-to-be-entertained-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jack Kays",
+          "apple_music": "https://music.apple.com/us/artist/jack-kays/1421268766",
+          "spotify": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54",
+          "confidence": 1.0,
+          "matched": "Jack Kays",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Jack Kays And His Band",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/98634606/jackkaysjackkaysand-his-band-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/jack-kays-jack-kays-and-his-band/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CAROLINE ROSE",
+          "apple_music": "https://music.apple.com/us/artist/caroline-rose/436333749",
+          "spotify": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw",
+          "confidence": 1.0,
+          "matched": "Caroline Rose",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/88452422/caroline-rose-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/caroline-rose-2/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "strongboi headline tour 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: strongboi @ 49%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/75589203/strongboi-headline-tour-2027-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/strongboi-headline-tour-2027/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Boy Throb’s Real Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Boy Throb @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/46356512/boy-throbs-real-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/boy-throbs-real-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sleaford Mods",
+          "apple_music": "https://music.apple.com/us/artist/sleaford-mods/501699727",
+          "spotify": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh",
+          "confidence": 1.0,
+          "matched": "Sleaford Mods",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41494787/sleaford-mods-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/sleaford-mods-2/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jersey",
+          "apple_music": "https://music.apple.com/us/artist/jersey/1636705583",
+          "spotify": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ",
+          "confidence": 1.0,
+          "matched": "Jersey",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/67935496/jersey-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/jersey/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gus Dapperton",
+          "apple_music": "https://music.apple.com/us/artist/gus-dapperton/1083049158",
+          "spotify": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4",
+          "confidence": 1.0,
+          "matched": "Gus Dapperton",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "4 Dear Life Tour",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/99922294/gus-dapperton4-dear-life-tour-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/gus-dapperton-4-dear-life-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DESTROY BOYS",
+          "apple_music": "https://music.apple.com/us/artist/destroy-boys/1202438410",
+          "spotify": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5",
+          "confidence": 1.0,
+          "matched": "Destroy Boys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-12",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/39373519/destroy-boys-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/destroy-boys-2/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "SiM",
+          "apple_music": "https://music.apple.com/us/artist/sim/1124210967",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "SiM",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Simply Red @ 46%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Zero 9:36",
+          "apple_music": "https://music.apple.com/us/artist/zero-9-36/1479131967",
+          "spotify": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0",
+          "confidence": 1.0,
+          "matched": "Zero 9:36",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "HOOMAN WORLD TOUR",
+      "presenters": [
+        "Mammoth NW Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-25",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "javascript:void(0)",
+      "ticket_status": "off sale",
+      "event_page": "https://wonderballroom.com/event/postponed-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": "venue bills it as *Postponed*",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hazlett",
+          "apple_music": "https://music.apple.com/us/artist/hazlett/274443511",
+          "spotify": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH",
+          "confidence": 1.0,
+          "matched": "Hazlett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Musical Guest Hunter Metts",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Hunter Metts @ 70%)",
+          "spotify_label": "no confident match (closest: Hunter Metts @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/96188290/hazlett-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/hazlett/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MOSCA",
+          "apple_music": "https://music.apple.com/us/artist/mosca/6823631",
+          "spotify": "https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg",
+          "confidence": 1.0,
+          "matched": "Mosca",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents",
+        "NSQK"
+      ],
+      "set_format": null,
+      "date": "2027-06-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/93841018/nsqk-presentsmosca-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/nsqk-presents-mosca/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    }
+  ],
+  "stats": {
+    "event_types": {
+      "music": 33,
+      "comedy": 0,
+      "film": 0,
+      "other": 0
+    },
+    "apple_music": {
+      "unique_artists": 42,
+      "found": 36,
+      "exact": 34,
+      "close": 1,
+      "flagged": 1,
+      "not_found": 6
+    },
+    "spotify": {
+      "unique_artists": 42,
+      "linked": 36,
+      "venue": 0,
+      "api": 36,
+      "feed": 0,
+      "shows_with_link": 29
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:48:05.011202+00:00",
+  "generated_at": "2026-11-07T02:56:07.290205+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -517,6 +517,31 @@
       },
       "show_count": 25,
       "sha256_16": "cdc6b637ee19de2c"
+    },
+    {
+      "venue_id": "wonderball",
+      "file": "wonderball/shows.json",
+      "city": "Portland, OR",
+      "metro": "Portland",
+      "updated_at": "2026-11-06",
+      "fetched_at": "2026-11-06T18:53:45",
+      "oldest_show_date": "2026-11-06",
+      "value_domains": {
+        "event_type": [
+          "music"
+        ],
+        "ticket_status": [
+          "on sale",
+          "sold out",
+          "cancelled",
+          "off sale"
+        ],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 33,
+      "sha256_16": "f449f8ee7f810413"
     }
   ]
 }
