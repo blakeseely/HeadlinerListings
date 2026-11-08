@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 58,
+  "scraped_at": "2026-11-08",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Outlander in Concert",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: l'Outlander @ 58%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/outlander-in-concert/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/outlander-in-concert/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -303,25 +272,25 @@
       "headline_artists": [
         {
           "name": "Switchfoot",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/switchfoot/655658",
+          "spotify": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu",
+          "confidence": 1.0,
+          "matched": "Switchfoot",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Anberlin",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/anberlin/16269045",
+          "spotify": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp",
+          "confidence": 1.0,
+          "matched": "Anberlin",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -407,13 +376,13 @@
       "headline_artists": [
         {
           "name": "Prateek Kuhad",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/prateek-kuhad/453523728",
+          "spotify": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7",
+          "confidence": 1.0,
+          "matched": "Prateek Kuhad",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -471,10 +440,10 @@
           "name": "The Rewatchables Live!",
           "apple_music": null,
           "spotify": null,
-          "confidence": null,
+          "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Keith David @ 30%)",
           "spotify_source": null
         }
       ],
@@ -717,13 +686,13 @@
       "headline_artists": [
         {
           "name": "Gianmarco Soresi",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://itunes.apple.com/us/artist/gianmarco-soresi/915540957",
+          "spotify": "https://open.spotify.com/artist/4XmoOoFzmlgZ5AdnqL9zT0",
+          "confidence": 1.0,
+          "matched": "Gianmarco Soresi",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -748,13 +717,13 @@
       "headline_artists": [
         {
           "name": "Gianmarco Soresi",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://itunes.apple.com/us/artist/gianmarco-soresi/915540957",
+          "spotify": "https://open.spotify.com/artist/4XmoOoFzmlgZ5AdnqL9zT0",
+          "confidence": 1.0,
+          "matched": "Gianmarco Soresi",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1008,34 +977,34 @@
         {
           "name": "FLO",
           "apple_music": "https://music.apple.com/us/artist/flo/1615611716",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO",
           "confidence": 1.0,
           "matched": "FLO",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Sevyn Streeter",
           "apple_music": "https://music.apple.com/us/artist/sevyn-streeter/572141728",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca",
           "confidence": 1.0,
           "matched": "Sevyn Streeter",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "AMMA",
           "apple_music": "https://music.apple.com/us/artist/amma/1834685990",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2",
           "confidence": 1.0,
           "matched": "Amma",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1060,12 +1029,12 @@
         {
           "name": "Tim Dillon",
           "apple_music": "https://music.apple.com/us/artist/tim-dillon/944538186",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6YKImCgiyeY5zvlBoTuyaB",
           "confidence": 1.0,
           "matched": "Tim Dillon",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1095,7 +1064,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Jeff Arcilla @ 78%)",
           "spotify_source": null
         }
       ],
@@ -1126,7 +1095,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Jeff Arcilla @ 78%)",
           "spotify_source": null
         }
       ],
@@ -1157,7 +1126,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Jeff Arcilla @ 78%)",
           "spotify_source": null
         }
       ],
@@ -1188,7 +1157,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Jeff Arcilla @ 78%)",
           "spotify_source": null
         }
       ],
@@ -1215,12 +1184,12 @@
         {
           "name": "Blippi",
           "apple_music": "https://music.apple.com/us/artist/blippi/985762615",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn",
           "confidence": 1.0,
           "matched": "Blippi",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1246,12 +1215,12 @@
         {
           "name": "Charlie Berens",
           "apple_music": "https://music.apple.com/us/artist/charlie-berens/1495576591",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4DVyGVA9P74sBjJGRid37p",
           "confidence": 1.0,
           "matched": "Charlie Berens",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1277,12 +1246,12 @@
         {
           "name": "Dave Attell",
           "apple_music": "https://books.apple.com/us/artist/dave-attell/31176454",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0GjpCwxz0C042nPj6K8KyI",
           "confidence": 1.0,
           "matched": "Dave Attell",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1308,12 +1277,12 @@
         {
           "name": "Sesame Street Live",
           "apple_music": "https://music.apple.com/us/artist/sesame-street/253606993",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT",
           "confidence": 0.8,
           "matched": "Sesame Street",
           "apple_label": "close match: Sesame Street",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Sesame Street",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1339,12 +1308,12 @@
         {
           "name": "Blue October",
           "apple_music": "https://music.apple.com/us/artist/blue-october/559128",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh",
           "confidence": 1.0,
           "matched": "Blue October",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1370,34 +1339,34 @@
         {
           "name": "Frank Turner & The Sleeping Souls",
           "apple_music": "https://music.apple.com/us/artist/frank-turner/108696785",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp",
           "confidence": 0.95,
           "matched": "Frank Turner",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Skinny Lister",
           "apple_music": "https://music.apple.com/us/artist/skinny-lister/314416620",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/30VFmfxKlxl2LmNe6rtMis",
           "confidence": 1.0,
           "matched": "Skinny Lister",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Beans On Toast",
           "apple_music": "https://music.apple.com/us/artist/beans-on-toast/212784894",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6fVeXD7D2RpFoR6bzNEDPo",
           "confidence": 1.0,
           "matched": "Beans On Toast",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1426,7 +1395,7 @@
           "confidence": 1.0,
           "matched": "Foil Arms and Hog",
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Arm's Length @ 48%)",
           "spotify_source": null
         }
       ],
@@ -1453,12 +1422,12 @@
         {
           "name": "Akira Yamaoka",
           "apple_music": "https://music.apple.com/us/artist/akira-yamaoka/262028864",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe",
           "confidence": 1.0,
           "matched": "Akira Yamaoka",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1483,25 +1452,25 @@
       "headline_artists": [
         {
           "name": "Vacations",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/vacations/350230773",
+          "spotify": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4",
+          "confidence": 1.0,
+          "matched": "Vacations",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "TWEN",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/twen/284936071",
+          "spotify": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO",
+          "confidence": 1.0,
+          "matched": "twen",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1525,13 +1494,13 @@
       "headline_artists": [
         {
           "name": "Crystal Methyd",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
+          "apple_music": "https://music.apple.com/us/artist/the-crystal-method/109716",
+          "spotify": "https://open.spotify.com/artist/68ZnLwC8Q0tJkGUbW1yjB5",
+          "confidence": 0.812,
+          "matched": "The Crystal Method",
+          "apple_label": "close match: The Crystal Method",
+          "spotify_label": "close match: crystal meth",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1557,12 +1526,12 @@
         {
           "name": "Yamato – The Drummers of Japan",
           "apple_music": "https://music.apple.com/us/artist/yamato-the-drummers-of-japan/502279286",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3XYZjvVUhTiEDMXlfiZ9Oa",
           "confidence": 0.9,
           "matched": "YAMATO the drummers of Japan",
           "apple_label": "close match: YAMATO the drummers of Japan",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: YAMATO the drummers of Japan",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1588,12 +1557,12 @@
         {
           "name": "All Things Equal",
           "apple_music": "https://music.apple.com/us/artist/all-things-equal/416393398",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0mLwHzHbos9zFfJYCoyLAj",
           "confidence": 1.0,
           "matched": "All Things Equal",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1623,7 +1592,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Henry Mancini @ 46%)",
           "spotify_source": null
         }
       ],
@@ -1650,24 +1619,24 @@
         {
           "name": "The Warning",
           "apple_music": "https://music.apple.com/us/artist/the-warning/260719953",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
           "confidence": 1.0,
           "matched": "The Warning",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "wilt",
           "apple_music": "https://music.apple.com/us/artist/wilt/1653188857",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy",
           "confidence": 1.0,
           "matched": "wilt",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1692,12 +1661,12 @@
         {
           "name": "Luka Šulić",
           "apple_music": "https://music.apple.com/us/artist/luka-sulic/431165073",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/36a1FhGZwPM18t4IkpOkpG",
           "confidence": 1.0,
           "matched": "Luka Sulic",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1723,12 +1692,12 @@
         {
           "name": "Valery Meladze",
           "apple_music": "https://music.apple.com/us/artist/valery-meladze/1618150928",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2igtm1MhKEpmG3PzToJT40",
           "confidence": 1.0,
           "matched": "Valery Meladze",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1754,12 +1723,12 @@
         {
           "name": "Eric Andre",
           "apple_music": "https://itunes.apple.com/us/artist/eric-andre/1605984048",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke",
           "confidence": 1.0,
           "matched": "Eric Andre",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1785,12 +1754,12 @@
         {
           "name": "Bianca Del Rio",
           "apple_music": "https://music.apple.com/us/artist/bianca-del-rio/798826942",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0TWX7Zi7DYeAe3m1y9shuq",
           "confidence": 1.0,
           "matched": "Bianca Del Rio",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1820,7 +1789,7 @@
           "confidence": 0.571,
           "matched": null,
           "apple_label": "no confident match (closest: DNCE @ 57%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: DNCE @ 57%)",
           "spotify_source": null
         }
       ],
@@ -1851,7 +1820,7 @@
           "confidence": 0.571,
           "matched": null,
           "apple_label": "no confident match (closest: DNCE @ 57%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: DNCE @ 57%)",
           "spotify_source": null
         }
       ],
@@ -1882,7 +1851,7 @@
           "confidence": 0.588,
           "matched": null,
           "apple_label": "no confident match (closest: Seamus Moore @ 59%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: MooreMusic4U @ 53%)",
           "spotify_source": null
         }
       ],
@@ -1913,7 +1882,7 @@
           "confidence": 0.588,
           "matched": null,
           "apple_label": "no confident match (closest: Seamus Moore @ 59%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: MooreMusic4U @ 53%)",
           "spotify_source": null
         }
       ],
@@ -1936,26 +1905,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 54,
-      "found": 33,
-      "exact": 29,
+      "unique_artists": 53,
+      "found": 40,
+      "exact": 35,
       "close": 1,
-      "flagged": 3,
-      "not_found": 21
+      "flagged": 4,
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 54,
-      "linked": 13,
+      "unique_artists": 53,
+      "linked": 41,
       "venue": 0,
-      "api": 13,
+      "api": 41,
       "feed": 0,
-      "shows_with_link": 15
+      "shows_with_link": 37
     }
   }
 }

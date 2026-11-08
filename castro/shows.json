@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 66,
+  "scraped_at": "2026-11-08",
+  "count": 65,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "PJ Morton",
-          "apple_music": "https://music.apple.com/us/artist/pj-morton/44719201",
-          "spotify": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7",
-          "confidence": 1.0,
-          "matched": "PJ Morton",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DJ Arie Spins",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/pj-morton-san-francisco-california-11-07-2026/event/1C00648EFCDB5569?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/pj-morton-261107",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Saturday Night Sunday Morning Tour",
-      "description": "PJ Morton is a soul singer, songwriter, performer and producer based in New Orleans. He is a 6x GRAMMY-winner and 22x GRAMMY nominee who has earned numerous nominations for BET, Soul Train and NAACP Image Awards, in addition to selling out countless shows at historic venues like the Apollo Theater and others around the world. On top of running his own record label (Morton Records) and serving as Maroon 5’s full-time keyboardist for the past 15 years, he has collaborated with Stevie Wonder, Erykah Badu, Jon Batiste, Nas, Lil Wayne, JoJo, Jill Scott and many others. PJ Morton is also the first Black composer to ever write an original song for a Disney attraction, Tiana’s Bayou Adventure, now open at both Disney World and Disneyland. His latest solo album, Cape Town to Cairo, was fully created during a 30-day trip across Africa, and in his debut memoir, Saturday Night, Sunday Morning (Worthy Publishing / Hachette Book Group), Morton recounts and reflects upon a trailblazing path that continues to defy expectations and straddle the tensions of music and faith, race and culture, expression and identity. Recently, he has ventured further into the worlds of film and television – writing t"
-    },
     {
       "event_type": "film",
       "needs_review": false,
@@ -2307,26 +2265,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 50,
       "comedy": 4,
       "film": 9,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 75,
-      "found": 59,
-      "exact": 53,
+      "unique_artists": 73,
+      "found": 58,
+      "exact": 52,
       "close": 2,
       "flagged": 4,
-      "not_found": 16
+      "not_found": 15
     },
     "spotify": {
-      "unique_artists": 75,
-      "linked": 46,
-      "venue": 46,
+      "unique_artists": 73,
+      "linked": 45,
+      "venue": 45,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 39
     }
   }
 }

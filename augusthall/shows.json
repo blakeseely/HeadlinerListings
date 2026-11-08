@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
+  "scraped_at": "2026-11-08",
   "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pinhead Gunpowder",
-          "apple_music": "https://music.apple.com/us/artist/pinhead-gunpowder/6800228",
-          "spotify": "https://open.spotify.com/artist/3FV6RFbfc6do1nCakWsNBx",
-          "confidence": 1.0,
-          "matched": "Pinhead Gunpowder",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Constant Insult and False Flag",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/pinhead-gunpowder-san-francisco-california-11-07-2026/event/1C0064B2A01FB78E",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/pinhead-gunpowder/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -129,13 +87,13 @@
       "support_artists": [
         {
           "name": "Ariel J. and DJ Zeus",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
+          "apple_music": "https://music.apple.com/us/artist/ariel-j/1446957627",
+          "spotify": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa",
+          "confidence": 0.95,
+          "matched": "Ariel J.",
+          "apple_label": "compound bill — links to Ariel J. only",
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -202,13 +160,13 @@
       "support_artists": [
         {
           "name": "Kelly Willis",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/kelly-willis/70312",
+          "spotify": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E",
+          "confidence": 1.0,
+          "matched": "Kelly Willis",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -275,13 +233,13 @@
       "support_artists": [
         {
           "name": "midori jaeger",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/midori-jaeger/1482434343",
+          "spotify": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp",
+          "confidence": 1.0,
+          "matched": "midori jaeger",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -317,13 +275,13 @@
       "support_artists": [
         {
           "name": "Dry Socket and Pure Hex",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
+          "apple_music": "https://music.apple.com/us/artist/dry-socket/1483259560",
+          "spotify": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm",
+          "confidence": 0.95,
+          "matched": "Dry Socket",
+          "apple_label": "compound bill — links to Dry Socket only",
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -359,13 +317,13 @@
       "support_artists": [
         {
           "name": "Ben Quad and Super Sometimes",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
+          "apple_music": "https://music.apple.com/us/artist/ben-quad/1433413372",
+          "spotify": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE",
+          "confidence": 0.95,
+          "matched": "Ben Quad",
+          "apple_label": "compound bill — links to Ben Quad only",
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -432,13 +390,13 @@
       "support_artists": [
         {
           "name": "Brooke Combe",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/brooke-combe/1444637732",
+          "spotify": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO",
+          "confidence": 1.0,
+          "matched": "Brooke Combe",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -709,6 +667,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "James Marriott",
+          "apple_music": "https://music.apple.com/us/artist/james-marriott/458203329",
+          "spotify": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL",
+          "confidence": 1.0,
+          "matched": "James Marriott",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/james-marriott-san-francisco-california-02-28-2027/event/1C006532C56E5748",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/james-marriott/",
+      "room": null,
+      "age_rating": "5 and Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Lemonheads",
           "apple_music": "https://music.apple.com/us/artist/the-lemonheads/312507",
           "spotify": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X",
@@ -939,13 +928,13 @@
       "support_artists": [
         {
           "name": "illuminati hotties and The Rat Utopia Experiment",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
+          "apple_music": "https://music.apple.com/us/artist/illuminati-hotties/1264905232",
+          "spotify": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O",
+          "confidence": 0.95,
+          "matched": "illuminati hotties",
+          "apple_label": "compound bill — links to illuminati hotties only",
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -981,13 +970,13 @@
       "support_artists": [
         {
           "name": "Zero 9:36",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": null,
-          "matched": null,
+          "apple_music": "https://music.apple.com/us/artist/zero-9-36/1479131967",
+          "spotify": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0",
+          "confidence": 1.0,
+          "matched": "Zero 9:36",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1129,20 +1118,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 26,
-      "exact": 26,
+      "unique_artists": 39,
+      "found": 34,
+      "exact": 30,
       "close": 0,
-      "flagged": 0,
-      "not_found": 14
+      "flagged": 4,
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 25,
+      "unique_artists": 39,
+      "linked": 33,
       "venue": 0,
-      "api": 25,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 27
+      "shows_with_link": 28
     }
   }
 }

@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 32,
+  "scraped_at": "2026-11-08",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "JOSEPH",
-          "apple_music": "https://music.apple.com/us/artist/joseph/1053275225",
-          "spotify": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO",
-          "confidence": 1.0,
-          "matched": "JOSEPH",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "BendreTheGiant",
-          "apple_music": "https://music.apple.com/us/artist/bendrethegiant/1549000718",
-          "spotify": "https://open.spotify.com/artist/0shIMtgnKC8fYwBUPyXUiw",
-          "confidence": 1.0,
-          "matched": "BendreTheGiant",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "10 Year Anniversary of “I’m Alone, No You’re Not”",
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/83397042/joseph-10-year-anniversary-of-im-aloneno-youre-not-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "sold out",
-      "event_page": "https://wonderballroom.com/event/joseph-10-year-anniversary-of-im-alone-no-youre-not/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1196,26 +1152,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 35,
-      "exact": 33,
+      "unique_artists": 39,
+      "found": 33,
+      "exact": 31,
       "close": 1,
       "flagged": 1,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 35,
+      "unique_artists": 39,
+      "linked": 33,
       "venue": 0,
-      "api": 35,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 27
     }
   }
 }

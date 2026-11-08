@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 38,
+  "scraped_at": "2026-11-08",
+  "count": 35,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lucy Bedroque",
-          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
-          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-          "confidence": 1.0,
-          "matched": "Lucy Bedroque",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "pinponpanpon",
-          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
-          "spotify": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng",
-          "confidence": 1.0,
-          "matched": "pinponpanpon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "003 Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546673674",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1547252",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1308,68 +1264,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Nick Cave",
-          "apple_music": "https://music.apple.com/us/artist/nick-cave/3691438",
-          "spotify": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p",
-          "confidence": 1.0,
-          "matched": "Nick Cave",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Conversations With Nick Cave",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-04-16",
-      "doors": "6:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://us.atgtickets.com/events/nick-cave/orpheum-theatre/",
-      "ticket_status": "coming soon",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1684862",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Nick Cave",
-          "apple_music": "https://music.apple.com/us/artist/nick-cave/3691438",
-          "spotify": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p",
-          "confidence": 1.0,
-          "matched": "Nick Cave",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Conversations With Nick Cave",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-04-17",
-      "doors": "6:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://us.atgtickets.com/events/nick-cave-second-show/orpheum-theatre/",
-      "ticket_status": "coming soon",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1684864",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "brakence",
           "apple_music": "https://music.apple.com/us/artist/brakence/1345560251",
           "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV",
@@ -1631,26 +1525,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 35,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 65,
-      "found": 64,
-      "exact": 63,
+      "unique_artists": 62,
+      "found": 61,
+      "exact": 60,
       "close": 0,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 65,
-      "linked": 63,
+      "unique_artists": 62,
+      "linked": 60,
       "venue": 0,
-      "api": 60,
+      "api": 57,
       "feed": 3,
-      "shows_with_link": 38
+      "shows_with_link": 35
     }
   }
 }

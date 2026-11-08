@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 47,
+  "scraped_at": "2026-11-08",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "apple_music": "https://music.apple.com/us/artist/peach-tree-rascals/1387703899",
-          "spotify": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe",
-          "confidence": 1.0,
-          "matched": "Peach Tree Rascals",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Michael Sneed",
-          "apple_music": "https://music.apple.com/us/artist/michael-sneed/214823634",
-          "spotify": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl",
-          "confidence": 1.0,
-          "matched": "Michael Sneed",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Popscene + Rickshaw Stop co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.eventim.us/event/peach-tree-rascals/704398",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.eventim.us/event/peach-tree-rascals/704398",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -414,10 +370,43 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Buzzed Lightbeer",
+          "apple_music": "https://music.apple.com/us/artist/buzzed-lightbeer/1509387237",
+          "spotify": "https://open.spotify.com/artist/7DH4ANOgB5wmNwRvm38KZi",
+          "confidence": 1.0,
+          "matched": "Buzzed Lightbeer",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Milk for the Angry",
+          "apple_music": "https://music.apple.com/us/artist/milk-for-the-angry/1361675954",
+          "spotify": "https://open.spotify.com/artist/7zHgdBrZrf6QLOVapWjQlm",
+          "confidence": 1.0,
+          "matched": "Milk for the Angry",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Catnip",
+          "apple_music": "https://music.apple.com/us/artist/catnip/1765205248",
+          "spotify": "https://open.spotify.com/artist/4756Ogon06v9ngH7bMEqUE",
+          "confidence": 1.0,
+          "matched": "Catnip",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Psyched! Radio and Rickshaw Stop Present"
+      ],
       "set_format": null,
       "date": "2026-11-20",
       "doors": "8:00 pm",
@@ -426,7 +415,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/natural-child/688788",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1610,26 +1599,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 46,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 47,
-      "exact": 46,
+      "unique_artists": 56,
+      "found": 48,
+      "exact": 47,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 49,
+      "unique_artists": 56,
+      "linked": 50,
       "venue": 0,
-      "api": 49,
+      "api": 50,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }

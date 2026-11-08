@@ -35,50 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
+  "scraped_at": "2026-11-08",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Supertaste",
-          "apple_music": "https://music.apple.com/us/artist/supertaste/123001152",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Supertaste",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "3kelves",
-          "apple_music": "https://music.apple.com/us/artist/3kelves/1370706934",
-          "spotify": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH",
-          "confidence": 1.0,
-          "matched": "3kelves",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/supertaste-3kelves-brick-and-mortar-music-hall-tickets/14244524?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/supertaste/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -824,6 +783,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Kumo 99",
+          "apple_music": "https://music.apple.com/us/artist/kumo-99/1509742764",
+          "spotify": "https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5",
+          "confidence": 1.0,
+          "matched": "Kumo 99",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/kumo-99-brick-and-mortar-music-hall-tickets/14341324?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/kumo-99/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -834,15 +824,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 34,
-      "exact": 32,
+      "unique_artists": 35,
+      "found": 33,
+      "exact": 31,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 36,
+      "unique_artists": 35,
       "linked": 16,
       "venue": 16,
       "api": 0,

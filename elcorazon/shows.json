@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 35,
+  "scraped_at": "2026-11-08",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Claudio Simonetti’s Goblin",
-          "apple_music": "https://music.apple.com/us/artist/claudio-simonettis-goblin/885492325",
-          "spotify": "https://open.spotify.com/artist/4FwmOYxQRj3VWzyh55CFIM",
-          "confidence": 1.0,
-          "matched": "Claudio Simonetti's Goblin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "TENEBRE",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/claudio-simonetti-s-goblin-tenebre-07-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -276,7 +245,7 @@
           "confidence": 1.0,
           "matched": "Punchis Punchis",
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: PUNCHING BAG @ 52%)",
           "spotify_source": null
         }
       ],
@@ -400,7 +369,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Kiss the Scientist @ 52%)",
           "spotify_source": null
         }
       ],
@@ -534,7 +503,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Bodysnatcher @ 62%)",
           "spotify_source": null
         },
         {
@@ -544,7 +513,7 @@
           "confidence": 0.4,
           "matched": null,
           "apple_label": "no confident match (closest: Ella Mai @ 40%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Helluva Boss @ 41%)",
           "spotify_source": null
         }
       ],
@@ -562,22 +531,22 @@
         {
           "name": "Psycho-Frame",
           "apple_music": "https://music.apple.com/us/artist/psycho-frame/1679480358",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR",
           "confidence": 1.0,
           "matched": "PSYCHO-FRAME",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Volatile Ways",
           "apple_music": "https://music.apple.com/us/artist/volatile-ways/1491386186",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5tzKHMv3nxruSxWiLcrVIt",
           "confidence": 1.0,
           "matched": "Volatile Ways",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -757,12 +726,12 @@
         {
           "name": "Eyes Set To Kill",
           "apple_music": "https://music.apple.com/us/artist/eyes-set-to-kill/271973862",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP",
           "confidence": 1.0,
           "matched": "Eyes Set to Kill",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1402,12 +1371,12 @@
         {
           "name": "CODEFENDANTS",
           "apple_music": "https://music.apple.com/us/artist/codefendants/1656143063",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe",
           "confidence": 1.0,
           "matched": "Codefendants",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Jakob Nowell and THE CASTLE",
@@ -1443,12 +1412,12 @@
         {
           "name": "Beast In Black",
           "apple_music": "https://music.apple.com/us/artist/beast-in-black/1275559022",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH",
           "confidence": 1.0,
           "matched": "Beast in Black",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1672,12 +1641,12 @@
         {
           "name": "NERVOSA",
           "apple_music": "https://music.apple.com/us/artist/nervosa/511556134",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH",
           "confidence": 1.0,
           "matched": "Nervosa",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1728,7 +1697,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Coroner @ 67%)",
           "spotify_source": null
         }
       ],
@@ -1863,7 +1832,7 @@
           "confidence": 0.359,
           "matched": null,
           "apple_label": "no confident match (closest: Gladys Knight & The Pips @ 36%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Council @ 64%)",
           "spotify_source": null
         }
       ],
@@ -1979,24 +1948,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 108,
-      "found": 98,
-      "exact": 97,
+      "unique_artists": 107,
+      "found": 97,
+      "exact": 96,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 108,
-      "linked": 90,
+      "unique_artists": 107,
+      "linked": 95,
       "venue": 0,
-      "api": 90,
+      "api": 95,
       "feed": 0,
       "shows_with_link": 31
     }

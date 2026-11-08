@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 71,
+  "scraped_at": "2026-11-08",
+  "count": 70,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brett Goldstein",
-          "apple_music": "https://music.apple.com/us/artist/brett-goldstein/1692128108",
-          "spotify": "https://open.spotify.com/artist/0of3jLVERcNvUL8BbYlGB1",
-          "confidence": 1.0,
-          "matched": "brett goldstein",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Sex, Death & Small Talk",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BRETT&linkID=pcpa&shopperContext=&caller=&appCode=",
-      "ticket_status": "on sale",
-      "event_page": "https://www.portland5.com/event/brett-goldstein-sex-death-small-talk",
-      "room": null,
-      "age_rating": "No children under the age of 15 permitted",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2243,25 +2212,25 @@
   "stats": {
     "event_types": {
       "music": 6,
-      "comedy": 6,
+      "comedy": 5,
       "film": 0,
       "other": 59
     },
     "apple_music": {
-      "unique_artists": 20,
-      "found": 10,
-      "exact": 8,
+      "unique_artists": 19,
+      "found": 9,
+      "exact": 7,
       "close": 1,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 20,
-      "linked": 11,
+      "unique_artists": 19,
+      "linked": 10,
       "venue": 0,
-      "api": 11,
+      "api": 10,
       "feed": 0,
-      "shows_with_link": 52
+      "shows_with_link": 51
     }
   }
 }

@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
+  "scraped_at": "2026-11-08",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Big Star Quintet",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM",
-          "confidence": 0.267,
-          "matched": null,
-          "apple_label": "no confident match (closest: Lionel Hampton & His Just Jazz All Stars @ 27%)",
-          "spotify_label": "close match: Big Star",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-big-star-quintet-san-francisco-california-11-07-2026/event/1C0064FDD0AC3682",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-big-star-quintet-san-francisco-california-11-07-2026/event/1C0064FDD0AC3682",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1346,6 +1315,37 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "apple_music": "https://music.apple.com/us/artist/rhiannon-giddens/271874135",
+          "spotify": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM",
+          "confidence": 1.0,
+          "matched": "Rhiannon Giddens",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/rhiannon-giddens-san-francisco-california-02-09-2027/event/1C0064668B9F984D",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/rhiannon-giddens-san-francisco-california-02-09-2027/event/1C0064668B9F984D",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1357,11 +1357,11 @@
     },
     "apple_music": {
       "unique_artists": 44,
-      "found": 41,
-      "exact": 41,
+      "found": 42,
+      "exact": 42,
       "close": 0,
       "flagged": 0,
-      "not_found": 3
+      "not_found": 2
     },
     "spotify": {
       "unique_artists": 44,

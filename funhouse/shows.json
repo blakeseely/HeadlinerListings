@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 30,
+  "scraped_at": "2026-11-08",
+  "count": 29,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gully Boys",
-          "apple_music": "https://music.apple.com/us/artist/gully-boys/102136063",
-          "spotify": "https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU",
-          "confidence": 1.0,
-          "matched": "Gully Boys",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Pollyanna",
-          "apple_music": "https://music.apple.com/us/artist/pollyanna/6802001",
-          "spotify": "https://open.spotify.com/artist/2y69gaZL8wD15wSB2Vl188",
-          "confidence": 1.0,
-          "matched": "Pollyanna",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Black Ends",
-          "apple_music": "https://music.apple.com/us/artist/black-ends/1456795717",
-          "spotify": "https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3",
-          "confidence": 1.0,
-          "matched": "Black Ends",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "My Big Fat Gay Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/gully-boys-my-big-fat-gay-tour-07-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -97,12 +45,12 @@
         {
           "name": "Stop.Drop.Rewind",
           "apple_music": "https://music.apple.com/us/artist/stop-drop-rewind/532322015",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6cyOnkhucDmohL6xXmUuNG",
           "confidence": 1.0,
           "matched": "stop.drop.rewind",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -319,7 +267,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Kawai Sprite @ 37%)",
           "spotify_source": null
         }
       ],
@@ -470,12 +418,12 @@
         {
           "name": "JADY",
           "apple_music": "https://music.apple.com/us/artist/jady/1468801354",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1",
           "confidence": 1.0,
           "matched": "Jady",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -522,12 +470,12 @@
         {
           "name": "OK Goodnight",
           "apple_music": "https://music.apple.com/us/artist/ok-goodnight/1455689335",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc",
           "confidence": 1.0,
           "matched": "Ok Goodnight",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -682,7 +630,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Rare Americans @ 30%)",
           "spotify_source": null
         }
       ],
@@ -713,7 +661,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Divine Dimensions @ 44%)",
           "spotify_source": null
         }
       ],
@@ -791,12 +739,12 @@
         {
           "name": "The OBGM's",
           "apple_music": "https://music.apple.com/us/artist/the-obgms/903262315",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI",
           "confidence": 0.947,
           "matched": "The OBGMs",
           "apple_label": "close match: The OBGMs",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: The OBGMs",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -843,34 +791,34 @@
         {
           "name": "Brokencyde",
           "apple_music": "https://music.apple.com/us/artist/brokencyde/266962025",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/22WwE0lMmGx4AJeyUfT7rh",
           "confidence": 1.0,
           "matched": "Brokencyde",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Dot Dot Curve :)",
           "apple_music": "https://music.apple.com/us/artist/dot-dot-curve/305696063",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5RfBjStwyB6Me27I1m2wED",
           "confidence": 0.9,
           "matched": "Dot Dot Curve",
           "apple_label": "close match: Dot Dot Curve",
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Nitrah Neon",
           "apple_music": "https://music.apple.com/us/artist/nitrah-neon/1121271918",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6pAjp4YxDc5VzikoFBOh6o",
           "confidence": 1.0,
           "matched": "Nitrah Neon",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1049,12 +997,12 @@
         {
           "name": "AYRIA",
           "apple_music": "https://music.apple.com/us/artist/ayria/112212166",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4BTJnYa0TMqVLjAJ0yFoOE",
           "confidence": 1.0,
           "matched": "Ayria",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1136,7 +1084,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Afterbirth @ 26%)",
           "spotify_source": null
         }
       ],
@@ -1225,12 +1173,12 @@
         {
           "name": "The Dread Crew Of Oddwood",
           "apple_music": "https://music.apple.com/us/artist/the-dread-crew-of-oddwood/621138338",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6zcmCjWWCCfegPGLlniQNg",
           "confidence": 1.0,
           "matched": "The Dread Crew of Oddwood",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1260,7 +1208,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Fear Factory @ 28%)",
           "spotify_source": null
         }
       ],
@@ -1353,7 +1301,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Riot Ten @ 29%)",
           "spotify_source": null
         }
       ],
@@ -1501,26 +1449,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 29,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 81,
-      "found": 68,
-      "exact": 63,
+      "unique_artists": 78,
+      "found": 65,
+      "exact": 60,
       "close": 2,
       "flagged": 3,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 81,
-      "linked": 59,
+      "unique_artists": 78,
+      "linked": 65,
       "venue": 0,
-      "api": 59,
+      "api": 65,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 23
     }
   }
 }

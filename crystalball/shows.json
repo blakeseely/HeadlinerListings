@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 55,
+  "scraped_at": "2026-11-08",
+  "count": 54,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sienna Spiro",
-          "apple_music": "https://music.apple.com/us/artist/sienna-spiro/1745678083",
-          "spotify": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
-          "confidence": 1.0,
-          "matched": "SIENNA SPIRO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Summer Joy",
-          "apple_music": "https://music.apple.com/us/artist/summer-joy/1718326924",
-          "spotify": "https://open.spotify.com/artist/42qZnbJ0Ye2JSIvx6YWJOW",
-          "confidence": 1.0,
-          "matched": "Summer Joy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "My House Tour",
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "6:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/36367188/sienna-spiro-my-house-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/277282-sienna-spiro-my-house-tour/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Saturday, November 7th at Crystal Ballroom in Portland, OR"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -533,7 +489,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": "Still Searching",
-      "presenters": [],
+      "presenters": [
+        "Live Nation Presents"
+      ],
       "set_format": null,
       "date": "2026-11-23",
       "doors": "5:30 pm",
@@ -2043,26 +2001,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 76,
-      "found": 53,
-      "exact": 53,
+      "unique_artists": 74,
+      "found": 51,
+      "exact": 51,
       "close": 0,
       "flagged": 0,
       "not_found": 23
     },
     "spotify": {
-      "unique_artists": 76,
-      "linked": 54,
+      "unique_artists": 74,
+      "linked": 52,
       "venue": 0,
-      "api": 54,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

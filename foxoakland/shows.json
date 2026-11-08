@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 34,
+  "scraped_at": "2026-11-08",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brandi Carlile",
-          "apple_music": "https://music.apple.com/us/artist/brandi-carlile/64387579",
-          "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej",
-          "confidence": 1.0,
-          "matched": "Brandi Carlile",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Burn The Setlist Tour (The All Request Tour)",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-tour-oakland-california-11-07-2026/event/1C006532CBC76BA8?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "sold out",
-      "event_page": "https://thefoxoakland.com/events/brandi-carlile-261107",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "One of music’s most respected voices, Brandi Carlile is an Oscar-nominee, 11x Grammy-winner, 2x EMMY-winner and #1 New York Times Bestselling author. Her acclaimed #1 album, Returning To Myself (Interscope Records/Lost Highway), marks a deeply personal new chapter for Carlile, pairing intimate songwriting with sweeping, emotionally resonant arrangements across a collection that explores self-discovery, identity and the complexities of coming home to oneself. Hailed as “one of the best albums of the year” ( Variety ), “remarkable” ( Billboard ) and a record “whose compositions feel like instant classics” ( NPR Music ), the album earned Carlile nominations for both Song of the Year (“Returning To Myself”) and Artist of the Year at the 2026 Americana Awards. In the midst of yet another monumental year, Carlile was recently selected by The New York Times ‘ readers as #21 on their “Top 100 Living American Songwriters” list and honored as one of TIME ’s 2026 Women of the Year. She also perfo"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1267,26 +1236,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 2,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 38,
-      "exact": 37,
+      "unique_artists": 38,
+      "found": 37,
+      "exact": 36,
       "close": 1,
       "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 35,
-      "venue": 35,
+      "unique_artists": 38,
+      "linked": 34,
+      "venue": 34,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

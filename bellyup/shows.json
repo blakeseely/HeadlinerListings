@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 123,
+  "scraped_at": "2026-11-08",
+  "count": 122,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Mustache Harbor",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Mustard @ 55%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Radio 80's",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/6mR5L6e2yWUA0cYSDrGlqs",
-          "confidence": 0.133,
-          "matched": null,
-          "apple_label": "no confident match (closest: ATEEZ @ 13%)",
-          "spotify_label": "close match: 80's Midnight Radio",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Yacht Rock Forever!",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/mustache-harbor-yacht-belly-up-tickets/14264904?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14264904/mustache-harbor-yacht-rock-forever-w-radio-80s",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4550,26 +4508,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 122,
+      "music": 121,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 167,
+      "unique_artists": 165,
       "found": 123,
       "exact": 101,
       "close": 6,
       "flagged": 16,
-      "not_found": 44
+      "not_found": 42
     },
     "spotify": {
-      "unique_artists": 167,
-      "linked": 128,
+      "unique_artists": 165,
+      "linked": 127,
       "venue": 0,
-      "api": 128,
+      "api": 127,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 90
     }
   }
 }

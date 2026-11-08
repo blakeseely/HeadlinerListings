@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 57,
+  "scraped_at": "2026-11-08",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Holy Wave",
-          "apple_music": "https://music.apple.com/us/artist/holy-wave/490521774",
-          "spotify": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b",
-          "confidence": 1.0,
-          "matched": "Holy Wave",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Queen Serene",
-          "apple_music": "https://music.apple.com/us/artist/queen-serene/1584927699",
-          "spotify": "https://open.spotify.com/artist/72rl9KndePSlbN6Y32Li0f",
-          "confidence": 1.0,
-          "matched": "Queen Serene",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "KCRW and Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/holy-wave/692860",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/holy-wave/692860",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -111,7 +67,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-california-honeydrops/699753",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1596,20 +1552,43 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "\"Guitars & Desert Stars II\"",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: DESERT STAR @ 58%)",
-          "spotify_source": null
+          "name": "Tom Freund & Friends",
+          "apple_music": "https://music.apple.com/us/artist/tom-freund-and-friends/266941506",
+          "spotify": "https://open.spotify.com/artist/0wPhCPiSpVMQA76EDBmgAJ",
+          "confidence": 0.9,
+          "matched": "Tom Freund and Friends",
+          "apple_label": "close match: Tom Freund and Friends",
+          "spotify_label": "close match: Tom Freund and Friends",
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Lisa Rae & The Black Sugar Band",
+          "apple_music": "https://music.apple.com/us/artist/lisa-rae/969341960",
+          "spotify": "https://open.spotify.com/artist/1jq3532M9NeuzPJeeSb75O",
+          "confidence": 0.95,
+          "matched": "Lisa Rae",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Gerald Emerick",
+          "apple_music": "https://music.apple.com/us/artist/gerald-emerick/310879169",
+          "spotify": "https://open.spotify.com/artist/3EYpwo6Azt8tWP0D6HryBL",
+          "confidence": 1.0,
+          "matched": "Gerald Emerick",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": true,
-      "show_title": "Local Night!",
-      "presenters": [],
+      "show_title": null,
+      "presenters": [
+        "jtcitylimits.presents:"
+      ],
       "set_format": null,
       "date": "2027-01-14",
       "doors": "8:00 pm",
@@ -1618,7 +1597,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/guitars-and-desert-stars-ii-local-night/709466",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2214,24 +2193,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 57,
+      "music": 56,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
       "unique_artists": 87,
-      "found": 79,
-      "exact": 76,
-      "close": 0,
-      "flagged": 3,
-      "not_found": 8
+      "found": 80,
+      "exact": 75,
+      "close": 1,
+      "flagged": 4,
+      "not_found": 7
     },
     "spotify": {
       "unique_artists": 87,
-      "linked": 76,
+      "linked": 77,
       "venue": 0,
-      "api": 76,
+      "api": 77,
       "feed": 0,
       "shows_with_link": 53
     }

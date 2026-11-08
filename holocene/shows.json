@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 47,
+  "scraped_at": "2026-11-08",
+  "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "REGGAETON Y 2000s (Perreo Classics + Y2K Bangers All Night!)",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: 2000 @ 38%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": null,
-      "show_time": "10:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/36430316/reggaeton-y-2000s-perreo-classics-y2k-bangers-all-night-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-07-reggaeton-y-2000s-perreo-classics-y2k-bangers-all-night",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "RHYTHM IS A DANCER: An early evening 90s Dance Party hosted by SNAP!",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Ultra Naté @ 15%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": null,
-      "show_time": "5:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/51248619/rhythm-is-a-dancer-an-early-evening-90s-dance-party-hosted-by-snap-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-07-rhythm-is-a-dancer-an-early-evening-90s-dance-party-hosted-by-snap",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1686,21 +1624,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 42,
       "comedy": 1,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 59,
+      "unique_artists": 57,
       "found": 28,
       "exact": 24,
       "close": 1,
       "flagged": 3,
-      "not_found": 31
+      "not_found": 29
     },
     "spotify": {
-      "unique_artists": 59,
+      "unique_artists": 57,
       "linked": 28,
       "venue": 0,
       "api": 28,

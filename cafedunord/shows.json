@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 42,
+  "scraped_at": "2026-11-08",
+  "count": 41,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "San Francisco Leonard Cohen Festival",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Conspiracy of Beards",
-          "apple_music": "https://music.apple.com/us/artist/conspiracy-of-beards/280675879",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Conspiracy of Beards",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        },
-        {
-          "name": "Daniel Kahn and Jake Shulman-Ment",
-          "apple_music": "https://music.apple.com/us/artist/daniel-kahn/323923384",
-          "spotify": null,
-          "confidence": 0.95,
-          "matched": "Daniel Kahn",
-          "apple_label": "compound bill — links to Daniel Kahn only",
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "SF Leonard Cohen Festival presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-song-swedish-american-hall-tickets/14293844?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-07-san-francisco-leonard-cohen-festival",
-      "room": "Swedish American Hall (upstairs)",
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Conspiracy of Beards present their new show “The Song & Spirit of Leonard Cohen” along with special guests, Daniel Kahn and Jake Shulman-Ment. Detroit-born, Hamburg-based troubadour and multi-instrumentalist Daniel Kahn and New York master fiddler Jake Shulman-Ment have been playing, traveling and making music together for nearly twenty years – drawing on klezmer, folk, punk, poetry and a…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1600,21 +1546,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 42,
+      "music": 41,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 57,
-      "exact": 54,
+      "unique_artists": 55,
+      "found": 55,
+      "exact": 53,
       "close": 1,
-      "flagged": 2,
-      "not_found": 1
+      "flagged": 1,
+      "not_found": 0
     },
     "spotify": {
-      "unique_artists": 58,
+      "unique_artists": 55,
       "linked": 38,
       "venue": 38,
       "api": 0,

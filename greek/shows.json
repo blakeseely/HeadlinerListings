@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-07",
-  "count": 3,
+  "scraped_at": "2026-11-08",
+  "count": 2,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "HUGEL",
-          "apple_music": "https://music.apple.com/us/artist/hugel/978839124",
-          "spotify": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By",
-          "confidence": 1.0,
-          "matched": "HUGEL",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ochok",
-          "apple_music": "https://music.apple.com/us/artist/ochok/1550363016",
-          "spotify": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX",
-          "confidence": 1.0,
-          "matched": "Ochok",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "DERON b2b Darmon",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Closing Night of the 2026 Greek Theatre Season!",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-07",
-      "doors": "5:00 pm",
-      "show_time": "6:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/hugel-berkeley-california-11-07-2026/event/1C0064BD20241F9B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thegreekberkeley.com/events/hugel-261107",
-      "room": null,
-      "age_rating": "18 and over",
-      "note": null,
-      "description": "HUGEL is one of the most influential Afro House artists on the planet and a key architect of the global Afro Latin House movement. Through his imprint Make The Girls Dance Records, he continues to push culture forward, delivering timeless club records and multiple #1 Beatport hits. A multi-platinum artist, HUGEL reached a major milestone in 2025, when his catalog surpassed 1 billion streams in a single year, confirming his position at the very top of the global dance scene. Born in Marseille and raised on a foundation of funk, disco, and soul, HUGEL began DJing on vinyl at just 16 years old. Inspired by legends such as Carl Cox, Laurent Garnier, Daft Punk, Amine Edge, and David Guetta, he developed a sound that is instantly recognizable — deeply rhythmic, emotionally charged, and built for massive dancefloors. His music is infused with the Balearic spirit of Ibiza and the cultural richness of the Mediterranean, blending Latin, oriental, and tribal influences into a powerful Afro House"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -166,26 +114,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 3,
+      "music": 2,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 6,
-      "found": 5,
-      "exact": 5,
+      "unique_artists": 3,
+      "found": 3,
+      "exact": 3,
       "close": 0,
       "flagged": 0,
-      "not_found": 1
+      "not_found": 0
     },
     "spotify": {
-      "unique_artists": 6,
-      "linked": 5,
-      "venue": 5,
+      "unique_artists": 3,
+      "linked": 3,
+      "venue": 3,
       "api": 0,
       "feed": 0,
-      "shows_with_link": 3
+      "shows_with_link": 2
     }
   }
 }
