@@ -43,18 +43,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Pinhead Gunpowder with Support by Constant Insult and False Flag",
-          "apple_music": null,
+          "name": "Pinhead Gunpowder",
+          "apple_music": "https://music.apple.com/us/artist/pinhead-gunpowder/6800228",
           "spotify": "https://open.spotify.com/artist/3FV6RFbfc6do1nCakWsNBx",
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: False Flag @ 70%)",
+          "confidence": 1.0,
+          "matched": "Pinhead Gunpowder",
+          "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Constant Insult and False Flag",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -115,9 +126,20 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Last Balloon Tour, with support by Ariel J. and DJ Zeus",
+      "support_artists": [
+        {
+          "name": "Ariel J. and DJ Zeus",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Last Balloon Tour,",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-13",
@@ -167,18 +189,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Son Volt, with support by Kelly Willis",
-          "apple_music": null,
+          "name": "Son Volt",
+          "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
           "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Son Volt",
           "apple_label": null,
-          "spotify_label": "close match: Son Volt",
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Kelly Willis",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -229,18 +262,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Eivør, with support by midori jaeger",
-          "apple_music": null,
+          "name": "Eivør",
+          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
           "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Eivør",
           "apple_label": null,
-          "spotify_label": "close match: Eivør",
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "midori jaeger",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -260,18 +304,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Agriculture, with support by Dry Socket and Pure Hex",
+          "name": "Agriculture",
+          "apple_music": "https://music.apple.com/us/artist/agriculture/1620725472",
+          "spotify": "https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY",
+          "confidence": 1.0,
+          "matched": "Agriculture",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dry Socket and Pure Hex",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.7,
+          "confidence": null,
           "matched": null,
-          "apple_label": "no confident match (closest: Pure Hex @ 70%)",
-          "spotify_label": "no confident match (closest: Mountain Grass Unit @ 32%)",
+          "apple_label": null,
+          "spotify_label": null,
           "spotify_source": null
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -291,18 +346,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Boston Manor, with support by Ben Quad and Super Sometimes",
-          "apple_music": null,
+          "name": "Boston Manor",
+          "apple_music": "https://music.apple.com/us/artist/boston-manor/453487358",
           "spotify": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM",
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Super Sometimes @ 70%)",
-          "spotify_label": "close match: Boston Manor",
+          "confidence": 1.0,
+          "matched": "Boston Manor",
+          "apple_label": null,
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Ben Quad and Super Sometimes",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -363,9 +429,20 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Doctrine of Love Tour, with support by Brooke Combe",
+      "support_artists": [
+        {
+          "name": "Brooke Combe",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Doctrine of Love Tour,",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-01",
@@ -849,18 +926,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Destroy Boys, with support by illuminati hotties and The Rat Utopia Experiment",
-          "apple_music": null,
+          "name": "Destroy Boys",
+          "apple_music": "https://music.apple.com/us/artist/destroy-boys/1202438410",
           "spotify": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5",
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: The Rat Utopia Experiment @ 70%)",
-          "spotify_label": "close match: Destroy Boys",
+          "confidence": 1.0,
+          "matched": "Destroy Boys",
+          "apple_label": null,
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "illuminati hotties and The Rat Utopia Experiment",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -890,9 +978,20 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "HOOMAN WORLD TOUR, with support by Zero 9:36",
+      "support_artists": [
+        {
+          "name": "Zero 9:36",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": null,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "HOOMAN WORLD TOUR,",
       "presenters": [],
       "set_format": null,
       "date": "2027-04-18",
@@ -1030,20 +1129,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 31,
-      "found": 20,
-      "exact": 20,
+      "unique_artists": 40,
+      "found": 26,
+      "exact": 26,
       "close": 0,
       "flagged": 0,
-      "not_found": 11
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 31,
-      "linked": 24,
+      "unique_artists": 40,
+      "linked": 25,
       "venue": 0,
-      "api": 24,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 26
+      "shows_with_link": 27
     }
   }
 }
