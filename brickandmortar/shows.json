@@ -35,50 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
+  "scraped_at": "2026-11-09",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Triptides",
-          "apple_music": "https://music.apple.com/us/artist/triptides/571707807",
-          "spotify": "https://open.spotify.com/artist/6gCwR8CCL5jkaCNcmw26rI",
-          "confidence": 1.0,
-          "matched": "Triptides",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Loco Tranquilo",
-          "apple_music": "https://music.apple.com/us/artist/loco-tranquilo/1138314657",
-          "spotify": "https://open.spotify.com/artist/26cqaT92euymV1VkTtnduA",
-          "confidence": 1.0,
-          "matched": "LOCO TRANQUILO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/triptides-loco-tranquilo-brick-and-mortar-music-hall-tickets/14273794?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/triptides/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -814,6 +773,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Father of Peace",
+          "apple_music": "https://music.apple.com/us/artist/father-of-peace/1747590941",
+          "spotify": "https://open.spotify.com/artist/27nYMwQ6QyHV76mzwXarkO",
+          "confidence": 1.0,
+          "matched": "Father Of Peace",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/father-of-peace-brick-and-mortar-music-hall-tickets/14206324?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "sold out",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/father-of-peace/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -824,18 +814,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 33,
-      "exact": 31,
+      "unique_artists": 34,
+      "found": 32,
+      "exact": 30,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 34,
-      "venue": 16,
-      "api": 18,
+      "unique_artists": 34,
+      "linked": 33,
+      "venue": 14,
+      "api": 19,
       "feed": 0,
       "shows_with_link": 19
     }

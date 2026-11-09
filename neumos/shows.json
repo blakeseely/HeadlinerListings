@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 56,
+  "scraped_at": "2026-11-09",
+  "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Genesis Owusu",
-          "apple_music": "https://music.apple.com/us/artist/genesis-owusu/1045380633",
-          "spotify": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke",
-          "confidence": 1.0,
-          "matched": "Genesis Owusu",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "After Louise",
-          "apple_music": "https://music.apple.com/us/artist/after-louise/1874647339",
-          "spotify": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W",
-          "confidence": 1.0,
-          "matched": "After Louise",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Pirate Radio Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1484070/genesis-owusu-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/genesis-owusu-tickets-1484070",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2194,26 +2152,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 56,
+      "music": 55,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 91,
-      "found": 82,
-      "exact": 77,
+      "unique_artists": 89,
+      "found": 80,
+      "exact": 75,
       "close": 2,
       "flagged": 3,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 91,
-      "linked": 78,
+      "unique_artists": 89,
+      "linked": 76,
       "venue": 0,
-      "api": 78,
+      "api": 76,
       "feed": 0,
-      "shows_with_link": 51
+      "shows_with_link": 50
     }
   }
 }

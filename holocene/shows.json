@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 45,
+  "scraped_at": "2026-11-09",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "AZ CHIKE",
-          "apple_music": "https://music.apple.com/us/artist/az-chike/1252865921",
-          "spotify": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw",
-          "confidence": 1.0,
-          "matched": "AZ Chike",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DJ Scout",
-          "apple_music": "https://music.apple.com/us/artist/dj-scout/1714853090",
-          "spotify": "https://open.spotify.com/artist/71S5oT5DuJS0CKM4f1d1XY",
-          "confidence": 1.0,
-          "matched": "DJ SCOUT",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Holocene presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/35344614/sold-out-az-chike-w-dj-scout-21-portland-holocene?partner_id=100",
-      "ticket_status": "sold out",
-      "event_page": "https://www.holocene.org/events/2026-11-08-sold-out-az-chike-w-dj-scout",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1624,26 +1580,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 42,
+      "music": 41,
       "comedy": 1,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 28,
-      "exact": 24,
+      "unique_artists": 55,
+      "found": 26,
+      "exact": 22,
       "close": 1,
       "flagged": 3,
       "not_found": 29
     },
     "spotify": {
-      "unique_artists": 57,
-      "linked": 28,
+      "unique_artists": 55,
+      "linked": 26,
       "venue": 0,
-      "api": 28,
+      "api": 26,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 105,
+  "scraped_at": "2026-11-09",
+  "count": 104,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Aterciopelados",
-          "apple_music": "https://music.apple.com/us/artist/aterciopelados/296208",
-          "spotify": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW",
-          "confidence": 1.0,
-          "matched": "Aterciopelados",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "La Pipa De La Paz 30 Años Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/aterciopelados/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/aterciopelados/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": true,
@@ -3491,26 +3460,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 77,
+      "music": 76,
       "comedy": 22,
       "film": 0,
       "other": 6
     },
     "apple_music": {
-      "unique_artists": 98,
-      "found": 82,
-      "exact": 71,
+      "unique_artists": 97,
+      "found": 81,
+      "exact": 70,
       "close": 3,
       "flagged": 8,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 98,
-      "linked": 80,
+      "unique_artists": 97,
+      "linked": 79,
       "venue": 0,
-      "api": 80,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 79
+      "shows_with_link": 78
     }
   }
 }

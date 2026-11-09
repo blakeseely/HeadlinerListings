@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 55,
+  "scraped_at": "2026-11-09",
+  "count": 54,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Black Angels",
-          "apple_music": "https://music.apple.com/us/artist/the-black-angels/100997965",
-          "spotify": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP",
-          "confidence": 1.0,
-          "matched": "The Black Angels",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "apple_music": "https://music.apple.com/us/artist/ghostwoman/1452069519",
-          "spotify": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy",
-          "confidence": 1.0,
-          "matched": "GHOSTWOMAN",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Passover 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1408464/the-black-angels-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1408464",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2219,26 +2177,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 54,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 99,
-      "found": 88,
-      "exact": 79,
+      "unique_artists": 97,
+      "found": 86,
+      "exact": 77,
       "close": 0,
       "flagged": 9,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 99,
-      "linked": 88,
+      "unique_artists": 97,
+      "linked": 86,
       "venue": 0,
-      "api": 88,
+      "api": 86,
       "feed": 0,
-      "shows_with_link": 50
+      "shows_with_link": 49
     }
   }
 }

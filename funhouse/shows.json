@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 29,
+  "scraped_at": "2026-11-09",
+  "count": 28,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stop.Drop.Rewind",
-          "apple_music": "https://music.apple.com/us/artist/stop-drop-rewind/532322015",
-          "spotify": "https://open.spotify.com/artist/6cyOnkhucDmohL6xXmUuNG",
-          "confidence": 1.0,
-          "matched": "stop.drop.rewind",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Tomboy",
-          "apple_music": "https://music.apple.com/us/artist/tomboy/1887422710",
-          "spotify": "https://open.spotify.com/artist/5KSpr1iAskRAFHwG0moqwO",
-          "confidence": 1.0,
-          "matched": "TomBoy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Dangerous Fashion",
-          "apple_music": "https://music.apple.com/us/artist/dangerous-fashion/1622626037",
-          "spotify": "https://open.spotify.com/artist/6l7FtPNx2BW7zn8e9lGVwj",
-          "confidence": 1.0,
-          "matched": "Dangerous Fashion",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/stop-drop-rewind-08-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1449,26 +1397,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 29,
+      "music": 28,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 78,
-      "found": 65,
-      "exact": 60,
+      "unique_artists": 75,
+      "found": 62,
+      "exact": 57,
       "close": 2,
       "flagged": 3,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 78,
-      "linked": 65,
+      "unique_artists": 75,
+      "linked": 62,
       "venue": 0,
-      "api": 65,
+      "api": 62,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 22
     }
   }
 }

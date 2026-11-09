@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 97,
+  "scraped_at": "2026-11-09",
+  "count": 96,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "THAO",
-          "apple_music": "https://music.apple.com/us/artist/thao/270886385",
-          "spotify": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG",
-          "confidence": 1.0,
-          "matched": "THAO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Agouti",
-          "apple_music": "https://music.apple.com/us/artist/agouti/1225704392",
-          "spotify": "https://open.spotify.com/artist/2uP37LquK0LNeqlL4YJiri",
-          "confidence": 1.0,
-          "matched": "Agouti",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "\"Show Me\" Album Release",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/thao/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -156,7 +114,7 @@
       "date": "2026-11-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/15034003?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/weston-estate/",
       "room": null,
@@ -1298,7 +1256,7 @@
       "date": "2026-12-15",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/labiahead-california-tour-the-independent-tickets/14320784?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/labiahead-california-tour-2026/",
       "room": null,
@@ -2855,6 +2813,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2890,37 +2879,6 @@
       "room": null,
       "age_rating": null,
       "note": "MOVED TO CASTRO THEATRE",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
       "description": null
     },
     {
@@ -3625,26 +3583,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 97,
+      "music": 96,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 137,
-      "found": 127,
-      "exact": 118,
+      "unique_artists": 135,
+      "found": 125,
+      "exact": 116,
       "close": 3,
       "flagged": 6,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 137,
-      "linked": 127,
-      "venue": 87,
+      "unique_artists": 135,
+      "linked": 125,
+      "venue": 85,
       "api": 40,
       "feed": 0,
-      "shows_with_link": 94
+      "shows_with_link": 93
     }
   }
 }

@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 31,
+  "scraped_at": "2026-11-09",
+  "count": 29,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Countess Luann",
-          "apple_music": "https://music.apple.com/us/artist/countess-luann/369024316",
-          "spotify": "https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF",
-          "confidence": 1.0,
-          "matched": "Countess Luann",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/countess-luann-san-francisco-california-11-08-2026/event/1C0064BDCB1DAB67",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/countess-luann/",
-      "room": null,
-      "age_rating": "21 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -729,37 +698,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "49 Winchester",
-          "apple_music": "https://music.apple.com/us/artist/49-winchester/869425058",
-          "spotify": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20",
-          "confidence": 1.0,
-          "matched": "49 Winchester",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Change of Plans Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-san-francisco-california-03-09-2027/event/1C00654FBF94108F",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/49-winchester-change-of-plans-tour/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Penelope Road",
           "apple_music": "https://music.apple.com/us/artist/penelope-road/1742324131",
           "spotify": "https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH",
@@ -1112,26 +1050,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 29,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 34,
-      "exact": 30,
+      "unique_artists": 37,
+      "found": 32,
+      "exact": 28,
       "close": 0,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 33,
+      "unique_artists": 37,
+      "linked": 31,
       "venue": 0,
-      "api": 33,
+      "api": 31,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 26
     }
   }
 }

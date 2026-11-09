@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 35,
+  "scraped_at": "2026-11-09",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Nia Archives",
-          "apple_music": "https://music.apple.com/us/artist/nia-archives/1515978311",
-          "spotify": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ",
-          "confidence": 1.0,
-          "matched": "Nia Archives",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "BAMBII",
-          "apple_music": "https://music.apple.com/us/artist/bambii/1486396460",
-          "spotify": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95",
-          "confidence": 1.0,
-          "matched": "BAMBII",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "feed"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "EMOTIONAL WORLD TOUR",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546773403",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1581521",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1525,26 +1481,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 62,
-      "found": 61,
-      "exact": 60,
+      "unique_artists": 60,
+      "found": 59,
+      "exact": 58,
       "close": 0,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 62,
-      "linked": 60,
+      "unique_artists": 60,
+      "linked": 58,
       "venue": 0,
-      "api": 57,
-      "feed": 3,
-      "shows_with_link": 35
+      "api": 56,
+      "feed": 2,
+      "shows_with_link": 34
     }
   }
 }

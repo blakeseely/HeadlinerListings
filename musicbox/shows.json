@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 38,
+  "scraped_at": "2026-11-09",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stephen Day",
-          "apple_music": "https://music.apple.com/us/artist/stephen-day/1105545677",
-          "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5",
-          "confidence": 1.0,
-          "matched": "Stephen Day",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Emily Brimlow",
-          "apple_music": "https://music.apple.com/us/artist/emily-brimlow/1306301554",
-          "spotify": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj",
-          "confidence": 1.0,
-          "matched": "Emily Brimlow",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Self Titled Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/stephen-day-the-music-box-tickets/14973783?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14973783/stephen-day-the-self-titled-tour-w-emily-brimlow",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "All VIP events will be held before the show prior to doors. Arrive one hour before doors for check in. VIP will start 45 minutes before doors and will end 15 minutes prior to doors. Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1482,26 +1440,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 37,
+      "music": 36,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 62,
-      "found": 48,
-      "exact": 44,
+      "unique_artists": 60,
+      "found": 46,
+      "exact": 42,
       "close": 0,
       "flagged": 4,
       "not_found": 14
     },
     "spotify": {
-      "unique_artists": 62,
-      "linked": 51,
+      "unique_artists": 60,
+      "linked": 49,
       "venue": 0,
-      "api": 51,
+      "api": 49,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 33
     }
   }
 }

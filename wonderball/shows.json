@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 31,
+  "scraped_at": "2026-11-09",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DAX",
-          "apple_music": "https://music.apple.com/us/artist/dax/1368102340",
-          "spotify": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39",
-          "confidence": 1.0,
-          "matched": "Dax",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Nevv",
-          "apple_music": "https://music.apple.com/us/artist/nevv/1434336858",
-          "spotify": "https://open.spotify.com/artist/4zA6WWblDDef2tQ3N7QkSv",
-          "confidence": 1.0,
-          "matched": "Nevv",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Anger Management Tour",
-      "presenters": [
-        "Showbox Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/32692922/dax-the-anger-management-tour-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://wonderballroom.com/event/dax-the-anger-management-tour/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1152,26 +1108,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 33,
-      "exact": 31,
+      "unique_artists": 37,
+      "found": 31,
+      "exact": 29,
       "close": 1,
       "flagged": 1,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 33,
+      "unique_artists": 37,
+      "linked": 31,
       "venue": 0,
-      "api": 33,
+      "api": 31,
       "feed": 0,
-      "shows_with_link": 27
+      "shows_with_link": 26
     }
   }
 }

@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 33,
+  "scraped_at": "2026-11-09",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Syd",
-          "apple_music": "https://music.apple.com/us/artist/syd/504550699",
-          "spotify": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx",
-          "confidence": 1.0,
-          "matched": "Syd",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Beard Tour",
-      "presenters": [
-        "Live Nation Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/81998178/sydbeard-tour-portland-roseland-theater?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://roselandpdx.com/event/syd-beard-tour/roseland-theater/portland-oregon/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1603,26 +1570,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 71,
-      "found": 64,
-      "exact": 61,
+      "unique_artists": 70,
+      "found": 63,
+      "exact": 60,
       "close": 1,
       "flagged": 2,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 71,
-      "linked": 67,
+      "unique_artists": 70,
+      "linked": 66,
       "venue": 0,
-      "api": 67,
+      "api": 66,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

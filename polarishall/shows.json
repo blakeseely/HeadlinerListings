@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 54,
+  "scraped_at": "2026-11-09",
+  "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pedro the Lion (Night 2)",
-          "apple_music": "https://music.apple.com/us/artist/pedro-the-lion/3087997",
-          "spotify": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr",
-          "confidence": 1.0,
-          "matched": "Pedro the Lion",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Earlimart",
-          "apple_music": "https://music.apple.com/us/artist/earlimart/2455278",
-          "spotify": "https://open.spotify.com/artist/4U5dJPiHBoGjq6GGtth4TF",
-          "confidence": 1.0,
-          "matched": "Earlimart",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/81027746",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2126,26 +2084,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 50,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 91,
-      "found": 70,
-      "exact": 64,
+      "unique_artists": 89,
+      "found": 68,
+      "exact": 62,
       "close": 3,
       "flagged": 3,
       "not_found": 21
     },
     "spotify": {
-      "unique_artists": 91,
-      "linked": 74,
+      "unique_artists": 89,
+      "linked": 72,
       "venue": 0,
-      "api": 74,
+      "api": 72,
       "feed": 0,
-      "shows_with_link": 46
+      "shows_with_link": 45
     }
   }
 }

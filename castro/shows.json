@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 65,
+  "scraped_at": "2026-11-09",
+  "count": 64,
   "shows": [
-    {
-      "event_type": "film",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Edward Said",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5c2cnpuhcSVjRIShTQICXK",
-          "confidence": null,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Between Worlds",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "4:45 pm",
-      "show_time": "5:45 pm",
-      "ticket_link": "https://aff30.arabfilmfestival.org/films/edward-said-between-worlds?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/edward-said-between-worlds",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "The 30th Arab Film Festival",
-      "description": "The flagship event of the Arab Film and Media Institute, the Arab Film Festival is the longest running independent festival of its kind in North America. This year we are celebrating our 30th anniversary! Launched in 1996, the festival’s mission is to present the best of contemporary films that illuminate the richness of Arab culture through authentic narratives and images, providing insight into the beauty and complexity of the Arab world. The festival also offers special programming to local audiences, and unprecedented access to the diversity and range of authentic Arab experiences. The festival has gained an international reputation for excellence and offers its audiences access to media that reflects the lives of under-represented and provocative themes and groups on a cultural and societal level. The 30th edition of the Arab Film Festival will open on Thursday Nov. 5th at the AMC Kabuki 8 in San Francisco. The festival will run through Saturday Nov. 14th"
-    },
     {
       "event_type": "music",
       "needs_review": true,
@@ -2267,24 +2236,24 @@
     "event_types": {
       "music": 50,
       "comedy": 4,
-      "film": 9,
+      "film": 8,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 73,
+      "unique_artists": 72,
       "found": 58,
       "exact": 52,
       "close": 2,
       "flagged": 4,
-      "not_found": 15
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 73,
-      "linked": 62,
+      "unique_artists": 72,
+      "linked": 61,
       "venue": 45,
-      "api": 17,
+      "api": 16,
       "feed": 0,
-      "shows_with_link": 57
+      "shows_with_link": 56
     }
   }
 }

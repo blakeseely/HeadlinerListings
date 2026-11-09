@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 57,
+  "scraped_at": "2026-11-09",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Taylor Mac in Concert",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.364,
-          "matched": null,
-          "apple_label": "no confident match (closest: Jack Johnson @ 36%)",
-          "spotify_label": "no confident match (closest: Taylor Acorn @ 61%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Tender Heart Revolution",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.stgpresents.org/events/taylor-mac/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/taylor-mac/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1905,21 +1874,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 53,
+      "unique_artists": 52,
       "found": 40,
       "exact": 35,
       "close": 1,
       "flagged": 4,
-      "not_found": 13
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 53,
+      "unique_artists": 52,
       "linked": 41,
       "venue": 0,
       "api": 41,

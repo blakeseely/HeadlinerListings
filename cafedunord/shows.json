@@ -35,63 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 41,
+  "scraped_at": "2026-11-09",
+  "count": 40,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "454",
-          "apple_music": "https://music.apple.com/us/artist/454/1507527412",
-          "spotify": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4",
-          "confidence": 1.0,
-          "matched": "454",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Pig the Gemini",
-          "apple_music": "https://music.apple.com/us/artist/pig-the-gemini/1503276294",
-          "spotify": "https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd",
-          "confidence": 1.0,
-          "matched": "Pig the Gemini",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Hopper1000 (DJ)",
-          "apple_music": "https://music.apple.com/us/artist/hopper1000/1527306742",
-          "spotify": "https://open.spotify.com/artist/5DB2hxtY9wL2fC5VYaAsYS",
-          "confidence": 1.0,
-          "matched": "Hopper1000",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/454-with-pig-the-gemini-cafe-du-nord-tickets/14351274?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://cafedunord.com/shows/2026-11-08-454",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Born and raised in Orlando, 454 was exposed to every genre, which shaped his musical palette and led him to FL Studio. He’d skate by day and make beats by night, honing his technical skills. His debut project 4 REAL (2021) is his first complete body of work and the perfect introduction to 454. Since 4 REAL became the soundtrack to Homer, Frank Ocean’s new luxury brand, 454 toured the country…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1546,26 +1492,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 40,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 55,
-      "exact": 53,
+      "unique_artists": 52,
+      "found": 52,
+      "exact": 50,
       "close": 1,
       "flagged": 1,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 55,
-      "venue": 38,
-      "api": 17,
+      "unique_artists": 52,
+      "linked": 52,
+      "venue": 37,
+      "api": 15,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 40
     }
   }
 }

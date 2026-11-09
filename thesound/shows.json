@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 24,
+  "scraped_at": "2026-11-09",
+  "count": 23,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "apple_music": "https://music.apple.com/us/artist/the-psychedelic-furs/515449",
-          "spotify": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe",
-          "confidence": 1.0,
-          "matched": "The Psychedelic Furs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "We Are Scientists",
-          "apple_music": "https://music.apple.com/us/artist/we-are-scientists/73501457",
-          "spotify": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7",
-          "confidence": 1.0,
-          "matched": "We Are Scientists",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-psychedelic-furs-with-special-the-sound-tickets/14964383?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14964383/the-psychedelic-furs-with-special-guests-we-are-scientists",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -939,26 +897,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 24,
+      "music": 23,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 31,
-      "exact": 29,
+      "unique_artists": 33,
+      "found": 29,
+      "exact": 27,
       "close": 1,
       "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 32,
+      "unique_artists": 33,
+      "linked": 30,
       "venue": 0,
-      "api": 32,
+      "api": 30,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 20
     }
   }
 }

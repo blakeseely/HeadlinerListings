@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 122,
+  "scraped_at": "2026-11-09",
+  "count": 121,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Bahamas",
-          "apple_music": "https://music.apple.com/us/artist/bahamas/323244975",
-          "spotify": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt",
-          "confidence": 1.0,
-          "matched": "Bahamas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sister Ray",
-          "apple_music": "https://music.apple.com/us/artist/sister-ray/255911070",
-          "spotify": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC",
-          "confidence": 1.0,
-          "matched": "Sister Ray",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Industrial Sport & Sound",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/bahamas-industrial-sport-belly-up-tickets/14757683?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14757683/bahamas-industrial-sport-sound-w-sister-ray",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4508,26 +4466,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 121,
+      "music": 120,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 165,
-      "found": 123,
-      "exact": 101,
+      "unique_artists": 163,
+      "found": 121,
+      "exact": 99,
       "close": 6,
       "flagged": 16,
       "not_found": 42
     },
     "spotify": {
-      "unique_artists": 165,
-      "linked": 127,
+      "unique_artists": 163,
+      "linked": 125,
       "venue": 0,
-      "api": 127,
+      "api": 125,
       "feed": 0,
-      "shows_with_link": 90
+      "shows_with_link": 89
     }
   }
 }

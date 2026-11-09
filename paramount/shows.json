@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 128,
+  "scraped_at": "2026-11-09",
+  "count": 126,
   "shows": [
-    {
-      "event_type": "other",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Oh, Mary!",
-          "apple_music": "https://music.apple.com/us/artist/oh-mary/880177237",
-          "spotify": null,
-          "confidence": 0.9,
-          "matched": "Oh Mary",
-          "apple_label": "close match: Oh Mary",
-          "spotify_label": "no confident match (closest: Mary Mary @ 56%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "one hour prior",
-      "show_time": "1:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/oh-mary/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/oh-mary/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "other",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Oh, Mary!",
-          "apple_music": "https://music.apple.com/us/artist/oh-mary/880177237",
-          "spotify": null,
-          "confidence": 0.9,
-          "matched": "Oh Mary",
-          "apple_label": "close match: Oh Mary",
-          "spotify_label": "no confident match (closest: Mary Mary @ 56%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "one hour prior",
-      "show_time": "6:30 pm",
-      "ticket_link": "https://www.stgpresents.org/events/oh-mary/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/oh-mary/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4160,18 +4098,18 @@
       "music": 45,
       "comedy": 6,
       "film": 0,
-      "other": 77
+      "other": 75
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 48,
+      "unique_artists": 62,
+      "found": 47,
       "exact": 41,
       "close": 1,
-      "flagged": 6,
+      "flagged": 5,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 63,
+      "unique_artists": 62,
       "linked": 48,
       "venue": 0,
       "api": 48,

@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 46,
+  "scraped_at": "2026-11-09",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Forrest Nolan",
-          "apple_music": "https://music.apple.com/us/artist/forrest-nolan/1242535527",
-          "spotify": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv",
-          "confidence": 1.0,
-          "matched": "Forrest Nolan",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lola Blue",
-          "apple_music": "https://music.apple.com/us/artist/lola-blue/1874555980",
-          "spotify": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at",
-          "confidence": 1.0,
-          "matched": "Lola Blue",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Another Planet Entertainment + Rickshaw Stop co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/event/1C006539DDBBE763",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/event/1C006539DDBBE763",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -108,10 +64,10 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/sparta/702137",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://wl.seetickets.us/event/sparta/702137",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -434,8 +390,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "The Emergency Broadcast System (guest DJs)",
+          "apple_music": "https://music.apple.com/us/artist/the-emergency-broadcast-system/1678926755",
+          "spotify": "https://open.spotify.com/artist/4hUCnQY8O191DdopAqW8Cv",
+          "confidence": 1.0,
+          "matched": "The Emergency Broadcast System",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -446,7 +413,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/709338",
       "room": null,
-      "age_rating": null,
+      "age_rating": "21+",
       "note": null,
       "description": null
     },
@@ -603,37 +570,6 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "JESSICA LEA MAYFIELD",
-          "apple_music": "https://music.apple.com/us/artist/jessica-lea-mayfield/283734468",
-          "spotify": "https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5",
-          "confidence": 1.0,
-          "matched": "Jessica Lea Mayfield",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jessica-lea-mayfield-cancelled/698043",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/jessica-lea-mayfield-cancelled/698043",
-      "room": null,
-      "age_rating": null,
-      "note": "Cancelled",
       "description": null
     },
     {
@@ -1599,26 +1535,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 48,
-      "exact": 47,
+      "unique_artists": 54,
+      "found": 46,
+      "exact": 45,
       "close": 0,
       "flagged": 1,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 50,
+      "unique_artists": 54,
+      "linked": 48,
       "venue": 0,
-      "api": 50,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 39
     }
   }
 }

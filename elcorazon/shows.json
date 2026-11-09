@@ -35,71 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-08",
-  "count": 34,
+  "scraped_at": "2026-11-09",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Exhumed",
-          "apple_music": "https://music.apple.com/us/artist/exhumed/74420429",
-          "spotify": "https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu",
-          "confidence": 1.0,
-          "matched": "Exhumed",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Jarhead Fertilizer",
-          "apple_music": "https://music.apple.com/us/artist/jarhead-fertilizer/1375103289",
-          "spotify": "https://open.spotify.com/artist/58NoEzpin3N6OEtvVZwOtj",
-          "confidence": 1.0,
-          "matched": "Jarhead Fertilizer",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Savage Master",
-          "apple_music": "https://music.apple.com/us/artist/savage-master/1087959517",
-          "spotify": "https://open.spotify.com/artist/2i1pwiHsoPzbnD74nnRZ2T",
-          "confidence": 1.0,
-          "matched": "Savage Master",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Molder",
-          "apple_music": "https://music.apple.com/us/artist/molder/133148909",
-          "spotify": "https://open.spotify.com/artist/6edvy7ZayyReFco74MJU5k",
-          "confidence": 1.0,
-          "matched": "Molder",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-08",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/exhumed-08-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1948,26 +1886,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 107,
-      "found": 97,
-      "exact": 96,
+      "unique_artists": 103,
+      "found": 93,
+      "exact": 92,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 107,
-      "linked": 95,
+      "unique_artists": 103,
+      "linked": 91,
       "venue": 0,
-      "api": 95,
+      "api": 91,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }
