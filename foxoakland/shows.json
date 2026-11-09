@@ -462,12 +462,12 @@
         {
           "name": "Secret Chiefs 3",
           "apple_music": "https://music.apple.com/us/artist/secret-chiefs-3/7373091",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3H6yIZ1GLpc1WV51iuyZgp",
           "confidence": 1.0,
           "matched": "Secret Chiefs 3",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -504,12 +504,12 @@
         {
           "name": "MonoNeon",
           "apple_music": "https://music.apple.com/us/artist/mononeon/484127836",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j",
           "confidence": 1.0,
           "matched": "MonoNeon",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -866,12 +866,12 @@
         {
           "name": "ALOK",
           "apple_music": "https://music.apple.com/us/artist/alok/324709167",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W",
           "confidence": 1.0,
           "matched": "Alok",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -959,24 +959,24 @@
         {
           "name": "Poison The Well & Alexisonfire",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx",
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Poison The Well",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "special guests",
           "apple_music": "https://music.apple.com/us/artist/special-guests/189924545",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/452ZE1pMZ6wXLb2NHpUATO",
           "confidence": 1.0,
           "matched": "Special Guests",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Touché Amoré",
@@ -1251,11 +1251,11 @@
     },
     "spotify": {
       "unique_artists": 38,
-      "linked": 34,
+      "linked": 38,
       "venue": 34,
-      "api": 0,
+      "api": 4,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 33
     }
   }
 }

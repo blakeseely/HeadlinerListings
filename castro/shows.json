@@ -45,12 +45,12 @@
         {
           "name": "Edward Said",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5c2cnpuhcSVjRIShTQICXK",
           "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -122,7 +122,7 @@
           "confidence": null,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Claudio Simonetti's Goblin @ 70%)",
           "spotify_source": null
         }
       ],
@@ -215,7 +215,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: The Moth & The Flame @ 47%)",
           "spotify_source": null
         }
       ],
@@ -327,12 +327,12 @@
         {
           "name": "Wesley Joseph",
           "apple_music": "https://music.apple.com/us/artist/wesley-joseph/1502543576",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa",
           "confidence": 1.0,
           "matched": "Wesley Joseph",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -357,24 +357,24 @@
         {
           "name": "Hamilton Leithauser + Rostam",
           "apple_music": "https://music.apple.com/us/artist/hamilton-leithauser-rostam/1132492394",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n",
           "confidence": 1.0,
           "matched": "Hamilton Leithauser + Rostam",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Emma Ogier",
           "apple_music": "https://music.apple.com/us/artist/emma-ogier/1571801234",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm",
           "confidence": 1.0,
           "matched": "Emma Ogier",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -430,12 +430,12 @@
         {
           "name": "BERTHA",
           "apple_music": "https://music.apple.com/us/artist/bertha-grateful-drag/1743215675",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9",
           "confidence": 0.95,
           "matched": "BERTHA: Grateful Drag",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -465,7 +465,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Legends of Avantris @ 73%)",
           "spotify_source": null
         }
       ],
@@ -496,7 +496,7 @@
           "confidence": null,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: La Broma Negra @ 70%)",
           "spotify_source": null
         }
       ],
@@ -527,7 +527,7 @@
           "confidence": 0.158,
           "matched": null,
           "apple_label": "no confident match (closest: P.S. 118 @ 16%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Hey Arnold! @ 70%)",
           "spotify_source": null
         }
       ],
@@ -535,12 +535,12 @@
         {
           "name": "Craig Bartlett",
           "apple_music": "https://itunes.apple.com/us/artist/craig-bartlett/211298243",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5m1xpYxjOis46jmX2iOqiy",
           "confidence": 1.0,
           "matched": "Craig Bartlett",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -569,7 +569,7 @@
           "confidence": 0.158,
           "matched": null,
           "apple_label": "no confident match (closest: P.S. 118 @ 16%)",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Hey Arnold! @ 70%)",
           "spotify_source": null
         }
       ],
@@ -577,12 +577,12 @@
         {
           "name": "Craig Bartlett",
           "apple_music": "https://itunes.apple.com/us/artist/craig-bartlett/211298243",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5m1xpYxjOis46jmX2iOqiy",
           "confidence": 1.0,
           "matched": "Craig Bartlett",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -638,12 +638,12 @@
         {
           "name": "Julio Torres",
           "apple_music": "https://music.apple.com/us/artist/julio-torres/128885667",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/7feP7Ck9KkzKDdJTo8h8B7",
           "confidence": 1.0,
           "matched": "Julio Torres",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -673,7 +673,7 @@
           "confidence": null,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Small Town Kid @ 70%)",
           "spotify_source": null
         }
       ],
@@ -700,12 +700,12 @@
         {
           "name": "Cameron Winter at Carnegie Hall",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO",
           "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -731,12 +731,12 @@
         {
           "name": "Cameron Winter at Carnegie Hall",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO",
           "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -855,12 +855,12 @@
         {
           "name": "Circle Jerks x Repo Man",
           "apple_music": "https://music.apple.com/us/artist/circle-jerks/6549988",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl",
           "confidence": 0.95,
           "matched": "Circle Jerks",
           "apple_label": "compound bill — links to Circle Jerks only",
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1097,12 +1097,12 @@
         {
           "name": "Jaymin",
           "apple_music": "https://music.apple.com/us/artist/jaymin/1821260030",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94",
           "confidence": 1.0,
           "matched": "Jaymin",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1204,7 +1204,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Alyssa Miles @ 35%)",
           "spotify_source": null
         }
       ],
@@ -1324,12 +1324,12 @@
         {
           "name": "Sleepaway Camp",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/44hNriHhKRq8TMl8QH6yX2",
           "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1355,12 +1355,12 @@
         {
           "name": "2001: A Space Odyssey",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2VlW4MBzQFjb5W7QfqAjUk",
           "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1386,12 +1386,12 @@
         {
           "name": "Chicago",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0",
           "confidence": null,
           "matched": null,
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1479,12 +1479,12 @@
         {
           "name": "DJ Meredith Marks",
           "apple_music": "https://music.apple.com/us/artist/dj-meredith-marks/1849794884",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0W73pUmR0eKDF0RpJKnlCL",
           "confidence": 1.0,
           "matched": "DJ Meredith Marks",
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Dj Meredith",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1556,7 +1556,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Zach Peterson @ 36%)",
           "spotify_source": null
         }
       ],
@@ -1568,7 +1568,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Tommy Castro @ 52%)",
           "spotify_source": null
         }
       ],
@@ -1636,12 +1636,12 @@
         {
           "name": "Richard Thompson & Band",
           "apple_music": "https://music.apple.com/us/artist/richard-thompson/264023",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz",
           "confidence": 0.8,
           "matched": "Richard Thompson",
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Richard Thompson",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1652,7 +1652,7 @@
           "confidence": 0.95,
           "matched": "Clayton Linthicum",
           "apple_label": "compound bill — links to Clayton Linthicum only",
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Clayton Kennedy @ 44%)",
           "spotify_source": null
         }
       ],
@@ -1890,7 +1890,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Silent Films @ 60%)",
           "spotify_source": null
         }
       ],
@@ -2010,12 +2010,12 @@
         {
           "name": "Chris Fleming Live",
           "apple_music": "https://music.apple.com/us/artist/chris-fleming/6186903",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0Tv92hB86uTWkIjKKKWi2W",
           "confidence": 0.8,
           "matched": "Chris Fleming",
           "apple_label": "close match: Chris Fleming",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Chris Fleming",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -2041,12 +2041,12 @@
         {
           "name": "Chris Fleming Live",
           "apple_music": "https://music.apple.com/us/artist/chris-fleming/6186903",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0Tv92hB86uTWkIjKKKWi2W",
           "confidence": 0.8,
           "matched": "Chris Fleming",
           "apple_label": "close match: Chris Fleming",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Chris Fleming",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -2072,12 +2072,12 @@
         {
           "name": "Chris Fleming Live",
           "apple_music": "https://music.apple.com/us/artist/chris-fleming/6186903",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0Tv92hB86uTWkIjKKKWi2W",
           "confidence": 0.8,
           "matched": "Chris Fleming",
           "apple_label": "close match: Chris Fleming",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Chris Fleming",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -2165,12 +2165,12 @@
         {
           "name": "Alaska Thunderf*ck",
           "apple_music": "https://music.apple.com/us/artist/alaska-thunderfuck/594338626",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy",
           "confidence": 0.944,
           "matched": "Alaska Thunderfuck",
           "apple_label": "close match: Alaska Thunderfuck",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: Alaska Thunderfuck",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -2280,11 +2280,11 @@
     },
     "spotify": {
       "unique_artists": 73,
-      "linked": 45,
+      "linked": 62,
       "venue": 45,
-      "api": 0,
+      "api": 17,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 57
     }
   }
 }

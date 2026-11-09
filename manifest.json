@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:08:19.325575+00:00",
+  "generated_at": "2026-11-09T00:19:00.911323+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -100,11 +100,12 @@
           "sold out"
         ],
         "spotify_source": [
-          "venue"
+          "venue",
+          "api"
         ]
       },
       "show_count": 20,
-      "sha256_16": "3901af02e4b943b7"
+      "sha256_16": "b86691bc235892f4"
     },
     {
       "venue_id": "cafedunord",
@@ -125,11 +126,12 @@
           "waitlist"
         ],
         "spotify_source": [
-          "venue"
+          "venue",
+          "api"
         ]
       },
       "show_count": 41,
-      "sha256_16": "82124e2606a86d4d"
+      "sha256_16": "53d3fb558e536e11"
     },
     {
       "venue_id": "castro",
@@ -153,11 +155,12 @@
           "sold out"
         ],
         "spotify_source": [
+          "api",
           "venue"
         ]
       },
       "show_count": 65,
-      "sha256_16": "2470eb809dcbdb26"
+      "sha256_16": "c0e2c891198a6ae3"
     },
     {
       "venue_id": "chapel",
@@ -302,11 +305,12 @@
           "sold out"
         ],
         "spotify_source": [
-          "venue"
+          "venue",
+          "api"
         ]
       },
       "show_count": 33,
-      "sha256_16": "bcf7d489d28afb6c"
+      "sha256_16": "c7d2fc45a48790df"
     },
     {
       "venue_id": "frost",
@@ -459,11 +463,12 @@
         ],
         "ticket_status": [],
         "spotify_source": [
-          "venue"
+          "venue",
+          "api"
         ]
       },
       "show_count": 97,
-      "sha256_16": "f8ff649493cc98ee"
+      "sha256_16": "b99f16e70b5c833c"
     },
     {
       "venue_id": "keller",

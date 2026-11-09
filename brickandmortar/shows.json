@@ -98,22 +98,22 @@
         {
           "name": "Creux Lies",
           "apple_music": "https://music.apple.com/us/artist/creux-lies/1330215651",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i",
           "confidence": 1.0,
           "matched": "Creux Lies",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Hot Goth GF",
           "apple_music": null,
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2ce5F0dH7nyfvn4nw0W5A1",
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: goth gf",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -138,34 +138,34 @@
         {
           "name": "Mad Tsai",
           "apple_music": "https://music.apple.com/us/artist/mad-tsai/1535910631",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB",
           "confidence": 1.0,
           "matched": "Mad Tsai",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Piao",
           "apple_music": "https://music.apple.com/us/artist/piao/1633160112",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb",
           "confidence": 1.0,
           "matched": "PIAO",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "bluhour (Michael Cimino)",
           "apple_music": "https://music.apple.com/us/artist/bluhour/6800076659",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/1YY583dfOiQQFTDbsaHG6q",
           "confidence": 1.0,
           "matched": "Bluhour",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -252,12 +252,12 @@
         {
           "name": "Denise Julia",
           "apple_music": "https://music.apple.com/us/artist/denise-julia/1524523313",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD",
           "confidence": 1.0,
           "matched": "Denise Julia",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -325,34 +325,34 @@
         {
           "name": "Brokencyde",
           "apple_music": "https://music.apple.com/us/artist/brokencyde/266962025",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/22WwE0lMmGx4AJeyUfT7rh",
           "confidence": 1.0,
           "matched": "Brokencyde",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Dot Dot Curve",
           "apple_music": "https://music.apple.com/us/artist/dot-dot-curve/305696063",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/17T9n6qQEPbKvrR7mG3mVn",
           "confidence": 1.0,
           "matched": "Dot Dot Curve",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "9aradox",
           "apple_music": "https://music.apple.com/us/artist/9aradox/1619159021",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6NZiiz3uZoa3URpHapoFsD",
           "confidence": 1.0,
           "matched": "9aradox",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -381,7 +381,7 @@
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": null,
+          "spotify_label": "no confident match (closest: Brothel in Belize @ 70%)",
           "spotify_source": null
         }
       ],
@@ -420,12 +420,12 @@
         {
           "name": "Bobbing",
           "apple_music": "https://music.apple.com/us/artist/bobbing/1468237709",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX",
           "confidence": 1.0,
           "matched": "Bobbing",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -460,22 +460,22 @@
         {
           "name": "J. Jaxx",
           "apple_music": "https://music.apple.com/us/artist/j-jaxx/1722578161",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2CfQII9IFcP7U8KLIKE1Cw",
           "confidence": 0.9,
           "matched": "J JAXX",
           "apple_label": "close match: J JAXX",
-          "spotify_label": null,
-          "spotify_source": null
+          "spotify_label": "close match: J JAXX",
+          "spotify_source": "api"
         },
         {
           "name": "Tripleset",
           "apple_music": "https://music.apple.com/us/artist/tripleset/1465155918",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC",
           "confidence": 1.0,
           "matched": "Tripleset",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -501,12 +501,12 @@
         {
           "name": "Ovrkast",
           "apple_music": "https://music.apple.com/us/artist/ovrkast/1451547526",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/5CJhfbcsnlWsXHKEROMxPk",
           "confidence": 1.0,
           "matched": "Ovrkast",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -563,24 +563,24 @@
         {
           "name": "Mikey Vee",
           "apple_music": "https://music.apple.com/us/artist/mikey-vee/1542984391",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/4fNfvpSebTtMsFeTzTrOVG",
           "confidence": 1.0,
           "matched": "Mikey Vee",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Lyka B",
           "apple_music": "https://music.apple.com/us/artist/lyka-b/1594300221",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6cAUj4bM6QmeooFEzcE8y2",
           "confidence": 1.0,
           "matched": "Lyka B",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         },
         {
           "name": "Solus The Happy Human",
@@ -677,24 +677,24 @@
         {
           "name": "Nightmare of You",
           "apple_music": "https://music.apple.com/us/artist/nightmare-of-you/79565565",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc",
           "confidence": 1.0,
           "matched": "Nightmare of You",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
           "name": "Anthony Family",
           "apple_music": "https://music.apple.com/us/artist/anthony-family/1762452718",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2w86aLz7eq1W3i54r11Q6H",
           "confidence": 1.0,
           "matched": "Anthony Family",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -729,12 +729,12 @@
         {
           "name": "Reserv",
           "apple_music": "https://music.apple.com/us/artist/reserv/1522172777",
-          "spotify": null,
+          "spotify": "https://open.spotify.com/artist/2TirMwFqYsNDTIOURZb9LS",
           "confidence": 1.0,
           "matched": "Reserv",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": null
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -833,11 +833,11 @@
     },
     "spotify": {
       "unique_artists": 35,
-      "linked": 16,
+      "linked": 34,
       "venue": 16,
-      "api": 0,
+      "api": 18,
       "feed": 0,
-      "shows_with_link": 14
+      "shows_with_link": 19
     }
   }
 }
