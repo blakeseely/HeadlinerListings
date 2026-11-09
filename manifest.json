@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T12:07:01.088914+00:00",
+  "generated_at": "2026-11-09T14:03:42.207872+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -754,6 +754,28 @@
       },
       "show_count": 32,
       "sha256_16": "1d1ceb4ea90cb17e"
+    },
+    {
+      "venue_id": "sfjazz",
+      "file": "sfjazz/shows.json",
+      "city": "San Francisco, CA",
+      "metro": "San Francisco",
+      "lat": 37.7764,
+      "lon": -122.4216,
+      "updated_at": "2026-11-09",
+      "fetched_at": "2026-11-09T05:58:16",
+      "oldest_show_date": "2026-11-12",
+      "value_domains": {
+        "event_type": [
+          "music"
+        ],
+        "ticket_status": [],
+        "spotify_source": [
+          "api"
+        ]
+      },
+      "show_count": 111,
+      "sha256_16": "6e58bd068304032c"
     },
     {
       "venue_id": "showbox",
