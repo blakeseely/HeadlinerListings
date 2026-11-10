@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 44,
+  "scraped_at": "2026-11-10",
+  "count": 45,
   "shows": [
     {
       "event_type": "music",
@@ -422,7 +422,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "QENDRESA",
+          "name": "Qendresa",
           "apple_music": "https://music.apple.com/us/artist/qendresa/1298544647",
           "spotify": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI",
           "confidence": 1.0,
@@ -435,7 +435,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "rickshaw stop + live nation co-present"
+      ],
       "set_format": null,
       "date": "2026-11-22",
       "doors": "7:00 pm",
@@ -444,7 +446,7 @@
       "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/qendresa/701355",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1289,6 +1291,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "THE BODY & CEL GENESIS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Body @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/the-body-and-cel-genesis/710431",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/the-body-and-cel-genesis/710431",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "BESS ATWELL",
           "apple_music": "https://music.apple.com/us/artist/bess-atwell/1074167187",
           "spotify": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK",
@@ -1535,21 +1568,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 45,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 54,
+      "unique_artists": 55,
       "found": 46,
       "exact": 45,
       "close": 0,
       "flagged": 1,
-      "not_found": 8
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 54,
+      "unique_artists": 55,
       "linked": 48,
       "venue": 0,
       "api": 48,

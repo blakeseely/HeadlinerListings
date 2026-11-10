@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 54,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lucy Bedroque",
-          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
-          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-          "confidence": 1.0,
-          "matched": "Lucy Bedroque",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "pinponpanpon",
-          "apple_music": "https://music.apple.com/us/artist/pinponpanpon/1718375419",
-          "spotify": "https://open.spotify.com/artist/4f2l5pSKd1oUMEMx7SZBng",
-          "confidence": 1.0,
-          "matched": "pinponpanpon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1572733/lucy-bedroque-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1572733",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1908,6 +1866,48 @@
       "ticket_link": "https://www.axs.com/events/1662628/lambrini-girls-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
       "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1662628",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ROYAL BLOOD",
+          "apple_music": "https://music.apple.com/us/artist/royal-blood/809772445",
+          "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15",
+          "confidence": 1.0,
+          "matched": "Royal Blood",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bodega",
+          "apple_music": "https://music.apple.com/us/artist/bodega/1355037497",
+          "spotify": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5",
+          "confidence": 1.0,
+          "matched": "BODEGA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "North America 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1694858/royal-blood-north-america-2027-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1694858",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,

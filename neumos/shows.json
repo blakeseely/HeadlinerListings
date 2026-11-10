@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 55,
   "shows": [
     {
@@ -763,8 +763,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Bonkonomics",
+          "apple_music": "https://music.apple.com/us/artist/bonkonomics/1876964578",
+          "spotify": "https://open.spotify.com/artist/0cDixdejtadym71dPTyTUL",
+          "confidence": 1.0,
+          "matched": "Bonkonomics",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Play The Fall Game Tour 2026",
       "presenters": [],
       "set_format": null,
@@ -2158,18 +2169,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
-      "found": 80,
-      "exact": 75,
+      "unique_artists": 90,
+      "found": 81,
+      "exact": 76,
       "close": 2,
       "flagged": 3,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 89,
-      "linked": 76,
+      "unique_artists": 90,
+      "linked": 77,
       "venue": 0,
-      "api": 76,
+      "api": 77,
       "feed": 0,
       "shows_with_link": 50
     }

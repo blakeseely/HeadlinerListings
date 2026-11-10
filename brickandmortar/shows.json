@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 20,
+  "scraped_at": "2026-11-10",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Past Self",
-          "apple_music": "https://music.apple.com/us/artist/past-self/1764603870",
-          "spotify": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw",
-          "confidence": 1.0,
-          "matched": "past self",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Creux Lies",
-          "apple_music": "https://music.apple.com/us/artist/creux-lies/1330215651",
-          "spotify": "https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i",
-          "confidence": 1.0,
-          "matched": "Creux Lies",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Hot Goth GF",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/2ce5F0dH7nyfvn4nw0W5A1",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: goth gf",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/past-self-creux-lies-hot-brick-and-mortar-music-hall-tickets/15048253?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/past-self/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -804,30 +752,102 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Sam Quealy",
+          "apple_music": "https://music.apple.com/us/artist/sam-quealy/1568605085",
+          "spotify": "https://open.spotify.com/artist/0GLGeVG3XTA2KmlmAd05T8",
+          "confidence": 1.0,
+          "matched": "Sam Quealy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/sam-quealy-brick-and-mortar-music-hall-tickets/14260854?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/sam-quealy/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Soos",
+          "apple_music": "https://music.apple.com/us/artist/soos/1758703724",
+          "spotify": "https://open.spotify.com/artist/7tlbt55BMHgO3pL7kps1Bh",
+          "confidence": 1.0,
+          "matched": "SOOS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "benten",
+          "apple_music": "https://music.apple.com/us/artist/benten/1593286723",
+          "spotify": "https://open.spotify.com/artist/7MFLynuNlKGSveS2w8ZOfF",
+          "confidence": 1.0,
+          "matched": "benten",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-15",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/soos-benten-brick-and-mortar-music-hall-tickets/14409364?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/soos-benten/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
       "unique_artists": 34,
-      "found": 32,
-      "exact": 30,
+      "found": 33,
+      "exact": 31,
       "close": 1,
       "flagged": 1,
-      "not_found": 2
+      "not_found": 1
     },
     "spotify": {
       "unique_artists": 34,
       "linked": 33,
-      "venue": 14,
-      "api": 19,
+      "venue": 15,
+      "api": 18,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 20
     }
   }
 }

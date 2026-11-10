@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 111,
   "shows": [
     {
@@ -2679,11 +2679,11 @@
       "headline_artists": [
         {
           "name": "Sam Gendel & Sam Wilkes",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/sam-wilkes/405532789",
           "spotify": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
+          "confidence": 0.8,
+          "matched": "Sam Wilkes",
+          "apple_label": "close match: Sam Wilkes",
           "spotify_label": "close match: Sam Gendel",
           "spotify_source": "api"
         }
@@ -2710,10 +2710,10 @@
       "headline_artists": [
         {
           "name": "Sona Jobarteh",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/sona-jobarteh/433731587",
           "spotify": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Sona Jobarteh",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -2741,10 +2741,10 @@
       "headline_artists": [
         {
           "name": "Sona Jobarteh",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/sona-jobarteh/433731587",
           "spotify": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Sona Jobarteh",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -2958,11 +2958,11 @@
       "headline_artists": [
         {
           "name": "Joe Lovano: Paramount Quartet",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/joe-lovano-quartet/318148076",
           "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
+          "confidence": 0.8,
+          "matched": "Joe Lovano Quartet",
+          "apple_label": "close match: Joe Lovano Quartet",
           "spotify_label": "no confident match (closest: Joe Lovano @ 70%)",
           "spotify_source": null
         }
@@ -2989,11 +2989,11 @@
       "headline_artists": [
         {
           "name": "Joe Lovano: Paramount Quartet",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/joe-lovano-quartet/318148076",
           "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
+          "confidence": 0.8,
+          "matched": "Joe Lovano Quartet",
+          "apple_label": "close match: Joe Lovano Quartet",
           "spotify_label": "no confident match (closest: Joe Lovano @ 70%)",
           "spotify_source": null
         }
@@ -3020,11 +3020,11 @@
       "headline_artists": [
         {
           "name": "Alfredo Rodríguez Band",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/alfredo-rodriguez/514799201",
           "spotify": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
+          "confidence": 0.8,
+          "matched": "Alfredo Rodríguez",
+          "apple_label": "close match: Alfredo Rodríguez",
           "spotify_label": "close match: Alfredo Rodriguez",
           "spotify_source": "api"
         }
@@ -3206,10 +3206,10 @@
       "headline_artists": [
         {
           "name": "GoGo Penguin",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/gogo-penguin/572204168",
           "spotify": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "GoGo Penguin",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -3237,10 +3237,10 @@
       "headline_artists": [
         {
           "name": "GoGo Penguin",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/gogo-penguin/572204168",
           "spotify": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "GoGo Penguin",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -3332,9 +3332,9 @@
           "name": "Poncho Sánchez & His Latin Band",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.0,
+          "confidence": 0.7,
           "matched": null,
-          "apple_label": null,
+          "apple_label": "no confident match (closest: Poncho Sanchez And His Latin Jazz Band @ 70%)",
           "spotify_label": "no confident match (closest: Poncho Sanchez And His Latin Jazz Band @ 70%)",
           "spotify_source": null
         }
@@ -3361,10 +3361,10 @@
       "headline_artists": [
         {
           "name": "Chucho Valdés",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/chucho-vald%C3%A9s/1003848",
           "spotify": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Chucho Valdés",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -3392,10 +3392,10 @@
       "headline_artists": [
         {
           "name": "Chucho Valdés",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/chucho-vald%C3%A9s/1003848",
           "spotify": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Chucho Valdés",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -3423,10 +3423,10 @@
       "headline_artists": [
         {
           "name": "Chucho Valdés",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/chucho-vald%C3%A9s/1003848",
           "spotify": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Chucho Valdés",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -3454,10 +3454,10 @@
       "headline_artists": [
         {
           "name": "Chucho Valdés",
-          "apple_music": null,
+          "apple_music": "https://music.apple.com/us/artist/chucho-vald%C3%A9s/1003848",
           "spotify": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Chucho Valdés",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -3489,11 +3489,11 @@
     },
     "apple_music": {
       "unique_artists": 74,
-      "found": 30,
-      "exact": 27,
+      "found": 36,
+      "exact": 30,
       "close": 0,
-      "flagged": 3,
-      "not_found": 44
+      "flagged": 6,
+      "not_found": 38
     },
     "spotify": {
       "unique_artists": 74,

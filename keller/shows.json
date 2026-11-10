@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 70,
+  "scraped_at": "2026-11-10",
+  "count": 77,
   "shows": [
     {
       "event_type": "music",
@@ -1900,7 +1900,7 @@
     },
     {
       "event_type": "music",
-      "needs_review": true,
+      "needs_review": false,
       "headline_artists": [
         {
           "name": "Clue",
@@ -1919,14 +1919,231 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-03-02",
-      "doors": null,
-      "show_time": null,
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
       "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
       "ticket_status": "on sale",
       "event_page": "https://www.portland5.com/event/clue",
       "room": null,
-      "age_rating": null,
-      "note": "calendar card only: 'March 2 to 7, 2027' — performance details page not published yet",
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-03",
+      "doors": "1 hour prior to start",
+      "show_time": "Wednesday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-04",
+      "doors": "1 hour prior to start",
+      "show_time": "Thursday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 2:00 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-07",
+      "doors": "1 hour prior to start",
+      "show_time": "1:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-07",
+      "doors": "1 hour prior to start",
+      "show_time": "6:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
       "description": null
     },
     {
@@ -2211,7 +2428,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 6,
+      "music": 13,
       "comedy": 5,
       "film": 0,
       "other": 59
@@ -2230,7 +2447,7 @@
       "venue": 0,
       "api": 10,
       "feed": 0,
-      "shows_with_link": 51
+      "shows_with_link": 58
     }
   }
 }

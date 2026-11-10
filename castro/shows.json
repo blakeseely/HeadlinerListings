@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 64,
+  "scraped_at": "2026-11-10",
+  "count": 65,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "Sienna Spiro",
-          "apple_music": "https://music.apple.com/us/artist/sienna-spiro/1745678083",
-          "spotify": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
-          "confidence": 1.0,
-          "matched": "SIENNA SPIRO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Summer Joy",
-          "apple_music": "https://music.apple.com/us/artist/summer-joy/1718326924",
-          "spotify": "https://open.spotify.com/artist/42qZnbJ0Ye2JSIvx6YWJOW",
-          "confidence": 1.0,
-          "matched": "Summer Joy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/sienna-spiro-261109",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "My House Tour",
-      "description": "This event is"
-    },
     {
       "event_type": "film",
       "needs_review": false,
@@ -2067,6 +2025,48 @@
     },
     {
       "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "ROYAL BLOOD",
+          "apple_music": "https://music.apple.com/us/artist/royal-blood/809772445",
+          "spotify": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15",
+          "confidence": 1.0,
+          "matched": "Royal Blood",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bodega",
+          "apple_music": "https://music.apple.com/us/artist/bodega/1355037497",
+          "spotify": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5",
+          "confidence": 1.0,
+          "matched": "BODEGA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "North America 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/royal-blood-san-francisco-california-04-20-2027/event/1C00655EFCAC9A2D?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/royal-blood-270420",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -2125,6 +2125,48 @@
       "room": null,
       "age_rating": null,
       "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Silversun Pickups",
+          "apple_music": "https://music.apple.com/us/artist/silversun-pickups/74752665",
+          "spotify": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h",
+          "confidence": 1.0,
+          "matched": "Silversun Pickups",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Hannah Cole",
+          "apple_music": "https://music.apple.com/us/artist/hannah-cole/1537048076",
+          "spotify": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY",
+          "confidence": 1.0,
+          "matched": "Hannah Cole",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-07",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/silversun-pickups-san-francisco-california-05-07-2027/event/1C00655DC91ADF70?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/silversun-pickups-270507",
+      "room": null,
+      "age_rating": null,
+      "note": "LIVE 105 presents Tenterhooks Tour",
       "description": null
     },
     {
@@ -2234,26 +2276,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 51,
       "comedy": 4,
       "film": 8,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 72,
-      "found": 58,
-      "exact": 52,
+      "unique_artists": 74,
+      "found": 60,
+      "exact": 54,
       "close": 2,
       "flagged": 4,
       "not_found": 14
     },
     "spotify": {
-      "unique_artists": 72,
-      "linked": 61,
-      "venue": 45,
+      "unique_artists": 74,
+      "linked": 63,
+      "venue": 47,
       "api": 16,
       "feed": 0,
-      "shows_with_link": 56
+      "shows_with_link": 57
     }
   }
 }

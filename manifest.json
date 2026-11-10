@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:03:42.207872+00:00",
+  "generated_at": "2026-11-10T12:09:22.829277+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -8,8 +8,8 @@
       "metro": "San Francisco",
       "lat": 37.7876,
       "lon": -122.4098,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:46",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:52",
       "oldest_show_date": "2026-11-13",
       "value_domains": {
         "event_type": [
@@ -22,8 +22,8 @@
           "api"
         ]
       },
-      "show_count": 29,
-      "sha256_16": "b5d86821bcc0e617"
+      "show_count": 32,
+      "sha256_16": "5d6ace5c9dbcc805"
     },
     {
       "venue_id": "bellyup",
@@ -32,9 +32,9 @@
       "metro": "San Diego",
       "lat": 32.991,
       "lon": -117.2707,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:01",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:10",
+      "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
           "music",
@@ -51,7 +51,7 @@
         ]
       },
       "show_count": 121,
-      "sha256_16": "97720a8b56510aaa"
+      "sha256_16": "e570d6cdc7ff3f0f"
     },
     {
       "venue_id": "bgc",
@@ -60,8 +60,8 @@
       "metro": "San Francisco",
       "lat": 37.7781,
       "lon": -122.4173,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:58",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:06",
       "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
@@ -79,7 +79,7 @@
         ]
       },
       "show_count": 27,
-      "sha256_16": "b78567f66ac93b97"
+      "sha256_16": "c8b9ae24cea30c42"
     },
     {
       "venue_id": "brickandmortar",
@@ -88,9 +88,9 @@
       "metro": "San Francisco",
       "lat": 37.7697,
       "lon": -122.4203,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:56",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:04",
+      "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
           "music"
@@ -100,12 +100,12 @@
           "sold out"
         ],
         "spotify_source": [
-          "venue",
-          "api"
+          "api",
+          "venue"
         ]
       },
-      "show_count": 20,
-      "sha256_16": "a6816f5884a69cc3"
+      "show_count": 21,
+      "sha256_16": "d52268d5eef81b1b"
     },
     {
       "venue_id": "cafedunord",
@@ -114,8 +114,8 @@
       "metro": "San Francisco",
       "lat": 37.7667,
       "lon": -122.4305,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:48",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:55",
       "oldest_show_date": "2026-11-13",
       "value_domains": {
         "event_type": [
@@ -130,8 +130,8 @@
           "api"
         ]
       },
-      "show_count": 40,
-      "sha256_16": "1c46028b15f59757"
+      "show_count": 41,
+      "sha256_16": "d7ebc2a3faeaafe8"
     },
     {
       "venue_id": "castro",
@@ -140,27 +140,27 @@
       "metro": "San Francisco",
       "lat": 37.762,
       "lon": -122.4348,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:40",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:43",
+      "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
-          "music",
           "film",
+          "music",
           "other",
           "comedy"
         ],
         "ticket_status": [
-          "sold out",
-          "on sale"
+          "on sale",
+          "sold out"
         ],
         "spotify_source": [
           "venue",
           "api"
         ]
       },
-      "show_count": 64,
-      "sha256_16": "6eae91adc717bce6"
+      "show_count": 65,
+      "sha256_16": "a4f052be3a479cf7"
     },
     {
       "venue_id": "chapel",
@@ -169,8 +169,8 @@
       "metro": "San Francisco",
       "lat": 37.7605,
       "lon": -122.4212,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:57",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:06",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -185,7 +185,7 @@
         ]
       },
       "show_count": 38,
-      "sha256_16": "cf2a9ea95e86d7f1"
+      "sha256_16": "845911af52d74ccf"
     },
     {
       "venue_id": "crocodile",
@@ -194,8 +194,8 @@
       "metro": "Seattle",
       "lat": 47.6146,
       "lon": -122.3491,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:41",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:09:01",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -211,7 +211,7 @@
         ]
       },
       "show_count": 10,
-      "sha256_16": "76c5f9b60f177f36"
+      "sha256_16": "c2e05928a802f37a"
     },
     {
       "venue_id": "crystalball",
@@ -220,8 +220,8 @@
       "metro": "Portland",
       "lat": 45.5227,
       "lon": -122.6848,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:39",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:46",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -236,7 +236,7 @@
         ]
       },
       "show_count": 54,
-      "sha256_16": "4ec8c87d4fc13425"
+      "sha256_16": "1bb6419a925224cf"
     },
     {
       "venue_id": "elcorazon",
@@ -245,8 +245,8 @@
       "metro": "Seattle",
       "lat": 47.6187,
       "lon": -122.3293,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:40",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:08:58",
       "oldest_show_date": "2026-11-12",
       "value_domains": {
         "event_type": [
@@ -258,7 +258,7 @@
         ]
       },
       "show_count": 33,
-      "sha256_16": "245e17f019503e4e"
+      "sha256_16": "4ac32caacc8bdaec"
     },
     {
       "venue_id": "fillmore",
@@ -267,9 +267,9 @@
       "metro": "San Francisco",
       "lat": 37.7841,
       "lon": -122.4332,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:41",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:45",
+      "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
           "music",
@@ -283,7 +283,7 @@
         ]
       },
       "show_count": 34,
-      "sha256_16": "7867bb2808e6a3ba"
+      "sha256_16": "f7649aace2c75e00"
     },
     {
       "venue_id": "foxoakland",
@@ -292,8 +292,8 @@
       "metro": "San Francisco",
       "lat": 37.808,
       "lon": -122.2702,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:49",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:58",
       "oldest_show_date": "2026-11-12",
       "value_domains": {
         "event_type": [
@@ -309,8 +309,8 @@
           "api"
         ]
       },
-      "show_count": 33,
-      "sha256_16": "e3e89ac8868cbabf"
+      "show_count": 34,
+      "sha256_16": "f1f9f34e614c75d1"
     },
     {
       "venue_id": "frost",
@@ -319,8 +319,8 @@
       "metro": "San Francisco",
       "lat": 37.4307,
       "lon": -122.166,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:57",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:05",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -328,7 +328,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "f7e23f9df56997ba"
+      "sha256_16": "225bae15cc2eab91"
     },
     {
       "venue_id": "funhouse",
@@ -337,9 +337,9 @@
       "metro": "Seattle",
       "lat": 47.6189,
       "lon": -122.3293,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:40",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:08:59",
+      "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
           "music"
@@ -349,8 +349,8 @@
           "api"
         ]
       },
-      "show_count": 28,
-      "sha256_16": "7e5b0d30e70ba5ee"
+      "show_count": 27,
+      "sha256_16": "d45ff77b00dd1b2d"
     },
     {
       "venue_id": "gamh",
@@ -359,8 +359,8 @@
       "metro": "San Francisco",
       "lat": 37.7848,
       "lon": -122.4188,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:42",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:47",
       "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
@@ -374,8 +374,8 @@
           "api"
         ]
       },
-      "show_count": 22,
-      "sha256_16": "f3e281dd1e32772d"
+      "show_count": 23,
+      "sha256_16": "dcac97bc6bd655a2"
     },
     {
       "venue_id": "greek",
@@ -384,8 +384,8 @@
       "metro": "San Francisco",
       "lat": 37.8737,
       "lon": -122.2542,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:50",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:59",
       "oldest_show_date": "2027-08-12",
       "value_domains": {
         "event_type": [
@@ -400,7 +400,7 @@
         ]
       },
       "show_count": 2,
-      "sha256_16": "f28756afb0c84bcd"
+      "sha256_16": "6966c52b59e9ff86"
     },
     {
       "venue_id": "holocene",
@@ -409,9 +409,9 @@
       "metro": "Portland",
       "lat": 45.5174,
       "lon": -122.6554,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:40",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:48",
+      "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
           "music",
@@ -426,8 +426,8 @@
           "api"
         ]
       },
-      "show_count": 44,
-      "sha256_16": "e58ee8025e6a1c09"
+      "show_count": 43,
+      "sha256_16": "c37c0e7b8f2112bc"
     },
     {
       "venue_id": "humphreys",
@@ -436,8 +436,8 @@
       "metro": "San Diego",
       "lat": 32.7169,
       "lon": -117.224,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:07",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:17",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -445,7 +445,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "519be6f7a1714c7d"
+      "sha256_16": "89fc310339ebac42"
     },
     {
       "venue_id": "independent",
@@ -454,9 +454,9 @@
       "metro": "San Francisco",
       "lat": 37.7719,
       "lon": -122.433,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:40",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:41",
+      "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
           "music"
@@ -468,7 +468,7 @@
         ]
       },
       "show_count": 96,
-      "sha256_16": "9a1d06ad8781ea86"
+      "sha256_16": "fe63eb73353f7ad7"
     },
     {
       "venue_id": "keller",
@@ -477,8 +477,8 @@
       "metro": "Portland",
       "lat": 45.5124,
       "lon": -122.6782,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:55",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:05:06",
       "oldest_show_date": "2026-11-15",
       "value_domains": {
         "event_type": [
@@ -493,8 +493,8 @@
           "api"
         ]
       },
-      "show_count": 70,
-      "sha256_16": "fddad50c8ff686fe"
+      "show_count": 77,
+      "sha256_16": "9722fd9f09ee4b2e"
     },
     {
       "venue_id": "moore",
@@ -503,8 +503,8 @@
       "metro": "Seattle",
       "lat": 47.6117,
       "lon": -122.3414,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:05:13",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:07:32",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -521,7 +521,7 @@
         ]
       },
       "show_count": 56,
-      "sha256_16": "2114d507d27ed2e2"
+      "sha256_16": "ce3c1bd63e771c2e"
     },
     {
       "venue_id": "musicbox",
@@ -530,9 +530,9 @@
       "metro": "San Diego",
       "lat": 32.7194,
       "lon": -117.1681,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:06",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:15",
+      "oldest_show_date": "2026-11-12",
       "value_domains": {
         "event_type": [
           "music",
@@ -541,6 +541,7 @@
         "ticket_status": [
           "on sale",
           "not on sale",
+          "on sale soon",
           "sold out"
         ],
         "spotify_source": [
@@ -548,7 +549,7 @@
         ]
       },
       "show_count": 37,
-      "sha256_16": "2cb112829ff2e63e"
+      "sha256_16": "cb9bb8aac3d248e7"
     },
     {
       "venue_id": "neptune",
@@ -557,8 +558,8 @@
       "metro": "Seattle",
       "lat": 47.6611,
       "lon": -122.314,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:26",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:08:44",
       "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
@@ -575,7 +576,7 @@
         ]
       },
       "show_count": 104,
-      "sha256_16": "90dff7e5a817c02d"
+      "sha256_16": "44d690c08d4d84aa"
     },
     {
       "venue_id": "neumos",
@@ -584,8 +585,8 @@
       "metro": "Seattle",
       "lat": 47.614,
       "lon": -122.3196,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:40",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:08:57",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -600,7 +601,7 @@
         ]
       },
       "show_count": 55,
-      "sha256_16": "b48e096483d5c770"
+      "sha256_16": "0b5633c94639a2a8"
     },
     {
       "venue_id": "pappy",
@@ -609,9 +610,9 @@
       "metro": "Los Angeles",
       "lat": 34.1564,
       "lon": -116.493,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:08",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:19",
+      "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
           "music"
@@ -624,8 +625,8 @@
           "api"
         ]
       },
-      "show_count": 55,
-      "sha256_16": "92da308646dc853b"
+      "show_count": 56,
+      "sha256_16": "4638bac9e1be9470"
     },
     {
       "venue_id": "paramount",
@@ -634,8 +635,8 @@
       "metro": "Seattle",
       "lat": 47.6132,
       "lon": -122.3314,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:04:06",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:06:23",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -651,7 +652,7 @@
         ]
       },
       "show_count": 126,
-      "sha256_16": "3fcf940a116fcb28"
+      "sha256_16": "36dbac0372da43be"
     },
     {
       "venue_id": "polarishall",
@@ -660,9 +661,9 @@
       "metro": "Portland",
       "lat": 45.5621,
       "lon": -122.6738,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:56",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:05:07",
+      "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
           "music",
@@ -676,8 +677,8 @@
           "api"
         ]
       },
-      "show_count": 53,
-      "sha256_16": "3f6b8b91debb223f"
+      "show_count": 56,
+      "sha256_16": "663f70560918d642"
     },
     {
       "venue_id": "regency",
@@ -686,8 +687,8 @@
       "metro": "San Francisco",
       "lat": 37.7878,
       "lon": -122.4216,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:43",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:48",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -702,8 +703,8 @@
           "feed"
         ]
       },
-      "show_count": 34,
-      "sha256_16": "15745b6ffa6386ea"
+      "show_count": 35,
+      "sha256_16": "60e64e90419b4c55"
     },
     {
       "venue_id": "rickshawstop",
@@ -712,8 +713,8 @@
       "metro": "San Francisco",
       "lat": 37.776,
       "lon": -122.4205,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:59",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:08",
       "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
@@ -727,8 +728,8 @@
           "api"
         ]
       },
-      "show_count": 44,
-      "sha256_16": "beaaa14bb1a53cb1"
+      "show_count": 45,
+      "sha256_16": "4ab2e1798aa0a00c"
     },
     {
       "venue_id": "roseland",
@@ -737,8 +738,8 @@
       "metro": "Portland",
       "lat": 45.5234,
       "lon": -122.6761,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:57",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:05:10",
       "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
@@ -746,14 +747,15 @@
         ],
         "ticket_status": [
           "on sale",
-          "sold out"
+          "sold out",
+          "coming soon"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 32,
-      "sha256_16": "1d1ceb4ea90cb17e"
+      "show_count": 34,
+      "sha256_16": "4150b00ab46a31a0"
     },
     {
       "venue_id": "sfjazz",
@@ -762,8 +764,8 @@
       "metro": "San Francisco",
       "lat": 37.7764,
       "lon": -122.4216,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T05:58:16",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:07",
       "oldest_show_date": "2026-11-12",
       "value_domains": {
         "event_type": [
@@ -775,7 +777,7 @@
         ]
       },
       "show_count": 111,
-      "sha256_16": "6e58bd068304032c"
+      "sha256_16": "719bfd66ee5816e2"
     },
     {
       "venue_id": "showbox",
@@ -784,9 +786,9 @@
       "metro": "Seattle",
       "lat": 47.6085,
       "lon": -122.3395,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:36",
-      "oldest_show_date": "2026-11-09",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:08:51",
+      "oldest_show_date": "2026-11-10",
       "value_domains": {
         "event_type": [
           "music"
@@ -800,7 +802,7 @@
         ]
       },
       "show_count": 54,
-      "sha256_16": "d97fdb62e2f80ff6"
+      "sha256_16": "b838ab739c6226e5"
     },
     {
       "venue_id": "showboxsodo",
@@ -809,8 +811,8 @@
       "metro": "Seattle",
       "lat": 47.588,
       "lon": -122.3339,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:06:37",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:08:53",
       "oldest_show_date": "2026-11-13",
       "value_domains": {
         "event_type": [
@@ -825,8 +827,8 @@
           "api"
         ]
       },
-      "show_count": 37,
-      "sha256_16": "78547976f99e219f"
+      "show_count": 38,
+      "sha256_16": "8a5b2466755af66d"
     },
     {
       "venue_id": "thecasbah",
@@ -835,8 +837,8 @@
       "metro": "San Diego",
       "lat": 32.7303,
       "lon": -117.1718,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:03",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:13",
       "oldest_show_date": "2027-02-24",
       "value_domains": {
         "event_type": [
@@ -850,7 +852,7 @@
         ]
       },
       "show_count": 1,
-      "sha256_16": "615e0eae287d3d93"
+      "sha256_16": "f326ef6bac2cdd20"
     },
     {
       "venue_id": "theobservatory",
@@ -859,8 +861,8 @@
       "metro": "San Diego",
       "lat": 32.748,
       "lon": -117.1313,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:04",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:14",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -868,7 +870,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "80bf7bf3f07c1760"
+      "sha256_16": "2255640151fb4af5"
     },
     {
       "venue_id": "thesound",
@@ -877,8 +879,8 @@
       "metro": "San Diego",
       "lat": 32.9758,
       "lon": -117.2617,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:02",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:04:12",
       "oldest_show_date": "2026-11-14",
       "value_domains": {
         "event_type": [
@@ -891,8 +893,8 @@
           "api"
         ]
       },
-      "show_count": 23,
-      "sha256_16": "ccf154877f0dedf7"
+      "show_count": 24,
+      "sha256_16": "0dfb116ab6f2e41f"
     },
     {
       "venue_id": "warfield",
@@ -901,8 +903,8 @@
       "metro": "San Francisco",
       "lat": 37.7826,
       "lon": -122.4103,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:01:48",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:03:55",
       "oldest_show_date": "2026-11-13",
       "value_domains": {
         "event_type": [
@@ -916,7 +918,7 @@
         ]
       },
       "show_count": 23,
-      "sha256_16": "fc1ea1327e53dea2"
+      "sha256_16": "9e23b1290053e4d7"
     },
     {
       "venue_id": "wonderball",
@@ -925,8 +927,8 @@
       "metro": "Portland",
       "lat": 45.5407,
       "lon": -122.6635,
-      "updated_at": "2026-11-09",
-      "fetched_at": "2026-11-09T04:02:57",
+      "updated_at": "2026-11-10",
+      "fetched_at": "2026-11-10T04:05:12",
       "oldest_show_date": "2026-11-11",
       "value_domains": {
         "event_type": [
@@ -935,14 +937,15 @@
         "ticket_status": [
           "on sale",
           "cancelled",
+          "coming soon",
           "off sale"
         ],
         "spotify_source": [
           "api"
         ]
       },
-      "show_count": 30,
-      "sha256_16": "7ec83cb383cc0f7b"
+      "show_count": 33,
+      "sha256_16": "12edb36fa9f073ca"
     }
   ]
 }

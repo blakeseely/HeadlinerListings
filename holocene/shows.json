@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 44,
+  "scraped_at": "2026-11-10",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jake Minch",
-          "apple_music": "https://music.apple.com/us/artist/jake-minch/1524217026",
-          "spotify": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC",
-          "confidence": 1.0,
-          "matched": "Jake Minch",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Alix Page",
-          "apple_music": "https://music.apple.com/us/artist/alix-page/1498941774",
-          "spotify": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ",
-          "confidence": 1.0,
-          "matched": "Alix Page",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Getting Big Tour",
-      "presenters": [
-        "Holocene Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/34683824/jake-minch-getting-big-tour-w-alix-page-all-ages-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-09-jake-minch-getting-big-tour-w-alix-page",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1084,39 +1040,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Lucky Star (album release show) // Grolixes // Big Top",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Lullabelle Starlight @ 42%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Holocene Presents"
-      ],
-      "set_format": null,
-      "date": "2026-12-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/41109343/lucky-star-album-release-show-grolixes-big-top-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-12-16-lucky-star-album-release-show-grolixes-big-top",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Gothmas: Constant Debauchery (Depeche Mode), Kiss Me Kiss Me Kiss Me (The Cure), Precious Machinery (Siouxsie and the Banshees)",
           "apple_music": null,
           "spotify": null,
@@ -1204,6 +1127,39 @@
       "ticket_link": "https://www.etix.com/ticket/p/53208442/club-slayyy-slayyyter-hyperpop-night-21-portland-holocene?partner_id=100",
       "ticket_status": "on sale",
       "event_page": "https://www.holocene.org/events/2027-01-14-club-slayyy-slayyyter-hyperpop-night",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BOUND: A Dyke Dance",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Boundaries @ 48%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "presented by Dyke Pool"
+      ],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/77746382/bound-a-dyke-dance-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-22-bound-a-dyke-dance",
       "room": null,
       "age_rating": "21+",
       "note": null,
@@ -1450,12 +1406,12 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "sophia stel: the greatest tour of all time",
+          "name": "MOVED TO WONDER BALLROOM: sophia stel: the greatest tour of all time",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.7,
+          "confidence": 0.0,
           "matched": null,
-          "apple_label": "no confident match (closest: Sophia Stel @ 70%)",
+          "apple_label": null,
           "spotify_label": "no confident match (closest: Sophia Stel @ 70%)",
           "spotify_source": null
         }
@@ -1470,9 +1426,9 @@
       "date": "2027-03-18",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/70319745/sophia-stel-the-greatest-tour-of-all-time-all-ages-portland-holocene?partner_id=100",
-      "ticket_status": "sold out",
-      "event_page": "https://www.holocene.org/events/2027-03-18-sophia-stel-the-greatest-tour-of-all-time",
+      "ticket_link": "https://www.etix.com/ticket/p/70319745/moved-to-wonder-ballroom-sophia-stel-the-greatest-tour-of-all-time-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-03-18-moved-to-wonder-ballroom-sophia-stel-the-greatest-tour-of-all-time",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1580,26 +1536,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 40,
       "comedy": 1,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 26,
-      "exact": 22,
+      "unique_artists": 53,
+      "found": 24,
+      "exact": 20,
       "close": 1,
       "flagged": 3,
       "not_found": 29
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 26,
+      "unique_artists": 53,
+      "linked": 24,
       "venue": 0,
-      "api": 26,
+      "api": 24,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 18
     }
   }
 }

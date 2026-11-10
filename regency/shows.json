@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 34,
+  "scraped_at": "2026-11-10",
+  "count": 35,
   "shows": [
     {
       "event_type": "music",
@@ -959,6 +959,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "camoufly",
+          "apple_music": "https://music.apple.com/us/artist/camoufly/1534993570",
+          "spotify": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ",
+          "confidence": 1.0,
+          "matched": "camoufly",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "feed"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "usa tour ‘27",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547041227",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1695061",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Interplanetary Criminal",
           "apple_music": "https://music.apple.com/us/artist/interplanetary-criminal/1136192992",
           "spotify": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI",
@@ -1481,26 +1514,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 35,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
-      "found": 59,
-      "exact": 58,
+      "unique_artists": 61,
+      "found": 60,
+      "exact": 59,
       "close": 0,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 58,
+      "unique_artists": 61,
+      "linked": 59,
       "venue": 0,
       "api": 56,
-      "feed": 2,
-      "shows_with_link": 34
+      "feed": 3,
+      "shows_with_link": 35
     }
   }
 }

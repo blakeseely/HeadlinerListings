@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 40,
+  "scraped_at": "2026-11-10",
+  "count": 41,
   "shows": [
     {
       "event_type": "music",
@@ -499,6 +499,39 @@
       "age_rating": "All ages",
       "note": null,
       "description": "Josie Edwards is a rising folk-pop singer-songwriter based in Nashville, TN, whose sharp storytelling and unmistakable voice have earned her more than 100 million streams and a fast-growing audience online. Drawing on artists like Tom Odell, Twenty One Pilots, Noah Kahan, The Lumineers, and Bob Dylan, Josie pairs dark humor with folk-pop melodies that stick. It’s an identity entirely her own…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Trestles",
+          "apple_music": "https://music.apple.com/us/artist/trestles/1576082873",
+          "spotify": "https://open.spotify.com/artist/7hmPErlX3ndzdXcrg8WblE",
+          "confidence": 1.0,
+          "matched": "Trestles",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-21",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/trestles-cafe-du-nord-tickets/14393464?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://cafedunord.com/shows/2027-01-21-trestles",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Trestles is a surf/psych outfit from Santa Cruz, California. Formed in 2021, the band is centered in 1960’s west coast garage rock tradition. With their own take on a psychedelic surf/garage revival sound, Trestles’ cultural influence is the byproduct of shared time studying and obsessing over the history of music recording arts at school. The band's goal is to only participate in things that…"
     },
     {
       "event_type": "music",
@@ -1492,26 +1525,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40,
+      "music": 41,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 52,
-      "found": 52,
-      "exact": 50,
+      "unique_artists": 53,
+      "found": 53,
+      "exact": 51,
       "close": 1,
       "flagged": 1,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 52,
-      "linked": 52,
-      "venue": 37,
+      "unique_artists": 53,
+      "linked": 53,
+      "venue": 38,
       "api": 15,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 41
     }
   }
 }

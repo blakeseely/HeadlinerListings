@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 30,
+  "scraped_at": "2026-11-10",
+  "count": 33,
   "shows": [
     {
       "event_type": "music",
@@ -823,6 +823,72 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Noah Rinker",
+          "apple_music": "https://music.apple.com/us/artist/noah-rinker/1629238644",
+          "spotify": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6",
+          "confidence": 1.0,
+          "matched": "Noah Rinker",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/44391279/noah-rinker-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/noah-rinker/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "sophia stel",
+          "apple_music": "https://music.apple.com/us/artist/sophia-stel/1473708664",
+          "spotify": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex",
+          "confidence": 1.0,
+          "matched": "Sophia Stel",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "the greatest tour of all time",
+      "presenters": [
+        "Holocene and Mr. Harry"
+      ],
+      "set_format": null,
+      "date": "2027-03-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/48278541/sophia-stelthe-greatest-tour-of-all-time-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/sophia-stel-the-greatest-tour-of-all-time/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Boy Throb’s Real Tour",
           "apple_music": null,
           "spotify": null,
@@ -1032,6 +1098,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "GETDOWN SERVICES",
+          "apple_music": "https://music.apple.com/us/artist/getdown-services/1547195934",
+          "spotify": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5",
+          "confidence": 1.0,
+          "matched": "Getdown Services",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/75604102/getdown-services-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/getdown-services/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Hazlett",
           "apple_music": "https://music.apple.com/us/artist/hazlett/274443511",
           "spotify": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH",
@@ -1108,26 +1207,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 31,
-      "exact": 29,
+      "unique_artists": 40,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 31,
+      "unique_artists": 40,
+      "linked": 34,
       "venue": 0,
-      "api": 31,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 26
+      "shows_with_link": 29
     }
   }
 }

@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 37,
+  "scraped_at": "2026-11-10",
+  "count": 38,
   "shows": [
     {
       "event_type": "music",
@@ -1084,8 +1084,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Telykast",
+          "apple_music": "https://music.apple.com/us/artist/telykast/1133299760",
+          "spotify": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz",
+          "confidence": 1.0,
+          "matched": "TELYKAST",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Legends of Atlantis Tour",
       "presenters": [],
       "set_format": null,
@@ -1448,6 +1459,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Silversun Pickups",
+          "apple_music": "https://music.apple.com/us/artist/silversun-pickups/74752665",
+          "spotify": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h",
+          "confidence": 1.0,
+          "matched": "Silversun Pickups",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Hannah Cole",
+          "apple_music": "https://music.apple.com/us/artist/hannah-cole/1537048076",
+          "spotify": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY",
+          "confidence": 1.0,
+          "matched": "Hannah Cole",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Tenterhooks Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-10",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.axs.com/events/1682657/silversun-pickups-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1682657",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Angus & Julia Stone",
           "apple_music": "https://music.apple.com/us/artist/angus-julia-stone/169843517",
           "spotify": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr",
@@ -1561,26 +1614,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 37,
+      "music": 38,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 68,
-      "found": 62,
-      "exact": 56,
+      "unique_artists": 71,
+      "found": 65,
+      "exact": 59,
       "close": 0,
       "flagged": 6,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 68,
-      "linked": 63,
+      "unique_artists": 71,
+      "linked": 66,
       "venue": 0,
-      "api": 63,
+      "api": 66,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 35
     }
   }
 }

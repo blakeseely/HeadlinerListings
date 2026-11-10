@@ -35,42 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 55,
+  "scraped_at": "2026-11-10",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tuba Skinny",
-          "apple_music": "https://music.apple.com/us/artist/tuba-skinny/778893355",
-          "spotify": "https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5",
-          "confidence": 1.0,
-          "matched": "Tuba Skinny",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/tuba-skinny/703202",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/tuba-skinny/703202",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -111,7 +78,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/oh-he-dead/701216",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1583,8 +1550,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "DJ Lee Joseph",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.632,
+          "matched": null,
+          "apple_label": "no confident match (closest: JOSEPH @ 63%)",
+          "spotify_label": "no confident match (closest: DJ TONYA LEE @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -1619,7 +1597,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-22",
       "doors": "8:30 pm",
@@ -1627,6 +1607,37 @@
       "ticket_link": "https://wl.seetickets.us/event/the-greyboy-allstars/706005",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-greyboy-allstars/706005",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Prescott Niles' THE KNACK",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Knack @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/prescott-niles-the-knack/710244",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/prescott-niles-the-knack/710244",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1947,6 +1958,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Moontricks",
+          "apple_music": "https://music.apple.com/us/artist/moontricks/564959127",
+          "spotify": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg",
+          "confidence": 1.0,
+          "matched": "Moontricks",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/moontricks/710359",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/moontricks/710359",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Tommy Lefroy",
           "apple_music": "https://music.apple.com/us/artist/tommy-lefroy/1552366962",
           "spotify": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP",
@@ -2162,21 +2204,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 56,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 86,
+      "unique_artists": 87,
       "found": 80,
       "exact": 75,
       "close": 1,
       "flagged": 4,
-      "not_found": 6
+      "not_found": 7
     },
     "spotify": {
-      "unique_artists": 86,
+      "unique_artists": 87,
       "linked": 77,
       "venue": 0,
       "api": 77,

@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Thomas Dolby",
-          "apple_music": "https://music.apple.com/us/artist/thomas-dolby/487209",
-          "spotify": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7",
-          "confidence": 1.0,
-          "matched": "Thomas Dolby",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DJ Vaughn Avakian",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: DJ Ravion @ 54%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Iconic 80's Recollections Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15017053/thomas-dolby-iconic-80s-recollections-tour-2026-w-dj-vaughn-avakian",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1214,6 +1172,47 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Moontricks",
+          "apple_music": "https://music.apple.com/us/artist/moontricks/564959127",
+          "spotify": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg",
+          "confidence": 1.0,
+          "matched": "Moontricks",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Will Evans",
+          "apple_music": "https://music.apple.com/us/artist/will-evans/603262751",
+          "spotify": "https://open.spotify.com/artist/52uqoslv2D09FEKV75l1eB",
+          "confidence": 1.0,
+          "matched": "Will Evans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/moontricks-will-evans-music-box-tickets/14425804?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14425804/moontricks-will-evans",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Lunasa",
           "apple_music": "https://music.apple.com/us/artist/l%C3%BAnasa/129169614",
           "spotify": "https://open.spotify.com/artist/020YMlk8jpd2AKUi5B0OK1",
@@ -1447,17 +1446,17 @@
     },
     "apple_music": {
       "unique_artists": 60,
-      "found": 46,
-      "exact": 42,
+      "found": 47,
+      "exact": 43,
       "close": 0,
       "flagged": 4,
-      "not_found": 14
+      "not_found": 13
     },
     "spotify": {
       "unique_artists": 60,
-      "linked": 49,
+      "linked": 50,
       "venue": 0,
-      "api": 49,
+      "api": 50,
       "feed": 0,
       "shows_with_link": 33
     }

@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 23,
+  "scraped_at": "2026-11-10",
+  "count": 24,
   "shows": [
     {
       "event_type": "music",
@@ -857,6 +857,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Silversun Pickups",
+          "apple_music": "https://music.apple.com/us/artist/silversun-pickups/74752665",
+          "spotify": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h",
+          "confidence": 1.0,
+          "matched": "Silversun Pickups",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Hannah Cole",
+          "apple_music": "https://music.apple.com/us/artist/hannah-cole/1537048076",
+          "spotify": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY",
+          "confidence": 1.0,
+          "matched": "Hannah Cole",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Tenterhooks Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-05",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/silversun-pickups-tenterhooks-the-sound-tickets/14413784?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14413784/silversun-pickups-tenterhooks-tour-w-hannah-cole",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the email address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by or to the consumer. VIP merchandise will be distributed at the show."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Two Door Cinema Club",
           "apple_music": "https://music.apple.com/us/artist/two-door-cinema-club/291005449",
           "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl",
@@ -897,26 +939,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 23,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 33,
-      "found": 29,
-      "exact": 27,
+      "unique_artists": 35,
+      "found": 31,
+      "exact": 29,
       "close": 1,
       "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 33,
-      "linked": 30,
+      "unique_artists": 35,
+      "linked": 32,
       "venue": 0,
-      "api": 30,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 21
     }
   }
 }

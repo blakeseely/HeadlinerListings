@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 96,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Weston Estate",
-          "apple_music": "https://music.apple.com/us/artist/weston-estate/1355369969",
-          "spotify": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa",
-          "confidence": 1.0,
-          "matched": "Weston Estate",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Hojean",
-          "apple_music": "https://music.apple.com/us/artist/hojean/1214545623",
-          "spotify": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w",
-          "confidence": 1.0,
-          "matched": "Hojean",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/weston-estate-the-independent-tickets/14310194?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/weston-estate-2/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1014,19 +972,8 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [
-        {
-          "name": "MOP",
-          "apple_music": "https://music.apple.com/us/artist/mop/1664329629",
-          "spotify": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf",
-          "confidence": 1.0,
-          "matched": "Mop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": "bitknot tour",
       "presenters": [],
       "set_format": null,
@@ -1098,8 +1045,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Roni Kaspi",
+          "apple_music": "https://music.apple.com/us/artist/roni-kaspi/1511615653",
+          "spotify": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9",
+          "confidence": 1.0,
+          "matched": "Roni Kaspi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -2813,37 +2771,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2886,6 +2813,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Ruby Waters",
           "apple_music": "https://music.apple.com/us/artist/ruby-waters/1441595388",
           "spotify": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd",
@@ -2907,6 +2865,37 @@
       "ticket_link": "https://www.ticketweb.com/event/ruby-waters-the-independent-tickets/14383214?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/ruby-waters/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "sophia stel",
+          "apple_music": "https://music.apple.com/us/artist/sophia-stel/1473708664",
+          "spotify": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex",
+          "confidence": 1.0,
+          "matched": "Sophia Stel",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "the greatest tour of all time - 2nd Night Added",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-15",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/sophia-stel-the-independent-tickets/14429494?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/sophia-stel-2/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3589,17 +3578,17 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 135,
-      "found": 125,
-      "exact": 116,
+      "unique_artists": 136,
+      "found": 126,
+      "exact": 117,
       "close": 3,
       "flagged": 6,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 135,
-      "linked": 125,
-      "venue": 85,
+      "unique_artists": 136,
+      "linked": 126,
+      "venue": 86,
       "api": 40,
       "feed": 0,
       "shows_with_link": 93

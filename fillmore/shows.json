@@ -35,61 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Quadeca",
-          "apple_music": "https://music.apple.com/us/artist/quadeca/993872780",
-          "spotify": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS",
-          "confidence": 1.0,
-          "matched": "Quadeca",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DERBY",
-          "apple_music": "https://music.apple.com/us/artist/derby/1772719795",
-          "spotify": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ",
-          "confidence": 1.0,
-          "matched": "DERBY",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Oleka",
-          "apple_music": "https://music.apple.com/us/artist/ol%C4%93ka/1830615787",
-          "spotify": "https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY",
-          "confidence": 1.0,
-          "matched": "Olēka",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/quadeca-san-francisco-california-11-09-2026/event/1C0064F48D166DDE",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/quadeca-san-francisco-california-11-09-2026/event/1C0064F48D166DDE",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -106,16 +54,6 @@
         }
       ],
       "support_artists": [
-        {
-          "name": "Flamin' Groovies",
-          "apple_music": "https://music.apple.com/us/artist/flamin-groovies/69837834",
-          "spotify": "https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd",
-          "confidence": 1.0,
-          "matched": "Flamin' Groovies",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
         {
           "name": "The Courettes",
           "apple_music": "https://music.apple.com/us/artist/the-courettes/1021964828",
@@ -1346,6 +1284,37 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+          "apple_music": "https://music.apple.com/us/artist/michael-shannon/1389380126",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Michael Shannon",
+          "apple_label": "compound bill — links to Michael Shannon only",
+          "spotify_label": "no confident match (closest: R.E.M. @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-san-francisco-california-02-12-2027/event/1C006538DE2FC5AF",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-san-francisco-california-02-12-2027/event/1C006538DE2FC5AF",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1356,20 +1325,20 @@
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 44,
-      "found": 42,
-      "exact": 42,
+      "unique_artists": 41,
+      "found": 39,
+      "exact": 38,
       "close": 0,
-      "flagged": 0,
+      "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 41,
+      "unique_artists": 41,
+      "linked": 37,
       "venue": 0,
-      "api": 41,
+      "api": 37,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

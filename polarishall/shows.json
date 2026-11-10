@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 53,
+  "scraped_at": "2026-11-10",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "James Ivy",
-          "apple_music": "https://music.apple.com/us/artist/james-ivy/1361383211",
-          "spotify": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ",
-          "confidence": 1.0,
-          "matched": "James Ivy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Harry Teardrop",
-          "apple_music": "https://music.apple.com/us/artist/harry-teardrop/1346480037",
-          "spotify": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV",
-          "confidence": 1.0,
-          "matched": "Harry Teardrop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/73058347",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -950,7 +908,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/38655516",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": null,
       "room": null,
       "age_rating": null,
@@ -1962,6 +1920,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Oscar Lindsey",
+          "apple_music": "https://music.apple.com/us/artist/oscar-lindsey/1551038394",
+          "spotify": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB",
+          "confidence": 1.0,
+          "matched": "Oscar Lindsey",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Sunshine Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/69780875",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Valencia Grace",
           "apple_music": "https://music.apple.com/us/artist/valencia-grace/1532649578",
           "spotify": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A",
@@ -2055,6 +2044,99 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 1)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Matt Nathanson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-24",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/95096640",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 2)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Matt Nathanson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/41106184",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 3)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Matt Nathanson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45683875",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Jealousy To Collaboration",
           "apple_music": null,
           "spotify": null,
@@ -2084,24 +2166,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 53,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
-      "found": 68,
-      "exact": 62,
+      "unique_artists": 91,
+      "found": 67,
+      "exact": 61,
       "close": 3,
       "flagged": 3,
-      "not_found": 21
+      "not_found": 24
     },
     "spotify": {
-      "unique_artists": 89,
-      "linked": 72,
+      "unique_artists": 91,
+      "linked": 71,
       "venue": 0,
-      "api": 72,
+      "api": 71,
       "feed": 0,
       "shows_with_link": 45
     }

@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 33,
   "shows": [
     {
@@ -689,6 +689,16 @@
           "spotify": "https://open.spotify.com/artist/3bpZqU4O7iDRfWpXQe0zcU",
           "confidence": 1.0,
           "matched": "Twist It",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Ocean Ghost",
+          "apple_music": "https://music.apple.com/us/artist/ocean-ghost/1741443803",
+          "spotify": "https://open.spotify.com/artist/3s6dLZ7Ad4R5tKNrESk2k9",
+          "confidence": 1.0,
+          "matched": "Ocean Ghost",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1892,18 +1902,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 103,
-      "found": 93,
-      "exact": 92,
+      "unique_artists": 104,
+      "found": 94,
+      "exact": 93,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 103,
-      "linked": 91,
+      "unique_artists": 104,
+      "linked": 92,
       "venue": 0,
-      "api": 91,
+      "api": 92,
       "feed": 0,
       "shows_with_link": 30
     }

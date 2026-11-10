@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 33,
+  "scraped_at": "2026-11-10",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -429,7 +429,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "The Custom Fit Tour — Another Planet Entertainment & Outback present",
+      "show_title": "The Custom Fit Tour — Late Show! — Another Planet Entertainment & Outback present",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-19",
@@ -596,7 +596,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": "United for Ukraine — An Evening of Music, Remembrance & Solidarity",
+      "show_title": "United for Ukraine — A Benefit Concert — An Evening of Music, Remembrance & Solidarity",
       "presenters": [],
       "set_format": null,
       "date": "2027-01-12",
@@ -648,7 +648,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": "United for Ukraine — An Evening of Music, Remembrance & Solidarity",
+      "show_title": "United for Ukraine — A Benefit Concert — An Evening of Music, Remembrance & Solidarity",
       "presenters": [],
       "set_format": null,
       "date": "2027-01-13",
@@ -796,6 +796,37 @@
       "age_rating": "all ages",
       "note": null,
       "description": "Performing to critical acclaim for nearly 30 years and over 3300 shows, Dark Star Orchestra continues the Grateful Dead live concert experience. The seven-piece band performs shows based on actual Grateful Dead set lists from their 30 years of touring, or creates unique sets from the Dead’s extensive catalog. This approach allows fans both young and old to share in the experience while offering a continually evolving artistic outlet within this musical canon. Dark Star Orchestra offers much more than just the sound of the Grateful Dead—they truly encapsulate the energy and experience. It’s about that sense of familiarity and contagious energy that creates the complete concert experience fans expect. The band has featured guest performances from six original Grateful Dead members: Phil Lesh, Bob Weir, Bill Kreutzmann, Donna Jean Godchaux-MacKay, Vince Welnick, and Tom Constanten, plus longtime Dead soundman Dan Healy. Other notable guests have included Mike Gordon and Jon Fishman of Phi"
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jordan Jensen",
+          "apple_music": "https://music.apple.com/us/artist/jordan-tyler-jensen/1717365898",
+          "spotify": "https://open.spotify.com/show/2VxEtJZOu8inLysMVboIow",
+          "confidence": 0.8,
+          "matched": "Jordan Tyler Jensen",
+          "apple_label": "close match: Jordan Tyler Jensen",
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Wet Hug Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/jordan-jensen-the-wet-hug-tour-oakland-california-02-19-2027/event/1C006566C932EAF8?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/jordan-jensen-270219",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Jordan Jensen is a stand-up comedian and actor whose critically acclaimed hour long comedy special, TAKE ME WITH YOU, debuted on Netflix and was praised by Decider as “a winning comedy debut that takes on femininity standards”. Jordan is currently on tour, selling out venues and adding shows by popular demand. She has amassed nearly 2 million followers across her social media platforms and has over 2.5 million views on her YouTube special. Jordan has built a strong digital following alongside her podcasts — co-hosting “Bein’ Ian with Jordan” and hosting her own, “RIP Jordan Jensen.” Jordan can be seen in Bradley Cooper’s feature IS THIS THING ON? for Searchlight starring Will Arnett and was recently a staff writer on Season 2 of Tom Segura’s Netflix series BAD THOUGHTS. In 2025, Jordan was spotlighted in Deadline’s “The Future Of Funny: 15 Comedians Ready To Break Out In 2025”, following her earlier recognition in Vulture’s “Comedians You Should and Will Know”. She has appeared on The"
     },
     {
       "event_type": "music",
@@ -1237,25 +1268,25 @@
   "stats": {
     "event_types": {
       "music": 31,
-      "comedy": 2,
+      "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
-      "found": 37,
+      "unique_artists": 39,
+      "found": 38,
       "exact": 36,
       "close": 1,
-      "flagged": 0,
+      "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 38,
-      "linked": 38,
-      "venue": 34,
+      "unique_artists": 39,
+      "linked": 39,
+      "venue": 35,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 34
     }
   }
 }

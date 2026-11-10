@@ -35,113 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 28,
+  "scraped_at": "2026-11-10",
+  "count": 27,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Cherokee Social",
-          "apple_music": "https://music.apple.com/us/artist/cherokee-social/1720330451",
-          "spotify": "https://open.spotify.com/artist/3BA0AjT1znMXddbdsT2jJD",
-          "confidence": 1.0,
-          "matched": "Cherokee Social",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Stovetop Gemini",
-          "apple_music": "https://music.apple.com/us/artist/stovetop-gemini/1701675382",
-          "spotify": "https://open.spotify.com/artist/4RuYpxDqzsQooSQ1B8VD6h",
-          "confidence": 1.0,
-          "matched": "Stovetop Gemini",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Iris Kymm",
-          "apple_music": "https://music.apple.com/us/artist/iris-kymm/1279745010",
-          "spotify": "https://open.spotify.com/artist/5MLFE3Z1oSPszHzLWSyKyc",
-          "confidence": 1.0,
-          "matched": "Iris Kymm",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": "7:00 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/cherokee-social-09-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Heaven Content",
-          "apple_music": "https://music.apple.com/us/artist/heaven-content/1589045050",
-          "spotify": "https://open.spotify.com/artist/4mpXysOCqLX3Xfn4K9zy69",
-          "confidence": 1.0,
-          "matched": "Heaven Content",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "King Lincoln",
-          "apple_music": "https://music.apple.com/us/artist/king-lincoln/629974195",
-          "spotify": "https://open.spotify.com/artist/5zlg9nZ78ORB7lmr7EjaIh",
-          "confidence": 1.0,
-          "matched": "King Lincoln",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Arc Flash",
-          "apple_music": "https://music.apple.com/us/artist/arc-flash/1222137060",
-          "spotify": "https://open.spotify.com/artist/5fKezGszkjuq4O238fxN44",
-          "confidence": 1.0,
-          "matched": "Arc Flash",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/heaven-content-dissolve-king-lincoln-arc-flash-10-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -510,6 +406,78 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/killer-dwarfs-16-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SEB EL ZIN",
+          "apple_music": "https://music.apple.com/us/artist/seb-el-zin/339759827",
+          "spotify": "https://open.spotify.com/artist/6tZCYhtckilkL8VrzBE4fX",
+          "confidence": 1.0,
+          "matched": "Seb el Zin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "wet peynt",
+          "apple_music": "https://music.apple.com/us/artist/wet-peynt/1540152543",
+          "spotify": "https://open.spotify.com/artist/0oKyW7dbTCul1AAUea4CZE",
+          "confidence": 1.0,
+          "matched": "wet peynt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "La Luxx",
+          "apple_music": "https://music.apple.com/us/artist/la-luxx-baby/1842452026",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "La Luxx Baby",
+          "apple_label": "close match: La Luxx Baby",
+          "spotify_label": "no confident match (closest: Larry Lux @ 75%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Dadbaud",
+          "apple_music": "https://music.apple.com/us/artist/dadbaud/1778119521",
+          "spotify": "https://open.spotify.com/artist/6GKs0Oz9sJKQLE4UkkIgD7",
+          "confidence": 1.0,
+          "matched": "DadBaud",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "cyranetic",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.636,
+          "matched": null,
+          "apple_label": "no confident match (closest: Marc Cyanotic @ 64%)",
+          "spotify_label": "no confident match (closest: Cyranek @ 75%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/dadbaud-la-luxx-wet-peynt-seb-el-zin-cyranetic-17-nov",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1397,26 +1365,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 27,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 75,
-      "found": 62,
-      "exact": 57,
+      "unique_artists": 74,
+      "found": 60,
+      "exact": 54,
       "close": 2,
-      "flagged": 3,
-      "not_found": 13
+      "flagged": 4,
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 75,
-      "linked": 62,
+      "unique_artists": 74,
+      "linked": 59,
       "venue": 0,
-      "api": 62,
+      "api": 59,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 21
     }
   }
 }

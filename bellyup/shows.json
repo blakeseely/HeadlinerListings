@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
+  "scraped_at": "2026-11-10",
   "count": 121,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "King Buffalo",
-          "apple_music": "https://music.apple.com/us/artist/king-buffalo/779559027",
-          "spotify": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R",
-          "confidence": 1.0,
-          "matched": "King Buffalo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "L.A. Witch",
-          "apple_music": "https://music.apple.com/us/artist/l-a-witch/825803479",
-          "spotify": "https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C",
-          "confidence": 1.0,
-          "matched": "L.A. WITCH",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "North America Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-09",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/king-buffalo-north-belly-up-tickets/14918073?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14918073/king-buffalo-north-america-tour-2026-with-special-guests-l-a-witch",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1579,7 +1537,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-milk-carton-kids-belly-up-tickets/14311904?REFID=bupwebsite",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14311904/the-milk-carton-kids-lost-cause-lover-fool-holiday-tour-w-rosi-golan",
       "room": null,
       "age_rating": null,
@@ -2665,6 +2623,37 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bebel Gilberto",
+          "apple_music": "https://music.apple.com/us/artist/bebel-gilberto/1000227",
+          "spotify": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz",
+          "confidence": 1.0,
+          "matched": "Bebel Gilberto",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Celebrating 25th Anniversary of Tanto Tempo",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-19",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/bebel-gilberto-celebrating-belly-up-tickets/14435744?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14435744/bebel-gilberto-celebrating-25th-anniversary-of-tanto-tempo",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4472,18 +4461,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 163,
-      "found": 121,
-      "exact": 99,
+      "unique_artists": 162,
+      "found": 120,
+      "exact": 98,
       "close": 6,
       "flagged": 16,
       "not_found": 42
     },
     "spotify": {
-      "unique_artists": 163,
-      "linked": 125,
+      "unique_artists": 162,
+      "linked": 124,
       "venue": 0,
-      "api": 125,
+      "api": 124,
       "feed": 0,
       "shows_with_link": 89
     }

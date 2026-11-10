@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-09",
-  "count": 22,
+  "scraped_at": "2026-11-10",
+  "count": 23,
   "shows": [
     {
       "event_type": "music",
@@ -198,6 +198,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Andre Nickatina",
+          "apple_music": "https://music.apple.com/us/artist/andre-nickatina/4623529",
+          "spotify": "https://open.spotify.com/artist/7boQqq2hUcz9kHcQOecG4j",
+          "confidence": 1.0,
+          "matched": "Andre Nickatina",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-25",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8362595/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8362595/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $89",
+      "description": "Andre Nickatina at Great American Music Hall on Wednesday 25th November 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Emma Ruth Rundle",
           "apple_music": "https://music.apple.com/us/artist/emma-ruth-rundle/360994442",
           "spotify": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC",
@@ -340,13 +371,13 @@
       "date": "2026-12-17",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8353762/buy-tickets",
+      "ticket_link": "https://www.tenderloinmusichall.com/events/82major-17-december-2026/",
       "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8353762/buy-tickets",
+      "event_page": "https://www.tenderloinmusichall.com/events/82major-17-december-2026/",
       "room": null,
       "age_rating": null,
-      "note": "From $188",
-      "description": "82MAJOR at Great American Music Hall on Thursday 17th December 2026 in San Francisco..."
+      "note": "From $112",
+      "description": "If you're looking for a terrific live music party, you better come check out this..."
     },
     {
       "event_type": "music",
@@ -743,26 +774,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 22,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 24,
-      "found": 24,
-      "exact": 22,
+      "unique_artists": 25,
+      "found": 25,
+      "exact": 23,
       "close": 0,
       "flagged": 2,
       "not_found": 0
     },
     "spotify": {
-      "unique_artists": 24,
-      "linked": 24,
+      "unique_artists": 25,
+      "linked": 25,
       "venue": 0,
-      "api": 24,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 23
     }
   }
 }
