@@ -5,9 +5,11 @@ first. Every file is regenerated nightly by the headliners pipeline
 (`~/.hermes/projects/headliners`) from each venue's scraped calendar.
 The venue list grows over time — **trust `manifest.json`** for the live venue list and counts.
 
-**Current schema: `6`.** Every venue file carries a `schema` integer
+**Current schema: `7`.** Every venue file carries a `schema` integer
 (incremented on any shape/contract change) and a `field_hints` map. Gate
 your parsing on `schema`, and on `field_hints` for per-field semantics.
+`6`→`7`: **added `address`** — the venue's street address, confirmed once
+when the venue was added and stable forever (top-level, 14 keys now).
 `5`→`6`: **`multi_artist` is now derived centrally at build** —
 true when the show record itself bills 2+ artists
 (`headline_artists` + `support_artists` count ≥ 2), or the venue's source
@@ -20,12 +22,12 @@ the feed is upcoming-only and `field_hints` covers all 26 fields.
 ## Layout
 
 ```
-manifest.json          venues: venue_id, file, city, metro, lat, lon,
+manifest.json          venues: venue_id, file, city, metro, address, lat, lon,
                        updated_at, fetched_at, oldest_show_date, show_count,
                        sha256_16
 <venue>/shows.json     venue, venue_id, venue_url, source_url, city, metro,
-                       neighborhood, schema, field_hints, scraped_at, count,
-                       shows[], stats
+                       neighborhood, address, schema, field_hints,
+                       scraped_at, count, shows[], stats
 ```
 
 ### manifest.json fields
@@ -33,6 +35,7 @@ manifest.json          venues: venue_id, file, city, metro, lat, lon,
 |---|---|
 | `generated_at` | when this manifest was written (ISO 8601, UTC) |
 | `venues[].city` / `venues[].metro` | geo tags (also inside the venue file) |
+| `venues[].address` | **the venue's street address** — confirmed once when the venue was added and stable forever (safe to cache). `null` means not yet set |
 | `venues[].lat` / `venues[].lon` | **flat decimal WGS84 coordinates** of the venue building — geocoded once when the venue was added and stable forever (safe to cache). `null` means the venue has no geo yet — treat as unknown, never as `(0, 0)` |
 | `venues[].updated_at` | **when this venue's data was last refreshed** (= the file's `scraped_at`) |
 | `venues[].fetched_at` | **exact instant the venue site was last crawled** (ISO, local tz; newer of the fetch stamp and the capture file's mtime; `null` if no capture metadata) |
@@ -45,7 +48,8 @@ manifest.json          venues: venue_id, file, city, metro, lat, lon,
 |---|---|---|
 | `venue` / `venue_id` / `venue_url` / `source_url` | string | identity. The six Belly Up Presents San Diego venues intentionally share `venue_url: https://bellyup.com` (group calendar) |
 | `city` / `metro` / `neighborhood` | string \| null | geo tags; `metro` is one market value ("San Francisco" / "San Diego" / "Los Angeles" / "Portland" / "Seattle") |
-| `schema` | int | **6** — the contract version this file speaks |
+| `address` | string \| null | **the venue's street address** — confirmed once when the venue was added; stable forever (safe to cache). `null` = not yet set |
+| `schema` | int | **7** — the contract version this file speaks |
 | `field_hints` | object | per-field controlled-vs-raw contract (below) |
 | `scraped_at` | date | **the date the venue site was actually fetched** (not the build date; falls back to build date only when no capture metadata exists) |
 | `count` | int | `len(shows)` |
@@ -164,3 +168,8 @@ a per-file `value_domains`; these are the union):
   Value-consistency change only: shape unchanged (13/18/8), no show lost a
   flag. `cancelled` also joined the observed `ticket_status` values (live
   status buttons carry it).
+- **7** (2026-11-11) — **added `address`** (top-level): the venue's street
+  address, confirmed once when the venue was added (from the venue's own
+  site footer/contact or the geocoding source). Stamped from the registry
+  at build; stable forever. Feed files are now 14 keys (was 13). Also
+  exposed in `manifest.json` as `venues[].address`.
