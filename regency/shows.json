@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 35,
+  "scraped_at": "2026-11-11",
+  "count": 36,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Yuki Chiba",
-          "apple_music": "https://music.apple.com/us/artist/yuki-chiba/1727997785",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Yuki Chiba",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Yuki Hayashi @ 64%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DRAM",
-          "apple_music": "https://music.apple.com/us/artist/dram/962129771",
-          "spotify": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8",
-          "confidence": 1.0,
-          "matched": "DRAM",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "First North America Headline Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546599285",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1528365",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -926,6 +882,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Glee Night",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.632,
+          "matched": null,
+          "apple_label": "no confident match (closest: Glee Cast @ 63%)",
+          "spotify_label": "no confident match (closest: Glee Cast @ 63%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice + Club 90's Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547048423",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1695046",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "TWINSICK",
           "apple_music": "https://music.apple.com/us/artist/twinsick/1492365725",
           "spotify": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF",
@@ -1483,6 +1472,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Till Lindemann",
+          "apple_music": "https://music.apple.com/us/artist/till-lindemann/20851094",
+          "spotify": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP",
+          "confidence": 1.0,
+          "matched": "Till Lindemann",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "World Tour 2027",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547025675",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1693007",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "She Past Away",
           "apple_music": "https://music.apple.com/us/artist/she-past-away/347750887",
           "spotify": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR",
@@ -1514,18 +1536,18 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 36,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
       "unique_artists": 61,
-      "found": 60,
-      "exact": 59,
+      "found": 59,
+      "exact": 58,
       "close": 0,
       "flagged": 1,
-      "not_found": 1
+      "not_found": 2
     },
     "spotify": {
       "unique_artists": 61,

@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 56,
+  "scraped_at": "2026-11-11",
+  "count": 59,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SYD",
-          "apple_music": "https://music.apple.com/us/artist/syd/504550699",
-          "spotify": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx",
-          "confidence": 1.0,
-          "matched": "Syd",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Beard Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/syd/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/syd/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -878,6 +847,37 @@
       "description": null
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "WONHO",
+          "apple_music": "https://music.apple.com/us/artist/wonho/1527284016",
+          "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D",
+          "confidence": 1.0,
+          "matched": "WONHO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "2027 WORLD TOUR : NOCHE",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/wonho/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/wonho/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "other",
       "needs_review": false,
       "headline_artists": [
@@ -1172,6 +1172,37 @@
       "ticket_link": "https://www.stgpresents.org/events/blippi/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/blippi/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Andrea Gibson’s Love Letter from the Afterlife",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Andrea Gibson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "w/ Megan Falley &amp; Guests",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/andrea-gibsons-love-letter-from-the-afterlife/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/andrea-gibsons-love-letter-from-the-afterlife/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1655,6 +1686,37 @@
       "description": null
     },
     {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bored Teachers",
+          "apple_music": "https://music.apple.com/us/artist/bad-teachers/1459505024",
+          "spotify": null,
+          "confidence": 0.846,
+          "matched": "Bad Teachers",
+          "apple_label": "close match: Bad Teachers",
+          "spotify_label": "no confident match (closest: The Learning Station @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-16",
+      "doors": "2:00 pm",
+      "show_time": "3:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/bored-teachers/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/bored-teachers/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
@@ -1711,6 +1773,37 @@
       "ticket_link": "https://www.stgpresents.org/events/eric-andre/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/eric-andre/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "John Crist",
+          "apple_music": "https://music.apple.com/us/artist/john-crist/65197649",
+          "spotify": "https://open.spotify.com/artist/4OwWIBGXnbIL32wc8sojhT",
+          "confidence": 1.0,
+          "matched": "John Crist",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-18",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/john-crist/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/john-crist/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1874,26 +1967,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
-      "comedy": 10,
+      "music": 34,
+      "comedy": 11,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 52,
-      "found": 40,
-      "exact": 35,
+      "unique_artists": 55,
+      "found": 42,
+      "exact": 36,
       "close": 1,
-      "flagged": 4,
-      "not_found": 12
+      "flagged": 5,
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 52,
-      "linked": 41,
+      "unique_artists": 55,
+      "linked": 42,
       "venue": 0,
-      "api": 41,
+      "api": 42,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 38
     }
   }
 }

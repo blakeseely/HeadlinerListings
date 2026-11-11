@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 121,
+  "scraped_at": "2026-11-11",
+  "count": 128,
   "shows": [
     {
       "event_type": "music",
@@ -431,7 +431,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": null
+      "description": "Season's Greetings from Atomic Groove! Our annual \"Here Comes The Holidays\" Dance Party Happy Hour will get you officially in the mood for Holiday Season 2026! A touch of mirthful holiday attire and a good amount of early-in-the-season holiday cheer highly suggested. With the Season of Gratitude and Giving upon us, we'll once again support a benefit for The Red Nose Run, presented by The Del Mar Foundation. Their annual 5k Run-Walk is December 5th on the beach in Del Mar. Enjoy a spirited presentation from the Volun-deers of TRNR and know that two dollars of each ticket will go directly to TRNR. More TRNR info - CLICK HERE. We'll feature our festive AG guests: the joyful AG vocalist Mark Jones and our merry AG Conga Girl Monette. Performer Studentz from the CW Fitness/AG Fly Girlz Dance Class will take the stage for a few songs, sharing the gift of their continuous evolution. Atomic Girl Carrie, The AG Fly Girlz and the entire AG band will deliver with their consistently upbeat celebratory experience they always provide at these Happy Hours, no matter the season, for the past 20+ years! Wanna learn to dance like an Atomic Groove Fly Girl? Come take an AG Fly Girlz Dance Class, taught by Atomic Girl Carrie of Carrie Weiland Fitness. Held at locally-owned boutique fitness facility MB Fit Studio in Solana Beach. Class is held every Tuesday at 630p, Select Saturdays 1230p and Special Edition Thursdays at 630p. All levels welcome, no dance experience needed. Get all AG Friday Happy Hours for one low price plus perkz. Special Holiday Offers: Get $25 off for one single purchase.... or partake in the Group Friends & Fam Discount: buy two get one free (that ends up beiing $75 off each for trio!). Hurry, offer expires soon! CLICK HERE to purchase. www.atomicgroovemusic.com/public-events"
     },
     {
       "event_type": "music",
@@ -2499,6 +2499,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "the Mountain Goats (SOLO)",
+          "apple_music": "https://music.apple.com/us/artist/the-mountain-goats/4978336",
+          "spotify": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5",
+          "confidence": 1.0,
+          "matched": "The Mountain Goats",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-mountain-goats-solo-belly-up-tickets/14425614?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14425614/the-mountain-goats-solo",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Atomic Groove Happy Hour",
           "apple_music": null,
           "spotify": null,
@@ -3109,6 +3140,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Vincen García",
+          "apple_music": "https://music.apple.com/us/artist/vincen-garc%C3%ADa/1619250675",
+          "spotify": "https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD",
+          "confidence": 1.0,
+          "matched": "Vincen García",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-01",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/vincen-garca-belly-up-tickets/14409594?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14409594/vincen-garcia",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Orleans",
           "apple_music": "https://music.apple.com/us/artist/orleans/160237",
           "spotify": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c",
@@ -3179,19 +3241,29 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "DJ Organic Hispanic",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DJ Morphius @ 53%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2027-02-05",
       "doors": null,
       "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288704?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/super-diamond-dj-organic-hispanic-belly-up-tickets/14288704?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14288704/super-diamond",
+      "event_page": "https://bellyup.com/calendar/14288704/super-diamond-dj-organic-hispanic",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3210,19 +3282,29 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "The Xceptional",
+          "apple_music": "https://music.apple.com/us/artist/the-exceptional-three/889969270",
+          "spotify": "https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ",
+          "confidence": 0.8,
+          "matched": "The Exceptional Three",
+          "apple_label": "close match: The Exceptional Three",
+          "spotify_label": "close match: The Exceptional Three",
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
+      "multi_artist": true,
+      "show_title": "Tribute to ABBA",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-06",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288724?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/super-diamond-the-xceptional-belly-up-tickets/14288724?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14288724/super-diamond",
+      "event_page": "https://bellyup.com/calendar/14288724/super-diamond-the-xceptional-tribute-to-abba",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3617,6 +3699,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Brothers Comatose",
+          "apple_music": "https://music.apple.com/us/artist/the-brothers-comatose/351492807",
+          "spotify": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD",
+          "confidence": 1.0,
+          "matched": "The Brothers Comatose",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-belly-up-tickets/14409544?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14409544/the-brothers-comatose",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Melvin Seals and JGB",
           "apple_music": "https://music.apple.com/us/artist/melvin-seals/250960917",
           "spotify": "https://open.spotify.com/artist/35oDRMIqI8e2sWuTpq56Gz",
@@ -3689,8 +3802,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Terror Jr",
+          "apple_music": "https://music.apple.com/us/artist/terror-jr/1113242310",
+          "spotify": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG",
+          "confidence": 1.0,
+          "matched": "Terror Jr",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "ACT TWO: THE TOUR",
       "presenters": [],
       "set_format": null,
@@ -3699,7 +3823,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/marian-hill-act-belly-up-tickets/15002063?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour",
+      "event_page": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour-w-terror-jr",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4218,6 +4342,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Paladins",
+          "apple_music": "https://music.apple.com/us/artist/the-paladins/5644146",
+          "spotify": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF",
+          "confidence": 1.0,
+          "matched": "The Paladins",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The 44's",
+          "apple_music": "https://music.apple.com/us/artist/the-44s/404385834",
+          "spotify": "https://open.spotify.com/artist/58GBux5LqMtiFDPmrAjYYz",
+          "confidence": 1.0,
+          "matched": "The 44's",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Kid Ramos",
+          "apple_music": "https://music.apple.com/us/artist/kid-ramos/119172796",
+          "spotify": "https://open.spotify.com/artist/405tHSLp2ie78eo1j1IygQ",
+          "confidence": 1.0,
+          "matched": "Kid Ramos",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-28",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-paladins-the-44s-with-belly-up-tickets/15051743?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/15051743/the-paladins-the-44s-with-special-guest-kid-ramos",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Palms",
           "apple_music": "https://music.apple.com/us/artist/the-palms/421357282",
           "spotify": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X",
@@ -4353,6 +4529,110 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Robert Cray Band",
+          "apple_music": "https://music.apple.com/us/artist/the-robert-cray-band/129597",
+          "spotify": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P",
+          "confidence": 1.0,
+          "matched": "The Robert Cray Band",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "All Over Again",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-23",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-robert-cray-band-belly-up-tickets/14426364?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14426364/the-robert-cray-band-all-over-again",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "This package does not include a meet and greet with the artist."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Alleged Evening",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Allegaeon @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Conor Oberst",
+          "apple_music": "https://music.apple.com/us/artist/conor-oberst/202642374",
+          "spotify": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R",
+          "confidence": 1.0,
+          "matched": "Conor Oberst",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-25",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/an-alleged-evening-with-conor-belly-up-tickets/14407904?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14407904/an-alleged-evening-with-conor-oberst",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sergio Mendes Band",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.27,
+          "matched": null,
+          "apple_label": "no confident match (closest: Astrud Gilberto @ 27%)",
+          "spotify_label": "no confident match (closest: Sérgio Mendes @ 74%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-29",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-sergio-mendes-band-belly-up-tickets/14409624?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14409624/the-sergio-mendes-band",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Al Stewart",
           "apple_music": "https://music.apple.com/us/artist/al-stewart/4211328",
           "spotify": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC",
@@ -4455,26 +4735,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 120,
+      "music": 127,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 162,
-      "found": 120,
-      "exact": 98,
+      "unique_artists": 174,
+      "found": 130,
+      "exact": 107,
       "close": 6,
-      "flagged": 16,
-      "not_found": 42
+      "flagged": 17,
+      "not_found": 44
     },
     "spotify": {
-      "unique_artists": 162,
-      "linked": 124,
+      "unique_artists": 174,
+      "linked": 134,
       "venue": 0,
-      "api": 124,
+      "api": 134,
       "feed": 0,
-      "shows_with_link": 89
+      "shows_with_link": 95
     }
   }
 }

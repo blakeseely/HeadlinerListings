@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
+  "scraped_at": "2026-11-11",
   "count": 33,
   "shows": [
     {
@@ -662,68 +662,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Eyes Set To Kill",
-          "apple_music": "https://music.apple.com/us/artist/eyes-set-to-kill/271973862",
-          "spotify": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP",
-          "confidence": 1.0,
-          "matched": "Eyes Set to Kill",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "SickSense",
-          "apple_music": "https://music.apple.com/us/artist/sicksense/1579360754",
-          "spotify": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc",
-          "confidence": 1.0,
-          "matched": "Sicksense",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Twist It",
-          "apple_music": "https://music.apple.com/us/artist/twist-it/1638510896",
-          "spotify": "https://open.spotify.com/artist/3bpZqU4O7iDRfWpXQe0zcU",
-          "confidence": 1.0,
-          "matched": "Twist It",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Ocean Ghost",
-          "apple_music": "https://music.apple.com/us/artist/ocean-ghost/1741443803",
-          "spotify": "https://open.spotify.com/artist/3s6dLZ7Ad4R5tKNrESk2k9",
-          "confidence": 1.0,
-          "matched": "Ocean Ghost",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Guilty Pleasures Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-11",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/eyes-set-to-kill-guilty-pleasures-tour-11-dec",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "MISSIO",
           "apple_music": "https://music.apple.com/us/artist/missio/1228281701",
           "spotify": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS",
@@ -735,6 +673,16 @@
         }
       ],
       "support_artists": [
+        {
+          "name": "Ryan Oakes",
+          "apple_music": "https://music.apple.com/us/artist/ryan-oakes/670168334",
+          "spotify": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7",
+          "confidence": 1.0,
+          "matched": "Ryan Oakes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
         {
           "name": "Wrung",
           "apple_music": "https://music.apple.com/us/artist/wrung/1814662404",
@@ -1545,6 +1493,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Boundaries",
+          "apple_music": "https://music.apple.com/us/artist/boundaries/594698258",
+          "spotify": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I",
+          "confidence": 1.0,
+          "matched": "Boundaries",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Spite",
+          "apple_music": "https://music.apple.com/us/artist/spite/261493655",
+          "spotify": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0",
+          "confidence": 1.0,
+          "matched": "Spite",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Callous Daoboys",
+          "apple_music": "https://music.apple.com/us/artist/the-callous-daoboys/1219545532",
+          "spotify": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0",
+          "confidence": 1.0,
+          "matched": "The Callous Daoboys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Your Spirit Dies",
+          "apple_music": "https://music.apple.com/us/artist/your-spirit-dies/1495918048",
+          "spotify": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt",
+          "confidence": 1.0,
+          "matched": "Your Spirit Dies",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/boundaries-10-mar",
+      "room": null,
+      "age_rating": null,
+      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Lemonheads",
           "apple_music": "https://music.apple.com/us/artist/the-lemonheads/312507",
           "spotify": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X",
@@ -1902,18 +1912,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 104,
-      "found": 94,
-      "exact": 93,
+      "unique_artists": 105,
+      "found": 95,
+      "exact": 94,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 104,
-      "linked": 92,
+      "unique_artists": 105,
+      "linked": 93,
       "venue": 0,
-      "api": 92,
+      "api": 93,
       "feed": 0,
       "shows_with_link": 30
     }

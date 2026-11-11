@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 55,
+  "scraped_at": "2026-11-11",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Vansire",
-          "apple_music": "https://music.apple.com/us/artist/vansire/1039595626",
-          "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY",
-          "confidence": 1.0,
-          "matched": "Vansire",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ann Annie",
-          "apple_music": "https://music.apple.com/us/artist/ann-annie/959943810",
-          "spotify": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG",
-          "confidence": 1.0,
-          "matched": "Ann Annie",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1540239/vansire-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/vansire-tickets-1540239",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -555,6 +513,58 @@
       "ticket_link": "https://www.axs.com/events/1681847/mamma-mia-seattles-best-70s-dance-night-tickets?skin=neumos",
       "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/mamma-mia-seattles-best-70s-dance-night-tickets-1681847",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Night Owl",
+          "apple_music": "https://music.apple.com/us/artist/night-owl/1681908198",
+          "spotify": "https://open.spotify.com/artist/0itTGZMqg4cxVMPAgpjc2v",
+          "confidence": 1.0,
+          "matched": "night owl",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Basskids",
+          "apple_music": "https://music.apple.com/us/artist/dj-basskids/1385475096",
+          "spotify": "https://open.spotify.com/artist/2fx5V29cln2w8MqFdW3bxB",
+          "confidence": 0.8,
+          "matched": "Dj BassKids",
+          "apple_label": "close match: Dj BassKids",
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jordan",
+          "apple_music": "https://music.apple.com/us/artist/jordan/1463716340",
+          "spotify": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI",
+          "confidence": 1.0,
+          "matched": "Jordan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "4 Year Anniversary",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": "9:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1696406/night-owl-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/night-owl-tickets-1696406",
       "room": null,
       "age_rating": "21 & Over",
       "note": null,
@@ -1937,6 +1947,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "SiM",
+          "apple_music": "https://music.apple.com/us/artist/sim/1124210967",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "SiM",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Simply Red @ 46%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Aurorawave and Within Distruction",
+          "apple_music": "https://music.apple.com/us/artist/aurorawave/1721003810",
+          "spotify": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS",
+          "confidence": 0.95,
+          "matched": "aurorawave",
+          "apple_label": "compound bill — links to aurorawave only",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "HOOMAN AFTER ALL WORLD TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-20",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1695536/sim-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/sim-tickets-1695536",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Alex Sampson",
           "apple_music": "https://music.apple.com/us/artist/alex-sampson/1486112083",
           "spotify": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf",
@@ -2163,26 +2215,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 56,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 90,
-      "found": 81,
-      "exact": 76,
+      "unique_artists": 93,
+      "found": 84,
+      "exact": 77,
       "close": 2,
-      "flagged": 3,
+      "flagged": 5,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 90,
-      "linked": 77,
+      "unique_artists": 93,
+      "linked": 79,
       "venue": 0,
-      "api": 77,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 50
+      "shows_with_link": 51
     }
   }
 }

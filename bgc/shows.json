@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 27,
+  "scraped_at": "2026-11-11",
+  "count": 26,
   "shows": [
     {
       "event_type": "music",
@@ -126,37 +126,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Tyla",
-          "apple_music": "https://music.apple.com/us/artist/tyla/1552925732",
-          "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE",
-          "confidence": 1.0,
-          "matched": "Tyla",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/tyla-the-apop-world-tour-oakland-california-11-13-2026/event/1C00654ED0931E44?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "moved",
-      "event_page": "https://billgrahamcivic.com/events/tyla-261113",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "WORSHIP",
           "apple_music": "https://music.apple.com/us/artist/worship/201702397",
           "spotify": "https://open.spotify.com/artist/6HYVC0sJVnVnsVmuH0Ofre",
@@ -236,7 +205,7 @@
       "date": "2026-11-14",
       "doors": "7:00 pm",
       "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/worship-north-america-2026-san-francisco-california-11-14-2026/event/1C0064D2D6A9502B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_link": "https://www.ticketmaster.com/worship-north-american-2026-18-san-francisco-california-11-14-2026/event/1C0064D2D6A9502B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
       "ticket_status": "on sale",
       "event_page": "https://billgrahamcivic.com/events/worship-261114",
       "room": null,
@@ -908,7 +877,7 @@
       "date": "2027-03-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/2hollis-san-francisco-california-03-06-2027/event/1C006550A569C462?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_link": "https://www.ticketmaster.com/2hollis-the-pirouette-tour-san-francisco-california-03-06-2027/event/1C006550A569C462?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
       "ticket_status": "on sale",
       "event_page": "https://billgrahamcivic.com/events/2hollis-270306",
       "room": null,
@@ -1085,7 +1054,7 @@
       "date": "2027-05-01",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/lola-young-san-francisco-california-05-01-2027/event/1C006541CC7F6358?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_link": "https://www.ticketmaster.com/lola-young-everything-begins-san-francisco-california-05-01-2027/event/1C006541CC7F6358?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
       "ticket_status": "on sale",
       "event_page": "https://billgrahamcivic.com/events/lola-young-270501",
       "room": null,
@@ -1138,26 +1107,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 27,
+      "music": 26,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 48,
-      "found": 38,
-      "exact": 36,
+      "unique_artists": 47,
+      "found": 37,
+      "exact": 35,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 48,
-      "linked": 39,
-      "venue": 36,
+      "unique_artists": 47,
+      "linked": 38,
+      "venue": 35,
       "api": 3,
       "feed": 0,
-      "shows_with_link": 18
+      "shows_with_link": 17
     }
   }
 }

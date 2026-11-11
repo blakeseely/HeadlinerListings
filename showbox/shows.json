@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 54,
+  "scraped_at": "2026-11-11",
+  "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "L7",
-          "apple_music": "https://music.apple.com/us/artist/l7/192131",
-          "spotify": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h",
-          "confidence": 1.0,
-          "matched": "L7",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Nobro",
-          "apple_music": "https://music.apple.com/us/artist/nobro/1450330746",
-          "spotify": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs",
-          "confidence": 1.0,
-          "matched": "NOBRO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Last Hurrah Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1435102/l7-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1435102",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -97,14 +55,14 @@
       ],
       "support_artists": [
         {
-          "name": "Autumn Nicholas",
-          "apple_music": "https://music.apple.com/us/artist/autumn-nicholas/417555561",
-          "spotify": "https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6",
-          "confidence": 1.0,
-          "matched": "Autumn Nicholas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "name": "Ganessa and Caoi",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.643,
+          "matched": null,
+          "apple_label": "no confident match (closest: Ganesha Void @ 64%)",
+          "spotify_label": "no confident match (closest: GAWNE @ 38%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
@@ -1646,6 +1604,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Grace Potter & The Trespassers",
+          "apple_music": "https://music.apple.com/us/artist/grace-potter/112137839",
+          "spotify": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht",
+          "confidence": 0.8,
+          "matched": "Grace Potter",
+          "apple_label": null,
+          "spotify_label": "close match: Grace Potter",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Langhorne Slim",
+          "apple_music": "https://music.apple.com/us/artist/langhorne-slim/41896696",
+          "spotify": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy",
+          "confidence": 1.0,
+          "matched": "Langhorne Slim",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Trespasser Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1695639/grace-potter-the-trespassers-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1695639",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "HYUKOH",
           "apple_music": "https://music.apple.com/us/artist/hyukoh/927548906",
           "spotify": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp",
@@ -2075,6 +2075,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Whitney",
+          "apple_music": "https://music.apple.com/us/artist/whitney/1076723147",
+          "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G",
+          "confidence": 1.0,
+          "matched": "Whitney",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Tyler Ballgame",
+          "apple_music": "https://music.apple.com/us/artist/tyler-ballgame/1755347001",
+          "spotify": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK",
+          "confidence": 1.0,
+          "matched": "Tyler Ballgame",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Light Upon The Lake (10th Anniversary Tour)",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1694757/whitney-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1694757",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Wombats A Guide to Love Loss",
           "apple_music": null,
           "spotify": null,
@@ -2177,26 +2219,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 55,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 86,
+      "unique_artists": 99,
+      "found": 87,
       "exact": 77,
-      "close": 0,
+      "close": 1,
       "flagged": 9,
-      "not_found": 11
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 86,
+      "unique_artists": 99,
+      "linked": 87,
       "venue": 0,
-      "api": 86,
+      "api": 87,
       "feed": 0,
-      "shows_with_link": 49
+      "shows_with_link": 50
     }
   }
 }

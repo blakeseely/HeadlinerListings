@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
+  "scraped_at": "2026-11-11",
   "count": 38,
   "shows": [
     {
@@ -63,47 +63,25 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
+        },
         {
-          "name": "Buzzcocks, Modern English",
+          "name": "Visuals by Zack Rodell",
           "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF",
+          "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "close match: Modern English",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+          "spotify_label": "no confident match (closest: Zach Diamond @ 35%)",
+          "spotify_source": null
+        },
         {
-          "name": "Celebrating 50 years of Buzzcocks + Grade 2",
+          "name": "DJ Tim Cohen",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.7,
           "matched": null,
-          "apple_label": "no confident match (closest: Grade 2 @ 70%)",
-          "spotify_label": "no confident match (closest: Pearce Joza @ 22%)",
+          "apple_label": "no confident match (closest: DJ Roi Cohen @ 70%)",
+          "spotify_label": "no confident match (closest: DJ Timbo and Friends @ 56%)",
           "spotify_source": null
         }
       ],
@@ -1595,6 +1573,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Dirty Projectors (solo)",
+          "apple_music": "https://music.apple.com/us/artist/dirty-projectors/42056970",
+          "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF",
+          "confidence": 1.0,
+          "matched": "Dirty Projectors",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-14",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/dirty-projectors-solo/710519?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/dirty-projectors-solo/710519?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Limiñanas",
           "apple_music": "https://music.apple.com/us/artist/the-limi%C3%B1anas/389053777",
           "spotify": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n",
@@ -1641,18 +1650,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 72,
-      "found": 52,
-      "exact": 45,
+      "unique_artists": 74,
+      "found": 53,
+      "exact": 46,
       "close": 3,
       "flagged": 4,
-      "not_found": 20
+      "not_found": 21
     },
     "spotify": {
-      "unique_artists": 72,
-      "linked": 53,
+      "unique_artists": 74,
+      "linked": 54,
       "venue": 0,
-      "api": 53,
+      "api": 54,
       "feed": 0,
       "shows_with_link": 33
     }

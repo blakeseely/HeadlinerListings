@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
+  "scraped_at": "2026-11-11",
   "count": 33,
   "shows": [
     {
@@ -67,7 +67,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/lucy-bedroque/wonder-ballroom/portland-oregon/",
       "room": null,
-      "age_rating": null,
+      "age_rating": "all ages",
       "note": null,
       "description": null
     },
@@ -877,7 +877,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/48278541/sophia-stelthe-greatest-tour-of-all-time-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/sophia-stel-the-greatest-tour-of-all-time/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -1051,50 +1051,6 @@
     },
     {
       "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "SiM",
-          "apple_music": "https://music.apple.com/us/artist/sim/1124210967",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "SiM",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Simply Red @ 46%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Zero 9:36",
-          "apple_music": "https://music.apple.com/us/artist/zero-9-36/1479131967",
-          "spotify": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0",
-          "confidence": 1.0,
-          "matched": "Zero 9:36",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "HOOMAN WORLD TOUR",
-      "presenters": [
-        "Mammoth NW Presents"
-      ],
-      "set_format": null,
-      "date": "2027-04-25",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "javascript:void(0)",
-      "ticket_status": "off sale",
-      "event_page": "https://wonderballroom.com/event/postponed-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "venue bills it as *Postponed*",
-      "description": null
-    },
-    {
-      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -1121,6 +1077,39 @@
       "ticket_link": "https://www.etix.com/ticket/p/75604102/getdown-services-portland-wonder-ballroom?partner_id=100",
       "ticket_status": "coming soon",
       "event_page": "https://wonderballroom.com/event/getdown-services/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "LEO MIDDEA",
+          "apple_music": "https://music.apple.com/us/artist/leo-middea/980727000",
+          "spotify": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG",
+          "confidence": 1.0,
+          "matched": "Leo Middea",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/88083761/leo-middea-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/leo-middea/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1213,15 +1202,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 34,
-      "exact": 32,
+      "unique_artists": 39,
+      "found": 33,
+      "exact": 31,
       "close": 1,
       "flagged": 1,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 40,
+      "unique_artists": 39,
       "linked": 34,
       "venue": 0,
       "api": 34,

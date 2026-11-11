@@ -35,7 +35,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
+  "scraped_at": "2026-11-11",
   "count": 21,
   "shows": [
     {
@@ -520,6 +520,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Gorilla Glue & Lil Nakur",
+          "apple_music": "https://music.apple.com/us/artist/gorilla-glue/1717603795",
+          "spotify": "https://open.spotify.com/artist/1vk1odXkWc2foJgDJenUdi",
+          "confidence": 0.95,
+          "matched": "GORILLA GLUE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/gorilla-glue-lil-nakur-brick-and-mortar-music-hall-tickets/14437764?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/gorilla-glue-lil-nakur/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Kilans",
           "apple_music": "https://music.apple.com/us/artist/the-kilans/1724909321",
           "spotify": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt",
@@ -783,47 +814,6 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Soos",
-          "apple_music": "https://music.apple.com/us/artist/soos/1758703724",
-          "spotify": "https://open.spotify.com/artist/7tlbt55BMHgO3pL7kps1Bh",
-          "confidence": 1.0,
-          "matched": "SOOS",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "benten",
-          "apple_music": "https://music.apple.com/us/artist/benten/1593286723",
-          "spotify": "https://open.spotify.com/artist/7MFLynuNlKGSveS2w8ZOfF",
-          "confidence": 1.0,
-          "matched": "benten",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-15",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/soos-benten-brick-and-mortar-music-hall-tickets/14409364?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/soos-benten/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -834,18 +824,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 34,
-      "found": 33,
-      "exact": 31,
-      "close": 1,
+      "unique_artists": 33,
+      "found": 32,
+      "exact": 29,
+      "close": 2,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 34,
-      "linked": 33,
-      "venue": 15,
-      "api": 18,
+      "unique_artists": 33,
+      "linked": 32,
+      "venue": 13,
+      "api": 19,
       "feed": 0,
       "shows_with_link": 20
     }

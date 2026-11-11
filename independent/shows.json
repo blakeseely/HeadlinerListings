@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 96,
+  "scraped_at": "2026-11-11",
+  "count": 97,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Weston Estate",
-          "apple_music": "https://music.apple.com/us/artist/weston-estate/1355369969",
-          "spotify": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa",
-          "confidence": 1.0,
-          "matched": "Weston Estate",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Hojean",
-          "apple_music": "https://music.apple.com/us/artist/hojean/1214545623",
-          "spotify": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w",
-          "confidence": 1.0,
-          "matched": "Hojean",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/weston-estate/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -972,8 +930,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "MOP",
+          "apple_music": "https://music.apple.com/us/artist/mop/1664329629",
+          "spotify": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf",
+          "confidence": 1.0,
+          "matched": "Mop",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "bitknot tour",
       "presenters": [],
       "set_format": null,
@@ -2594,6 +2563,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "MC4D",
+          "apple_music": "https://music.apple.com/us/artist/mc4d/1278959109",
+          "spotify": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI",
+          "confidence": 1.0,
+          "matched": "MC4D",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/mc4d-the-independent-tickets/14414134?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/mc4d/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Valley",
           "apple_music": "https://music.apple.com/us/artist/valley/1004752984",
           "spotify": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc",
@@ -2719,8 +2719,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "John-Robert",
+          "apple_music": "https://music.apple.com/us/artist/john-robert/1455901118",
+          "spotify": "https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j",
+          "confidence": 1.0,
+          "matched": "John-Robert",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "The True Violet Tour",
       "presenters": [],
       "set_format": null,
@@ -2825,8 +2836,10 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
+      "show_title": "- Self Aware Tour",
+      "presenters": [
+        "Live 105 Presents - Self Aware Tour"
+      ],
       "set_format": null,
       "date": "2027-03-09",
       "doors": "7:30 pm",
@@ -3311,6 +3324,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Gurriers",
+          "apple_music": "https://music.apple.com/us/artist/gurriers/1582307686",
+          "spotify": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5",
+          "confidence": 1.0,
+          "matched": "Gurriers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-24",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/gurriers-the-independent-tickets/14409704?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/gurriers/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Too Many Zooz",
           "apple_music": "https://music.apple.com/us/artist/too-many-zooz/885114063",
           "spotify": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr",
@@ -3572,26 +3616,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 96,
+      "music": 97,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 136,
-      "found": 126,
-      "exact": 117,
+      "unique_artists": 137,
+      "found": 127,
+      "exact": 118,
       "close": 3,
       "flagged": 6,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 136,
-      "linked": 126,
-      "venue": 86,
-      "api": 40,
+      "unique_artists": 137,
+      "linked": 127,
+      "venue": 88,
+      "api": 39,
       "feed": 0,
-      "shows_with_link": 93
+      "shows_with_link": 94
     }
   }
 }

@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
+  "scraped_at": "2026-11-11",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Damned",
-          "apple_music": "https://music.apple.com/us/artist/the-damned/3184019",
-          "spotify": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h",
-          "confidence": 1.0,
-          "matched": "The Damned",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Courettes",
-          "apple_music": "https://music.apple.com/us/artist/the-courettes/1021964828",
-          "spotify": "https://open.spotify.com/artist/6WgWgrr6uzaekOZjXYKD2E",
-          "confidence": 1.0,
-          "matched": "The Courettes",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "FINAL DAMNATION 50",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-damned-final-damnation-50-san-francisco-california-11-11-2026/event/1C00648ED04CE8BF",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-damned-final-damnation-50-san-francisco-california-11-11-2026/event/1C00648ED04CE8BF",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -189,19 +147,8 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [
-        {
-          "name": "Autumn Nicholas",
-          "apple_music": "https://music.apple.com/us/artist/autumn-nicholas/417555561",
-          "spotify": "https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6",
-          "confidence": 1.0,
-          "matched": "Autumn Nicholas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -326,15 +273,15 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Night Four: Six Long Songs",
+      "show_title": "Night Four: The Sunset Tree",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-four-six-san-francisco-california-11-19-2026/event/1C0064C40B96B421",
+      "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-four-the-san-francisco-california-11-19-2026/event/1C0064C40B96B421",
       "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-four-six-san-francisco-california-11-19-2026/event/1C0064C40B96B421",
+      "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-four-the-san-francisco-california-11-19-2026/event/1C0064C40B96B421",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -501,58 +448,6 @@
       "ticket_link": "https://www.ticketmaster.com/eloise-the-drama-queen-tour-san-francisco-california-12-02-2026/event/1C0064EA7F41710E",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/eloise-the-drama-queen-tour-san-francisco-california-12-02-2026/event/1C0064EA7F41710E",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
-    {
-      "event_type": "other",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pattie Gonia",
-          "apple_music": "https://music.apple.com/us/artist/pattie-gonia/1706391291",
-          "spotify": "https://open.spotify.com/artist/05KFXGAWQkQv7f5lUGgtVD",
-          "confidence": 1.0,
-          "matched": "Pattie Gonia",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sequoia",
-          "apple_music": "https://music.apple.com/us/artist/sequoia/6816743115",
-          "spotify": "https://open.spotify.com/artist/6xy23Ef3YAm8R2QvZQwY0A",
-          "confidence": 1.0,
-          "matched": "SEQUOIA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "VERA",
-          "apple_music": "https://music.apple.com/us/artist/vera/1700989173",
-          "spotify": "https://open.spotify.com/artist/5fWn05530yPJI1mpwv5Hqo",
-          "confidence": 1.0,
-          "matched": "vera",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "SAVE HER!",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/pattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03-2026/event/1C0064733BB5E74D",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/pattie-gonia-save-her-feat-sequoia-san-francisco-california-12-03-2026/event/1C0064733BB5E74D",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -948,6 +843,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "WONHO",
+          "apple_music": "https://music.apple.com/us/artist/wonho/1527284016",
+          "spotify": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D",
+          "confidence": 1.0,
+          "matched": "WONHO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "NOCHE",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-san-francisco-california-01-11-2027/event/1C006564DB9EF8ED",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/wonho-2027-world-tour-noche-san-francisco-california-01-11-2027/event/1C006564DB9EF8ED",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Dogs In A Pile",
           "apple_music": "https://music.apple.com/us/artist/dogs-in-a-pile/1564339412",
           "spotify": "https://open.spotify.com/artist/5lObmA5WxJpUj8QO6YX7yF",
@@ -1315,30 +1241,61 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Michael Shannon & Jason Narducy and Friends play R.E.M.'s Document",
+          "apple_music": "https://music.apple.com/us/artist/michael-shannon/1389380126",
+          "spotify": null,
+          "confidence": 0.95,
+          "matched": "Michael Shannon",
+          "apple_label": "compound bill — links to Michael Shannon only",
+          "spotify_label": "no confident match (closest: R.E.M. @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-san-francisco-california-02-13-2027/event/1C006538DE33C5BF",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/michael-shannon-jason-narducy-and-friends-san-francisco-california-02-13-2027/event/1C006538DE33C5BF",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 33,
       "comedy": 0,
       "film": 0,
-      "other": 2
+      "other": 1
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 39,
-      "exact": 38,
+      "unique_artists": 36,
+      "found": 34,
+      "exact": 33,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 37,
+      "unique_artists": 36,
+      "linked": 32,
       "venue": 0,
-      "api": 37,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }

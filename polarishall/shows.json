@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 56,
+  "scraped_at": "2026-11-11",
+  "count": 59,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Craig Finn & The Band of Forgiveness",
-          "apple_music": "https://music.apple.com/us/artist/craig-finn/282243559",
-          "spotify": "https://open.spotify.com/artist/78DZaDfOK3i88eRVPkzZu2",
-          "confidence": 0.95,
-          "matched": "Craig Finn",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/81091663",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -369,17 +338,27 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Mattress 20",
-          "apple_music": null,
+          "name": "MATTRESS",
+          "apple_music": "https://music.apple.com/us/artist/mattress/292303482",
           "spotify": "https://open.spotify.com/artist/0YkTO6J7YkOB4pXwUd5Fh0",
-          "confidence": 0.0,
-          "matched": null,
+          "confidence": 1.0,
+          "matched": "Mattress",
           "apple_label": null,
-          "spotify_label": "close match: Mattress",
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
       "support_artists": [
+        {
+          "name": "Isaac Brock",
+          "apple_music": "https://music.apple.com/us/artist/isaac-brock/467116",
+          "spotify": "https://open.spotify.com/artist/5wELYBathlnqivJfG5ddWw",
+          "confidence": 1.0,
+          "matched": "Isaac Brock",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
         {
           "name": "Joe Von Appen",
           "apple_music": null,
@@ -422,7 +401,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": "20 Years Of Mattress",
+      "show_title": "20 YEARS OF MATTRESS",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-19",
@@ -1723,6 +1702,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Darlingside",
+          "apple_music": "https://music.apple.com/us/artist/darlingside/254259212",
+          "spotify": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm",
+          "confidence": 1.0,
+          "matched": "Darlingside",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/99773010",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Christian Kuria",
           "apple_music": "https://music.apple.com/us/artist/christian-kuria/1153133878",
           "spotify": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG",
@@ -1877,6 +1887,48 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/46754874",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Wild Pink",
+          "apple_music": "https://music.apple.com/us/artist/wild-pink/999873480",
+          "spotify": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ",
+          "confidence": 1.0,
+          "matched": "Wild Pink",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Truth Club",
+          "apple_music": "https://music.apple.com/us/artist/truth-club/1455384285",
+          "spotify": "https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC",
+          "confidence": 1.0,
+          "matched": "Truth Club",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55888947",
       "ticket_status": "on sale",
       "event_page": null,
       "room": null,
@@ -2137,6 +2189,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Gurriers",
+          "apple_music": "https://music.apple.com/us/artist/gurriers/1582307686",
+          "spotify": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5",
+          "confidence": 1.0,
+          "matched": "Gurriers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-28",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45287656",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Jealousy To Collaboration",
           "apple_music": null,
           "spotify": null,
@@ -2162,30 +2245,61 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dirty Projectors (Solo)",
+          "apple_music": "https://music.apple.com/us/artist/dirty-projectors/42056970",
+          "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF",
+          "confidence": 1.0,
+          "matched": "Dirty Projectors",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/84434265",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 56,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 91,
-      "found": 67,
-      "exact": 61,
-      "close": 3,
+      "unique_artists": 96,
+      "found": 73,
+      "exact": 68,
+      "close": 2,
       "flagged": 3,
-      "not_found": 24
+      "not_found": 23
     },
     "spotify": {
-      "unique_artists": 91,
-      "linked": 71,
+      "unique_artists": 96,
+      "linked": 76,
       "venue": 0,
-      "api": 71,
+      "api": 76,
       "feed": 0,
-      "shows_with_link": 45
+      "shows_with_link": 48
     }
   }
 }

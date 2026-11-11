@@ -35,40 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 24,
+  "scraped_at": "2026-11-11",
+  "count": 26,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DJ Meredith Marks",
-          "apple_music": "https://music.apple.com/us/artist/dj-meredith-marks/1849794884",
-          "spotify": "https://open.spotify.com/artist/0W73pUmR0eKDF0RpJKnlCL",
-          "confidence": 1.0,
-          "matched": "DJ Meredith Marks",
-          "apple_label": null,
-          "spotify_label": "close match: Dj Meredith",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "YOU. CAN. DANCE. Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/dj-meredith-marks-the-sound-tickets/14312544?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14312544/dj-meredith-marks-you-can-dance-tour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -598,6 +567,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "DJ Meredith Marks",
+          "apple_music": "https://music.apple.com/us/artist/dj-meredith-marks/1849794884",
+          "spotify": "https://open.spotify.com/artist/0W73pUmR0eKDF0RpJKnlCL",
+          "confidence": 1.0,
+          "matched": "DJ Meredith Marks",
+          "apple_label": null,
+          "spotify_label": "close match: Dj Meredith",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "YOU. CAN. DANCE. Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/dj-meredith-marks-the-sound-tickets/14312544?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14312544/dj-meredith-marks-you-can-dance-tour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "This show, originally scheduled for November 14 2026, has been rescheduled for February 20, 2027. All tickets purchased for the original date will be honored."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Top of the World",
           "apple_music": null,
           "spotify": null,
@@ -629,6 +629,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Trampled By Turtles",
+          "apple_music": "https://music.apple.com/us/artist/trampled-by-turtles/165285861",
+          "spotify": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4",
+          "confidence": 1.0,
+          "matched": "Trampled By Turtles",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/trampled-by-turtles-the-sound-tickets/14428694?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14428694/trampled-by-turtles",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Backline is a 501(c)(3) non-profit that connects music industry professionals and their families with mental health and wellness resources. We are building a safer and more supported music industry by connecting our community with quality mental health care resources that understand this line of work."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Sylvan Esso",
           "apple_music": "https://music.apple.com/us/artist/sylvan-esso/661273932",
           "spotify": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv",
@@ -654,6 +685,48 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Grace Potter & The Trespassers",
+          "apple_music": "https://music.apple.com/us/artist/grace-potter/112137839",
+          "spotify": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht",
+          "confidence": 0.8,
+          "matched": "Grace Potter",
+          "apple_label": null,
+          "spotify_label": "close match: Grace Potter",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Langhorne Slim",
+          "apple_music": "https://music.apple.com/us/artist/langhorne-slim/41896696",
+          "spotify": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy",
+          "confidence": 1.0,
+          "matched": "Langhorne Slim",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Trespasser Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/grace-potter-the-trespassers-the-sound-tickets/14429464?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14429464/grace-potter-the-trespassers-with-langhorne-slim-the-trespasser-tour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "$1 from every ticket sold goes to support Grace Potter's Grand Point Foundation and its mission to strengthen and sustain the arts in rural Vermont communities. Through grants, workshops, community partnerships, and creative programming, the Grand Point Foundation works to expand access to music and the arts, support local artists and organizations, and create meaningful opportunities for people of all ages to experience and participate in the arts."
     },
     {
       "event_type": "music",
@@ -939,26 +1012,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 24,
+      "music": 26,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 31,
-      "exact": 29,
-      "close": 1,
+      "unique_artists": 38,
+      "found": 34,
+      "exact": 31,
+      "close": 2,
       "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 32,
+      "unique_artists": 38,
+      "linked": 35,
       "venue": 0,
-      "api": 32,
+      "api": 35,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 23
     }
   }
 }

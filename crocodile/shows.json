@@ -35,51 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 10,
+  "scraped_at": "2026-11-11",
+  "count": 9,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tank and The Bangas",
-          "apple_music": "https://music.apple.com/us/artist/tank-and-the-bangas/685630243",
-          "spotify": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7",
-          "confidence": 1.0,
-          "matched": "Tank and the Bangas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ariel J. &amp; Zeus",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Ariel J. @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/tank-and-the-bangas-the-crocodile-tickets/14795943",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketweb.com/event/tank-and-the-bangas-the-crocodile-tickets/14795943",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -442,26 +400,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 9,
+      "music": 8,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 19,
-      "found": 14,
-      "exact": 14,
+      "unique_artists": 17,
+      "found": 13,
+      "exact": 13,
       "close": 0,
       "flagged": 0,
-      "not_found": 5
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 19,
-      "linked": 15,
+      "unique_artists": 17,
+      "linked": 14,
       "venue": 0,
-      "api": 15,
+      "api": 14,
       "feed": 0,
-      "shows_with_link": 8
+      "shows_with_link": 7
     }
   }
 }

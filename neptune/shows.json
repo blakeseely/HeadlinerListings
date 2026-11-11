@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 104,
+  "scraped_at": "2026-11-11",
+  "count": 106,
   "shows": [
     {
       "event_type": "music",
@@ -3090,6 +3090,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Conor Oberst",
+          "apple_music": "https://music.apple.com/us/artist/conor-oberst/202642374",
+          "spotify": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R",
+          "confidence": 1.0,
+          "matched": "Conor Oberst",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "An Alleged Evening with",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/conor-oberst/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/conor-oberst/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Palaye Royale",
           "apple_music": "https://music.apple.com/us/artist/palaye-royale/508487574",
           "spotify": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI",
@@ -3111,6 +3142,37 @@
       "ticket_link": "https://www.stgpresents.org/events/palaye-royale/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/palaye-royale/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Leo Middea",
+          "apple_music": "https://music.apple.com/us/artist/leo-middea/980727000",
+          "spotify": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG",
+          "confidence": 1.0,
+          "matched": "Leo Middea",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/leo-middea/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/leo-middea/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -3460,26 +3522,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 76,
+      "music": 78,
       "comedy": 22,
       "film": 0,
       "other": 6
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 81,
-      "exact": 70,
+      "unique_artists": 99,
+      "found": 83,
+      "exact": 72,
       "close": 3,
       "flagged": 8,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 79,
+      "unique_artists": 99,
+      "linked": 81,
       "venue": 0,
-      "api": 79,
+      "api": 81,
       "feed": 0,
-      "shows_with_link": 78
+      "shows_with_link": 80
     }
   }
 }

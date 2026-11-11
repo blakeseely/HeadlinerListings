@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 23,
+  "scraped_at": "2026-11-11",
+  "count": 24,
   "shows": [
     {
       "event_type": "music",
@@ -677,6 +677,100 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Melvin Seals & JGB",
+          "apple_music": "https://music.apple.com/us/artist/melvin-seals/250960917",
+          "spotify": "https://open.spotify.com/artist/35oDRMIqI8e2sWuTpq56Gz",
+          "confidence": 0.8,
+          "matched": "Melvin Seals",
+          "apple_label": null,
+          "spotify_label": "close match: Melvin Seals",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Skeleton Crewe (Rob Barraco",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skeleton Crew @ 65%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Barry Sless",
+          "apple_music": "https://music.apple.com/us/artist/barry-sless/252551518",
+          "spotify": "https://open.spotify.com/artist/1iGkCpWqBHoj1xOOfeCFIZ",
+          "confidence": 1.0,
+          "matched": "Barry Sless",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Stephen Inglis",
+          "apple_music": "https://music.apple.com/us/artist/stephen-inglis/30828676",
+          "spotify": "https://open.spotify.com/artist/7goK59p6gCo5ylXiggW5zQ",
+          "confidence": 1.0,
+          "matched": "Stephen Inglis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Pete Sears",
+          "apple_music": "https://music.apple.com/us/artist/pete-sears/200284",
+          "spotify": "https://open.spotify.com/artist/473EeieFNtN9bfQPvPQD9B",
+          "confidence": 1.0,
+          "matched": "Pete Sears",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jay Lane)",
+          "apple_music": "https://music.apple.com/us/artist/jay-lane/408038873",
+          "spotify": "https://open.spotify.com/artist/2IpmRciNWXnytKfUjCc1Qe",
+          "confidence": 0.9,
+          "matched": "Jay Lane",
+          "apple_label": "close match: Jay Lane",
+          "spotify_label": "close match: Jay Lane",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Special Guests",
+          "apple_music": "https://music.apple.com/us/artist/special-guests/189924545",
+          "spotify": "https://open.spotify.com/artist/452ZE1pMZ6wXLb2NHpUATO",
+          "confidence": 1.0,
+          "matched": "Special Guests",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1664449/melvin-seals-jgb-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1664449",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. A $0.50 charity fee per ticket will be donated for Jerry Day"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Foil Arms and Hog",
           "apple_music": "https://music.apple.com/us/artist/foil-arms-and-hog/1498912794",
           "spotify": null,
@@ -1056,26 +1150,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 23,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 44,
-      "found": 40,
-      "exact": 39,
-      "close": 1,
-      "flagged": 0,
-      "not_found": 4
+      "unique_artists": 51,
+      "found": 46,
+      "exact": 43,
+      "close": 2,
+      "flagged": 1,
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 42,
+      "unique_artists": 51,
+      "linked": 48,
       "venue": 0,
-      "api": 42,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 22
     }
   }
 }

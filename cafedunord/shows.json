@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 41,
+  "scraped_at": "2026-11-11",
+  "count": 43,
   "shows": [
     {
       "event_type": "music",
@@ -317,8 +317,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Garrett Barley",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/1NtAmEHje9q29YDEceSqca",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Garrett Barefoot",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1186,6 +1197,50 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Wild Pink",
+          "apple_music": "https://music.apple.com/us/artist/wild-pink/999873480",
+          "spotify": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ",
+          "confidence": 1.0,
+          "matched": "Wild Pink",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Truth Club",
+          "apple_music": "https://music.apple.com/us/artist/truth-club/1455384285",
+          "spotify": "https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC",
+          "confidence": 1.0,
+          "matched": "Truth Club",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "(((folkYEAH!))) presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-26",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/wild-pink-with-truth-club-cafe-du-nord-tickets/14407884?pl=cdn&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-03-26-wild-pink",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": "Wild Pink brings storied expedition that welcomes in the drifters and the kids kicking up dust; the brokenhearted and the cursed; the ones looking for an answer and the ones who simply couldn’t care less with music meant to be played loud, with your hand out the car window, riding the air as you bound down some highway in the early hours."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Sarah Julia",
           "apple_music": "https://music.apple.com/us/artist/sarah-julia/1720969719",
           "spotify": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ",
@@ -1213,6 +1268,39 @@
       "age_rating": "21+",
       "note": null,
       "description": "Sarah Julia brings music pockmarked with heartbreak, resignation, longing, hope, and pain. Sarah Julia approach each with self-awareness, gazing inward and outward with equal intensity."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Braymores",
+          "apple_music": "https://music.apple.com/us/artist/the-braymores/1686649595",
+          "spotify": "https://open.spotify.com/artist/7CrVM33l2Pt32fCxJWGVw6",
+          "confidence": 1.0,
+          "matched": "The Braymores",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-braymores-time-cafe-du-nord-tickets/15054253?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "presale",
+      "event_page": "https://cafedunord.com/shows/2027-03-29-the-braymores",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": "Chicago indie-rock outfit The Braymores have spent the last three years quietly building one of the Midwest’s most promising grassroots success stories. With the release of their sophomore album When The Lights Went Out on the horizon and a milestone hometown appearance at Lollapalooza ahead, the band continues to emerge as one of Chicago’s fastest-rising independent acts. ANNOUNCE Announce…"
     },
     {
       "event_type": "music",
@@ -1525,26 +1613,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 53,
-      "found": 53,
-      "exact": 51,
+      "unique_artists": 57,
+      "found": 56,
+      "exact": 54,
       "close": 1,
       "flagged": 1,
-      "not_found": 0
+      "not_found": 1
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 53,
-      "venue": 38,
-      "api": 15,
+      "unique_artists": 57,
+      "linked": 57,
+      "venue": 40,
+      "api": 17,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 43
     }
   }
 }

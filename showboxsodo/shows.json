@@ -35,8 +35,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 38,
+  "scraped_at": "2026-11-11",
+  "count": 40,
   "shows": [
     {
       "event_type": "music",
@@ -1189,6 +1189,110 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Clutch",
+          "apple_music": "https://music.apple.com/us/artist/clutch/154628",
+          "spotify": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ",
+          "confidence": 1.0,
+          "matched": "Clutch",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Corrosion of Conformity",
+          "apple_music": "https://music.apple.com/us/artist/corrosion-of-conformity/485858",
+          "spotify": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR",
+          "confidence": 1.0,
+          "matched": "Corrosion of Conformity",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Agnostic Front",
+          "apple_music": "https://music.apple.com/us/artist/agnostic-front/45435391",
+          "spotify": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT",
+          "confidence": 1.0,
+          "matched": "Agnostic Front",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Chuck Ragan",
+          "apple_music": "https://music.apple.com/us/artist/chuck-ragan/250377556",
+          "spotify": "https://open.spotify.com/artist/6iU0naWn1UgiTReoiXqPXI",
+          "confidence": 1.0,
+          "matched": "Chuck Ragan",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Give the People What They Want!",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-13",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.axs.com/events/1690588/clutch-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1690588",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Beach Bunny",
+          "apple_music": "https://music.apple.com/us/artist/beach-bunny/1147783278",
+          "spotify": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H",
+          "confidence": 1.0,
+          "matched": "Beach Bunny",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Daisy Grenade",
+          "apple_music": "https://music.apple.com/us/artist/daisy-grenade/1611437131",
+          "spotify": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH",
+          "confidence": 1.0,
+          "matched": "Daisy Grenade",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "OUT OF OFFICE TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1692988/beach-bunny-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1692988",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Wheeler Walker Jr",
           "apple_music": "https://music.apple.com/us/artist/wheeler-walker-jr/1031980513",
           "spotify": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia",
@@ -1614,26 +1718,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 40,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 71,
-      "found": 65,
-      "exact": 59,
+      "unique_artists": 77,
+      "found": 71,
+      "exact": 65,
       "close": 0,
       "flagged": 6,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 71,
-      "linked": 66,
+      "unique_artists": 77,
+      "linked": 72,
       "venue": 0,
-      "api": 66,
+      "api": 72,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 37
     }
   }
 }

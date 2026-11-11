@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 56,
+  "scraped_at": "2026-11-11",
+  "count": 59,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Oh He Dead",
-          "apple_music": "https://music.apple.com/us/artist/oh-he-dead/1114209532",
-          "spotify": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6",
-          "confidence": 1.0,
-          "matched": "Oh He Dead",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Desert Friends",
-          "apple_music": "https://music.apple.com/us/artist/desert-friends/1750628092",
-          "spotify": "https://open.spotify.com/artist/3gBEMtQzreMwA4UsSvZyEw",
-          "confidence": 1.0,
-          "matched": "Desert Friends",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/oh-he-dead/701216",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/oh-he-dead/701216",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -111,7 +67,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/rodrigo-y-gabriela/694225",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1617,20 +1573,22 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Prescott Niles' THE KNACK",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
+          "name": "Prescott Niles",
+          "apple_music": "https://music.apple.com/us/artist/prescott-niles/194050329",
+          "spotify": "https://open.spotify.com/artist/1ZK7Pkbw34gDmLXMKkjGc9",
+          "confidence": 1.0,
+          "matched": "Prescott Niles",
           "apple_label": null,
-          "spotify_label": "no confident match (closest: The Knack @ 53%)",
-          "spotify_source": null
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-23",
       "doors": "8:30 pm",
@@ -1639,7 +1597,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/prescott-niles-the-knack/710244",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1803,6 +1761,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Charlie Starr",
+          "apple_music": "https://music.apple.com/us/artist/charlie-starr/414389133",
+          "spotify": "https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939",
+          "confidence": 1.0,
+          "matched": "Charlie Starr",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/charlie-starr/710719",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/charlie-starr/710719",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Sons of Cream",
           "apple_music": "https://music.apple.com/us/artist/sons-of-cream/6817839570",
           "spotify": null,
@@ -1824,6 +1813,37 @@
       "ticket_link": "https://wl.seetickets.us/event/sons-of-cream/705769",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/sons-of-cream/705769",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jackie Evans and Marie Dresselhuis",
+          "apple_music": "https://music.apple.com/us/artist/jackie-evans/1770630661",
+          "spotify": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R",
+          "confidence": 0.95,
+          "matched": "Jackie Evans",
+          "apple_label": "compound bill — links to Jackie Evans only",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/jackie-evans-and-marie-dresselhuis/710580",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/jackie-evans-and-marie-dresselhuis/710580",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1917,6 +1937,37 @@
       "ticket_link": "https://wl.seetickets.us/event/hot-8-brass-band/709484",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/hot-8-brass-band/709484",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Brothers Comatose",
+          "apple_music": "https://music.apple.com/us/artist/the-brothers-comatose/351492807",
+          "spotify": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD",
+          "confidence": 1.0,
+          "matched": "The Brothers Comatose",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/the-brothers-comatose/710383",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/the-brothers-comatose/710383",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2144,6 +2195,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Earth Tongue",
+          "apple_music": "https://music.apple.com/us/artist/earth-tongue/1378996083",
+          "spotify": "https://open.spotify.com/artist/1dceZ2BGZBTMuI6BIL4EQ5",
+          "confidence": 1.0,
+          "matched": "Earth Tongue",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-17",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/earth-tongue/710417",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/earth-tongue/710417",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Michael Shannon and Jason Narducy & friends play R.E.M",
           "apple_music": null,
           "spotify": null,
@@ -2204,26 +2286,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 56,
+      "music": 59,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 87,
-      "found": 80,
-      "exact": 75,
+      "unique_artists": 89,
+      "found": 83,
+      "exact": 77,
       "close": 1,
-      "flagged": 4,
-      "not_found": 7
+      "flagged": 5,
+      "not_found": 6
     },
     "spotify": {
-      "unique_artists": 87,
-      "linked": 77,
+      "unique_artists": 89,
+      "linked": 80,
       "venue": 0,
-      "api": 77,
+      "api": 80,
       "feed": 0,
-      "shows_with_link": 53
+      "shows_with_link": 57
     }
   }
 }

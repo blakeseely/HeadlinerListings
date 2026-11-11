@@ -35,53 +35,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-10",
-  "count": 43,
+  "scraped_at": "2026-11-11",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sassy 009",
-          "apple_music": "https://music.apple.com/us/artist/sassy-009/1277035471",
-          "spotify": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L",
-          "confidence": 1.0,
-          "matched": "Sassy 009",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Madi Gaines",
-          "apple_music": "https://music.apple.com/us/artist/madi-gaines/1754480400",
-          "spotify": "https://open.spotify.com/artist/2rHElo6MDBlUF0WzOlGrfF",
-          "confidence": 1.0,
-          "matched": "Madi Gaines",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Holocene presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-10",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/71890164/sassy-009-w-madi-gaines-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-10-sassy-009-w-madi-gaines",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -721,6 +677,37 @@
       "description": null
     },
     {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Emo Nite at Holocene presented by Emo Nite LA",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-04",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/95218364/emo-nite-at-holocene-presented-by-emo-nite-la-21-event-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-04-emo-nite-at-holocene-presented-by-emo-nite-la-21-event",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
@@ -1201,6 +1188,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Virtua x B.U.G. full venue activation Featuring Morgan Garrett",
+          "apple_music": "https://music.apple.com/us/artist/virtua/1697216129",
+          "spotify": "https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k",
+          "confidence": 1.0,
+          "matched": "Virtua",
+          "apple_label": "compound bill — links to Virtua only",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/39628518/virtua-x-b-u-g-full-venue-activation-featuring-morgan-garrett-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-27-virtua-x-b-u-g-full-venue-activation-featuring-morgan-garrett",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Madds Buckley 2026/2027 North American Tour",
           "apple_music": null,
           "spotify": null,
@@ -1468,6 +1486,39 @@
       "description": null
     },
     {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rocco",
+          "apple_music": "https://music.apple.com/us/artist/rocco/1502612958",
+          "spotify": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq",
+          "confidence": 1.0,
+          "matched": "Rocco",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Comedy Romantic Tour (Pt. 1)",
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/92053030/rocco-the-comedy-romantic-tour-pt-1-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-04-04-rocco-the-comedy-romantic-tour-pt-1",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
@@ -1532,30 +1583,63 @@
       "age_rating": "All Ages",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Boogie Belgique: Arcade Tour 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Boogie Belgique @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-06-23",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/62079453/boogie-belgique-arcade-tour-2027-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-06-23-boogie-belgique-arcade-tour-2027",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 40,
-      "comedy": 1,
+      "music": 41,
+      "comedy": 2,
       "film": 0,
-      "other": 2
+      "other": 3
     },
     "apple_music": {
-      "unique_artists": 53,
+      "unique_artists": 55,
       "found": 24,
-      "exact": 20,
+      "exact": 19,
       "close": 1,
-      "flagged": 3,
-      "not_found": 29
+      "flagged": 4,
+      "not_found": 31
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 24,
+      "unique_artists": 55,
+      "linked": 25,
       "venue": 0,
-      "api": 24,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 18
+      "shows_with_link": 20
     }
   }
 }
