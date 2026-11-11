@@ -6,7 +6,8 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Civic Center",
-  "schema": 6,
+  "address": "155 Fell St",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

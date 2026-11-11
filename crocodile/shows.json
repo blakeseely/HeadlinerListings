@@ -6,7 +6,8 @@
   "city": "Seattle, WA",
   "metro": "Seattle",
   "neighborhood": "Belltown",
-  "schema": 6,
+  "address": "2505 1st Ave",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

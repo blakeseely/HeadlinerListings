@@ -6,7 +6,8 @@
   "city": "Berkeley, CA",
   "metro": "San Francisco",
   "neighborhood": null,
-  "schema": 6,
+  "address": "2001 Gayley Rd",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

@@ -6,7 +6,8 @@
   "city": "Portland, OR",
   "metro": "Portland",
   "neighborhood": "West End",
-  "schema": 6,
+  "address": "1332 W Burnside",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

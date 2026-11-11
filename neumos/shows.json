@@ -6,7 +6,8 @@
   "city": "Seattle, WA",
   "metro": "Seattle",
   "neighborhood": "Capitol Hill",
-  "schema": 6,
+  "address": "925 E Pike St",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

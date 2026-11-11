@@ -6,7 +6,8 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Shelter Island",
-  "schema": 6,
+  "address": "2241 Shelter Island Dr",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

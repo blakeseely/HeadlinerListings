@@ -6,7 +6,8 @@
   "city": "San Francisco, CA",
   "metro": "San Francisco",
   "neighborhood": "Castro",
-  "schema": 6,
+  "address": "429 Castro St",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

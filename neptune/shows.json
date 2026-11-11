@@ -6,7 +6,8 @@
   "city": "Seattle, WA",
   "metro": "Seattle",
   "neighborhood": "University District",
-  "schema": 6,
+  "address": "1312 NE 41st St",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

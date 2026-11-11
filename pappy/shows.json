@@ -6,7 +6,8 @@
   "city": "Pioneertown, CA",
   "metro": "Los Angeles",
   "neighborhood": null,
-  "schema": 6,
+  "address": "53688 Pioneertown Rd",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

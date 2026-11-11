@@ -6,7 +6,8 @@
   "city": "San Diego, CA",
   "metro": "San Diego",
   "neighborhood": "Downtown",
-  "schema": 6,
+  "address": "2501 Kettner Blvd",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",

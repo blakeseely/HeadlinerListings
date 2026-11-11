@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-11-11T18:25:18.105837+00:00",
+  "generated_at": "2026-11-11T19:05:18.739840+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
       "file": "augusthall/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "420 Mason St",
       "lat": 37.7876,
       "lon": -122.4098,
       "updated_at": "2026-11-11",
@@ -23,13 +24,14 @@
         ]
       },
       "show_count": 33,
-      "sha256_16": "e5dd1ff362496a8f"
+      "sha256_16": "0d816f3e1602bfa1"
     },
     {
       "venue_id": "bellyup",
       "file": "bellyup/shows.json",
       "city": "Solana Beach, CA",
       "metro": "San Diego",
+      "address": "143 S Cedros Ave",
       "lat": 32.991,
       "lon": -117.2707,
       "updated_at": "2026-11-11",
@@ -51,13 +53,14 @@
         ]
       },
       "show_count": 128,
-      "sha256_16": "231a47121d755e9a"
+      "sha256_16": "19c319723d2bd432"
     },
     {
       "venue_id": "bgc",
       "file": "bgc/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "99 Grove St",
       "lat": 37.7781,
       "lon": -122.4173,
       "updated_at": "2026-11-11",
@@ -78,13 +81,14 @@
         ]
       },
       "show_count": 26,
-      "sha256_16": "effa636945efe8c6"
+      "sha256_16": "2a331d88f913c1bc"
     },
     {
       "venue_id": "brickandmortar",
       "file": "brickandmortar/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "1710 Mission St",
       "lat": 37.7697,
       "lon": -122.4203,
       "updated_at": "2026-11-11",
@@ -104,13 +108,14 @@
         ]
       },
       "show_count": 21,
-      "sha256_16": "fe91d5d90debe829"
+      "sha256_16": "7485ff11548a1ac9"
     },
     {
       "venue_id": "cafedunord",
       "file": "cafedunord/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "2170 Market St",
       "lat": 37.7667,
       "lon": -122.4305,
       "updated_at": "2026-11-11",
@@ -131,13 +136,14 @@
         ]
       },
       "show_count": 43,
-      "sha256_16": "e111b20b510756ef"
+      "sha256_16": "b11189e637331e60"
     },
     {
       "venue_id": "castro",
       "file": "castro/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "429 Castro St",
       "lat": 37.762,
       "lon": -122.4348,
       "updated_at": "2026-11-11",
@@ -160,13 +166,14 @@
         ]
       },
       "show_count": 68,
-      "sha256_16": "74f2032cd974a3d5"
+      "sha256_16": "6382fbeb7e85eb18"
     },
     {
       "venue_id": "chapel",
       "file": "chapel/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "1854 Market St",
       "lat": 37.7605,
       "lon": -122.4212,
       "updated_at": "2026-11-11",
@@ -185,13 +192,14 @@
         ]
       },
       "show_count": 38,
-      "sha256_16": "fc4b46e647fdebce"
+      "sha256_16": "fba7926dccd0cadc"
     },
     {
       "venue_id": "crocodile",
       "file": "crocodile/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "2505 1st Ave",
       "lat": 47.6146,
       "lon": -122.3491,
       "updated_at": "2026-11-11",
@@ -211,13 +219,14 @@
         ]
       },
       "show_count": 9,
-      "sha256_16": "46fbe3c9a0a27839"
+      "sha256_16": "4c29612f0ca8b5e4"
     },
     {
       "venue_id": "crystalball",
       "file": "crystalball/shows.json",
       "city": "Portland, OR",
       "metro": "Portland",
+      "address": "1332 W Burnside",
       "lat": 45.5227,
       "lon": -122.6848,
       "updated_at": "2026-11-11",
@@ -236,13 +245,14 @@
         ]
       },
       "show_count": 56,
-      "sha256_16": "9db930e3481be4ac"
+      "sha256_16": "3132079f4cd69b8e"
     },
     {
       "venue_id": "elcorazon",
       "file": "elcorazon/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "109 E Eastlake Ave",
       "lat": 47.6187,
       "lon": -122.3293,
       "updated_at": "2026-11-11",
@@ -258,13 +268,14 @@
         ]
       },
       "show_count": 33,
-      "sha256_16": "7bbf0586d6d2d96a"
+      "sha256_16": "2086b8e04ab1fc11"
     },
     {
       "venue_id": "fillmore",
       "file": "fillmore/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "1805 Geary Blvd",
       "lat": 37.7841,
       "lon": -122.4332,
       "updated_at": "2026-11-11",
@@ -283,13 +294,14 @@
         ]
       },
       "show_count": 34,
-      "sha256_16": "85e0ca85db2ecd9d"
+      "sha256_16": "94d400bfdb0c2617"
     },
     {
       "venue_id": "foxoakland",
       "file": "foxoakland/shows.json",
       "city": "Oakland, CA",
       "metro": "San Francisco",
+      "address": "1807 Telegraph Ave",
       "lat": 37.808,
       "lon": -122.2702,
       "updated_at": "2026-11-11",
@@ -310,13 +322,14 @@
         ]
       },
       "show_count": 34,
-      "sha256_16": "44db2a1f5077d715"
+      "sha256_16": "d28c4ce50dbf9d31"
     },
     {
       "venue_id": "frost",
       "file": "frost/shows.json",
       "city": "Palo Alto, CA",
       "metro": "San Francisco",
+      "address": "Lasuen Way, Stanford",
       "lat": 37.4307,
       "lon": -122.166,
       "updated_at": "2026-11-11",
@@ -328,13 +341,14 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "1a335c8a3d466253"
+      "sha256_16": "6a7dbba461539761"
     },
     {
       "venue_id": "funhouse",
       "file": "funhouse/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "109 E Eastlake Ave",
       "lat": 47.6189,
       "lon": -122.3293,
       "updated_at": "2026-11-11",
@@ -350,13 +364,14 @@
         ]
       },
       "show_count": 28,
-      "sha256_16": "b1a9936cfb77393f"
+      "sha256_16": "5b344a476ef247d9"
     },
     {
       "venue_id": "gamh",
       "file": "gamh/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "859 O'Farrell St",
       "lat": 37.7848,
       "lon": -122.4188,
       "updated_at": "2026-11-11",
@@ -375,13 +390,14 @@
         ]
       },
       "show_count": 23,
-      "sha256_16": "0839db8497b6f844"
+      "sha256_16": "af76e5526057bad8"
     },
     {
       "venue_id": "greek",
       "file": "greek/shows.json",
       "city": "Berkeley, CA",
       "metro": "San Francisco",
+      "address": "2001 Gayley Rd",
       "lat": 37.8737,
       "lon": -122.2542,
       "updated_at": "2026-11-11",
@@ -400,13 +416,14 @@
         ]
       },
       "show_count": 2,
-      "sha256_16": "bf4ef8d7750de5fb"
+      "sha256_16": "2082c7b253487120"
     },
     {
       "venue_id": "holocene",
       "file": "holocene/shows.json",
       "city": "Portland, OR",
       "metro": "Portland",
+      "address": "1001 SE Morrison St",
       "lat": 45.5174,
       "lon": -122.6554,
       "updated_at": "2026-11-11",
@@ -427,13 +444,14 @@
         ]
       },
       "show_count": 46,
-      "sha256_16": "4a95798d09f61258"
+      "sha256_16": "e59d81a7affc1fe9"
     },
     {
       "venue_id": "humphreys",
       "file": "humphreys/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
+      "address": "2241 Shelter Island Dr",
       "lat": 32.7169,
       "lon": -117.224,
       "updated_at": "2026-11-11",
@@ -445,13 +463,14 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "c674a05d47c3610f"
+      "sha256_16": "775a53ed7debe9cf"
     },
     {
       "venue_id": "independent",
       "file": "independent/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "628 Haight St",
       "lat": 37.7719,
       "lon": -122.433,
       "updated_at": "2026-11-11",
@@ -468,13 +487,14 @@
         ]
       },
       "show_count": 97,
-      "sha256_16": "5b33e1b99c1f4a64"
+      "sha256_16": "3ae4c8f8b1143c61"
     },
     {
       "venue_id": "keller",
       "file": "keller/shows.json",
       "city": "Portland, OR",
       "metro": "Portland",
+      "address": "222 SW Clay St",
       "lat": 45.5124,
       "lon": -122.6782,
       "updated_at": "2026-11-11",
@@ -494,13 +514,14 @@
         ]
       },
       "show_count": 77,
-      "sha256_16": "6cd87db3cd205c32"
+      "sha256_16": "805c448d96344c54"
     },
     {
       "venue_id": "moore",
       "file": "moore/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "1932 2nd Ave",
       "lat": 47.6117,
       "lon": -122.3414,
       "updated_at": "2026-11-11",
@@ -521,13 +542,14 @@
         ]
       },
       "show_count": 59,
-      "sha256_16": "06927bddaaa24c26"
+      "sha256_16": "005a0bab3c30744f"
     },
     {
       "venue_id": "musicbox",
       "file": "musicbox/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
+      "address": "1337 India St",
       "lat": 32.7194,
       "lon": -117.1681,
       "updated_at": "2026-11-11",
@@ -549,13 +571,14 @@
         ]
       },
       "show_count": 42,
-      "sha256_16": "3c2950e6b943bfe4"
+      "sha256_16": "97015ac1df77e178"
     },
     {
       "venue_id": "neptune",
       "file": "neptune/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "1312 NE 41st St",
       "lat": 47.6611,
       "lon": -122.314,
       "updated_at": "2026-11-11",
@@ -576,13 +599,14 @@
         ]
       },
       "show_count": 106,
-      "sha256_16": "acb5b94e43600060"
+      "sha256_16": "350d066b8b780a21"
     },
     {
       "venue_id": "neumos",
       "file": "neumos/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "925 E Pike St",
       "lat": 47.614,
       "lon": -122.3196,
       "updated_at": "2026-11-11",
@@ -601,13 +625,14 @@
         ]
       },
       "show_count": 56,
-      "sha256_16": "e857bd8dedb608d3"
+      "sha256_16": "cfc606867bca901f"
     },
     {
       "venue_id": "pappy",
       "file": "pappy/shows.json",
       "city": "Pioneertown, CA",
       "metro": "Los Angeles",
+      "address": "53688 Pioneertown Rd",
       "lat": 34.1564,
       "lon": -116.493,
       "updated_at": "2026-11-11",
@@ -626,13 +651,14 @@
         ]
       },
       "show_count": 59,
-      "sha256_16": "aa803d366ce81e38"
+      "sha256_16": "e6822a5c3baaec3c"
     },
     {
       "venue_id": "paramount",
       "file": "paramount/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "911 Pine St",
       "lat": 47.6132,
       "lon": -122.3314,
       "updated_at": "2026-11-11",
@@ -652,13 +678,14 @@
         ]
       },
       "show_count": 127,
-      "sha256_16": "caa2fb11af73b527"
+      "sha256_16": "aa59ac1ad381c725"
     },
     {
       "venue_id": "polarishall",
       "file": "polarishall/shows.json",
       "city": "Portland, OR",
       "metro": "Portland",
+      "address": "635 N Killingsworth Ct",
       "lat": 45.5621,
       "lon": -122.6738,
       "updated_at": "2026-11-11",
@@ -678,13 +705,14 @@
         ]
       },
       "show_count": 59,
-      "sha256_16": "5f79496a30d06891"
+      "sha256_16": "ff0b00f8e3bc0130"
     },
     {
       "venue_id": "regency",
       "file": "regency/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "1300 Van Ness Ave",
       "lat": 37.7878,
       "lon": -122.4216,
       "updated_at": "2026-11-11",
@@ -704,13 +732,14 @@
         ]
       },
       "show_count": 36,
-      "sha256_16": "5f040d672b4807c8"
+      "sha256_16": "aaaee9db037a708d"
     },
     {
       "venue_id": "rickshawstop",
       "file": "rickshawstop/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "155 Fell St",
       "lat": 37.776,
       "lon": -122.4205,
       "updated_at": "2026-11-11",
@@ -729,13 +758,14 @@
         ]
       },
       "show_count": 46,
-      "sha256_16": "3e205a8789a5b076"
+      "sha256_16": "0cb3dc956d5802cf"
     },
     {
       "venue_id": "roseland",
       "file": "roseland/shows.json",
       "city": "Portland, OR",
       "metro": "Portland",
+      "address": "8 NW 6th Ave",
       "lat": 45.5234,
       "lon": -122.6761,
       "updated_at": "2026-11-11",
@@ -755,13 +785,14 @@
         ]
       },
       "show_count": 34,
-      "sha256_16": "9de62297d02aa747"
+      "sha256_16": "7b63598a5ba9db94"
     },
     {
       "venue_id": "sfjazz",
       "file": "sfjazz/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "201 Franklin St",
       "lat": 37.7764,
       "lon": -122.4216,
       "updated_at": "2026-11-11",
@@ -777,13 +808,14 @@
         ]
       },
       "show_count": 111,
-      "sha256_16": "c1363f559456c126"
+      "sha256_16": "59084c6853968e21"
     },
     {
       "venue_id": "showbox",
       "file": "showbox/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "1426 1st Ave",
       "lat": 47.6085,
       "lon": -122.3395,
       "updated_at": "2026-11-11",
@@ -802,13 +834,14 @@
         ]
       },
       "show_count": 55,
-      "sha256_16": "adf7f4d96cb5335b"
+      "sha256_16": "37f26415bcaabfd7"
     },
     {
       "venue_id": "showboxsodo",
       "file": "showboxsodo/shows.json",
       "city": "Seattle, WA",
       "metro": "Seattle",
+      "address": "1700 1st Ave S",
       "lat": 47.588,
       "lon": -122.3339,
       "updated_at": "2026-11-11",
@@ -828,13 +861,14 @@
         ]
       },
       "show_count": 40,
-      "sha256_16": "d0fd46cdbf63b418"
+      "sha256_16": "43d2d8c0b0fbcad1"
     },
     {
       "venue_id": "thecasbah",
       "file": "thecasbah/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
+      "address": "2501 Kettner Blvd",
       "lat": 32.7303,
       "lon": -117.1718,
       "updated_at": "2026-11-11",
@@ -852,13 +886,14 @@
         ]
       },
       "show_count": 1,
-      "sha256_16": "8335dcfd5730bd1e"
+      "sha256_16": "337911d70c0b2732"
     },
     {
       "venue_id": "theobservatory",
       "file": "theobservatory/shows.json",
       "city": "San Diego, CA",
       "metro": "San Diego",
+      "address": "2891 University Ave",
       "lat": 32.748,
       "lon": -117.1313,
       "updated_at": "2026-11-11",
@@ -870,13 +905,14 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "54a936b5aeb98feb"
+      "sha256_16": "dd974db6cd149e78"
     },
     {
       "venue_id": "thesound",
       "file": "thesound/shows.json",
       "city": "Del Mar, CA",
       "metro": "San Diego",
+      "address": "2260 Jimmy Durante Blvd",
       "lat": 32.9758,
       "lon": -117.2617,
       "updated_at": "2026-11-11",
@@ -894,13 +930,14 @@
         ]
       },
       "show_count": 26,
-      "sha256_16": "bdc446412ee2d862"
+      "sha256_16": "703f6f2baa87d1d6"
     },
     {
       "venue_id": "warfield",
       "file": "warfield/shows.json",
       "city": "San Francisco, CA",
       "metro": "San Francisco",
+      "address": "982 Market St",
       "lat": 37.7826,
       "lon": -122.4103,
       "updated_at": "2026-11-11",
@@ -919,13 +956,14 @@
         ]
       },
       "show_count": 24,
-      "sha256_16": "7485cbdccccc0109"
+      "sha256_16": "715c767d05ef133c"
     },
     {
       "venue_id": "wonderball",
       "file": "wonderball/shows.json",
       "city": "Portland, OR",
       "metro": "Portland",
+      "address": "123 NE Russell St",
       "lat": 45.5407,
       "lon": -122.6635,
       "updated_at": "2026-11-11",
@@ -945,7 +983,7 @@
         ]
       },
       "show_count": 33,
-      "sha256_16": "af70ff5b2f6987f3"
+      "sha256_16": "f5a39a7b093212c4"
     }
   ]
 }

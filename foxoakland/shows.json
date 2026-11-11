@@ -6,7 +6,8 @@
   "city": "Oakland, CA",
   "metro": "San Francisco",
   "neighborhood": "West Oakland",
-  "schema": 6,
+  "address": "1807 Telegraph Ave",
+  "schema": 7,
   "field_hints": {
     "event_type": "controlled",
     "needs_review": "bool",
