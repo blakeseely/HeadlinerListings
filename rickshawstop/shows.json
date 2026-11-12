@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sparta",
-          "apple_music": "https://music.apple.com/us/artist/sparta/3447183",
-          "spotify": "https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR",
-          "confidence": 1.0,
-          "matched": "Sparta",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Rickshaw Stop + Popscene co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/sparta/702137",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/sparta/702137",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -186,50 +153,6 @@
       "ticket_link": "https://wl.seetickets.us/event/broadway-rave/703546",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/broadway-rave/703546",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "apple_music": "https://music.apple.com/us/artist/francisca-valenzuela/277140196",
-          "spotify": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt",
-          "confidence": 1.0,
-          "matched": "Francisca Valenzuela",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Gabi Bravo",
-          "apple_music": "https://music.apple.com/us/artist/gabi-bravo/1508586319",
-          "spotify": "https://open.spotify.com/artist/4DQQh7GMHo5EtXPibMfcFL",
-          "confidence": 1.0,
-          "matched": "Gabi Bravo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Another Planet Entertainment + Rickshaw Stop co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -466,8 +389,29 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "ZAYALLCAPS",
+          "apple_music": "https://music.apple.com/us/artist/zayallcaps/1801799307",
+          "spotify": "https://open.spotify.com/artist/2i0QIuHqoui64KdE9xxAbL",
+          "confidence": 1.0,
+          "matched": "zayALLCAPS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Cole Pulice",
+          "apple_music": "https://music.apple.com/us/artist/cole-pulice/835794157",
+          "spotify": "https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh",
+          "confidence": 1.0,
+          "matched": "Cole Pulice",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -478,7 +422,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/lrain/697892",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1063,8 +1007,39 @@
       "doors": "8:00 pm",
       "show_time": "8:45 pm",
       "ticket_link": "https://wl.seetickets.us/event/fifteen-2nd-show-added/710597",
-      "ticket_status": null,
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/fifteen-2nd-show-added/710597",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OPAL IN SKY",
+          "apple_music": "https://music.apple.com/us/artist/opal-in-sky/1632833801",
+          "spotify": "https://open.spotify.com/artist/0ixiCtcREt9RRn5M92GWVu",
+          "confidence": 1.0,
+          "matched": "Opal In Sky",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/opal-in-sky/709725",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/opal-in-sky/709725",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1596,6 +1571,37 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "FRANCISCA VALENZUELA",
+          "apple_music": "https://music.apple.com/us/artist/francisca-valenzuela/277140196",
+          "spotify": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt",
+          "confidence": 1.0,
+          "matched": "Francisca Valenzuela",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-07-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/event/1C0064B4BCB55F8A",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
@@ -1606,18 +1612,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 47,
-      "exact": 46,
+      "unique_artists": 57,
+      "found": 48,
+      "exact": 47,
       "close": 0,
       "flagged": 1,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 49,
+      "unique_artists": 57,
+      "linked": 50,
       "venue": 0,
-      "api": 49,
+      "api": 50,
       "feed": 0,
       "shows_with_link": 40
     }

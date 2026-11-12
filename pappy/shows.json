@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
-  "count": 59,
+  "scraped_at": "2026-11-12",
+  "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "apple_music": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685",
-          "spotify": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF",
-          "confidence": 1.0,
-          "matched": "Rodrigo y Gabriela",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "KCRW and Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "5:30 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/rodrigo-y-gabriela/694225",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/rodrigo-y-gabriela/694225",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -112,7 +79,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/nick-shoulders/686930",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1620,7 +1587,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-24",
       "doors": "8:00 pm",
@@ -1629,7 +1598,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/may-erlewine/706446",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2287,26 +2256,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 59,
+      "music": 58,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
-      "found": 83,
-      "exact": 77,
+      "unique_artists": 88,
+      "found": 82,
+      "exact": 76,
       "close": 1,
       "flagged": 5,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 89,
-      "linked": 80,
+      "unique_artists": 88,
+      "linked": 79,
       "venue": 0,
-      "api": 80,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 57
+      "shows_with_link": 56
     }
   }
 }

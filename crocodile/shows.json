@@ -36,60 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
-  "count": 9,
+  "scraped_at": "2026-11-12",
+  "count": 8,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Armand Hammer",
-          "apple_music": "https://music.apple.com/us/artist/armand-hammer/717788605",
-          "spotify": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C",
-          "confidence": 1.0,
-          "matched": "Armand Hammer",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Sha Ray",
-          "apple_music": "https://music.apple.com/us/artist/sha-ray/1715343231",
-          "spotify": "https://open.spotify.com/artist/6kHupYxKkDFa7hIlQTu4ON",
-          "confidence": 1.0,
-          "matched": "sha ray",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "DJ Haram",
-          "apple_music": "https://music.apple.com/us/artist/dj-haram/1126058225",
-          "spotify": "https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl",
-          "confidence": 1.0,
-          "matched": "DJ Haram",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/armand-hammer-sha-ray-dj-the-crocodile-tickets/14010024",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketweb.com/event/armand-hammer-sha-ray-dj-the-crocodile-tickets/14010024",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -401,26 +350,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 8,
+      "music": 7,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 17,
-      "found": 13,
-      "exact": 13,
+      "unique_artists": 14,
+      "found": 10,
+      "exact": 10,
       "close": 0,
       "flagged": 0,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 17,
-      "linked": 14,
+      "unique_artists": 14,
+      "linked": 11,
       "venue": 0,
-      "api": 14,
+      "api": 11,
       "feed": 0,
-      "shows_with_link": 7
+      "shows_with_link": 6
     }
   }
 }

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
-  "count": 128,
+  "scraped_at": "2026-11-12",
+  "count": 127,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Nick Shoulders",
-          "apple_music": "https://music.apple.com/us/artist/nick-shoulders/1435695622",
-          "spotify": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS",
-          "confidence": 1.0,
-          "matched": "Nick Shoulders",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Creekbed Carter",
-          "apple_music": "https://music.apple.com/us/artist/creekbed-carter-hogan/1564461298",
-          "spotify": "https://open.spotify.com/artist/5QE4Qoon6ohi5z6wDJ0u0t",
-          "confidence": 0.8,
-          "matched": "Creekbed Carter Hogan",
-          "apple_label": "close match: Creekbed Carter Hogan",
-          "spotify_label": "close match: Creekbed Carter Hogan",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Apocalypse, Never! Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/nick-shoulders-apocalypse-belly-up-tickets/14837403?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14837403/nick-shoulders-apocalypse-never-tour-w-creekbed-carter",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1739,7 +1697,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": null
+      "description": "Holiday Honky-Tonk #8 Celebrate the season with Nancarrow, Brawley, and Matt Axton! There'll be loads of original country music and holiday tunes to get you in the spirit. Honky-tonk, two-step, or line-dance the night away and party for a great cause…San Diego Food Bank. Bring non-perishable food items (canned, dried, or boxed) to exchange for raffle tickets and win one of our great sponsored prizes."
     },
     {
       "event_type": "music",
@@ -4736,26 +4694,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 127,
+      "music": 126,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 174,
-      "found": 130,
-      "exact": 107,
+      "unique_artists": 172,
+      "found": 128,
+      "exact": 106,
       "close": 6,
-      "flagged": 17,
+      "flagged": 16,
       "not_found": 44
     },
     "spotify": {
-      "unique_artists": 174,
-      "linked": 134,
+      "unique_artists": 172,
+      "linked": 132,
       "venue": 0,
-      "api": 134,
+      "api": 132,
       "feed": 0,
-      "shows_with_link": 95
+      "shows_with_link": 94
     }
   }
 }

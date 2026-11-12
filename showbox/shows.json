@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Allison Russell",
-          "apple_music": "https://music.apple.com/us/artist/allison-russell/451740458",
-          "spotify": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
-          "confidence": 1.0,
-          "matched": "Allison Russell",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ganessa and Caoi",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.643,
-          "matched": null,
-          "apple_label": "no confident match (closest: Ganesha Void @ 64%)",
-          "spotify_label": "no confident match (closest: GAWNE @ 38%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1559304/allison-russell-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1559304",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1720,6 +1678,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Gang of Youths",
+          "apple_music": "https://music.apple.com/us/artist/gang-of-youths/687934696",
+          "spotify": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8",
+          "confidence": 1.0,
+          "matched": "Gang of Youths",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Sophs",
+          "apple_music": "https://music.apple.com/us/artist/the-sophs/1807775480",
+          "spotify": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE",
+          "confidence": 1.0,
+          "matched": "The Sophs",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1694869/gang-of-youths-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1694869",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Damned",
           "apple_music": "https://music.apple.com/us/artist/the-damned/3184019",
           "spotify": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h",
@@ -2227,17 +2227,17 @@
     },
     "apple_music": {
       "unique_artists": 99,
-      "found": 87,
-      "exact": 77,
+      "found": 88,
+      "exact": 78,
       "close": 1,
       "flagged": 9,
-      "not_found": 12
+      "not_found": 11
     },
     "spotify": {
       "unique_artists": 99,
-      "linked": 87,
+      "linked": 88,
       "venue": 0,
-      "api": 87,
+      "api": 88,
       "feed": 0,
       "shows_with_link": 50
     }

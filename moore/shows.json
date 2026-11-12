@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 59,
   "shows": [
     {
@@ -744,7 +744,7 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-21",
-      "doors": "7:00 pm",
+      "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/the-jinkx-dela-holiday-show/",
       "ticket_status": "on sale",
@@ -775,7 +775,7 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-22",
-      "doors": "7:00 pm",
+      "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/the-jinkx-dela-holiday-show/",
       "ticket_status": "on sale",
@@ -806,7 +806,7 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-23",
-      "doors": "7:00 pm",
+      "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/the-jinkx-dela-holiday-show/",
       "ticket_status": "on sale",
@@ -837,7 +837,7 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-24",
-      "doors": "7:00 pm",
+      "doors": "6:00 pm",
       "show_time": "5:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/the-jinkx-dela-holiday-show/",
       "ticket_status": "on sale",
@@ -1780,7 +1780,7 @@
       "description": null
     },
     {
-      "event_type": "music",
+      "event_type": "comedy",
       "needs_review": false,
       "headline_artists": [
         {
@@ -1968,8 +1968,8 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
-      "comedy": 11,
+      "music": 33,
+      "comedy": 12,
       "film": 0,
       "other": 14
     },

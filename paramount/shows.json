@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 127,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Not For Radio",
-          "apple_music": "https://music.apple.com/us/artist/not-for-radio/1834193679",
-          "spotify": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT",
-          "confidence": 1.0,
-          "matched": "Not For Radio",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "A Summer In The Forest: North America Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/not-for-radio-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/not-for-radio-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -209,8 +178,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Jae Stephens",
+          "apple_music": "https://music.apple.com/us/artist/jae-stephens/796619154",
+          "spotify": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT",
+          "confidence": 1.0,
+          "matched": "Jae Stephens",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -4123,6 +4103,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jimmy Carr",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-carr/204830985",
+          "spotify": "https://open.spotify.com/artist/3hYaK5FF3YAglCj5HZgBnP",
+          "confidence": 1.0,
+          "matched": "Jimmy Carr",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Killing Jokes",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-11-08",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/jimmy-carr/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/jimmy-carr/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
@@ -4133,18 +4144,18 @@
       "other": 75
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 46,
-      "exact": 40,
+      "unique_artists": 65,
+      "found": 48,
+      "exact": 42,
       "close": 1,
       "flagged": 5,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 63,
-      "linked": 47,
+      "unique_artists": 65,
+      "linked": 49,
       "venue": 0,
-      "api": 47,
+      "api": 49,
       "feed": 0,
       "shows_with_link": 100
     }

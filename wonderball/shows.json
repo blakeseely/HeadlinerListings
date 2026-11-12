@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lucy Bedroque",
-          "apple_music": "https://music.apple.com/us/artist/lucy-bedroque/1734729660",
-          "spotify": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
-          "confidence": 1.0,
-          "matched": "Lucy Bedroque",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/89100259/lucy-bedroque-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://wonderballroom.com/event/lucy-bedroque/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -164,7 +131,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/82030772/sueco-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://wonderballroom.com/event/sueco/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -890,6 +857,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Gang of Youths",
+          "apple_music": "https://music.apple.com/us/artist/gang-of-youths/687934696",
+          "spotify": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8",
+          "confidence": 1.0,
+          "matched": "Gang of Youths",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Showbox"
+      ],
+      "set_format": null,
+      "date": "2027-04-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/57091682/gang-of-youths-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/gang-of-youths/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Boy Throb’s Real Tour",
           "apple_music": null,
           "spotify": null,
@@ -1100,7 +1100,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": null,
+      "show_title": "Notícias de Puglia Tour",
       "presenters": [
         "Monqui Presents"
       ],
@@ -1108,9 +1108,9 @@
       "date": "2027-05-14",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/88083761/leo-middea-portland-wonder-ballroom?partner_id=100",
+      "ticket_link": "https://www.etix.com/ticket/p/88083761/leo-middea-not%C3%ADcias-de-puglia-tour-portland-wonder-ballroom?partner_id=100",
       "ticket_status": "coming soon",
-      "event_page": "https://wonderballroom.com/event/leo-middea/wonder-ballroom/portland-oregon/",
+      "event_page": "https://wonderballroom.com/event/leo-middea-not%c3%adcias-de-puglia-tour/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
       "note": null,

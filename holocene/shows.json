@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BIEBER AND A BEAT: A JUSTIN BIEBER NIGHT",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Justin Bieber @ 70%)",
-          "spotify_label": "no confident match (closest: J BIEBER @ 33%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "What The Dance Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": null,
-      "show_time": "8:30 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/54508584/bieber-and-a-beat-a-justin-bieber-night-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-11-bieber-and-a-beat-a-justin-bieber-night",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -100,15 +67,15 @@
         }
       ],
       "multi_artist": true,
-      "show_title": "w/ special guest Reiko Takahashi!",
+      "show_title": "Featuring special guest Reiko Takahashi!",
       "presenters": [],
       "set_format": null,
       "date": "2026-11-12",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/92594434/city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-w-special-guest-reiko-takahashi-21-portland-holocene?partner_id=100",
+      "ticket_link": "https://www.etix.com/ticket/p/92594434/city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-featuring-special-guest-reiko-takahashi-21-portland-holocene?partner_id=100",
       "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-12-city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-w-special-g",
+      "event_page": "https://www.holocene.org/events/2026-11-12-city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-featuring-s",
       "room": null,
       "age_rating": "21+",
       "note": null,
@@ -1028,6 +995,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "SATISFACTION (EDM Throwbacks Party)",
+          "apple_music": "https://music.apple.com/us/artist/satisfaction/1530865495",
+          "spotify": "https://open.spotify.com/artist/0kXsWGCbC0OD0LSenvtH8v",
+          "confidence": 1.0,
+          "matched": "Satisfaction",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45205401/satisfaction-edm-throwbacks-party-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-18-satisfaction-edm-throwbacks-party",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Gothmas: Constant Debauchery (Depeche Mode), Kiss Me Kiss Me Kiss Me (The Cure), Precious Machinery (Siouxsie and the Banshees)",
           "apple_music": null,
           "spotify": null,
@@ -1628,19 +1626,19 @@
     },
     "apple_music": {
       "unique_artists": 55,
-      "found": 24,
-      "exact": 19,
+      "found": 25,
+      "exact": 20,
       "close": 1,
       "flagged": 4,
-      "not_found": 31
+      "not_found": 30
     },
     "spotify": {
       "unique_artists": 55,
-      "linked": 25,
+      "linked": 26,
       "venue": 0,
-      "api": 25,
+      "api": 26,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 21
     }
   }
 }

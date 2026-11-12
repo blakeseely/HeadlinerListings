@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
-  "count": 38,
+  "scraped_at": "2026-11-12",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Buzzcocks, Modern English",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Modern English",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Grade 2",
-          "apple_music": "https://music.apple.com/us/artist/grade-2/1434862753",
-          "spotify": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b",
-          "confidence": 1.0,
-          "matched": "Grade 2",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Visuals by Zack Rodell",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Zach Diamond @ 35%)",
-          "spotify_source": null
-        },
-        {
-          "name": "DJ Tim Cohen",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: DJ Roi Cohen @ 70%)",
-          "spotify_label": "no confident match (closest: DJ Timbo and Friends @ 56%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1645,26 +1583,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 37,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 74,
-      "found": 53,
-      "exact": 46,
+      "unique_artists": 70,
+      "found": 52,
+      "exact": 45,
       "close": 3,
       "flagged": 4,
-      "not_found": 21
+      "not_found": 18
     },
     "spotify": {
-      "unique_artists": 74,
-      "linked": 54,
+      "unique_artists": 70,
+      "linked": 52,
       "venue": 0,
-      "api": 54,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

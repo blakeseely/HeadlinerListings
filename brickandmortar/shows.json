@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
-  "count": 21,
+  "scraped_at": "2026-11-12",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Mad Tsai",
-          "apple_music": "https://music.apple.com/us/artist/mad-tsai/1535910631",
-          "spotify": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB",
-          "confidence": 1.0,
-          "matched": "Mad Tsai",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Piao",
-          "apple_music": "https://music.apple.com/us/artist/piao/1633160112",
-          "spotify": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb",
-          "confidence": 1.0,
-          "matched": "PIAO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "bluhour (Michael Cimino)",
-          "apple_music": "https://music.apple.com/us/artist/bluhour/6800076659",
-          "spotify": "https://open.spotify.com/artist/1YY583dfOiQQFTDbsaHG6q",
-          "confidence": 1.0,
-          "matched": "Bluhour",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/mad-tsai-piao-bluhour-brick-and-mortar-music-hall-tickets/14213254?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/mad-tsai/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Introducing Mad Tsai, a Chinese-Taiwanese-Peruvian artist from Los Angeles, California with an edgy-pop sound that has branded a global imprint on his following of over 8+ million. Armed with an ethos of constant experimentation with new sonics, Mad has created his own palette of music, pushing boundaries within the pop genre while being inspired by pop veterans like Lorde and Rosalía. His debut EP, “homecoming!” has garnered over 235 million streams, bringing him widespread recognition without the assistance of a record label. Gaining traction mainly on TikTok, Mad Tsai’s popularity is fueled by his evocative songwriting, his bubbly yet opinionated personality and his queer identity, representing an unprecedented voice that resonates with this new generation. Keeping true to his authentic identity and storytelling through music, he has been championed by global brands like Michael Kors, Sennheiser, Meta, Gold House and Amazon. Up next, Mad Tsai will be releasing his newest project later this summer and hitting the road to meet his fans worldwide."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -819,26 +767,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 33,
-      "found": 32,
-      "exact": 29,
+      "unique_artists": 30,
+      "found": 29,
+      "exact": 26,
       "close": 2,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 33,
-      "linked": 32,
+      "unique_artists": 30,
+      "linked": 29,
       "venue": 13,
-      "api": 19,
+      "api": 16,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

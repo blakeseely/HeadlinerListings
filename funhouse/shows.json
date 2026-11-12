@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 28,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Deathtape",
-          "apple_music": "https://music.apple.com/us/artist/deathtape/1726844976",
-          "spotify": "https://open.spotify.com/artist/2pg2mTL0jz3HVQD01zf6aY",
-          "confidence": 1.0,
-          "matched": "Deathtape",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Salt+",
-          "apple_music": "https://music.apple.com/us/artist/salt/1765092739",
-          "spotify": "https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape",
-          "confidence": 0.9,
-          "matched": "Salt",
-          "apple_label": "close match: Salt",
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Greatsword",
-          "apple_music": "https://music.apple.com/us/artist/great-sword/1747780049",
-          "spotify": "https://open.spotify.com/artist/1MGQzuWkEvwAS7CAaR0xUE",
-          "confidence": 0.95,
-          "matched": "GREAT SWORD",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "MADDAWG NW",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5OGhi85WUuAvzR2TLKPeNf",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: MADD DAWG NW",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/deathtape-11-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1388,6 +1326,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Primer 55",
+          "apple_music": "https://music.apple.com/us/artist/primer-55/414685",
+          "spotify": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY",
+          "confidence": 1.0,
+          "matched": "Primer 55",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "aBlock",
+          "apple_music": "https://music.apple.com/us/artist/ablock/1578921502",
+          "spotify": "https://open.spotify.com/artist/5aH5fEDrA8O1Qp1LOkMl6M",
+          "confidence": 1.0,
+          "matched": "ABLOCK",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Kissing Candice",
+          "apple_music": "https://music.apple.com/us/artist/kissing-candice/502711526",
+          "spotify": "https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS",
+          "confidence": 1.0,
+          "matched": "Kissing Candice",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "This Soil is Diseased",
+          "apple_music": "https://music.apple.com/us/artist/this-soil-is-diseased/433043120",
+          "spotify": "https://open.spotify.com/artist/2HFm96wJopcO9A28nTMYMA",
+          "confidence": 1.0,
+          "matched": "This Soil Is Diseased",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Shattered Schemes & Broken Dreams Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-30",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/primer-55-shattered-schemes-broken-dreams-tour-04-oct",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Tim Cappello",
           "apple_music": "https://music.apple.com/us/artist/tim-cappello/200185675",
           "spotify": "https://open.spotify.com/artist/0HyZTRkZ8UuhJKlIqBihqn",
@@ -1435,11 +1435,11 @@
     },
     "apple_music": {
       "unique_artists": 78,
-      "found": 64,
-      "exact": 58,
-      "close": 2,
-      "flagged": 4,
-      "not_found": 14
+      "found": 65,
+      "exact": 61,
+      "close": 1,
+      "flagged": 3,
+      "not_found": 13
     },
     "spotify": {
       "unique_artists": 78,

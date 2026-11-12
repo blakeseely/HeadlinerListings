@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 97,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stop Light Observations",
-          "apple_music": "https://music.apple.com/us/artist/stop-light-observations/569923307",
-          "spotify": "https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ",
-          "confidence": 1.0,
-          "matched": "Stop Light Observations",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Runner",
-          "apple_music": "https://music.apple.com/us/artist/runner/1885542683",
-          "spotify": "https://open.spotify.com/artist/0FWabe9guzIggBFPun2rFc",
-          "confidence": 1.0,
-          "matched": "RUNNER",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Bobby",
-          "apple_music": "https://music.apple.com/us/artist/bobby/1148163234",
-          "spotify": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg",
-          "confidence": 1.0,
-          "matched": "BOBBY",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/stop-light-observations-the-independent-tickets/14936543?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/stop-light-observation/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -294,8 +242,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Sorana",
+          "apple_music": "https://music.apple.com/us/artist/sorana/153893009",
+          "spotify": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx",
+          "confidence": 1.0,
+          "matched": "Sorana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1637,6 +1596,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "An Evening",
+          "apple_music": "https://music.apple.com/us/artist/an-evening-redness/1601547711",
+          "spotify": "https://open.spotify.com/artist/2KxHnYL5e5VZCrVOYrSbY6",
+          "confidence": 0.8,
+          "matched": "An Evening Redness",
+          "apple_label": "close match: An Evening Redness",
+          "spotify_label": "close match: An Evening Redness",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "High Sierra Foundation",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: High Sierra Club @ 70%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Karl Denson's AfroSonic",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-13",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/an-evening-with-karl-densons-the-independent-tickets/14436024?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/an-evening-with-karl-densons-afrosonic/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Sister Nancy & the Steady Rock Band",
           "apple_music": "https://music.apple.com/us/artist/sister-nancy/2559829",
           "spotify": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB",
@@ -2169,7 +2180,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Three Nights",
+      "show_title": "Two-Day Pass",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2177,7 +2188,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2200,7 +2211,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two-Day Pass",
+      "show_title": "Three Nights",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2208,7 +2219,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2783,6 +2794,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "- Self Aware Tour",
+      "presenters": [
+        "Live 105 Presents - Self Aware Tour"
+      ],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2818,39 +2862,6 @@
       "room": null,
       "age_rating": null,
       "note": "MOVED TO CASTRO THEATRE",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "- Self Aware Tour",
-      "presenters": [
-        "Live 105 Presents - Self Aware Tour"
-      ],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
       "description": null
     },
     {
@@ -3623,15 +3634,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 137,
-      "found": 127,
-      "exact": 118,
+      "unique_artists": 138,
+      "found": 126,
+      "exact": 116,
       "close": 3,
-      "flagged": 6,
-      "not_found": 10
+      "flagged": 7,
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 137,
+      "unique_artists": 138,
       "linked": 127,
       "venue": 88,
       "api": 39,

@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 43,
   "shows": [
     {
@@ -1275,39 +1275,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "The Braymores",
-          "apple_music": "https://music.apple.com/us/artist/the-braymores/1686649595",
-          "spotify": "https://open.spotify.com/artist/7CrVM33l2Pt32fCxJWGVw6",
-          "confidence": 1.0,
-          "matched": "The Braymores",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2027-03-29",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-braymores-time-cafe-du-nord-tickets/15054253?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "presale",
-      "event_page": "https://cafedunord.com/shows/2027-03-29-the-braymores",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": "Chicago indie-rock outfit The Braymores have spent the last three years quietly building one of the Midwest’s most promising grassroots success stories. With the release of their sophomore album When The Lights Went Out on the horizon and a milestone hometown appearance at Lollapalooza ahead, the band continues to emerge as one of Chicago’s fastest-rising independent acts. ANNOUNCE Announce…"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Games We Play",
           "apple_music": "https://music.apple.com/us/artist/games-we-play/924630114",
           "spotify": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40",
@@ -1346,6 +1313,39 @@
       "age_rating": "All ages",
       "note": null,
       "description": "After years of touring with Fall Out Boy, YUNGBLUD, All Time Low and more, Games We Play is back... and this time, Emmyn is doing it his way. Built from bedroom-written songs, piano, DIY energy and a refusal to play by the rules, the project is weird, personal, unapologetic, and completely Emmyn's own. Games We Play is back for real."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Will Linley",
+          "apple_music": "https://music.apple.com/us/artist/will-linley/1591950331",
+          "spotify": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N",
+          "confidence": 1.0,
+          "matched": "Will Linley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-31",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/will-linley-could-cafe-du-nord-tickets/14314614?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://cafedunord.com/shows/2027-03-31-will-linley",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Will Linley writes songs that actually sound like love. You can practically feel the onset of new romance bubbling through the softly strummed acoustic chords, swirling around in the synths, and magnified by his impressive, expansive voice. The South African singer and songwriter tunes into emotion and amplifies it across alternative pop anthems spiked with sun-soaked energy."
     },
     {
       "event_type": "music",

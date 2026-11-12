@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
-  "count": 59,
+  "scraped_at": "2026-11-12",
+  "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Vansire",
-          "apple_music": "https://music.apple.com/us/artist/vansire/1039595626",
-          "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY",
-          "confidence": 1.0,
-          "matched": "Vansire",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ann Annie",
-          "apple_music": "https://music.apple.com/us/artist/ann-annie/959943810",
-          "spotify": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG",
-          "confidence": 1.0,
-          "matched": "Ann Annie",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/85298255",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2116,7 +2074,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/95096640",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": null,
       "room": null,
       "age_rating": null,
@@ -2281,26 +2239,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 56,
+      "music": 55,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 73,
-      "exact": 68,
+      "unique_artists": 94,
+      "found": 71,
+      "exact": 66,
       "close": 2,
       "flagged": 3,
       "not_found": 23
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 76,
+      "unique_artists": 94,
+      "linked": 74,
       "venue": 0,
-      "api": 76,
+      "api": 74,
       "feed": 0,
-      "shows_with_link": 48
+      "shows_with_link": 47
     }
   }
 }

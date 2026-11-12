@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-11",
+  "scraped_at": "2026-11-12",
   "count": 26,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brand New",
-          "apple_music": "https://music.apple.com/us/artist/brand-new/3630732",
-          "spotify": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1",
-          "confidence": 1.0,
-          "matched": "Brand New",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-11",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/brand-new-san-francisco-california-11-11-2026/event/1C0064CF38CBCA80?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://billgrahamcivic.com/events/brand-new-261111",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Formed in 2000 on Long Island, New York, Brand New is an American alternative rock band consisting of Jesse Lacey, Vincent Accardi, Garrett Tierney, and Brian Lane. After signing with Triple Crown Records, the band released their debut album, Your Favorite Weapon, in 2001, establishing themselves within the Long Island emo and pop-punk scene. Their breakthrough second album, Deja Entendu, arrived in 2003 and featured the singles “The Quiet Things That No One Ever Knows” and “Sic Transit Gloria… Glory Fades.” The album showcased a more mature sound and was later certified Gold in the United States. Following a major-label bidding war, the band signed with DreamWorks/Interscope and released The Devil and God Are Raging Inside Me in 2006, a record that would become one of the most influential albums of the emo era. In 2009, they put out their fourth album Daisy, reaching No. 6 on the Billboard 200. Brand New returned in 2017 with Science Fiction, which debuted at No. 1 on the Billboard 200 and received widespread critical acclaim."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -808,6 +777,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sullivan King",
+          "apple_music": "https://music.apple.com/us/artist/sullivan-king/833869649",
+          "spotify": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e",
+          "confidence": 1.0,
+          "matched": "Sullivan King",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "CHYL",
+          "apple_music": "https://music.apple.com/us/artist/chyl/1501938593",
+          "spotify": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc",
+          "confidence": 1.0,
+          "matched": "CHYL",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Paper Skies",
+          "apple_music": "https://music.apple.com/us/artist/paper-skies/1186943430",
+          "spotify": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA",
+          "confidence": 1.0,
+          "matched": "Paper Skies",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "2DY4",
+          "apple_music": "https://music.apple.com/us/artist/2dy4/1669574702",
+          "spotify": "https://open.spotify.com/artist/1yxSMpFfWDL9PI9HcBgkRs",
+          "confidence": 1.0,
+          "matched": "2DY4",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "7:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sullivan-king-18-san-francisco-california-02-27-2027/event/1C00655AFBEFF91C?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "PRESALE 11/18",
+      "event_page": "https://billgrahamcivic.com/events/sullivan-king-270227",
+      "room": null,
+      "age_rating": "18+",
+      "note": null,
+      "description": "Sullivan King makes music to rage to. As a producer, guitarist, vocalist, and songwriter he fuses dubstep and rock creating his own space in the electronic and alternative scenes. Sullivan King’s unique live show finds the artist shredding on guitar, singing, DJing, and jumping into the pit. 2026 starts with Sullivan King’s first headline European tour, followed by a packed festival season including Welcome to Rockville and headlining Ultra Europe, the continuation of his Vegas residency and a diverse music release schedule featuring upcoming collaborations with heavyweight names across Hard Rock, Alternative and Electronic. The King has previously worked with T-Pain, Holy Priest, Trym, NGHTMRE, Excision, Ice Nine Kills, Subtronics, Kayzo, SVDDEN Death, Slander, DJ Diesel (Shaq), and Papa Roach. “Raised on a diet of as much post-hardcore as dubstep, he&#8217;s setting out to bring the rock and EDM communities together in a way that no-one has done before.” &#8211; Jack Rogers, Rock Sound"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "San Francisco vs. Minnesota",
           "apple_music": null,
           "spotify": null,
@@ -1114,18 +1145,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 47,
-      "found": 37,
-      "exact": 35,
+      "unique_artists": 50,
+      "found": 40,
+      "exact": 38,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 47,
-      "linked": 38,
-      "venue": 35,
-      "api": 3,
+      "unique_artists": 50,
+      "linked": 41,
+      "venue": 37,
+      "api": 4,
       "feed": 0,
       "shows_with_link": 17
     }
