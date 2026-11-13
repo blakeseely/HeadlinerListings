@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:15:39.138678+00:00",
+  "generated_at": "2026-11-13T22:19:49.941419+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -149,25 +149,22 @@
       "lon": -122.4348,
       "updated_at": "2026-11-13",
       "fetched_at": "2026-11-13T04:09:11",
-      "oldest_show_date": "2026-11-13",
+      "oldest_show_date": "2026-11-14",
       "value_domains": {
         "event_type": [
-          "other",
-          "music",
-          "film",
-          "comedy"
+          "music"
         ],
         "ticket_status": [
-          "sold out",
-          "on sale"
+          "on sale",
+          "sold out"
         ],
         "spotify_source": [
           "venue",
           "api"
         ]
       },
-      "show_count": 71,
-      "sha256_16": "ddaf60f2246705c7"
+      "show_count": 51,
+      "sha256_16": "ce5ba3c2f2fea343"
     },
     {
       "venue_id": "chapel",
@@ -515,7 +512,7 @@
         ]
       },
       "show_count": 76,
-      "sha256_16": "d97d788c88d24865"
+      "sha256_16": "946bb84a2abdeeb0"
     },
     {
       "venue_id": "moore",
