@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 33,
+  "scraped_at": "2026-11-13",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Static Dress",
-          "apple_music": "https://music.apple.com/us/artist/static-dress/1476714067",
-          "spotify": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi",
-          "confidence": 1.0,
-          "matched": "Static Dress",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "I Promised The World",
-          "apple_music": "https://music.apple.com/us/artist/i-promised-the-world/1815804141",
-          "spotify": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk",
-          "confidence": 1.0,
-          "matched": "I Promised The World",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Car Underwater",
-          "apple_music": "https://music.apple.com/us/artist/car-underwater/1856862721",
-          "spotify": "https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF",
-          "confidence": 1.0,
-          "matched": "Car Underwater",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Sherane",
-          "apple_music": "https://music.apple.com/us/artist/sherane/1864674535",
-          "spotify": "https://open.spotify.com/artist/69ctHvaLA49rTg5Udcy4cW",
-          "confidence": 1.0,
-          "matched": "Sherane",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Injury Episode USA Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/static-dress-injury-episode-usa-tour-12-nov",
-      "room": null,
-      "age_rating": null,
-      "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1317,8 +1255,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Gloryhammer",
+          "apple_music": "https://music.apple.com/us/artist/gloryhammer/609712495",
+          "spotify": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV",
+          "confidence": 1.0,
+          "matched": "Gloryhammer",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "North American Tour 2027",
       "presenters": [],
       "set_format": null,
@@ -1907,26 +1856,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 105,
-      "found": 95,
-      "exact": 94,
+      "unique_artists": 102,
+      "found": 92,
+      "exact": 91,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 105,
-      "linked": 93,
+      "unique_artists": 102,
+      "linked": 90,
       "venue": 0,
-      "api": 93,
+      "api": 90,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 29
     }
   }
 }

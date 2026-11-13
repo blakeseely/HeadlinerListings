@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 28,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Cofgod / Kuwaisiana / PR for Monsters",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Kawai Sprite @ 37%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/cofgod-kuwaisiana-pr-for-monsters-12-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -138,16 +107,6 @@
         }
       ],
       "support_artists": [
-        {
-          "name": "Undisputed World Champions",
-          "apple_music": "https://music.apple.com/us/artist/undisputed-world-champions/1492547630",
-          "spotify": "https://open.spotify.com/artist/16Jj3YR4K1kZkhT538VUMK",
-          "confidence": 1.0,
-          "matched": "Undisputed World Champions",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
         {
           "name": "Bill SKAsby",
           "apple_music": "https://music.apple.com/us/artist/bill-skasby/1687004224",
@@ -903,6 +862,16 @@
           "spotify_source": null
         },
         {
+          "name": "Almighty Conman the Third",
+          "apple_music": "https://music.apple.com/us/artist/almighty-conman-the-third/1864059994",
+          "spotify": "https://open.spotify.com/artist/2ZYXqEubQHJHwHINim44XF",
+          "confidence": 1.0,
+          "matched": "Almighty Conman the third",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
           "name": "Demansia",
           "apple_music": null,
           "spotify": null,
@@ -1150,6 +1119,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Basement / RockMomEnough / Brake Down",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Basement Boys @ 48%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/the-basement-rockmomenough-brake-down-10-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Riot in Rhythm",
           "apple_music": "https://music.apple.com/us/artist/riot-in-rhythm/1779500338",
           "spotify": "https://open.spotify.com/artist/1mmtj2sXgGlpR4a9B2xgcZ",
@@ -1338,26 +1338,6 @@
       ],
       "support_artists": [
         {
-          "name": "aBlock",
-          "apple_music": "https://music.apple.com/us/artist/ablock/1578921502",
-          "spotify": "https://open.spotify.com/artist/5aH5fEDrA8O1Qp1LOkMl6M",
-          "confidence": 1.0,
-          "matched": "ABLOCK",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Kissing Candice",
-          "apple_music": "https://music.apple.com/us/artist/kissing-candice/502711526",
-          "spotify": "https://open.spotify.com/artist/2yt3OhRpNY6eVWDoJUlwjS",
-          "confidence": 1.0,
-          "matched": "Kissing Candice",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
           "name": "This Soil is Diseased",
           "apple_music": "https://music.apple.com/us/artist/this-soil-is-diseased/433043120",
           "spotify": "https://open.spotify.com/artist/2HFm96wJopcO9A28nTMYMA",
@@ -1434,18 +1414,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 78,
-      "found": 65,
-      "exact": 61,
+      "unique_artists": 76,
+      "found": 63,
+      "exact": 59,
       "close": 1,
       "flagged": 3,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 78,
-      "linked": 63,
+      "unique_artists": 76,
+      "linked": 61,
       "venue": 0,
-      "api": 63,
+      "api": 61,
       "feed": 0,
       "shows_with_link": 22
     }

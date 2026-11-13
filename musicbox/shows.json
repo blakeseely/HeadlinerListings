@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 42,
+  "scraped_at": "2026-11-13",
+  "count": 41,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jervis Campbell",
-          "apple_music": "https://music.apple.com/us/artist/jervis-campbell/1367246006",
-          "spotify": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW",
-          "confidence": 1.0,
-          "matched": "Jervis Campbell",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lydi Lynn",
-          "apple_music": "https://music.apple.com/us/artist/lydi-lynn/1596548664",
-          "spotify": "https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI",
-          "confidence": 1.0,
-          "matched": "lydi lynn",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Good Grief Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-lydi-lynn",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -953,7 +911,7 @@
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/earlybirds-club-dance-music-box-tickets/14409314?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14409314/earlybirds-club-dance-party",
       "room": null,
       "age_rating": null,
@@ -1627,26 +1585,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 40,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 68,
-      "found": 54,
-      "exact": 50,
+      "unique_artists": 66,
+      "found": 52,
+      "exact": 48,
       "close": 0,
       "flagged": 4,
       "not_found": 14
     },
     "spotify": {
-      "unique_artists": 68,
-      "linked": 57,
+      "unique_artists": 66,
+      "linked": 55,
       "venue": 0,
-      "api": 57,
+      "api": 55,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 36
     }
   }
 }

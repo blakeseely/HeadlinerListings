@@ -36,82 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 46,
+  "scraped_at": "2026-11-13",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "CITY POP! Japanese Boogie, J-jazz, & New Wave Night",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.159,
-          "matched": null,
-          "apple_label": "no confident match (closest: Cyndi Lauper @ 16%)",
-          "spotify_label": "no confident match (closest: Night Tempo @ 16%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "SEASIDE.FM + JOE BALL",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Joe Ball @ 70%)",
-          "spotify_label": "no confident match (closest: Joe Bataan @ 39%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Featuring special guest Reiko Takahashi!",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/92594434/city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-featuring-special-guest-reiko-takahashi-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-12-city-pop-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-featuring-s",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "other",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Share Your Joy: Arts for Learning NW Celebration",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: The Learning Station @ 50%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Early event!",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": null,
-      "show_time": "4:30 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/63241655/share-your-joy-arts-for-learning-nw-celebration-early-event-all-ages-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-12-share-your-joy-arts-for-learning-nw-celebration-early-event",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1619,21 +1546,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 40,
       "comedy": 2,
       "film": 0,
-      "other": 3
+      "other": 2
     },
     "apple_music": {
-      "unique_artists": 55,
+      "unique_artists": 52,
       "found": 25,
       "exact": 20,
       "close": 1,
       "flagged": 4,
-      "not_found": 30
+      "not_found": 27
     },
     "spotify": {
-      "unique_artists": 55,
+      "unique_artists": 52,
       "linked": 26,
       "venue": 0,
       "api": 26,

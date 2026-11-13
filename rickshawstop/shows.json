@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 46,
+  "scraped_at": "2026-11-13",
+  "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jake Minch",
-          "apple_music": "https://music.apple.com/us/artist/jake-minch/1524217026",
-          "spotify": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC",
-          "confidence": 1.0,
-          "matched": "Jake Minch",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Alix Page",
-          "apple_music": "https://music.apple.com/us/artist/alix-page/1498941774",
-          "spotify": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ",
-          "confidence": 1.0,
-          "matched": "Alix Page",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "rickshaw stop + popscene co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -431,7 +387,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "EMANCIPATOR",
+          "name": "Emancipator",
           "apple_music": "https://music.apple.com/us/artist/emancipator/209711341",
           "spotify": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm",
           "confidence": 1.0,
@@ -441,10 +397,33 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Shrimpnose",
+          "apple_music": "https://music.apple.com/us/artist/shrimpnose/1188898120",
+          "spotify": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D",
+          "confidence": 1.0,
+          "matched": "Shrimpnose",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Lapa",
+          "apple_music": "https://music.apple.com/us/artist/lapa/294901798",
+          "spotify": "https://open.spotify.com/artist/37axC8jHW1iHp48uK8fKpu",
+          "confidence": 1.0,
+          "matched": "Lapa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Popscene + DJ Dials Co-Present"
+      ],
       "set_format": null,
       "date": "2026-12-03",
       "doors": "8:00 pm",
@@ -453,7 +432,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/emancipator/700476",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1081,6 +1060,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "NOW THAT'S WHAT I CALL ITALO DISCO Vol. 26",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: ItaloBrothers @ 22%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-11",
+      "doors": "8:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-26/711376",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-26/711376",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "SMALL BROWN BIKE",
           "apple_music": "https://music.apple.com/us/artist/small-brown-bike/5635242",
           "spotify": "https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j",
@@ -1319,6 +1329,37 @@
       "ticket_link": "https://wl.eventim.us/event/bess-atwell/707844",
       "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/bess-atwell/707844",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "PRIYA RAGU",
+          "apple_music": "https://music.apple.com/us/artist/priya-ragu/300551102",
+          "spotify": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F",
+          "confidence": 1.0,
+          "matched": "Priya Ragu",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.eventim.us/event/priya-ragu/709986",
+      "ticket_status": null,
+      "event_page": "https://wl.eventim.us/event/priya-ragu/709986",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1606,24 +1647,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 48,
-      "exact": 47,
+      "unique_artists": 59,
+      "found": 49,
+      "exact": 48,
       "close": 0,
       "flagged": 1,
-      "not_found": 9
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 57,
-      "linked": 50,
+      "unique_artists": 59,
+      "linked": 51,
       "venue": 0,
-      "api": 50,
+      "api": 51,
       "feed": 0,
       "shows_with_link": 40
     }

@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 105,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Residency",
-          "apple_music": "https://music.apple.com/us/artist/the-residency/1191366766",
-          "spotify": "https://open.spotify.com/artist/1J1iOKa016xNtxKyJIJIZm",
-          "confidence": 1.0,
-          "matched": "The Residency",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "A Night of NW Hip Hop",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/the-residency/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/the-residency/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2147,7 +2116,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.stgpresents.org/events/denny-love/",
-      "ticket_status": "on sale",
+      "ticket_status": "cancelled",
       "event_page": "https://www.stgpresents.org/events/denny-love/",
       "room": null,
       "age_rating": null,
@@ -3205,6 +3174,37 @@
       "ticket_link": "https://www.stgpresents.org/events/enjambre/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/enjambre/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haute & Freddy",
+          "apple_music": "https://music.apple.com/us/artist/haute-freddy/1751891683",
+          "spotify": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
+          "confidence": 1.0,
+          "matched": "Haute & Freddy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Bigger Disgrace Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/haute-and-freddy/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/haute-and-freddy/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,

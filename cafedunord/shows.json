@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 43,
   "shows": [
     {
@@ -736,8 +736,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Abigail Rose",
+          "apple_music": "https://music.apple.com/us/artist/abigail-rose/1709423874",
+          "spotify": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd",
+          "confidence": 1.0,
+          "matched": "Abigail Rose",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -746,7 +757,7 @@
       "date": "2027-02-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-sways-cafe-du-nord-tickets/14364964?pl=cafedunord&REFID=clientsitewp",
+      "ticket_link": "https://www.ticketweb.com/event/the-sways-with-abigail-rose-cafe-du-nord-tickets/14364964?pl=cafedunord&REFID=clientsitewp",
       "ticket_status": "on sale",
       "event_page": "https://cafedunord.com/shows/2027-02-06-the-sways",
       "room": null,
@@ -1620,18 +1631,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 56,
-      "exact": 54,
+      "unique_artists": 58,
+      "found": 57,
+      "exact": 55,
       "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 57,
-      "linked": 57,
+      "unique_artists": 58,
+      "linked": 58,
       "venue": 40,
-      "api": 17,
+      "api": 18,
       "feed": 0,
       "shows_with_link": 43
     }

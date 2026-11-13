@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 127,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Not For Radio",
-          "apple_music": "https://music.apple.com/us/artist/not-for-radio/1834193679",
-          "spotify": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT",
-          "confidence": 1.0,
-          "matched": "Not For Radio",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "A Summer In The Forest: North America Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/not-for-radio-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/not-for-radio-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "other",
       "needs_review": false,
@@ -3281,6 +3250,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "STG’s Annual Gala DOORS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Arc System Works @ 31%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-01",
+      "doors": null,
+      "show_time": "6:00 pm",
+      "ticket_link": "https://stgpresents.org/doors-gala",
+      "ticket_status": "on sale",
+      "event_page": "https://stgpresents.org/doors-gala",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Jimmy O. Yang",
           "apple_music": "https://books.apple.com/us/author/jimmy-o-yang/id1268515962",
           "spotify": "https://open.spotify.com/artist/4T2qusEJDDlmgaQdEJPHND",
@@ -4145,19 +4145,19 @@
     },
     "apple_music": {
       "unique_artists": 65,
-      "found": 48,
-      "exact": 42,
+      "found": 47,
+      "exact": 41,
       "close": 1,
       "flagged": 5,
-      "not_found": 17
+      "not_found": 18
     },
     "spotify": {
       "unique_artists": 65,
-      "linked": 49,
+      "linked": 48,
       "venue": 0,
-      "api": 49,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 100
+      "shows_with_link": 99
     }
   }
 }

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gene",
-          "apple_music": "https://music.apple.com/us/artist/gene/1487969784",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Gene",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Genesis @ 73%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Weston Loney",
-          "apple_music": "https://music.apple.com/us/artist/weston-loney/1624670448",
-          "spotify": "https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt",
-          "confidence": 1.0,
-          "matched": "Weston Loney",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/gene-san-francisco-california-11-12-2026/event/1C0064A1CF5AAAE5",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/gene-san-francisco-california-11-12-2026/event/1C0064A1CF5AAAE5",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1273,6 +1231,37 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening With Railroad Earth",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Evening Elephants",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/an-evening-with-railroad-earth-san-francisco-california-02-20-2027/event/1C006564E4931919",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/an-evening-with-railroad-earth-san-francisco-california-02-20-2027/event/1C006564E4931919",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1283,15 +1272,15 @@
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 34,
-      "exact": 33,
+      "unique_artists": 35,
+      "found": 32,
+      "exact": 31,
       "close": 0,
       "flagged": 1,
-      "not_found": 2
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 36,
+      "unique_artists": 35,
       "linked": 32,
       "venue": 0,
       "api": 32,

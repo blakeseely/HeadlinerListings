@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 97,
+  "scraped_at": "2026-11-13",
+  "count": 96,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stephen Day",
-          "apple_music": "https://music.apple.com/us/artist/stephen-day/1105545677",
-          "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5",
-          "confidence": 1.0,
-          "matched": "Stephen Day",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Elysia Biro",
-          "apple_music": "https://music.apple.com/us/artist/elysia-biro/1559427047",
-          "spotify": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L",
-          "confidence": 1.0,
-          "matched": "Elysia Biro",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Self Titled Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/stephen-day-the-independent-tickets/14975963?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/stephen-day/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2180,7 +2138,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two-Day Pass",
+      "show_title": "Three Nights",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2188,7 +2146,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2211,7 +2169,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Three Nights",
+      "show_title": "Two-Day Pass",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -2219,7 +2177,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2794,39 +2752,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "- Self Aware Tour",
-      "presenters": [
-        "Live 105 Presents - Self Aware Tour"
-      ],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2862,6 +2787,39 @@
       "room": null,
       "age_rating": null,
       "note": "MOVED TO CASTRO THEATRE",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "- Self Aware Tour",
+      "presenters": [
+        "Live 105 Presents - Self Aware Tour"
+      ],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
       "description": null
     },
     {
@@ -3003,8 +2961,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Olivia Barton",
+          "apple_music": "https://music.apple.com/us/artist/olivia-barton/1448417925",
+          "spotify": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1",
+          "confidence": 1.0,
+          "matched": "Olivia Barton",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3628,26 +3597,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 97,
+      "music": 96,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 138,
-      "found": 126,
-      "exact": 116,
+      "unique_artists": 137,
+      "found": 125,
+      "exact": 115,
       "close": 3,
       "flagged": 7,
       "not_found": 12
     },
     "spotify": {
-      "unique_artists": 138,
-      "linked": 127,
-      "venue": 88,
+      "unique_artists": 137,
+      "linked": 126,
+      "venue": 87,
       "api": 39,
       "feed": 0,
-      "shows_with_link": 94
+      "shows_with_link": 93
     }
   }
 }

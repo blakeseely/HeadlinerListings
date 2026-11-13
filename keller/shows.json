@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 40,
+  "scraped_at": "2026-11-13",
+  "count": 76,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Dwight Yoakam",
-          "apple_music": "https://music.apple.com/us/artist/dwight-yoakam/148059",
-          "spotify": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW",
-          "confidence": 1.0,
-          "matched": "Dwight Yoakam",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://portland5.evenue.net/events/DYOAKAM",
-      "ticket_status": "on sale",
-      "event_page": "https://www.portland5.com/event/dwight-yoakam",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "other",
       "needs_review": false,
@@ -1278,30 +1247,1177 @@
       "age_rating": "Recommended for ages 6 and up",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Professor Brian Cox – Emergence",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Prof. Brian Cox. @ 70%)",
+          "spotify_label": "no confident match (closest: Brian Cox @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-17",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=COX&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/professor-brian-cox-emergence",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-26",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": "1 hour prior to start",
+      "show_time": "Wednesday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "1 hour prior to start",
+      "show_time": "Thursday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 2:00 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-31",
+      "doors": "1 hour prior to start",
+      "show_time": "1:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hadestown",
+          "apple_music": "https://music.apple.com/us/artist/hadestown-original-broadway-company/1466351158",
+          "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH",
+          "confidence": 0.95,
+          "matched": "Hadestown Original Broadway Company",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-31",
+      "doors": "1 hour prior to start",
+      "show_time": "6:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAAHT&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/hadestown",
+      "room": null,
+      "age_rating": "Recommended for ages 8 and up (under 5 not admitted)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Piano Guys",
+          "apple_music": "https://music.apple.com/us/artist/the-piano-guys/498030399",
+          "spotify": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI",
+          "confidence": 1.0,
+          "matched": "The Piano Guys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3APCPA%3APCPA26%3AKA0204%3A&linkID=pcpa&shopperContext=&pc=&caller=&appCode=&groupCode=PIANO&cgc=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/piano-guys",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Oregon Lunar New Year Celebration",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Lunar Echo Underground @ 44%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=LUNARNY&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/oregon-lunar-new-year-celebration",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 2:00 PM",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 7:30 PM",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-14",
+      "doors": "1 hour prior to start",
+      "show_time": "2:00 pm",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-14",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 2:00 PM",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 7:30 PM",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ALICE (in wonderland)",
+          "apple_music": "https://music.apple.com/us/artist/alice/1243414617",
+          "spotify": "https://open.spotify.com/artist/3L3pWUSVwDjCn4PECLBY5k",
+          "confidence": 1.0,
+          "matched": "ALICE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-21",
+      "doors": "1 hour prior to start",
+      "show_time": "2:00 pm",
+      "ticket_link": "https://www.obt.org/event/alice-in-wonderland-2026-27/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/alice-wonderland",
+      "room": null,
+      "age_rating": "Suitable for ages 5 and up (under 3 not allowed)",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Franco Escamilla \"El Juicio\" Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Franco Escamilla @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3APCPA%3APCPA26%3AKA0228%3A&linkID=pcpa&shopperContext=&pc=&caller=&appCode=&groupCode=ESCAMILLA&cgc=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/franco-escamilla-el-juicio-tour",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-02",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-03",
+      "doors": "1 hour prior to start",
+      "show_time": "Wednesday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-04",
+      "doors": "1 hour prior to start",
+      "show_time": "Thursday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-05",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 2:00 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 7:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-07",
+      "doors": "1 hour prior to start",
+      "show_time": "1:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Clue",
+          "apple_music": "https://music.apple.com/us/artist/clue/219553114",
+          "spotify": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf",
+          "confidence": 1.0,
+          "matched": "Clue",
+          "apple_label": null,
+          "spotify_label": "close match: DJ Clue",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-07",
+      "doors": "1 hour prior to start",
+      "show_time": "6:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAACL&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/clue",
+      "room": null,
+      "age_rating": "Recommended for ages 12 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Shen Yun 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Shen Yun Symphony Orchestra @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "1 hour prior to start",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.shenyun.com/portland",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/shen-yun-2027",
+      "room": null,
+      "age_rating": "Children under 5 are not admitted",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Shen Yun 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Shen Yun Symphony Orchestra @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-13",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 2:00 PM",
+      "ticket_link": "https://www.shenyun.com/portland",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/shen-yun-2027",
+      "room": null,
+      "age_rating": "Children under 5 are not admitted",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Shen Yun 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Shen Yun Symphony Orchestra @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-14",
+      "doors": "1 hour prior to start",
+      "show_time": "2:00 pm",
+      "ticket_link": "https://www.shenyun.com/portland",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/shen-yun-2027",
+      "room": null,
+      "age_rating": "Children under 5 are not admitted",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jimmy O. Yang Has No Friends Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Jimmy O. Yang @ 70%)",
+          "spotify_label": "no confident match (closest: Jimmy O. Yang @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=YANG&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/jimmy-o-yang-has-no-friends-tour",
+      "room": null,
+      "age_rating": "Ages 18+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Giggly Squad",
+          "apple_music": "https://music.apple.com/us/artist/giggly-squad/6817938050",
+          "spotify": "https://open.spotify.com/artist/1CcxOM8anDUb1Tk9fzpjm4",
+          "confidence": 1.0,
+          "matched": "Giggly Squad",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Gehls Gehl Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-08",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3APCPA%3APCPA26%3AKA0408%3A&linkID=pcpa&shopperContext=&pc=&caller=&appCode=&groupCode=GIGGLY&cgc=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/giggly-squad-gehls-gehl-tour",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jesse & Joy",
+          "apple_music": "https://music.apple.com/us/artist/jesse-joy/167779502",
+          "spotify": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR",
+          "confidence": 1.0,
+          "matched": "Jesse & Joy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=JJAMOR&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/jesse-joy",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ha*Ash",
+          "apple_music": "https://music.apple.com/us/artist/ha-ash/17241280",
+          "spotify": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8",
+          "confidence": 0.9,
+          "matched": "Ha-Ash",
+          "apple_label": "close match: Ha-Ash",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "No Me Hablen de Amor",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=HAASH&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/haash-no-me-hablen-de-amor",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Josh Johnson’s Comedy Band Camp",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Josh Johnson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-22",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 5:00 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=JJOHNSON&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/josh-johnsons-comedy-band-camp",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Josh Johnson’s Comedy Band Camp",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Josh Johnson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-22",
+      "doors": "1 hour prior to start",
+      "show_time": "Saturday, 8:30 PM",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=JJOHNSON&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/josh-johnsons-comedy-band-camp",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 1,
-      "comedy": 0,
+      "music": 12,
+      "comedy": 5,
       "film": 0,
-      "other": 39
+      "other": 59
     },
     "apple_music": {
-      "unique_artists": 6,
-      "found": 2,
-      "exact": 2,
-      "close": 0,
-      "flagged": 0,
-      "not_found": 4
+      "unique_artists": 18,
+      "found": 8,
+      "exact": 6,
+      "close": 1,
+      "flagged": 1,
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 6,
-      "linked": 3,
+      "unique_artists": 18,
+      "linked": 9,
       "venue": 0,
-      "api": 3,
+      "api": 9,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 57
     }
   }
 }

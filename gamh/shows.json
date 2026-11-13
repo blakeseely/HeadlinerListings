@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 22,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Russian Circles",
-          "apple_music": "https://music.apple.com/us/artist/russian-circles/145624352",
-          "spotify": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF",
-          "confidence": 1.0,
-          "matched": "Russian Circles",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.tenderloinmusichall.com/events/russian-circles-12-november-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.tenderloinmusichall.com/events/russian-circles-12-november-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": "From $49",
-      "description": "If there's one think you absolutely can't do, it's miss this moment to see the..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -616,6 +585,37 @@
       "age_rating": null,
       "note": null,
       "description": "Charlotte Adigery & Bolis Pupul at Great American Music Hall on Wednesday 24th March 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gang of Youths",
+          "apple_music": "https://music.apple.com/us/artist/gang-of-youths/687934696",
+          "spotify": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8",
+          "confidence": 1.0,
+          "matched": "Gang of Youths",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-05",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8366353/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8366353/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Gang of Youths at Great American Music Hall on Monday 5th April 2027 in San Francisco..."
     },
     {
       "event_type": "music",

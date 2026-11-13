@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 72,
+  "scraped_at": "2026-11-13",
+  "count": 71,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ólafur Arnalds",
-          "apple_music": "https://music.apple.com/us/artist/%C3%B3lafur-arnalds/265425550",
-          "spotify": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia",
-          "confidence": 1.0,
-          "matched": "Ólafur Arnalds",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/olafur-arnalds-261112",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Two Nights!",
-      "description": "Award-winning artist, composer and producer Ólafur Arnalds returns with his most daring and adventurous project to date. Falling Apart Together is an attempt at dismantling the distance between us. A concert hybrid that reveals the layers we construct in order to feel safe, the moments in which those layers tremble and the sense of intimacy and shared humanity that emerges when we allow ourselves to be exposed. Together with his team of devoted craftsmen and musicians, Ólafur presents a spellbinding blend of past and new material in a show that challenges the boundaries of what a concert can be. After his globally acclaimed tours following re:member and some kind of peace — which sold out such iconic halls as Royal Albert Hall, Elbphilharmonie, Sydney Opera House, and Walt Disney Concert Hall – performing to hundreds of thousands of fans worldwide — Ólafur returns with his most intimate and boundary-pushing work to date. Falling Apart Together explores what becomes possible when we let ourselves unravel just enough to collectively open up"
-    },
     {
       "event_type": "other",
       "needs_review": false,
@@ -166,8 +135,8 @@
       "date": "2026-11-15",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/rodrigo-y-gabriela-ourhome-tour-san-francisco-california-11-15-2026/event/1C0064C3B0EC40B2?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/rodrigo-y-gabriela-261115",
       "room": null,
       "age_rating": "all ages",
@@ -1623,7 +1592,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/wolf-parade-san-francisco-california-02-07-2027/event/1C006567B698A899?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/wolf-parade",
       "room": null,
       "age_rating": null,
@@ -1654,7 +1623,7 @@
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/andrea-gibsons-love-letter-from-the-san-francisco-california-02-09-2027/event/1C006565FAFA74B5?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/andrea-gibson-270209",
       "room": null,
       "age_rating": null,
@@ -2205,7 +2174,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/royal-blood-north-america-2027-san-francisco-california-04-20-2027/event/1C00655EFCAC9A2D?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/royal-blood-270420",
       "room": null,
       "age_rating": null,
@@ -2236,7 +2205,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/klangphonics-the-zest-tour-san-francisco-california-04-23-2027/event/1C006566C4B1E31B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/klangphonics-270423",
       "room": null,
       "age_rating": null,
@@ -2329,7 +2298,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-san-francisco-california-05-02-2027/event/1C006562F194F5CC?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/conor-oberst-270502",
       "room": null,
       "age_rating": null,
@@ -2371,7 +2340,7 @@
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/silversun-pickups-san-francisco-california-05-07-2027/event/1C00655DC91ADF70?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/silversun-pickups-270507",
       "room": null,
       "age_rating": null,
@@ -2517,7 +2486,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/whitney-light-upon-the-lake-10th-san-francisco-california-05-21-2027/event/1C006567B3AAA27D?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/whitney-270521",
       "room": null,
       "age_rating": null,
@@ -2527,26 +2496,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 58,
+      "music": 57,
       "comedy": 4,
       "film": 8,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 85,
-      "found": 69,
-      "exact": 62,
+      "unique_artists": 84,
+      "found": 68,
+      "exact": 61,
       "close": 2,
       "flagged": 5,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 85,
-      "linked": 71,
-      "venue": 52,
+      "unique_artists": 84,
+      "linked": 70,
+      "venue": 51,
       "api": 19,
       "feed": 0,
-      "shows_with_link": 62
+      "shows_with_link": 61
     }
   }
 }

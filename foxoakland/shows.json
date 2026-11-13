@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 34,
+  "scraped_at": "2026-11-13",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Isaiah Rashad",
-          "apple_music": "https://music.apple.com/us/artist/isaiah-rashad/605391263",
-          "spotify": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM",
-          "confidence": 1.0,
-          "matched": "Isaiah Rashad",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Lil Sunny's Awful Road Trip",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-oakland-california-11-12-2026/event/1C006523ECE47322?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/isaiah-rashad-261112",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "It’s Been Awful marks the moment Isaiah Rashad fully becomes his own genre. The Top Dawg Entertainment visionary returns with his third studio album on May 1, expanding his sonic world beyond hip-hop into cosmic jazz, psychedelic guitar rock, Soulquarian neo-soul, and flashes of genre-blurring experimentation. After five transformative years, Rashad delivers his most vulnerable and fully-realized work yet — an unfiltered reflection on addiction, growth, self-confrontation, and redemption. It’s soul music in its most metaphysical form, anchored by the same lyrical precision and emotional depth that have defined his artistry from the beginning. Since emerging from Chattanooga, TN in 2012, Rashad has built one of the most impactful and emotionally resonant catalogs in modern rap. His debut Cilvia Demo immediately established him as a critical force, followed by The Sun’s Tirade, which debuted in the Top 20 of the Billboard 200 and earned Gold certification. His 2021 album The House Is Bur"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1268,26 +1237,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 38,
-      "exact": 36,
+      "unique_artists": 38,
+      "found": 37,
+      "exact": 35,
       "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 39,
-      "venue": 35,
+      "unique_artists": 38,
+      "linked": 38,
+      "venue": 34,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 33
     }
   }
 }

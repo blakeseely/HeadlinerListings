@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 33,
+  "scraped_at": "2026-11-13",
+  "count": 47,
   "shows": [
     {
       "event_type": "music",
@@ -513,6 +513,234 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Endless Honeymoon",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-endless-honeymoon-san-francisco-california-01-15-2027/event/1C00655E162AF26C",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-endless-honeymoon/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Smug Shift",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": "9:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-smug-shift-san-francisco-california-01-15-2027/event/1C00655E1DAE18A8",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-smug-shift/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Big Team",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-the-big-team-san-francisco-california-01-16-2027/event/1C00655E2116201B",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-the-big-team/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Robot Karaoke",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "9:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-robot-karaoke-san-francisco-california-01-16-2027/event/1C00655E22F523B0",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-robot-karaoke/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Drunk Shrek",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-17",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-drunk-shrek-san-francisco-california-01-17-2027/event/1C00655E3D704B96",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-drunk-shrek/",
+      "room": null,
+      "age_rating": "21 and Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Paul F. Tompkins",
+          "apple_music": "https://music.apple.com/us/artist/paul-f-tompkins/258578796",
+          "spotify": "https://open.spotify.com/artist/48tm4iqPWcSkFF5vxyb2pQ",
+          "confidence": 1.0,
+          "matched": "Paul F. Tompkins",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Varietopia",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-varietopia-with-paul-f-san-francisco-california-01-22-2027/event/1C00655E3FB44E03",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-varietopia-with-paul-f-tompkins/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Tight & Nerdy – “Weird Al” Burlesque",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": "9:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-tight-nerdy-weird-al-san-francisco-california-01-22-2027/event/1C00655FC1A0AD59",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-tight-nerdy-weird-al-burlesque/",
+      "room": null,
+      "age_rating": "21 and Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "House Party Rave",
           "apple_music": null,
           "spotify": "https://open.spotify.com/artist/05zszvXo2QjcGv9bnNRKNm",
@@ -598,6 +826,234 @@
       "event_page": "https://www.augusthallsf.com/tm-event/disappear-here-a-ten-year-celebration/",
       "room": null,
       "age_rating": "5 and Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "How Long Gone, featuring special guest glaive",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-how-long-gone-featuring-san-francisco-california-01-27-2027/event/1C00655FC848B941",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-how-long-gone-featuring-special-guest-glaive/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Sasquatch presents Mountain Time Live",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-sasquatch-presents-mountain-time-san-francisco-california-01-29-2027/event/1C00655FCBBABE6D",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-sasquatch-presents-mountain-time-live/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The George Lucas Talk Show",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "9:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-the-george-lucas-talk-san-francisco-california-01-29-2027/event/1C00655FD0FBC697",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-the-george-lucas-talk-show/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Rachel Bloom, Dan Grego, and more",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.054,
+          "matched": null,
+          "apple_label": "no confident match (closest: Maur @ 5%)",
+          "spotify_label": "no confident match (closest: Rachel Bloom @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Huh?Milton",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-huhmilton-with-rachel-bloom-san-francisco-california-01-30-2027/event/1C006567B902AD24",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-huhmilton-with-rachel-bloom-dan-grego-and-more/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Writer’s Bay Improv",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": "9:00 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-writers-bay-improv-san-francisco-california-01-30-2027/event/1C00655FD8D4D40C",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-writers-bay-improv/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Trav-enture Zone",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-31",
+      "doors": "12:00 pm",
+      "show_time": "1:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-the-traventure-zone-san-francisco-california-01-31-2027/event/1C00655FDEE7DCB6",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-the-trav-enture-zone/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "SF Sketchfest",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Skye Lewin @ 35%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Hello From the Magic Tavern",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-31",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sf-sketchfest-hello-from-the-magic-san-francisco-california-01-31-2027/event/1C00655FDCD8D9BC",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-hello-from-the-magic-tavern/",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1175,26 +1631,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 35,
-      "exact": 31,
+      "unique_artists": 44,
+      "found": 36,
+      "exact": 32,
       "close": 0,
       "flagged": 4,
-      "not_found": 6
+      "not_found": 8
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 35,
+      "unique_artists": 44,
+      "linked": 36,
       "venue": 0,
-      "api": 35,
+      "api": 36,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 31
     }
   }
 }

@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 58,
   "shows": [
     {
@@ -430,8 +430,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Sloane Motion",
+          "apple_music": "https://music.apple.com/us/artist/sloane-motion/1704217028",
+          "spotify": "https://open.spotify.com/artist/06QlaTvstsYIwoYJPe7LgY",
+          "confidence": 1.0,
+          "matched": "Sloane Motion",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -503,8 +514,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "DJ Boombox Kid",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DJ Boomin @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Seattle's Best 70's Dance Night",
       "presenters": [],
       "set_format": null,
@@ -2315,18 +2337,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 98,
-      "found": 89,
-      "exact": 82,
+      "unique_artists": 100,
+      "found": 90,
+      "exact": 83,
       "close": 2,
       "flagged": 5,
-      "not_found": 9
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 98,
-      "linked": 84,
+      "unique_artists": 100,
+      "linked": 85,
       "venue": 0,
-      "api": 84,
+      "api": 85,
       "feed": 0,
       "shows_with_link": 53
     }

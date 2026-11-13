@@ -36,70 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 8,
+  "scraped_at": "2026-11-13",
+  "count": 7,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Nekrogoblikon",
-          "apple_music": "https://music.apple.com/us/artist/nekrogoblikon/211735139",
-          "spotify": "https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF",
-          "confidence": 1.0,
-          "matched": "Nekrogoblikon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Aborted",
-          "apple_music": "https://music.apple.com/us/artist/aborted/155833533",
-          "spotify": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR",
-          "confidence": 1.0,
-          "matched": "Aborted",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "apple_music": "https://music.apple.com/us/artist/signs-of-the-swarm/1109559990",
-          "spotify": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS",
-          "confidence": 1.0,
-          "matched": "Signs of the Swarm",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Party Cannon",
-          "apple_music": "https://music.apple.com/us/artist/party-cannon/906091085",
-          "spotify": "https://open.spotify.com/artist/5Oz5WX5xkESHBH5I4Wp09C",
-          "confidence": 1.0,
-          "matched": "Party Cannon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/nekrogoblikon-aborted-signs-of-the-the-crocodile-tickets/14978383",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketweb.com/event/nekrogoblikon-aborted-signs-of-the-the-crocodile-tickets/14978383",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -350,26 +289,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 7,
+      "music": 6,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 14,
-      "found": 10,
-      "exact": 10,
+      "unique_artists": 10,
+      "found": 6,
+      "exact": 6,
       "close": 0,
       "flagged": 0,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 14,
-      "linked": 11,
+      "unique_artists": 10,
+      "linked": 7,
       "venue": 0,
-      "api": 11,
+      "api": 7,
       "feed": 0,
-      "shows_with_link": 6
+      "shows_with_link": 5
     }
   }
 }

@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Allison Russell",
-          "apple_music": "https://music.apple.com/us/artist/allison-russell/451740458",
-          "spotify": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
-          "confidence": 1.0,
-          "matched": "Allison Russell",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "6:00 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/31085278/allison-russell-portland-mcmenamins-crystal-ballroom",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/278314-allison-russell/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Allison Russell has partnered with PLUS1 so that $1 from every ticket sold goes to ACLU and their work to protect the civil rights and civil liberties of all people in the United States."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -505,7 +472,7 @@
     },
     {
       "event_type": "music",
-      "needs_review": false,
+      "needs_review": true,
       "headline_artists": [
         {
           "name": "Dirty Heads",
@@ -526,12 +493,24 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "\"December to Remember\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: A Day to Remember @ 70%)",
+          "spotify_label": "no confident match (closest: December Joy @ 59%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "94/7FM KNRK presents"
+      ],
       "set_format": null,
       "date": "2026-12-03",
       "doors": "6:30 pm",
@@ -1940,6 +1919,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Haute & Freddy",
+          "apple_music": "https://music.apple.com/us/artist/haute-freddy/1751891683",
+          "spotify": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
+          "confidence": 1.0,
+          "matched": "Haute & Freddy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-21",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/89264363/haute-freddy-bigger-disgrace-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/280043-haute-freddy/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Instagram: https://www.instagram.com/hauteandfreddy/ Facebook: https://www.facebook.com/p/Haute-Freddy-61575042550975/ TikTok: https://www.tiktok.com/@hauteandfreddy YouTube: https://www.youtube.com/channel/UCLziWUVJ651AEYKkZ8_unfw Spotify: https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR?si=AubLTey5R1GtdzGmG4fybQ"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "An evening with They Might Be Giants",
           "apple_music": null,
           "spotify": null,
@@ -2037,15 +2047,15 @@
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 75,
+      "unique_artists": 76,
       "found": 52,
       "exact": 51,
       "close": 1,
       "flagged": 0,
-      "not_found": 23
+      "not_found": 24
     },
     "spotify": {
-      "unique_artists": 75,
+      "unique_artists": 76,
       "linked": 54,
       "venue": 0,
       "api": 54,

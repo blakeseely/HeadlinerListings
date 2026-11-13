@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 58,
+  "scraped_at": "2026-11-13",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Nick Shoulders",
-          "apple_music": "https://music.apple.com/us/artist/nick-shoulders/1435695622",
-          "spotify": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS",
-          "confidence": 1.0,
-          "matched": "Nick Shoulders",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Creekbed Carter Hogan",
-          "apple_music": "https://music.apple.com/us/artist/creekbed-carter-hogan/1564461298",
-          "spotify": "https://open.spotify.com/artist/5QE4Qoon6ohi5z6wDJ0u0t",
-          "confidence": 1.0,
-          "matched": "Creekbed Carter Hogan",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "KCRW and Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "5:30 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/nick-shoulders/686930",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/nick-shoulders/686930",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -122,7 +78,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/fela-forever/706122",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1607,11 +1563,21 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Fred Tackett & Scott Sharrard",
-          "apple_music": "https://music.apple.com/us/artist/fred-tackett-scott-sharrard/6786390532",
-          "spotify": "https://open.spotify.com/artist/19NzPv29a8rhuUg5A1x3zL",
+          "name": "Fred Tackett",
+          "apple_music": "https://music.apple.com/us/artist/fred-tackett/5137434",
+          "spotify": "https://open.spotify.com/artist/707COSLYkM3HJxcD6UZ5yL",
           "confidence": 1.0,
-          "matched": "Fred Tackett & Scott Sharrard",
+          "matched": "Fred Tackett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Scott Sharrard",
+          "apple_music": "https://music.apple.com/us/artist/scott-sharrard/72977187",
+          "spotify": "https://open.spotify.com/artist/2JW5WaMlB4TytZIggg8wts",
+          "confidence": 1.0,
+          "matched": "Scott Sharrard",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1620,7 +1586,9 @@
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-28",
       "doors": "8:00 pm",
@@ -1629,7 +1597,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/fred-tackett-and-scott-sharrard-from-little-feat/703193",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2256,26 +2224,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 58,
+      "music": 57,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 88,
-      "found": 82,
-      "exact": 76,
+      "unique_artists": 87,
+      "found": 81,
+      "exact": 75,
       "close": 1,
       "flagged": 5,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 88,
-      "linked": 79,
+      "unique_artists": 87,
+      "linked": 78,
       "venue": 0,
-      "api": 79,
+      "api": 78,
       "feed": 0,
-      "shows_with_link": 56
+      "shows_with_link": 55
     }
   }
 }

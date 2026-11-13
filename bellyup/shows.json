@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
+  "scraped_at": "2026-11-13",
   "count": 127,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Last Waltz",
-          "apple_music": "https://music.apple.com/us/artist/the-last-waltz/739793315",
-          "spotify": "https://open.spotify.com/artist/1UXw86F0qZjBkPEHi0M0HI",
-          "confidence": 1.0,
-          "matched": "The Last Waltz",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Chest Fever"
-      ],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/chest-fever-presents-the-last-belly-up-tickets/14232964?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14232964/chest-fever-presents-the-last-waltz",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -304,27 +271,27 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "BERTHA",
-          "apple_music": "https://music.apple.com/us/artist/bertha-grateful-drag/1743215675",
-          "spotify": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9",
-          "confidence": 0.95,
-          "matched": "BERTHA: Grateful Drag",
+          "name": "BERTHA: Grateful Drag The World's First All-Drag Grateful Dead Tribute Band",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: BERTHA: Grateful Drag @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Grateful Drag",
+      "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-11-18",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/bertha-grateful-drag-belly-up-tickets/14989283?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/bertha-grateful-drag-the-belly-up-tickets/14989283?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14989283/bertha-grateful-drag",
+      "event_page": "https://bellyup.com/calendar/14989283/bertha-grateful-drag-the-worlds-first-all-drag-grateful-dead-tribute-band",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3377,6 +3344,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Groundation",
+          "apple_music": "https://music.apple.com/us/artist/groundation/118019462",
+          "spotify": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p",
+          "confidence": 1.0,
+          "matched": "Groundation",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jah Ollin",
+          "apple_music": "https://music.apple.com/us/artist/jah-ollin/1582567222",
+          "spotify": "https://open.spotify.com/artist/1K6StmusQlOgzwbbNOgSH0",
+          "confidence": 1.0,
+          "matched": "Jah Ollin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "A Tribute to Bob Marley",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/groundation-a-tribute-belly-up-tickets/14313944?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14313944/groundation-a-tribute-to-bob-marley-w-jah-ollin",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Richard Thompson & Band",
           "apple_music": "https://music.apple.com/us/artist/richard-thompson/264023",
           "spotify": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz",
@@ -4507,7 +4516,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-robert-cray-band-belly-up-tickets/14426364?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14426364/the-robert-cray-band-all-over-again",
       "room": null,
       "age_rating": null,
@@ -4700,20 +4709,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 172,
+      "unique_artists": 173,
       "found": 128,
-      "exact": 106,
-      "close": 6,
+      "exact": 107,
+      "close": 5,
       "flagged": 16,
-      "not_found": 44
+      "not_found": 45
     },
     "spotify": {
-      "unique_artists": 172,
+      "unique_artists": 173,
       "linked": 132,
       "venue": 0,
       "api": 132,
       "feed": 0,
-      "shows_with_link": 94
+      "shows_with_link": 93
     }
   }
 }

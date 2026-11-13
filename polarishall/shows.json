@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-12",
-  "count": 58,
+  "scraped_at": "2026-11-13",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Alex Cameron",
-          "apple_music": "https://music.apple.com/us/artist/alex-cameron/305609747",
-          "spotify": "https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG",
-          "confidence": 1.0,
-          "matched": "Alex Cameron",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Josh da Costa",
-          "apple_music": "https://music.apple.com/us/artist/josh-da-costa/1732335208",
-          "spotify": "https://open.spotify.com/artist/1tXtrQXExzdyrNptNQLeZk",
-          "confidence": 1.0,
-          "matched": "Josh da Costa",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-12",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/59428735",
-      "ticket_status": "sold out",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2239,26 +2197,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 54,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 94,
-      "found": 71,
-      "exact": 66,
+      "unique_artists": 92,
+      "found": 69,
+      "exact": 64,
       "close": 2,
       "flagged": 3,
       "not_found": 23
     },
     "spotify": {
-      "unique_artists": 94,
-      "linked": 74,
+      "unique_artists": 92,
+      "linked": 72,
       "venue": 0,
-      "api": 74,
+      "api": 72,
       "feed": 0,
-      "shows_with_link": 47
+      "shows_with_link": 46
     }
   }
 }
