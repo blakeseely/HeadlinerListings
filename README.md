@@ -127,6 +127,11 @@ manifest.json          venues: venue_id, file, city, metro, address, lat, lon,
   files legitimately carry it — same ticketing event, two calendars.
 - **Off-season venues are valid at zero.** `frost` (Stanford) has no winter
   calendar: `count: 0`, zeroed stats.
+- **Music-only venues drop non-music rows.** The Castro books film, comedy,
+  and spoken-word alongside concerts; its build skips non-music rows, so its
+  `shows.json` carries `event_type: music` only (the `stats.event_types`
+  block still carries all four keys, zeros included). A client reading the
+  feed as a music listing gets the right rows from this venue.
 
 ## Value domains (schema 5+)
 Controlled vocabularies actually in the feed right now (the manifest carries
