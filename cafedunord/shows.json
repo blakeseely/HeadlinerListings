@@ -37,41 +37,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-13",
-  "count": 43,
+  "count": 42,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "MARIS",
-          "apple_music": "https://music.apple.com/us/artist/maris/1647062710",
-          "spotify": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE",
-          "confidence": 1.0,
-          "matched": "MARIS",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/maris-sold-out-cafe-du-nord-tickets/14952233?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "waitlist",
-      "event_page": "https://cafedunord.com/shows/2026-11-13-maris",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Best experienced live, MARIS ensures audiences feel free to be their happiest, truest selves, blending heartland rock with glam-pop bombast, MARIS crafts arena-sized, sugar-rush choruses built around elastic vocals and diaristic songwriting. MARIS is proud to partner with LIFEBEAT, a program of The Elizabeth Taylor AIDS Foundation, on her upcoming tour. $1 from every ticket sold will benefit the…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1625,26 +1592,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 42,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 57,
-      "exact": 55,
+      "unique_artists": 57,
+      "found": 56,
+      "exact": 54,
       "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 58,
-      "linked": 58,
-      "venue": 40,
+      "unique_artists": 57,
+      "linked": 57,
+      "venue": 39,
       "api": 18,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

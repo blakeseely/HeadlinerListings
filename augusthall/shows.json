@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 47,
+  "scraped_at": "2026-11-14",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tank and The Bangas",
-          "apple_music": "https://music.apple.com/us/artist/tank-and-the-bangas/685630243",
-          "spotify": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7",
-          "confidence": 1.0,
-          "matched": "Tank and the Bangas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ariel J. and DJ Zeus",
-          "apple_music": "https://music.apple.com/us/artist/ariel-j/1446957627",
-          "spotify": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa",
-          "confidence": 0.95,
-          "matched": "Ariel J.",
-          "apple_label": "compound bill — links to Ariel J. only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Last Balloon Tour,",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/tank-and-the-bangas-the-last-san-francisco-california-11-13-2026/event/1C006472DF4545A5",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/tank-and-the-bangas-the-last-balloon-tour/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -535,7 +493,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-endless-honeymoon/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -566,7 +524,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-smug-shift/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -597,7 +555,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-the-big-team/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -628,7 +586,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-robot-karaoke/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -701,7 +659,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-varietopia-with-paul-f-tompkins/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -763,7 +721,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/house-party/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "18 and Over",
       "note": null,
       "description": null
     },
@@ -856,7 +814,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-how-long-gone-featuring-special-guest-glaive/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -887,7 +845,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-sasquatch-presents-mountain-time-live/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -918,7 +876,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-the-george-lucas-talk-show/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -960,7 +918,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-huhmilton-with-rachel-bloom-dan-grego-and-more/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -991,7 +949,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-writers-bay-improv/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1053,7 +1011,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-hello-from-the-magic-tavern/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1146,7 +1104,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/joyce-wrice-the-machiko-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1332,7 +1290,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/noah-rinker/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "5 and Over",
       "note": null,
       "description": null
     },
@@ -1631,26 +1589,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 46,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 44,
-      "found": 36,
-      "exact": 32,
+      "unique_artists": 42,
+      "found": 34,
+      "exact": 31,
       "close": 0,
-      "flagged": 4,
+      "flagged": 3,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 36,
+      "unique_artists": 42,
+      "linked": 34,
       "venue": 0,
-      "api": 36,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }

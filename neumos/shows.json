@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Emo Nite",
-          "apple_music": "https://music.apple.com/us/artist/emo-nite/6800940717",
-          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
-          "confidence": 1.0,
-          "matched": "Emo Nite",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "9:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1649894/emo-nite-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/emo-nite-tickets-1649894",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1585,7 +1554,7 @@
       "doors": "7:30 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1698157/ciaran-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/ciaran-tickets-1698157",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1835,8 +1804,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Sam Kind",
+          "apple_music": "https://music.apple.com/us/artist/sam-kind/1790505916",
+          "spotify": "https://open.spotify.com/artist/1HWWxfhDa6JVYagxdY8MNC",
+          "confidence": 1.0,
+          "matched": "Sam Kind",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1875,7 +1855,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1681861/charlotte-adigery-bolis-pupul-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/charlotte-adigery-bolis-pupul-tickets-1681861",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2167,6 +2147,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Snotty Nose Rez Kids",
+          "apple_music": "https://music.apple.com/us/artist/snotty-nose-rez-kids/1291112510",
+          "spotify": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5",
+          "confidence": 1.0,
+          "matched": "Snotty Nose Rez Kids",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Chloe Star",
+          "apple_music": "https://music.apple.com/us/artist/chloe-star/1451586748",
+          "spotify": "https://open.spotify.com/artist/3ZHw3I3ggo9ILmaxntFkMF",
+          "confidence": 1.0,
+          "matched": "Chloe Star",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "BLXCKPUNKS",
+          "apple_music": "https://music.apple.com/us/artist/blxckpunks/1804210686",
+          "spotify": "https://open.spotify.com/artist/7dRay78y8e4zBWHpsD4jW8",
+          "confidence": 1.0,
+          "matched": "BLXCKPUNKS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Daddy's Home Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-30",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1694867/snotty-nose-rez-kids-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/snotty-nose-rez-kids-tickets-1694867",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "French 79",
           "apple_music": "https://music.apple.com/us/artist/french-79/931540150",
           "spotify": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e",
@@ -2337,18 +2369,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 100,
-      "found": 90,
-      "exact": 83,
+      "unique_artists": 103,
+      "found": 93,
+      "exact": 86,
       "close": 2,
       "flagged": 5,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 100,
-      "linked": 85,
+      "unique_artists": 103,
+      "linked": 88,
       "venue": 0,
-      "api": 85,
+      "api": 88,
       "feed": 0,
       "shows_with_link": 53
     }

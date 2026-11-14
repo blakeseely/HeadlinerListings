@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 44,
+  "scraped_at": "2026-11-14",
+  "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Party Girl",
-          "apple_music": "https://music.apple.com/us/artist/party-girl/296263828",
-          "spotify": "https://open.spotify.com/artist/4S0EgUnEI7PY2pRaeavIPx",
-          "confidence": 1.0,
-          "matched": "Party Girl",
-          "apple_label": null,
-          "spotify_label": "close match: PartyGirl",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "A Night Of Party Girl Anthems",
-      "presenters": [
-        "presented by Lights and Music"
-      ],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/66131609/party-girl-a-night-of-party-girl-anthems-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-13-party-girl-a-night-of-party-girl-anthems",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -922,6 +889,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "FINGER HEART: THE K-POP NIGHT",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.167,
+          "matched": null,
+          "apple_label": "no confident match (closest: GFRIEND @ 17%)",
+          "spotify_label": "no confident match (closest: FIFTY FIFTY @ 20%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "What The Dance Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/62355048/finger-heart-the-k-pop-night-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-17-finger-heart-the-k-pop-night",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "SATISFACTION (EDM Throwbacks Party)",
           "apple_music": "https://music.apple.com/us/artist/satisfaction/1530865495",
           "spotify": "https://open.spotify.com/artist/0kXsWGCbC0OD0LSenvtH8v",
@@ -1412,6 +1412,37 @@
       "description": null
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Video Game Rave",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.438,
+          "matched": null,
+          "apple_label": "no confident match (closest: Chance the Rapper @ 44%)",
+          "spotify_label": "no confident match (closest: Game Garage @ 62%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-25",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/86054663/video-game-rave-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-03-25-video-game-rave",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "comedy",
       "needs_review": false,
       "headline_artists": [
@@ -1546,26 +1577,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40,
+      "music": 41,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 52,
-      "found": 25,
-      "exact": 20,
+      "unique_artists": 53,
+      "found": 24,
+      "exact": 19,
       "close": 1,
       "flagged": 4,
-      "not_found": 27
+      "not_found": 29
     },
     "spotify": {
-      "unique_artists": 52,
-      "linked": 26,
+      "unique_artists": 53,
+      "linked": 25,
       "venue": 0,
-      "api": 26,
+      "api": 25,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 20
     }
   }
 }

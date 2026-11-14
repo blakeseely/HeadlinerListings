@@ -36,123 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 28,
+  "scraped_at": "2026-11-14",
+  "count": 26,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Cero Viejo",
-          "apple_music": "https://music.apple.com/us/artist/cero-viejo/1395254348",
-          "spotify": "https://open.spotify.com/artist/76NMcZBvgvWHoQqMpwt0ni",
-          "confidence": 1.0,
-          "matched": "Cero Viejo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "1967",
-          "apple_music": "https://music.apple.com/us/artist/1967/455092642",
-          "spotify": "https://open.spotify.com/artist/4bGNNudxpKaU9RX53483NR",
-          "confidence": 1.0,
-          "matched": "1967",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "The Legend Of",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.667,
-          "matched": null,
-          "apple_label": "no confident match (closest: John Legend @ 67%)",
-          "spotify_label": "no confident match (closest: Legends of Avantris @ 56%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "4:00 pm",
-      "show_time": "4:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/cero-viejo-13-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Los Mal Hablados",
-          "apple_music": "https://music.apple.com/us/artist/los-mal-hablados/1745351028",
-          "spotify": "https://open.spotify.com/artist/7c15bV1dMnkbBZ0gUqPQLj",
-          "confidence": 1.0,
-          "matched": "Los Mal Hablados",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Bill SKAsby",
-          "apple_music": "https://music.apple.com/us/artist/bill-skasby/1687004224",
-          "spotify": "https://open.spotify.com/artist/3abUkne8q0NVac3gAwkIXu",
-          "confidence": 1.0,
-          "matched": "Bill Skasby",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Del Sol",
-          "apple_music": "https://music.apple.com/us/artist/del-sol/1649127766",
-          "spotify": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6",
-          "confidence": 1.0,
-          "matched": "Del Sol",
-          "apple_label": null,
-          "spotify_label": "close match: De La Soul",
-          "spotify_source": "api"
-        },
-        {
-          "name": "Last Thread",
-          "apple_music": "https://music.apple.com/us/artist/last-thread/1536796382",
-          "spotify": "https://open.spotify.com/artist/27SM8E1KggPatL7SmYJ13a",
-          "confidence": 1.0,
-          "matched": "Last Thread",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "8:00 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/los-mal-hablados-13-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1408,26 +1294,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 26,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 76,
-      "found": 63,
-      "exact": 59,
+      "unique_artists": 69,
+      "found": 57,
+      "exact": 53,
       "close": 1,
       "flagged": 3,
-      "not_found": 13
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 76,
-      "linked": 61,
+      "unique_artists": 69,
+      "linked": 55,
       "venue": 0,
-      "api": 61,
+      "api": 55,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 20
     }
   }
 }

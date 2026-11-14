@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 110,
+  "scraped_at": "2026-11-14",
+  "count": 108,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Holly Bowling",
-          "apple_music": "https://music.apple.com/us/artist/holly-bowling/1029218179",
-          "spotify": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r",
-          "confidence": 1.0,
-          "matched": "Holly Bowling",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.sfjazz.org/tickets/productions/26-27/holly-bowling/",
-      "ticket_status": null,
-      "event_page": "https://www.sfjazz.org/tickets/productions/26-27/holly-bowling/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stanley Clarke and Ron Carter",
-          "apple_music": "https://music.apple.com/us/artist/stanley-clarke/544227",
-          "spotify": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05",
-          "confidence": 0.95,
-          "matched": "Stanley Clarke",
-          "apple_label": "compound bill — links to Stanley Clarke only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.sfjazz.org/tickets/productions/26-27/stanley-clarke-and-ron-carter/",
-      "ticket_status": null,
-      "event_page": "https://www.sfjazz.org/tickets/productions/26-27/stanley-clarke-and-ron-carter/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3452,7 +3390,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 110,
+      "music": 108,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -3471,7 +3409,7 @@
       "venue": 0,
       "api": 50,
       "feed": 0,
-      "shows_with_link": 83
+      "shows_with_link": 81
     }
   }
 }

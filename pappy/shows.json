@@ -36,52 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 57,
+  "scraped_at": "2026-11-14",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rich Medina",
-          "apple_music": "https://music.apple.com/us/artist/rich-medina/14049668",
-          "spotify": "https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF",
-          "confidence": 1.0,
-          "matched": "Rich Medina",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Fela Kuti",
-          "apple_music": "https://music.apple.com/us/artist/fela-kuti/55088",
-          "spotify": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR",
-          "confidence": 1.0,
-          "matched": "Fela Kuti",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/fela-forever/706122",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/fela-forever/706122",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -122,7 +79,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/stop-light-observations/692369",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1619,7 +1576,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-29",
       "doors": "8:30 pm",
@@ -1628,7 +1587,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/angela-autumn/706652",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2224,26 +2183,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 57,
+      "music": 56,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 87,
-      "found": 81,
-      "exact": 75,
+      "unique_artists": 85,
+      "found": 79,
+      "exact": 73,
       "close": 1,
       "flagged": 5,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 87,
-      "linked": 78,
+      "unique_artists": 85,
+      "linked": 76,
       "venue": 0,
-      "api": 78,
+      "api": 76,
       "feed": 0,
-      "shows_with_link": 55
+      "shows_with_link": 54
     }
   }
 }

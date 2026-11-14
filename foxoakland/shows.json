@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 33,
+  "scraped_at": "2026-11-14",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tyla",
-          "apple_music": "https://music.apple.com/us/artist/tyla/1552925732",
-          "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE",
-          "confidence": 1.0,
-          "matched": "Tyla",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Show Moved to the Fox Theater — THE A*POP WORLD TOUR",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/tyla-the-apop-world-tour-moved-oakland-california-11-13-2026/event/1C0064F528DDDB2A?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/tyla-261113",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Our show with Tyla at the Bill Graham Civic Auditorium on November 13 has been moved to the Fox Theater Oakland on the same date.  Hold on to your tickets! All tickets for the originally scheduled showwill be honored at the Fox Theater as General Admission tickets. We thank you for understanding and look forward to seeing you at the show!",
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1154,7 +1123,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketmaster.com/tinashe-the-show-must-go-on-oakland-california-05-14-2027/event/1C00654FEC4F94CF?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://thefoxoakland.com/events/tinashe-270514",
       "room": null,
       "age_rating": "all ages",
@@ -1237,26 +1206,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 29,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
-      "found": 37,
-      "exact": 35,
+      "unique_artists": 37,
+      "found": 36,
+      "exact": 34,
       "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 38,
-      "linked": 38,
-      "venue": 34,
+      "unique_artists": 37,
+      "linked": 37,
+      "venue": 33,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

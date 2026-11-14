@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 105,
+  "scraped_at": "2026-11-14",
+  "count": 104,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Foy Vance",
-          "apple_music": "https://music.apple.com/us/artist/foy-vance/68235486",
-          "spotify": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu",
-          "confidence": 1.0,
-          "matched": "Foy Vance",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Celebrating \"The Wake\" And The Songs of \"If\"",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/foy-vance/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/foy-vance/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -3492,26 +3461,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 77,
+      "music": 76,
       "comedy": 22,
       "film": 0,
       "other": 6
     },
     "apple_music": {
-      "unique_artists": 98,
-      "found": 83,
-      "exact": 72,
+      "unique_artists": 97,
+      "found": 82,
+      "exact": 71,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 98,
-      "linked": 81,
+      "unique_artists": 97,
+      "linked": 80,
       "venue": 0,
-      "api": 81,
+      "api": 80,
       "feed": 0,
-      "shows_with_link": 80
+      "shows_with_link": 79
     }
   }
 }

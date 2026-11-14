@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 47,
+  "scraped_at": "2026-11-14",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Hails",
-          "apple_music": "https://music.apple.com/us/artist/the-hails/1257472077",
-          "spotify": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT",
-          "confidence": 1.0,
-          "matched": "The Hails",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Meldrop",
-          "apple_music": "https://music.apple.com/us/artist/meldrop/1719163386",
-          "spotify": "https://open.spotify.com/artist/5LF6dG14gN6is7tby6bqRR",
-          "confidence": 1.0,
-          "matched": "Meldrop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Popscene + Rickshaw Stop co-present"
-      ],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.eventim.us/event/the-hails/696075",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.eventim.us/event/the-hails/696075",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -173,8 +129,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Baldgirl",
+          "apple_music": "https://music.apple.com/us/artist/baldgirl/6777200242",
+          "spotify": "https://open.spotify.com/artist/3rwJKHwCcLgdW7jIwrROU3",
+          "confidence": 1.0,
+          "matched": "Baldgirl",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "popscene + rickshaw stop co-presents"
@@ -441,7 +408,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "NIKO RUBIO",
+          "name": "Niko Rubio",
           "apple_music": "https://music.apple.com/us/artist/niko-rubio/1301992136",
           "spotify": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa",
           "confidence": 1.0,
@@ -451,10 +418,23 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Olivia C Dacal",
+          "apple_music": "https://music.apple.com/us/artist/olivia-c-dacal/1578051452",
+          "spotify": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa",
+          "confidence": 0.9,
+          "matched": "Olivia C. Dacal",
+          "apple_label": "close match: Olivia C. Dacal",
+          "spotify_label": "close match: Olivia C. Dacal",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Popscene + Rickshaw Stop co-present"
+      ],
       "set_format": null,
       "date": "2026-12-04",
       "doors": "8:00 pm",
@@ -463,7 +443,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/niko-rubio/705835",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1017,7 +997,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/opal-in-sky/709725",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/opal-in-sky/709725",
       "room": null,
       "age_rating": null,
@@ -1296,7 +1276,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/the-body-and-cel-genesis/710431",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-body-and-cel-genesis/710431",
       "room": null,
       "age_rating": null,
@@ -1358,7 +1338,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.eventim.us/event/priya-ragu/709986",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/priya-ragu/709986",
       "room": null,
       "age_rating": null,
@@ -1647,7 +1627,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 46,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1655,9 +1635,9 @@
     "apple_music": {
       "unique_artists": 59,
       "found": 49,
-      "exact": 48,
+      "exact": 47,
       "close": 0,
-      "flagged": 1,
+      "flagged": 2,
       "not_found": 10
     },
     "spotify": {
@@ -1666,7 +1646,7 @@
       "venue": 0,
       "api": 51,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 39
     }
   }
 }

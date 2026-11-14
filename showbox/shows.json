@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 54,
+  "scraped_at": "2026-11-14",
+  "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Inna",
-          "apple_music": "https://music.apple.com/us/artist/inna/269986851",
-          "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8",
-          "confidence": 1.0,
-          "matched": "INNA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1321052/inna-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1321052",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1551,7 +1520,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1695639/grace-potter-the-trespassers-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1695639",
       "room": null,
       "age_rating": "21 & Over",
@@ -1865,7 +1834,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1694858/royal-blood-north-america-2027-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1694858",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2064,7 +2033,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1694757/whitney-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1694757",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2178,26 +2147,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 86,
-      "exact": 76,
+      "unique_artists": 96,
+      "found": 85,
+      "exact": 75,
       "close": 1,
       "flagged": 9,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 87,
+      "unique_artists": 96,
+      "linked": 86,
       "venue": 0,
-      "api": 87,
+      "api": 86,
       "feed": 0,
-      "shows_with_link": 49
+      "shows_with_link": 48
     }
   }
 }

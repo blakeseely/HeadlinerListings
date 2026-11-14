@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "count": 34,
   "shows": [
     {
@@ -54,15 +54,26 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Massane",
+          "apple_music": "https://music.apple.com/us/artist/massane/1501382966",
+          "spotify": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz",
+          "confidence": 1.0,
+          "matched": "Massane",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "keep me awake tour",
       "presenters": [
         "Showbox Presents"
       ],
       "set_format": null,
       "date": "2026-11-14",
-      "doors": "7:00 pm",
+      "doors": "8:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/41805731/niminokeep-me-awake-tour-portland-roseland-theater?partner_id=100",
       "ticket_status": "on sale",
@@ -778,7 +789,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.etix.com/ticket/p/33843416/smith-myers-early-entry-package-addon-entry-ticket-not-included-portland-roseland-theater?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://roselandpdx.com/event/smith-myers-early-entry-package-add-on-entry-ticket-not-included/roseland-theater/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -1256,7 +1267,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/78177897/clutchgive-the-people-what-they-want-portland-roseland-theater?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://roselandpdx.com/event/clutch-give-the-people-what-they-want/roseland-theater/portland-oregon/",
       "room": null,
       "age_rating": "All Ages",
@@ -1685,18 +1696,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 76,
-      "found": 69,
-      "exact": 65,
+      "unique_artists": 77,
+      "found": 70,
+      "exact": 66,
       "close": 1,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 76,
-      "linked": 71,
+      "unique_artists": 77,
+      "linked": 72,
       "venue": 0,
-      "api": 71,
+      "api": 72,
       "feed": 0,
       "shows_with_link": 32
     }

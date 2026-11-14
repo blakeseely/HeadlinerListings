@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "count": 127,
   "shows": [
-    {
-      "event_type": "other",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "World Ballet Company – Swan Lake",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Swan Lake @ 70%)",
-          "spotify_label": "no confident match (closest: George Balanchine's The Nutcracker @ 39%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/world-ballet-company-swan-lake/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/world-ballet-company-swan-lake/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -957,6 +926,37 @@
       "event_page": "https://www.stgpresents.org/events/angine-de-poitrine/",
       "room": null,
       "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Victoria Monét",
+          "apple_music": "https://music.apple.com/us/artist/victoria-mon%C3%A9t/540070252",
+          "spotify": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv",
+          "confidence": 1.0,
+          "matched": "Victoria Monét",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Frequency of Love Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-14",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/victoria-monet/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/victoria-monet/",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -4138,26 +4138,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 46,
       "comedy": 7,
       "film": 0,
-      "other": 75
+      "other": 74
     },
     "apple_music": {
       "unique_artists": 65,
-      "found": 47,
-      "exact": 41,
+      "found": 48,
+      "exact": 42,
       "close": 1,
       "flagged": 5,
-      "not_found": 18
+      "not_found": 17
     },
     "spotify": {
       "unique_artists": 65,
-      "linked": 48,
+      "linked": 49,
       "venue": 0,
-      "api": 48,
+      "api": 49,
       "feed": 0,
-      "shows_with_link": 99
+      "shows_with_link": 100
     }
   }
 }

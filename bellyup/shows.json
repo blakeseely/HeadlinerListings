@@ -36,81 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 127,
+  "scraped_at": "2026-11-14",
+  "count": 125,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Atomic Groove's Peace . Love . Gratitude Dance Party Happy Hour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Atomic Space @ 32%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-peace-love-belly-up-tickets/14999933?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14999933/atomic-grooves-peace-love-gratitude-dance-party-happy-hour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "As we head into the home stretch of 2026, with holiday season right around the corner, we all sure could use a little bit of peace... a big dose of love.... and whole lotta gratitude in our lives, yes? So bring your compassionate soul, open heart and deep appreciation and get on the floor and Dance It Out with us at this \"Peace . Gratitude\" Dance Party Happy Hour. We'll tip our hats to the noble spirits who have served our country in honor of Veterans Day. Thank you for your service! We'll feature our AG guests who will generously offer their robust talent: AG Conga Girl Monette and AG vocalist Mark Jones. The ever-evolving Performer Studentz from the Carrie Weiland Fitness/AG Fly Girlz Dance Class will take the stage for a few songs with their always evolving performance skills. Atomic Girl Carrie, the AG Fly Girlz and the entire AG band will deliver with their consistently unifying experience they always provide at these Happy Hours, for the past 20+ years! Wanna learn to dance like an Atomic Groove Fly Girl? Come take an AG Fly Girlz Dance Class, taught by Atomic Girl Carrie of Carrie Weiland Fitness. Held at locally-owned boutique fitness facility MB Fit Studio in Solana Beach. Class is held every Tuesday at 630p, Select Saturdays at 1230p (next ones: Nov. Series #20 in porgress and tuns thru Decemeber. All levels welcome, any time, no dance experience needed. The routine is taught and re-taught progressively in sections, so drop in any time. Maybe even work towards getting on stage?!"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "apple_music": "https://music.apple.com/us/artist/donavon-frankenreiter/6384326",
-          "spotify": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda",
-          "confidence": 1.0,
-          "matched": "Donavon Frankenreiter",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "The Band Of Heathens",
-          "apple_music": "https://music.apple.com/us/artist/the-band-of-heathens/206314772",
-          "spotify": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7",
-          "confidence": 1.0,
-          "matched": "The Band of Heathens",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": "Rolling Together Revue",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275514?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14275514/donavon-frankenreiter-the-band-of-heathens-rolling-together-revue",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2444,7 +2372,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-mountain-goats-solo-belly-up-tickets/14425614?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14425614/the-mountain-goats-solo",
       "room": null,
       "age_rating": null,
@@ -2609,7 +2537,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bebel-gilberto-celebrating-belly-up-tickets/14435744?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14435744/bebel-gilberto-celebrating-25th-anniversary-of-tanto-tempo",
       "room": null,
       "age_rating": null,
@@ -3085,7 +3013,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/vincen-garca-belly-up-tickets/14409594?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14409594/vincen-garcia",
       "room": null,
       "age_rating": null,
@@ -3374,7 +3302,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/groundation-a-tribute-belly-up-tickets/14313944?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14313944/groundation-a-tribute-to-bob-marley-w-jah-ollin",
       "room": null,
       "age_rating": null,
@@ -3686,7 +3614,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-belly-up-tickets/14409544?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14409544/the-brothers-comatose",
       "room": null,
       "age_rating": null,
@@ -4350,7 +4278,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-paladins-the-44s-with-belly-up-tickets/15051743?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15051743/the-paladins-the-44s-with-special-guest-kid-ramos",
       "room": null,
       "age_rating": null,
@@ -4558,7 +4486,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/an-alleged-evening-with-conor-belly-up-tickets/14407904?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14407904/an-alleged-evening-with-conor-oberst",
       "room": null,
       "age_rating": null,
@@ -4589,7 +4517,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-sergio-mendes-band-belly-up-tickets/14409624?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14409624/the-sergio-mendes-band",
       "room": null,
       "age_rating": null,
@@ -4703,26 +4631,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 126,
+      "music": 124,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 173,
+      "unique_artists": 172,
       "found": 128,
       "exact": 107,
       "close": 5,
       "flagged": 16,
-      "not_found": 45
+      "not_found": 44
     },
     "spotify": {
-      "unique_artists": 173,
+      "unique_artists": 172,
       "linked": 132,
       "venue": 0,
       "api": 132,
       "feed": 0,
-      "shows_with_link": 93
+      "shows_with_link": 92
     }
   }
 }

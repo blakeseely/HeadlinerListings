@@ -36,81 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 32,
+  "scraped_at": "2026-11-14",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Goddamn Gallows",
-          "apple_music": "https://music.apple.com/us/artist/the-goddamn-gallows/359528113",
-          "spotify": "https://open.spotify.com/artist/2U05isWo2NVpmgI2BF72l3",
-          "confidence": 1.0,
-          "matched": "The Goddamn Gallows",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "King Sickabilly",
-          "apple_music": "https://music.apple.com/us/artist/king-sickabilly/6797447145",
-          "spotify": "https://open.spotify.com/artist/5tuHumunp3Wpy5fiGiN29x",
-          "confidence": 1.0,
-          "matched": "KING SICKABILLY",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "1876",
-          "apple_music": "https://music.apple.com/us/artist/1876/1529186599",
-          "spotify": "https://open.spotify.com/artist/17QrBbpLM92JWcGUx0cyPb",
-          "confidence": 1.0,
-          "matched": "1876",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "The Shivering Denizens",
-          "apple_music": "https://music.apple.com/us/artist/the-shivering-denizens/340259662",
-          "spotify": "https://open.spotify.com/artist/0gg6kl3pkSOxX08D7Uwmoe",
-          "confidence": 1.0,
-          "matched": "The Shivering Denizens",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Stoned Evergreen Travelers",
-          "apple_music": "https://music.apple.com/us/artist/stoned-evergreen-travelers/1229513782",
-          "spotify": "https://open.spotify.com/artist/1V4Je1uv6GnPSnnLNmermD",
-          "confidence": 1.0,
-          "matched": "Stoned Evergreen Travelers",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/the-goddamn-gallows-13-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1856,26 +1784,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 102,
-      "found": 92,
-      "exact": 91,
+      "unique_artists": 97,
+      "found": 87,
+      "exact": 86,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 102,
-      "linked": 90,
+      "unique_artists": 97,
+      "linked": 85,
       "venue": 0,
-      "api": 90,
+      "api": 85,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 28
     }
   }
 }

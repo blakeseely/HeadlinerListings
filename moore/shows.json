@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 58,
+  "scraped_at": "2026-11-14",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brett Goldstein",
-          "apple_music": "https://music.apple.com/us/artist/brett-goldstein/976065028",
-          "spotify": "https://open.spotify.com/artist/0of3jLVERcNvUL8BbYlGB1",
-          "confidence": 1.0,
-          "matched": "Brett Goldstein",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/brett-goldstein/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/brett-goldstein/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1938,25 +1907,25 @@
   "stats": {
     "event_types": {
       "music": 33,
-      "comedy": 11,
+      "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 42,
-      "exact": 36,
+      "unique_artists": 54,
+      "found": 41,
+      "exact": 35,
       "close": 1,
       "flagged": 5,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 42,
+      "unique_artists": 54,
+      "linked": 41,
       "venue": 0,
-      "api": 42,
+      "api": 41,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 36
     }
   }
 }

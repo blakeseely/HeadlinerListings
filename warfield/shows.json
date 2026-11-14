@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 25,
+  "scraped_at": "2026-11-14",
+  "count": 24,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "KINO",
-          "apple_music": "https://music.apple.com/us/artist/kino/1139337453",
-          "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42",
-          "confidence": 1.0,
-          "matched": "Kino",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "KINO USA TOUR",
-      "presenters": [
-        "EventCartel Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1394481/kino-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1394481",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information The legendary band KINO celebrated its 40th anniversary in 2022, while Viktor Tsoi would have turned 60. For the first time ever, the band KINO is coming to the United States with a full-scale concert. Yuri Kasparyan, Igor Tikhomirov, and Alexander Titov will perform KINO’s greatest hits for over two hours, accompanied by a restored and digitally remastered voice of Viktor Tsoi. Come to the show and sing along to all the iconic KINO songs together with the entire audience!"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -760,7 +727,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1664449/melvin-seals-jgb-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.thewarfieldtheatre.com/events/detail/1664449",
       "room": null,
       "age_rating": "6+",
@@ -1184,26 +1151,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 25,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 52,
-      "found": 47,
-      "exact": 44,
+      "unique_artists": 51,
+      "found": 46,
+      "exact": 43,
       "close": 2,
       "flagged": 1,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 52,
-      "linked": 49,
+      "unique_artists": 51,
+      "linked": 48,
       "venue": 0,
-      "api": 49,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 22
     }
   }
 }

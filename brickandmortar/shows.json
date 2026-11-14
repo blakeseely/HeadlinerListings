@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 21,
+  "scraped_at": "2026-11-14",
+  "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Deante' Hitchcock",
-          "apple_music": "https://music.apple.com/us/artist/deante-hitchcock/1138908294",
-          "spotify": "https://open.spotify.com/album/1z2jPthJpowfvopTcmCJnw",
-          "confidence": 1.0,
-          "matched": "Deante' Hitchcock",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:30 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/deante-hitchcock-brick-and-mortar-music-hall-tickets/14303374?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/deante-hitchcock/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Born on March 10, 1993, a “Grady Baby” from Atlanta’s southside, Hitchcock began rapping at 12, sharpening his skills through freestyles and early mixtapes. While attending Georgia Southern University as a pre-med student, he launched his New Atlanta Tuesdays freestyle series, viral dorm-room videos that ultimately pushed him to leave school and pursue music full-time. That leap resulted in a steady run of independent projects, including 19 Summers (2012), Wishful Thinking (2015), Good (2016), and So Much for Good Luck (2017), each sharpening his reputation as a thoughtful and technically gifted MC."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -500,37 +469,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Sunshine Benzie",
-          "apple_music": "https://music.apple.com/us/artist/sunshine-benzi/1884937174",
-          "spotify": "https://open.spotify.com/artist/0qpBGpYogdqtCqzQaRtyaw",
-          "confidence": 0.966,
-          "matched": "SUNSHINE BENZI",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/sunshine-benzie-brick-and-mortar-music-hall-tickets/14375284?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/sunshine-benzie/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Nightmare of You",
           "apple_music": "https://music.apple.com/us/artist/nightmare-of-you/79565565",
           "spotify": "https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc",
@@ -804,30 +742,81 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "IGNITE",
+          "apple_music": "https://music.apple.com/us/artist/ignite/19303538",
+          "spotify": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr",
+          "confidence": 1.0,
+          "matched": "IGNITE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "YEAR OF THE COBRA",
+          "apple_music": "https://music.apple.com/us/artist/year-of-the-cobra/1476455581",
+          "spotify": "https://open.spotify.com/artist/1EVrYCCBDAobe64D8pUG0h",
+          "confidence": 1.0,
+          "matched": "Year Of The Cobra",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "MARROWER",
+          "apple_music": "https://music.apple.com/us/artist/marrower/1734074477",
+          "spotify": "https://open.spotify.com/artist/4XsZ3QS3wYQENsKXqHjiE5",
+          "confidence": 1.0,
+          "matched": "MARROWER",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/ignite-year-of-the-brick-and-mortar-music-hall-tickets/14367794?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/ignite-year-of-the-cobra-marrower/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 21,
+      "music": 20,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 32,
-      "found": 31,
-      "exact": 28,
-      "close": 2,
+      "unique_artists": 33,
+      "found": 32,
+      "exact": 30,
+      "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 32,
-      "linked": 31,
-      "venue": 15,
-      "api": 16,
+      "unique_artists": 33,
+      "linked": 32,
+      "venue": 13,
+      "api": 19,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

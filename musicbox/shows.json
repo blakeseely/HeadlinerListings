@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 41,
+  "scraped_at": "2026-11-14",
+  "count": 40,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "No Tengo Calma Tour 2026",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Calma Caribe @ 39%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "PRAYERS",
-          "apple_music": "https://music.apple.com/us/artist/prayers/436764305",
-          "spotify": "https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu",
-          "confidence": 1.0,
-          "matched": "Prayers",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "DEVORA",
-          "apple_music": "https://music.apple.com/us/artist/devora/1538033479",
-          "spotify": "https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY",
-          "confidence": 1.0,
-          "matched": "DEVORA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "EX LOVER and HALLOWS",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5IOpbLsN4gKXdOdM28EupF",
-          "confidence": 0.474,
-          "matched": null,
-          "apple_label": "no confident match (closest: Red Hot Lover Tone @ 47%)",
-          "spotify_label": "close match: Ex Lover",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "8:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/no-tengo-calma-tour-2026-music-box-tickets/15013573?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15013573/no-tengo-calma-tour-2026-featuring-prayers-devora-ex-lover-and-hallows",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Exclusive Meet & Greet: Meet the artist face-to-face before the show. Photo Opportunity: Capture the memory with a personal photo. Autographed Exclusive Merch: Take home a signed, limited-edition VIP keepsake. Available only to VIP ticket holders. 1-Hour Early Venue Entry: Beat the crowds 60 minutes before general doors open. Premiere Viewing Access: Secure the absolute best spot in the house early. First Access to Merch: Shop the tour table early and avoid the crowds."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -553,19 +491,29 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "The Emkays",
+          "apple_music": "https://music.apple.com/us/artist/the-emkays/1764545575",
+          "spotify": "https://open.spotify.com/artist/44lk4zUo0wqAIq30ylogoy",
+          "confidence": 1.0,
+          "matched": "The Emkays",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2026-12-08",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-womack-sisters-music-box-tickets/14280444?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/the-womack-sisters-the-emkays-music-box-tickets/14280444?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14280444/the-womack-sisters",
+      "event_page": "https://bellyup.com/calendar/14280444/the-womack-sisters-the-emkays",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -839,7 +787,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/seapoodle-pocket-change-music-box-tickets/14420404?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14420404/seapoodle-pocket-change",
       "room": null,
       "age_rating": null,
@@ -1109,7 +1057,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/railroad-earth-winter-music-box-tickets/14425964?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14425964/railroad-earth-winter-2027",
       "room": null,
       "age_rating": null,
@@ -1491,7 +1439,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/leo-middea-us-music-box-tickets/14381424?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14381424/leo-middea-us-canada-tour-2027",
       "room": null,
       "age_rating": null,
@@ -1533,7 +1481,7 @@
       "doors": null,
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/whitney-light-upon-music-box-tickets/14426164?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14426164/whitney-light-upon-the-lake-10th-anniversary-tour-w-tyler-ballgame",
       "room": null,
       "age_rating": null,
@@ -1585,26 +1533,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40,
+      "music": 39,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
-      "found": 52,
-      "exact": 48,
+      "unique_artists": 63,
+      "found": 51,
+      "exact": 47,
       "close": 0,
       "flagged": 4,
-      "not_found": 14
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 66,
-      "linked": 55,
+      "unique_artists": 63,
+      "linked": 53,
       "venue": 0,
-      "api": 55,
+      "api": 53,
       "feed": 0,
-      "shows_with_link": 36
+      "shows_with_link": 35
     }
   }
 }

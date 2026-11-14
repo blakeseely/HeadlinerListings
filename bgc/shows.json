@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 26,
+  "scraped_at": "2026-11-14",
+  "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sammy Virji",
-          "apple_music": "https://music.apple.com/us/artist/sammy-virji/1183045388",
-          "spotify": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb",
-          "confidence": 1.0,
-          "matched": "Sammy Virji",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sam Gellaitry",
-          "apple_music": "https://music.apple.com/us/artist/sam-gellaitry/958258124",
-          "spotify": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H",
-          "confidence": 1.0,
-          "matched": "Sam Gellaitry",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Saint Ludo",
-          "apple_music": "https://music.apple.com/us/artist/saint-ludo/1781707805",
-          "spotify": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT",
-          "confidence": 1.0,
-          "matched": "Saint Ludo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/sammy-virji-18-san-francisco-california-11-13-2026/event/1C00655AD92A87A2?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://billgrahamcivic.com/events/sammy-virji-261113-bgc",
-      "room": null,
-      "age_rating": "18+",
-      "note": null,
-      "description": "Sammy Virji is driving the evolution of UKG, as the genre takes the world by storm – again. His DJ Mag set from 2023 went extremely viral, propelling him into a new level of fame, not without reason; not only is he a masterful selector, he does it all with a massive smile on his face. He’s gone B2B with Four Tet in Liverpool, been a resident at Radio 1 (including making a renowned Essential Mix for them), and DJ Mag would later crown him Best Producer at their Best of British awards 2025. All of this, but he’s not just a sensation in the UK: across the pond, he drew one of the biggest crowds at Coachella earlier this year, while his last couple of singles have charted as far as New Zealand. His songs have tens of millions of streams each, with ‘If U Need It’ certified Gold, while his Skepta collaboration, the careening banger ‘Cops &amp; Robbers’, made the top 10 in the UK dance charts."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1139,26 +1087,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 26,
+      "music": 25,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 50,
-      "found": 40,
-      "exact": 38,
+      "unique_artists": 47,
+      "found": 37,
+      "exact": 35,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 50,
-      "linked": 41,
-      "venue": 37,
+      "unique_artists": 47,
+      "linked": 38,
+      "venue": 34,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 17
+      "shows_with_link": 16
     }
   }
 }

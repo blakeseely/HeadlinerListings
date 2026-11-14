@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 96,
+  "scraped_at": "2026-11-14",
+  "count": 95,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Whitmer Thomas",
-          "apple_music": "https://music.apple.com/us/artist/whitmer-thomas/1491347092",
-          "spotify": "https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1",
-          "confidence": 1.0,
-          "matched": "Whitmer Thomas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Clay Tatum",
-          "apple_music": "https://music.apple.com/us/artist/la-tatum/1808338805",
-          "spotify": null,
-          "confidence": 0.889,
-          "matched": "La Tatum",
-          "apple_label": "close match: La Tatum",
-          "spotify_label": "no confident match (closest: Clay Aiken @ 60%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/whitmer-thomas-the-independent-tickets/15036013?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/whitmer-thomas/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -461,8 +419,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "DWATA",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.615,
+          "matched": null,
+          "apple_label": "no confident match (closest: Big Data @ 62%)",
+          "spotify_label": "no confident match (closest: Dwaal Troupe @ 47%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Somehow It Flies US Album Tour",
       "presenters": [],
       "set_format": "Live",
@@ -3597,26 +3566,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 96,
+      "music": 95,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 137,
-      "found": 125,
-      "exact": 115,
+      "unique_artists": 136,
+      "found": 123,
+      "exact": 114,
       "close": 3,
-      "flagged": 7,
-      "not_found": 12
+      "flagged": 6,
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 137,
-      "linked": 126,
-      "venue": 87,
+      "unique_artists": 136,
+      "linked": 125,
+      "venue": 86,
       "api": 39,
       "feed": 0,
-      "shows_with_link": 93
+      "shows_with_link": 92
     }
   }
 }

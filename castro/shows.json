@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 51,
+  "scraped_at": "2026-11-14",
+  "count": 52,
   "shows": [
     {
       "event_type": "music",
@@ -1721,6 +1721,48 @@
       "needs_review": true,
       "headline_artists": [
         {
+          "name": "Goldie Boutilier",
+          "apple_music": "https://music.apple.com/us/artist/goldie-boutilier/1497564703",
+          "spotify": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5",
+          "confidence": 1.0,
+          "matched": "Goldie Boutilier",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Cailin Russo",
+          "apple_music": "https://music.apple.com/us/artist/cailin-russo/720457796",
+          "spotify": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0",
+          "confidence": 1.0,
+          "matched": "Cailin Russo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-08",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/goldie-boutilier-the-godmother-tour-san-francisco-california-05-08-2027/event/1C00656A9518ACAC?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/goldie-boutilier-270508",
+      "room": null,
+      "age_rating": null,
+      "note": "The Godmother Tour",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
           "name": "Alaska Thunderf*ck",
           "apple_music": "https://music.apple.com/us/artist/alaska-thunderfuck/594338626",
           "spotify": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy",
@@ -1865,26 +1907,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 52,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 67,
-      "found": 62,
-      "exact": 56,
+      "unique_artists": 69,
+      "found": 64,
+      "exact": 58,
       "close": 2,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 67,
-      "linked": 61,
-      "venue": 48,
+      "unique_artists": 69,
+      "linked": 63,
+      "venue": 50,
       "api": 13,
       "feed": 0,
-      "shows_with_link": 48
+      "shows_with_link": 49
     }
   }
 }

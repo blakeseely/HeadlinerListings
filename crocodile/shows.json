@@ -36,50 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 7,
+  "scraped_at": "2026-11-14",
+  "count": 6,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Son Volt",
-          "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
-          "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
-          "confidence": 1.0,
-          "matched": "Son Volt",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Kelly Willis",
-          "apple_music": "https://music.apple.com/us/artist/kelly-willis/70312",
-          "spotify": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E",
-          "confidence": 1.0,
-          "matched": "Kelly Willis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-13",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/son-volt-kelly-willis-the-crocodile-tickets/14896643",
-      "ticket_status": "sold out",
-      "event_page": "https://www.ticketweb.com/event/son-volt-kelly-willis-the-crocodile-tickets/14896643",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -289,26 +248,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 6,
+      "music": 5,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 10,
-      "found": 6,
-      "exact": 6,
+      "unique_artists": 8,
+      "found": 4,
+      "exact": 4,
       "close": 0,
       "flagged": 0,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 10,
-      "linked": 7,
+      "unique_artists": 8,
+      "linked": 5,
       "venue": 0,
-      "api": 7,
+      "api": 5,
       "feed": 0,
-      "shows_with_link": 5
+      "shows_with_link": 4
     }
   }
 }
