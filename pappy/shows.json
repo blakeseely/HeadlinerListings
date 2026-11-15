@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 56,
+  "scraped_at": "2026-11-15",
+  "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stop Light Observations",
-          "apple_music": "https://music.apple.com/us/artist/stop-light-observations/569923307",
-          "spotify": "https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ",
-          "confidence": 1.0,
-          "matched": "Stop Light Observations",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Runner and Bobby",
-          "apple_music": "https://music.apple.com/us/artist/runner-and-bobby/1472934528",
-          "spotify": "https://open.spotify.com/artist/0FWabe9guzIggBFPun2rFc",
-          "confidence": 1.0,
-          "matched": "Runner and Bobby",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/stop-light-observations/692369",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/stop-light-observations/692369",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -123,7 +79,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/boombox/690457",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1609,7 +1565,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-01-30",
       "doors": "8:30 pm",
@@ -1618,7 +1576,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/jackrabbit/708747",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2183,26 +2141,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 56,
+      "music": 55,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 85,
-      "found": 79,
-      "exact": 73,
+      "unique_artists": 83,
+      "found": 77,
+      "exact": 71,
       "close": 1,
       "flagged": 5,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 85,
-      "linked": 76,
+      "unique_artists": 83,
+      "linked": 74,
       "venue": 0,
-      "api": 76,
+      "api": 74,
       "feed": 0,
-      "shows_with_link": 54
+      "shows_with_link": 53
     }
   }
 }

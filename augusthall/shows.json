@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 46,
+  "scraped_at": "2026-11-15",
+  "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "INNA",
-          "apple_music": "https://music.apple.com/us/artist/inna/269986851",
-          "spotify": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8",
-          "confidence": 1.0,
-          "matched": "INNA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/inna-san-francisco-california-11-14-2026/event/1C006443CD36ECA8",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/inna/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1589,26 +1558,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 45,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 42,
-      "found": 34,
-      "exact": 31,
+      "unique_artists": 41,
+      "found": 33,
+      "exact": 30,
       "close": 0,
       "flagged": 3,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 42,
-      "linked": 34,
+      "unique_artists": 41,
+      "linked": 33,
       "venue": 0,
-      "api": 34,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 29
     }
   }
 }

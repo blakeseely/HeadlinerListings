@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
+  "scraped_at": "2026-11-15",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Denise Julia",
-          "apple_music": "https://music.apple.com/us/artist/denise-julia/1524523313",
-          "spotify": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD",
-          "confidence": 1.0,
-          "matched": "Denise Julia",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/denise-julia-brick-and-mortar-music-hall-tickets/14283244?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "sold out",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/denise-julia/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -793,6 +762,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nueve Lio",
+          "apple_music": "https://music.apple.com/us/artist/nueve-lio/1475405952",
+          "spotify": "https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI",
+          "confidence": 1.0,
+          "matched": "Nueve Lio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Night 1",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nueve-lio-night-brick-and-mortar-music-hall-tickets/14380444?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "sold out",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/nueve-lio-night-1/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -813,8 +813,8 @@
     "spotify": {
       "unique_artists": 33,
       "linked": 32,
-      "venue": 13,
-      "api": 19,
+      "venue": 14,
+      "api": 18,
       "feed": 0,
       "shows_with_link": 19
     }

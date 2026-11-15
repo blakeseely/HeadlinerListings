@@ -36,63 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 33,
+  "scraped_at": "2026-11-15",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Headache",
-          "apple_music": "https://music.apple.com/us/artist/headache/1687506316",
-          "spotify": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH",
-          "confidence": 1.0,
-          "matched": "Headache",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Baba Stiltz",
-          "apple_music": "https://music.apple.com/us/artist/baba-stiltz/426338387",
-          "spotify": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF",
-          "confidence": 1.0,
-          "matched": "Baba Stiltz",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "amr*",
-          "apple_music": "https://music.apple.com/us/artist/amr/996234727",
-          "spotify": "https://open.spotify.com/artist/0kF6bJSd6U5gn9jgl7rPdI",
-          "confidence": 1.0,
-          "matched": "AMR*",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Oh Dear World",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAABnA6XAAgAAAAAf%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1447645",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1428,26 +1374,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 55,
-      "exact": 54,
+      "unique_artists": 54,
+      "found": 52,
+      "exact": 51,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 57,
-      "linked": 55,
+      "unique_artists": 54,
+      "linked": 52,
       "venue": 0,
-      "api": 52,
+      "api": 49,
       "feed": 3,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

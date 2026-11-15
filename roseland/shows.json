@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 34,
+  "scraped_at": "2026-11-15",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "nimino",
-          "apple_music": "https://music.apple.com/us/artist/nimino/955907712",
-          "spotify": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV",
-          "confidence": 1.0,
-          "matched": "nimino",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Massane",
-          "apple_music": "https://music.apple.com/us/artist/massane/1501382966",
-          "spotify": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz",
-          "confidence": 1.0,
-          "matched": "Massane",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "keep me awake tour",
-      "presenters": [
-        "Showbox Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "8:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/41805731/niminokeep-me-awake-tour-portland-roseland-theater?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://roselandpdx.com/event/nimino-keep-me-awake-tour/roseland-theater/portland-oregon/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1690,26 +1646,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 77,
-      "found": 70,
-      "exact": 66,
+      "unique_artists": 75,
+      "found": 68,
+      "exact": 64,
       "close": 1,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 77,
-      "linked": 72,
+      "unique_artists": 75,
+      "linked": 70,
       "venue": 0,
-      "api": 72,
+      "api": 70,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

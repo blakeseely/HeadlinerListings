@@ -36,84 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 45,
+  "scraped_at": "2026-11-15",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "[BOO’D UP] THA RNB NITE",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Nitepunk @ 26%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/63626014/boo-d-up-tha-rnb-nite-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-14-boo-d-up-tha-rnb-nite",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Peach Tree Rascals: The Shine4ya Tour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Peach Tree Rascals @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Michael Sneed",
-          "apple_music": "https://music.apple.com/us/artist/michael-sneed/214823634",
-          "spotify": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl",
-          "confidence": 1.0,
-          "matched": "Michael Sneed",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "EARLY SHOW!",
-      "presenters": [
-        "Holocene Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "5:00 pm",
-      "show_time": "6:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/53566247/peach-tree-rascals-the-shine4ya-tour-w-michael-sneed-early-show-all-ages-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-14-peach-tree-rascals-the-shine4ya-tour-w-michael-sneed-early-show",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1577,26 +1502,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 39,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 53,
-      "found": 24,
-      "exact": 19,
+      "unique_artists": 50,
+      "found": 23,
+      "exact": 18,
       "close": 1,
       "flagged": 4,
-      "not_found": 29
+      "not_found": 27
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 25,
+      "unique_artists": 50,
+      "linked": 24,
       "venue": 0,
-      "api": 25,
+      "api": 24,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

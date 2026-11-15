@@ -36,52 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 55,
+  "scraped_at": "2026-11-15",
+  "count": 54,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Russian Circles",
-          "apple_music": "https://music.apple.com/us/artist/russian-circles/145624352",
-          "spotify": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF",
-          "confidence": 1.0,
-          "matched": "Russian Circles",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Primitive Man",
-          "apple_music": "https://music.apple.com/us/artist/primitive-man/419043546",
-          "spotify": "https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx",
-          "confidence": 1.0,
-          "matched": "Primitive Man",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "True West Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "6:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/90924962/russian-circles-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/277467-russian-circles/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Halfway through the four-year touring cycle for their eighth full-length record Gnosis , Chicago-based instrumental trio Russian Circles hit the two-decade anniversary of their formation. One might expect a band to capitalize on such a major milestone. Instead, guitarist Mike Sullivan, drummer Dave Turncrantz, and bassist/keyboardist Brian Cook spent 2024 unceremoniously touring in support of their most recent album across Australia, South America, Europe, and North America. After all, this is the work ethic that built Russian Circles into one of the biggest heavy instrumental rock bands in the world. This is a band with no hit songs. No fan consensus on their best album. Just a reputation for consistency and quality. Not that things haven’t changed in the last 22 years. The band is now spread out between Chicago, Los Angeles, and a rural island off the coast of Seattle. While the trio insists their music is a confluence of broad-ranging influences-the formidable Touch & Go artists of the Midwest, the prog giants of late ’60s and early ’70s England, the hypnotic motorik and kosmische grooves of West Germany, the international underground’s most caustic strains of metal-it is fair to say Russian Circles’ adventurous diversity has evolved into its own distinct sound. As one of the notoriously press-shy members anonymously mentioned, “the music we make is a collective process of reconciliation, navigation, and reflection upon aging both as individuals and as a creative entity. L"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -526,7 +483,7 @@
     },
     {
       "event_type": "music",
-      "needs_review": false,
+      "needs_review": true,
       "headline_artists": [
         {
           "name": "Buffalo Traffic Jam",
@@ -537,12 +494,34 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Easy Honey",
+          "apple_music": "https://music.apple.com/us/artist/easy-honey/1371966562",
+          "spotify": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj",
+          "confidence": 1.0,
+          "matched": "Easy Honey",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "\"December to Remember\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: A Day to Remember @ 70%)",
+          "spotify_label": "no confident match (closest: December Joy @ 59%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "94/7FM KNRK presents"
+      ],
       "set_format": null,
       "date": "2026-12-06",
       "doors": "6:30 pm",
@@ -2031,26 +2010,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 75,
-      "found": 51,
-      "exact": 50,
+      "unique_artists": 74,
+      "found": 50,
+      "exact": 49,
       "close": 1,
       "flagged": 0,
       "not_found": 24
     },
     "spotify": {
-      "unique_artists": 75,
-      "linked": 53,
+      "unique_artists": 74,
+      "linked": 52,
       "venue": 0,
-      "api": 53,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

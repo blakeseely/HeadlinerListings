@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 104,
+  "scraped_at": "2026-11-15",
+  "count": 102,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ron Funches",
-          "apple_music": "https://music.apple.com/us/artist/ron-funches/443281931",
-          "spotify": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP",
-          "confidence": 1.0,
-          "matched": "Ron Funches",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/ron-funches/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/ron-funches/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ron Funches",
-          "apple_music": "https://music.apple.com/us/artist/ron-funches/443281931",
-          "spotify": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP",
-          "confidence": 1.0,
-          "matched": "Ron Funches",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "9:45 pm",
-      "ticket_link": "https://www.stgpresents.org/events/ron-funches/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/ron-funches/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3462,25 +3400,25 @@
   "stats": {
     "event_types": {
       "music": 76,
-      "comedy": 22,
+      "comedy": 20,
       "film": 0,
       "other": 6
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 82,
-      "exact": 71,
+      "unique_artists": 96,
+      "found": 81,
+      "exact": 70,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 80,
+      "unique_artists": 96,
+      "linked": 79,
       "venue": 0,
-      "api": 80,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 79
+      "shows_with_link": 77
     }
   }
 }

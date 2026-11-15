@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 58,
+  "scraped_at": "2026-11-15",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sueco",
-          "apple_music": "https://music.apple.com/us/artist/sueco/1458454556",
-          "spotify": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD",
-          "confidence": 1.0,
-          "matched": "Sueco",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Jeris Johnson",
-          "apple_music": "https://music.apple.com/us/artist/jeris-johnson/1469637514",
-          "spotify": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq",
-          "confidence": 1.0,
-          "matched": "Jeris Johnson",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Port London",
-          "apple_music": "https://music.apple.com/us/artist/port-london/1746425275",
-          "spotify": "https://open.spotify.com/artist/4hvH07yUsAeYBO5KeyAefq",
-          "confidence": 1.0,
-          "matched": "Port London",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Party's Over Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1520137/sueco-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/sueco-tickets-1520137",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2363,26 +2311,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 58,
+      "music": 57,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 103,
-      "found": 93,
-      "exact": 86,
+      "unique_artists": 100,
+      "found": 90,
+      "exact": 83,
       "close": 2,
       "flagged": 5,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 103,
-      "linked": 88,
+      "unique_artists": 100,
+      "linked": 85,
       "venue": 0,
-      "api": 88,
+      "api": 85,
       "feed": 0,
-      "shows_with_link": 53
+      "shows_with_link": 52
     }
   }
 }

@@ -36,50 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 125,
+  "scraped_at": "2026-11-15",
+  "count": 124,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "apple_music": "https://music.apple.com/us/artist/donavon-frankenreiter/6384326",
-          "spotify": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda",
-          "confidence": 1.0,
-          "matched": "Donavon Frankenreiter",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "The Band Of Heathens",
-          "apple_music": "https://music.apple.com/us/artist/the-band-of-heathens/206314772",
-          "spotify": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7",
-          "confidence": 1.0,
-          "matched": "The Band of Heathens",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": "Rolling Together Revue",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/donavon-frankenreiter-the-band-belly-up-tickets/14275554?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14275554/donavon-frankenreiter-the-band-of-heathens-rolling-together-revue",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -218,7 +177,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bertha-grateful-drag-the-belly-up-tickets/14989283?REFID=bupwebsite",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14989283/bertha-grateful-drag-the-worlds-first-all-drag-grateful-dead-tribute-band",
       "room": null,
       "age_rating": null,
@@ -4631,26 +4590,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 124,
+      "music": 123,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 172,
-      "found": 128,
-      "exact": 107,
+      "unique_artists": 170,
+      "found": 126,
+      "exact": 105,
       "close": 5,
       "flagged": 16,
       "not_found": 44
     },
     "spotify": {
-      "unique_artists": 172,
-      "linked": 132,
+      "unique_artists": 170,
+      "linked": 130,
       "venue": 0,
-      "api": 132,
+      "api": 130,
       "feed": 0,
-      "shows_with_link": 92
+      "shows_with_link": 91
     }
   }
 }

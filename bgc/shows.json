@@ -36,101 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 25,
+  "scraped_at": "2026-11-15",
+  "count": 24,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "WORSHIP",
-          "apple_music": "https://music.apple.com/us/artist/worship/201702397",
-          "spotify": "https://open.spotify.com/artist/6HYVC0sJVnVnsVmuH0Ofre",
-          "confidence": 1.0,
-          "matched": "Worship",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sub Focus",
-          "apple_music": "https://music.apple.com/us/artist/sub-focus/152742627",
-          "spotify": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO",
-          "confidence": 1.0,
-          "matched": "Sub Focus",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Dimension",
-          "apple_music": "https://music.apple.com/us/artist/dimension/1074396362",
-          "spotify": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S",
-          "confidence": 1.0,
-          "matched": "Dimension",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Culture Shock",
-          "apple_music": "https://music.apple.com/us/artist/culture-shock/79427524",
-          "spotify": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE",
-          "confidence": 1.0,
-          "matched": "Culture Shock",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "1991",
-          "apple_music": "https://music.apple.com/us/artist/1991/565639242",
-          "spotify": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy",
-          "confidence": 1.0,
-          "matched": "1991",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Blossom",
-          "apple_music": "https://music.apple.com/us/artist/blossom/147379525",
-          "spotify": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V",
-          "confidence": 1.0,
-          "matched": "Blossom",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "Dr. Apollo",
-          "apple_music": "https://music.apple.com/us/artist/dr-apollo/899399145",
-          "spotify": "https://open.spotify.com/artist/4xHEkCHn10iWmknnkVUj62",
-          "confidence": 1.0,
-          "matched": "Dr. Apollo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/worship-north-american-2026-18-san-francisco-california-11-14-2026/event/1C0064D2D6A9502B?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://billgrahamcivic.com/events/worship-261114",
-      "room": null,
-      "age_rating": "18+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1087,26 +995,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 25,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 47,
-      "found": 37,
-      "exact": 35,
+      "unique_artists": 40,
+      "found": 30,
+      "exact": 28,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 47,
-      "linked": 38,
-      "venue": 34,
-      "api": 4,
+      "unique_artists": 40,
+      "linked": 31,
+      "venue": 28,
+      "api": 3,
       "feed": 0,
-      "shows_with_link": 16
+      "shows_with_link": 15
     }
   }
 }

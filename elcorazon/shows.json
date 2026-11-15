@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
+  "scraped_at": "2026-11-15",
   "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Punchis Punchis",
-          "apple_music": "https://music.apple.com/us/artist/punchis-punchis/1644942706",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Punchis Punchis",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: PUNCHING BAG @ 52%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Banda Rave Experience",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/punchis-punchis-banda-rave-experience-15-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -998,6 +967,37 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/rain-city-doom-fest-2026-day-2-19-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Punchis Punchis",
+          "apple_music": "https://music.apple.com/us/artist/punchis-punchis/1644942706",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Punchis Punchis",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: PUNCHING BAG @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Banda Rave Experience",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/punchis-punchis-banda-rave-experience-15-nov",
       "room": null,
       "age_rating": null,
       "note": null,

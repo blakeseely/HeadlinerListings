@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 40,
+  "scraped_at": "2026-11-15",
+  "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BoomBox",
-          "apple_music": "https://music.apple.com/us/artist/boombox/798799615",
-          "spotify": "https://open.spotify.com/artist/3UBLa2huRORV0HmGQq3fGs",
-          "confidence": 1.0,
-          "matched": "BoomBox",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DGTL CLR",
-          "apple_music": "https://music.apple.com/us/artist/dgtl-clr/1243659872",
-          "spotify": "https://open.spotify.com/artist/4eTrlSe3Vg6Dh5Unjc263k",
-          "confidence": 1.0,
-          "matched": "Dgtl Clr",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Fall Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14891513/boombox-fall-tour-2026-w-dgtl-clr",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1533,26 +1491,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39,
+      "music": 38,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 51,
-      "exact": 47,
+      "unique_artists": 61,
+      "found": 49,
+      "exact": 45,
       "close": 0,
       "flagged": 4,
       "not_found": 12
     },
     "spotify": {
-      "unique_artists": 63,
-      "linked": 53,
+      "unique_artists": 61,
+      "linked": 51,
       "venue": 0,
-      "api": 53,
+      "api": 51,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 34
     }
   }
 }

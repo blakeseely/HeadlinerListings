@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 32,
+  "scraped_at": "2026-11-15",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Earlybirds Club",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: The Early Birds @ 67%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": null,
-      "show_time": "6:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/84477339/earlybirds-club-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://wonderballroom.com/event/earlybirds-club-6/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "ages 21 +",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1164,21 +1131,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
+      "unique_artists": 37,
       "found": 32,
       "exact": 30,
       "close": 1,
       "flagged": 1,
-      "not_found": 6
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 38,
+      "unique_artists": 37,
       "linked": 33,
       "venue": 0,
       "api": 33,

@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 34,
+  "scraped_at": "2026-11-15",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Allison Russell",
-          "apple_music": "https://music.apple.com/us/artist/allison-russell/451740458",
-          "spotify": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
-          "confidence": 1.0,
-          "matched": "Allison Russell",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ganessa James",
-          "apple_music": "https://music.apple.com/us/artist/ganessa-james/922323212",
-          "spotify": "https://open.spotify.com/artist/3fvP35iM6PUwIJ1ms3c5u5",
-          "confidence": 1.0,
-          "matched": "Ganessa James",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Caoi De Barra",
-          "apple_music": "https://music.apple.com/us/artist/caoi-de-barra/1495238941",
-          "spotify": "https://open.spotify.com/artist/2GKvfjHItOZUeQTGAwyVmk",
-          "confidence": 1.0,
-          "matched": "Caoi De Barra",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/allison-russell-san-francisco-california-11-14-2026/event/1C0065069F51D791",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/allison-russell-san-francisco-california-11-14-2026/event/1C0065069F51D791",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 6:30pm / Show 7:30pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1266,26 +1214,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 32,
-      "exact": 31,
+      "unique_artists": 32,
+      "found": 29,
+      "exact": 28,
       "close": 0,
       "flagged": 1,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 32,
+      "unique_artists": 32,
+      "linked": 29,
       "venue": 0,
-      "api": 32,
+      "api": 29,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 29
     }
   }
 }

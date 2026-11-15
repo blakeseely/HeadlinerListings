@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 52,
+  "scraped_at": "2026-11-15",
+  "count": 51,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Paul Cauthen",
-          "apple_music": "https://music.apple.com/us/artist/paul-cauthen/946906450",
-          "spotify": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp",
-          "confidence": 1.0,
-          "matched": "Paul Cauthen",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Wilder Blue",
-          "apple_music": "https://music.apple.com/us/artist/the-wilder-blue/1505504842",
-          "spotify": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD",
-          "confidence": 1.0,
-          "matched": "The Wilder Blue",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/paul-cauthen-san-francisco-california-11-14-2026/event/1C0064D8D0C858E5?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/paul-cauthen-261114",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Whether he knows it or not, every man lives by a code. And for country provocateur Paul Cauthen, that code is simple. Always bet on yourself. A singer-songwriter with a well-documented distaste for playing by anyone else’s rules, the East Texas native spent two decades clawing his way through the country underground, embodying the independent spirit with a monolithic Big Velvet vocal. Fusing classic-country grit, gospel power, and a rhinestoned rock edge, four previous albums proclaimed his singular style with a booming baritone and near-biblical swagger. Taught to sing by his grandfather in a Church of Christ, Cauthen hit the scene with the duo Sons of Fathers in 2009, before My Gospel, Room 41, Country Coming Down, and Black on Black unveiled a vulnerable, fire-and-brimstone songwriter with brazen Texas attitude – craving deliverance, yet possessed by a “bird dog” instinct for theatrical rapture. Cauthen has toured the world, collaborating with Margo Price, Orville Peck, Cody Jinks, and Lana Del Rey. And with favorites like “Cocaine Country Dancing,” “Fuck You Money,” and his GOLD-certified collab with Shaboozey on “Last Of My Kind,” he counts 442 million global streams. Cauthen’"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1115,8 +1073,8 @@
       "date": "2027-02-09",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/andrea-gibsons-love-letter-from-the-san-francisco-california-02-09-2027/event/1C006565FAFA74B5?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/andrea-gibson-270209",
       "room": null,
       "age_rating": null,
@@ -1907,26 +1865,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 51,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 69,
-      "found": 64,
-      "exact": 58,
+      "unique_artists": 67,
+      "found": 62,
+      "exact": 56,
       "close": 2,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 69,
-      "linked": 63,
-      "venue": 50,
+      "unique_artists": 67,
+      "linked": 61,
+      "venue": 48,
       "api": 13,
       "feed": 0,
-      "shows_with_link": 49
+      "shows_with_link": 48
     }
   }
 }

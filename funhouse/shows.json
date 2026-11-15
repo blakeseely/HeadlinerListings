@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 26,
+  "scraped_at": "2026-11-15",
+  "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "JADY",
-          "apple_music": "https://music.apple.com/us/artist/jady/1468801354",
-          "spotify": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1",
-          "confidence": 1.0,
-          "matched": "Jady",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "TJ Minor",
-          "apple_music": "https://music.apple.com/us/artist/tj-minor/1682399954",
-          "spotify": "https://open.spotify.com/artist/0zu3qkB9uFXeMwrtKQxr8E",
-          "confidence": 1.0,
-          "matched": "TJ Minor",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Lunar Pilots",
-          "apple_music": "https://music.apple.com/us/artist/lunar-pilots/1709007295",
-          "spotify": "https://open.spotify.com/artist/7CNLfsCiCthf8zWkU9YCTV",
-          "confidence": 1.0,
-          "matched": "Lunar Pilots",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Nosebleeds Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/jady-the-nosebleeds-tour-14-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1294,26 +1242,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 26,
+      "music": 25,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 69,
-      "found": 57,
-      "exact": 53,
+      "unique_artists": 66,
+      "found": 54,
+      "exact": 50,
       "close": 1,
       "flagged": 3,
       "not_found": 12
     },
     "spotify": {
-      "unique_artists": 69,
-      "linked": 55,
+      "unique_artists": 66,
+      "linked": 52,
       "venue": 0,
-      "api": 55,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

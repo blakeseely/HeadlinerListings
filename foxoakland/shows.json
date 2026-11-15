@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 32,
+  "scraped_at": "2026-11-15",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Bonobo",
-          "apple_music": "https://music.apple.com/us/artist/bonobo/416281071",
-          "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb",
-          "confidence": 1.0,
-          "matched": "Bonobo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "apple_music": "https://music.apple.com/us/artist/sofia-kourtesis/931699087",
-          "spotify": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf",
-          "confidence": 1.0,
-          "matched": "Sofia Kourtesis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Distance in Static Live North American Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/bonobo-distance-in-static-live-north-oakland-california-11-14-2026/event/1C0064C3371EDBB0?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/bonobo-261114",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "“Oh yeah, I guess I did do some of that stuff,” says Simon Green, as he reflects on his 25-year-plus career as the man behind the music of Bonobo. It’s a typically self-effacing response from an artist who has spent that time forging a path as one of the defining voices in electronic music. A path that along the way has seen him release two Top-10 Albums (2017’s ‘Migration’ and 2022’s ‘Fragments, which both landed at #5 on the UK chart), plus numerous Gold and Silver certified singles, sell over 900,000 records, rack up billions of streams, collaborate with the likes of Erykah Badu and Damon Albarn, and be both BRIT and GRAMMY-nominated – the latter seven times, with five in the dance/electronic categories, a record number of nominations shared with The Chemical Brothers, Skrillex and Madonna. His renowned live show – built around a full live-band, guest vocalists and immersive visuals – has also set the blueprint for how and where an electronic musician can translate their records int"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1206,26 +1164,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 29,
+      "music": 28,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 36,
-      "exact": 34,
+      "unique_artists": 35,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 37,
-      "venue": 33,
+      "unique_artists": 35,
+      "linked": 35,
+      "venue": 31,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

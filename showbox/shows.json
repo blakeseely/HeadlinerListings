@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 53,
+  "scraped_at": "2026-11-15",
+  "count": 52,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "GorillaT",
-          "apple_music": "https://music.apple.com/us/artist/gorillat/1545259749",
-          "spotify": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz",
-          "confidence": 1.0,
-          "matched": "GorillaT",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Montycler and Gensuo",
-          "apple_music": "https://music.apple.com/us/artist/montycler/1080006529",
-          "spotify": null,
-          "confidence": 0.8,
-          "matched": "MontyCler",
-          "apple_label": "compound bill — links to MontyCler only",
-          "spotify_label": "no confident match (closest: Genshin @ 30%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "INNER MIND TOUR",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "9:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.axs.com/events/1538054/gorillat-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1538054",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2147,26 +2105,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 52,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 85,
-      "exact": 75,
+      "unique_artists": 94,
+      "found": 83,
+      "exact": 74,
       "close": 1,
-      "flagged": 9,
+      "flagged": 8,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 86,
+      "unique_artists": 94,
+      "linked": 85,
       "venue": 0,
-      "api": 86,
+      "api": 85,
       "feed": 0,
-      "shows_with_link": 48
+      "shows_with_link": 47
     }
   }
 }

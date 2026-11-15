@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-14",
-  "count": 24,
+  "scraped_at": "2026-11-15",
+  "count": 23,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rhye",
-          "apple_music": "https://music.apple.com/us/artist/rhye/490808665",
-          "spotify": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN",
-          "confidence": 1.0,
-          "matched": "Rhye",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Joy Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-14",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1468105/rhye-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1468105",
-      "room": null,
-      "age_rating": "6+",
-      "note": null,
-      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1151,26 +1118,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 24,
+      "music": 23,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 51,
-      "found": 46,
-      "exact": 43,
+      "unique_artists": 50,
+      "found": 45,
+      "exact": 42,
       "close": 2,
       "flagged": 1,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 51,
-      "linked": 48,
+      "unique_artists": 50,
+      "linked": 47,
       "venue": 0,
-      "api": 48,
+      "api": 47,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 21
     }
   }
 }
