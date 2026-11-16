@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 31,
+  "scraped_at": "2026-11-16",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "2slimey",
-          "apple_music": "https://music.apple.com/us/artist/2slimey/1577410850",
-          "spotify": "https://open.spotify.com/artist/0ZXbQLu4a7sk3iQ8tlgFy4",
-          "confidence": 1.0,
-          "matched": "2slimey",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "STRAIGHT BASS Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/2slimey-straight-bass-tour-15-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1784,26 +1753,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 87,
-      "exact": 86,
+      "unique_artists": 96,
+      "found": 86,
+      "exact": 85,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 85,
+      "unique_artists": 96,
+      "linked": 84,
       "venue": 0,
-      "api": 85,
+      "api": 84,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 27
     }
   }
 }

@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 31,
+  "scraped_at": "2026-11-16",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SUECO",
-          "apple_music": "https://music.apple.com/us/artist/sueco/1458454556",
-          "spotify": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD",
-          "confidence": 1.0,
-          "matched": "Sueco",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/82030772/sueco-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "sold out",
-      "event_page": "https://wonderballroom.com/event/sueco/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": true,
@@ -1131,26 +1098,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 32,
-      "exact": 30,
+      "unique_artists": 36,
+      "found": 31,
+      "exact": 29,
       "close": 1,
       "flagged": 1,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 33,
+      "unique_artists": 36,
+      "linked": 32,
       "venue": 0,
-      "api": 33,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 27
     }
   }
 }

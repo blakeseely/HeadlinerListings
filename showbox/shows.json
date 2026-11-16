@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 52,
+  "scraped_at": "2026-11-16",
+  "count": 51,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Russian Circles",
-          "apple_music": "https://music.apple.com/us/artist/russian-circles/145624352",
-          "spotify": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF",
-          "confidence": 1.0,
-          "matched": "Russian Circles",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Primitive Man",
-          "apple_music": "https://music.apple.com/us/artist/primitive-man/419043546",
-          "spotify": "https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx",
-          "confidence": 1.0,
-          "matched": "Primitive Man",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1497540/russian-circles-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1497540",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2105,26 +2063,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 51,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 94,
-      "found": 83,
-      "exact": 74,
+      "unique_artists": 92,
+      "found": 81,
+      "exact": 72,
       "close": 1,
       "flagged": 8,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 94,
-      "linked": 85,
+      "unique_artists": 92,
+      "linked": 83,
       "venue": 0,
-      "api": 85,
+      "api": 83,
       "feed": 0,
-      "shows_with_link": 47
+      "shows_with_link": 46
     }
   }
 }

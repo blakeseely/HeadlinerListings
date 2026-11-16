@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
+  "scraped_at": "2026-11-16",
   "count": 45,
   "shows": [
     {
@@ -463,7 +463,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "OLIVER HAZARD",
+          "name": "Oliver Hazard",
           "apple_music": "https://music.apple.com/us/artist/oliver-hazard/1304041365",
           "spotify": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng",
           "confidence": 1.0,
@@ -473,8 +473,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Downey Chase",
+          "apple_music": "https://music.apple.com/us/artist/downey-chase/1745817355",
+          "spotify": "https://open.spotify.com/artist/3JXZ7DSkdeW6hqJ06iNJOl",
+          "confidence": 1.0,
+          "matched": "Downey Chase",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -485,7 +496,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/oliver-hazard/694276",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1613,18 +1624,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 59,
-      "found": 50,
-      "exact": 48,
+      "unique_artists": 60,
+      "found": 51,
+      "exact": 49,
       "close": 0,
       "flagged": 2,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 59,
-      "linked": 52,
+      "unique_artists": 60,
+      "linked": 53,
       "venue": 0,
-      "api": 52,
+      "api": 53,
       "feed": 0,
       "shows_with_link": 39
     }

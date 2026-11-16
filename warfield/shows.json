@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 23,
+  "scraped_at": "2026-11-16",
+  "count": 22,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Vince Staples",
-          "apple_music": "https://music.apple.com/us/artist/vince-staples/566639154",
-          "spotify": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm",
-          "confidence": 1.0,
-          "matched": "Vince Staples",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Glare",
-          "apple_music": "https://music.apple.com/us/artist/glare/199398424",
-          "spotify": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl",
-          "confidence": 1.0,
-          "matched": "Glare",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Cry Baby Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1486743/vince-staples-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1486743",
-      "room": null,
-      "age_rating": "6+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1118,26 +1074,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 23,
+      "music": 22,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 50,
-      "found": 45,
-      "exact": 42,
+      "unique_artists": 48,
+      "found": 43,
+      "exact": 40,
       "close": 2,
       "flagged": 1,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 50,
-      "linked": 47,
+      "unique_artists": 48,
+      "linked": 45,
       "venue": 0,
-      "api": 47,
+      "api": 45,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 20
     }
   }
 }

@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 51,
+  "scraped_at": "2026-11-16",
+  "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "apple_music": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685",
-          "spotify": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF",
-          "confidence": 1.0,
-          "matched": "Rodrigo y Gabriela",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/rodrigo-y-gabriela-261115",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "OurHome Tour An Evening With",
-      "description": "Grammy-winning Mexican guitar duo Rodrigo y Gabriela return with OurHome, a bold new album and global tour that invites audiences into a dreamlike universe of rogue monsters, celestial birds, stardust, savage landscapes, and the search for inner peace. Self-produced in Tokyo, OurHome is both a love letter to Japan and a meditation on what it means to find home within yourself, delivered through the wildly expressive instrumental guitar music that has made Rodrigo Sánchez and Gabriela Quintero one of the most electrifying live acts in the world. For more than two decades, Rodrigo y Gabriela have pushed acoustic guitar into new territory, blending classical, rock, metal, cinematic atmosphere, and spiritual exploration into a sound entirely their own. From their early days busking on Dublin’s Grafton Street, they have gone on to win a GRAMMY Award for Mettavolution, headline Glastonbury, and sell out iconic stages including the Hollywood Bowl, Red Rocks Amphitheatre, Royal Albert Hall, Radio City Music Hall, and the Sydney Opera House. On OurHome, the duo returns to the textural beauty of acoustic instrumentation while expanding their world with guests including Marty Friedman and Hir"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1865,26 +1834,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 50,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 67,
-      "found": 62,
-      "exact": 56,
+      "unique_artists": 66,
+      "found": 61,
+      "exact": 55,
       "close": 2,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 67,
-      "linked": 61,
-      "venue": 48,
+      "unique_artists": 66,
+      "linked": 60,
+      "venue": 47,
       "api": 13,
       "feed": 0,
-      "shows_with_link": 48
+      "shows_with_link": 47
     }
   }
 }

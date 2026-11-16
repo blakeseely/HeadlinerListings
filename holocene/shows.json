@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 43,
+  "scraped_at": "2026-11-16",
+  "count": 42,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fleetmac Wood present Chiffon Frenzy (Day Party!)",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: The Static Orchard @ 37%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": null,
-      "show_time": "3:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/41763162/fleetmac-wood-present-chiffon-frenzy-day-party-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-15-fleetmac-wood-present-chiffon-frenzy-day-party",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1502,21 +1471,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39,
+      "music": 38,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 50,
+      "unique_artists": 49,
       "found": 23,
       "exact": 18,
       "close": 1,
       "flagged": 4,
-      "not_found": 27
+      "not_found": 26
     },
     "spotify": {
-      "unique_artists": 50,
+      "unique_artists": 49,
       "linked": 24,
       "venue": 0,
       "api": 24,

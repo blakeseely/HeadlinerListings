@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
+  "scraped_at": "2026-11-16",
   "count": 45,
   "shows": [
     {
@@ -866,10 +866,10 @@
       ],
       "support_artists": [
         {
-          "name": "Rachel Bloom, Dan Grego, and more",
+          "name": "Rachel Bloom, Dan Gregor, and more",
           "apple_music": null,
           "spotify": null,
-          "confidence": 0.054,
+          "confidence": 0.053,
           "matched": null,
           "apple_label": "no confident match (closest: Maur @ 5%)",
           "spotify_label": "no confident match (closest: Rachel Bloom @ 70%)",
@@ -877,7 +877,7 @@
         }
       ],
       "multi_artist": true,
-      "show_title": "Huh?Milton",
+      "show_title": "Huh?milton",
       "presenters": [],
       "set_format": null,
       "date": "2027-01-30",

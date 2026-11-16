@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 55,
+  "scraped_at": "2026-11-16",
+  "count": 54,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BoomBox",
-          "apple_music": "https://music.apple.com/us/artist/boombox/798799615",
-          "spotify": "https://open.spotify.com/artist/3UBLa2huRORV0HmGQq3fGs",
-          "confidence": 1.0,
-          "matched": "BoomBox",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DJ Soft Cuss",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/1EA47WhvE1nrm0WiUfHwta",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Dj.Soft",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/boombox/690457",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/boombox/690457",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1595,10 +1551,23 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Michael Wilbur",
+          "apple_music": "https://music.apple.com/us/artist/michael-wilbur/1300305454",
+          "spotify": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n",
+          "confidence": 1.0,
+          "matched": "Michael Wilbur",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-06",
       "doors": "8:30 pm",
@@ -1607,7 +1576,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/lotus/708037",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2141,26 +2110,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 54,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 83,
+      "unique_artists": 82,
       "found": 77,
       "exact": 71,
       "close": 1,
       "flagged": 5,
-      "not_found": 6
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 83,
-      "linked": 74,
+      "unique_artists": 82,
+      "linked": 73,
       "venue": 0,
-      "api": 74,
+      "api": 73,
       "feed": 0,
-      "shows_with_link": 53
+      "shows_with_link": 52
     }
   }
 }

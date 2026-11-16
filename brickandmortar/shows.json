@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 20,
+  "scraped_at": "2026-11-16",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "OCT",
-          "apple_music": "https://music.apple.com/us/artist/oct/1704579464",
-          "spotify": "https://open.spotify.com/artist/0Hu0e77EIbeWB6ZpQCDrCw",
-          "confidence": 1.0,
-          "matched": "OCT",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Billy Marchiafava",
-          "apple_music": "https://music.apple.com/us/artist/billy-marchiafava/1282069852",
-          "spotify": "https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza",
-          "confidence": 1.0,
-          "matched": "Billy Marchiafava",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/oct-billy-marchiafava-brick-and-mortar-music-hall-tickets/14856963?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/oct/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -199,63 +157,12 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bayonne-the-filters-tour-brick-and-mortar-music-hall-tickets/14854653?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/bayonne-the-filters-tour/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
       "description": "Bayonne’s music captures the indescribable. For 10 years, the Austin, Texas-based experimental avant-pop/electronic musician, born Roger Sellers, has been creating atmospheric soundscapes brimming with layers, texture, and deep emotional resonance. On his fourth and most immersive album to date, Filters, Sellers picks up where he left us on 2023’s mournful yet pop-minded Temporary Time. With its elegantly constructed melodies, silken synth-work, a sprinkle of field recordings, and an upbeat yet blissful blend of piano and percussion, Filters finds Sellers entering a new phase of existence as he works through the grief around losing his father and into a place of acceptance."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "veggi",
-          "apple_music": "https://music.apple.com/us/artist/veggi/1457890281",
-          "spotify": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v",
-          "confidence": 1.0,
-          "matched": "veggi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        },
-        {
-          "name": "J. Jaxx",
-          "apple_music": "https://music.apple.com/us/artist/j-jaxx/1722578161",
-          "spotify": "https://open.spotify.com/artist/2CfQII9IFcP7U8KLIKE1Cw",
-          "confidence": 0.9,
-          "matched": "J JAXX",
-          "apple_label": "close match: J JAXX",
-          "spotify_label": "close match: J JAXX",
-          "spotify_source": "api"
-        },
-        {
-          "name": "Tripleset",
-          "apple_music": "https://music.apple.com/us/artist/tripleset/1465155918",
-          "spotify": "https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC",
-          "confidence": 1.0,
-          "matched": "Tripleset",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "9:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/veggi-j-jaxx-brick-and-mortar-music-hall-tickets/14371094?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/veggi/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     },
     {
       "event_type": "music",
@@ -793,30 +700,123 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nueve Lio",
+          "apple_music": "https://music.apple.com/us/artist/nueve-lio/1475405952",
+          "spotify": "https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI",
+          "confidence": 1.0,
+          "matched": "Nueve Lio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Night 2",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nueve-lio-night-brick-and-mortar-music-hall-tickets/14380454?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "sold out",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/nueve-lio-night-2/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nueve Lio",
+          "apple_music": "https://music.apple.com/us/artist/nueve-lio/1475405952",
+          "spotify": "https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI",
+          "confidence": 1.0,
+          "matched": "Nueve Lio",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Night 3",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nueve-lio-night-brick-and-mortar-music-hall-tickets/14402964?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "sold out",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/nueve-lio-night-3/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Full Circle Boys",
+          "apple_music": "https://music.apple.com/us/artist/full-circle-boys/1757545644",
+          "spotify": "https://open.spotify.com/artist/0YfeVLbLdLI28s03XYXfnJ",
+          "confidence": 1.0,
+          "matched": "Full Circle Boys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Day 1 Tour Experience",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": "7:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/full-circle-boys-brick-mortar-music-hall-tickets/14418944?pl=bnm&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/full-circle-boys-day-1-tour-experience/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "The name Full Circle represents the humble beginning of each member and how they’ve taking on the journey of reaching higher peaks together — since they knew each other from other projects before the idea of the group even came up —, so when the band was formed it became a full circle moment for all of them. In 2014, James Herron and Sean Garrity met each other joining the same dance team in their hometown of Temecula, California. Adjacently, Jagger Moon and Dossan Bell met the same year at their dance studio in Ogden, Utah. Oliver Hincy later joined the Ogden crew in 2018. The two worlds collided when Jagger and Sean booked the same dance job becoming friends."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 33,
-      "found": 32,
-      "exact": 30,
+      "unique_artists": 29,
+      "found": 28,
+      "exact": 27,
       "close": 1,
-      "flagged": 1,
+      "flagged": 0,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 33,
-      "linked": 32,
-      "venue": 14,
-      "api": 18,
+      "unique_artists": 29,
+      "linked": 28,
+      "venue": 11,
+      "api": 17,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 20
     }
   }
 }

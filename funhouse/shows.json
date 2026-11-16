@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
+  "scraped_at": "2026-11-16",
   "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "OK Goodnight",
-          "apple_music": "https://music.apple.com/us/artist/ok-goodnight/1455689335",
-          "spotify": "https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc",
-          "confidence": 1.0,
-          "matched": "Ok Goodnight",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Snooze",
-          "apple_music": "https://music.apple.com/us/artist/snooze/1235270281",
-          "spotify": "https://open.spotify.com/artist/5RbDWIVL3Sfuu8ADRe6rCT",
-          "confidence": 1.0,
-          "matched": "Snooze",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Eve",
-          "apple_music": "https://music.apple.com/us/artist/eve/108709",
-          "spotify": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC",
-          "confidence": 1.0,
-          "matched": "Eve",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/ok-goodnight-15-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -664,6 +612,58 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/ayria-13-stitches-2026-tour-25-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haight St. / 3rdOnPike / Built to Break",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: 3rd Strike @ 29%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "3rd on pike",
+          "apple_music": "https://music.apple.com/us/artist/3rd-pike/1885861191",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "3rd & Pike",
+          "apple_label": "close match: 3rd & Pike",
+          "spotify_label": "no confident match (closest: 3rd Strike @ 67%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Built to Break",
+          "apple_music": "https://music.apple.com/us/artist/built-to-break/6824076573",
+          "spotify": "https://open.spotify.com/artist/1NyoHbX4H1ijA50P1TVpPJ",
+          "confidence": 1.0,
+          "matched": "Built To Break",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/haight-st-3rdonpike-built-to-break-27-nov",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1249,17 +1249,17 @@
     },
     "apple_music": {
       "unique_artists": 66,
-      "found": 54,
-      "exact": 50,
+      "found": 53,
+      "exact": 48,
       "close": 1,
-      "flagged": 3,
-      "not_found": 12
+      "flagged": 4,
+      "not_found": 13
     },
     "spotify": {
       "unique_artists": 66,
-      "linked": 52,
+      "linked": 50,
       "venue": 0,
-      "api": 52,
+      "api": 50,
       "feed": 0,
       "shows_with_link": 19
     }

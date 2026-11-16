@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 57,
+  "scraped_at": "2026-11-16",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Headache",
-          "apple_music": "https://music.apple.com/us/artist/headache/1687506316",
-          "spotify": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH",
-          "confidence": 1.0,
-          "matched": "Headache",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Fleetwood Snack",
-          "apple_music": "https://music.apple.com/us/artist/fleetwood-snack/1493172157",
-          "spotify": "https://open.spotify.com/artist/3jxMoFKi9CLpux1PufNtfE",
-          "confidence": 1.0,
-          "matched": "Fleetwood Snack",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "amr*",
-          "apple_music": "https://music.apple.com/us/artist/amr/1569265037",
-          "spotify": "https://open.spotify.com/artist/0kF6bJSd6U5gn9jgl7rPdI",
-          "confidence": 1.0,
-          "matched": "amr*",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1448781/headache-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/headache-tickets-1448781",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2311,26 +2259,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 57,
+      "music": 56,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 100,
-      "found": 90,
-      "exact": 83,
+      "unique_artists": 97,
+      "found": 87,
+      "exact": 80,
       "close": 2,
       "flagged": 5,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 100,
-      "linked": 85,
+      "unique_artists": 97,
+      "linked": 82,
       "venue": 0,
-      "api": 85,
+      "api": 82,
       "feed": 0,
-      "shows_with_link": 52
+      "shows_with_link": 51
     }
   }
 }

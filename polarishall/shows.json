@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 56,
+  "scraped_at": "2026-11-16",
+  "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stephen Day",
-          "apple_music": "https://music.apple.com/us/artist/stephen-day/1105545677",
-          "spotify": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5",
-          "confidence": 1.0,
-          "matched": "Stephen Day",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Elysia Biro",
-          "apple_music": "https://music.apple.com/us/artist/elysia-biro/1559427047",
-          "spotify": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L",
-          "confidence": 1.0,
-          "matched": "Elysia Biro",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Self Titled Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/84386206",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2156,26 +2114,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 52,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 90,
-      "found": 69,
-      "exact": 64,
+      "unique_artists": 88,
+      "found": 67,
+      "exact": 62,
       "close": 2,
       "flagged": 3,
       "not_found": 21
     },
     "spotify": {
-      "unique_artists": 90,
-      "linked": 71,
+      "unique_artists": 88,
+      "linked": 69,
       "venue": 0,
-      "api": 71,
+      "api": 69,
       "feed": 0,
-      "shows_with_link": 45
+      "shows_with_link": 44
     }
   }
 }

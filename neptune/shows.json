@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 102,
+  "scraped_at": "2026-11-16",
+  "count": 101,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Eivør",
-          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
-          "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
-          "confidence": 1.0,
-          "matched": "Eivør",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/eivor/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/eivor/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3399,26 +3368,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 76,
+      "music": 75,
       "comedy": 20,
       "film": 0,
       "other": 6
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 81,
-      "exact": 70,
+      "unique_artists": 95,
+      "found": 80,
+      "exact": 69,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 79,
+      "unique_artists": 95,
+      "linked": 78,
       "venue": 0,
-      "api": 79,
+      "api": 78,
       "feed": 0,
-      "shows_with_link": 77
+      "shows_with_link": 76
     }
   }
 }

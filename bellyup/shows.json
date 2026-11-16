@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 124,
+  "scraped_at": "2026-11-16",
+  "count": 123,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Marc Broussard",
-          "apple_music": "https://music.apple.com/us/artist/marc-broussard/16169749",
-          "spotify": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe",
-          "confidence": 1.0,
-          "matched": "Marc Broussard",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cristina Vane",
-          "apple_music": "https://music.apple.com/us/artist/cristina-vane/1150607230",
-          "spotify": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD",
-          "confidence": 1.0,
-          "matched": "Cristina Vane",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "West Coast Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/marc-broussard-west-belly-up-tickets/14856253?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14856253/marc-broussard-west-coast-tour-w-cristina-vane",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -4590,26 +4548,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 123,
+      "music": 122,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 170,
-      "found": 126,
-      "exact": 105,
+      "unique_artists": 168,
+      "found": 124,
+      "exact": 103,
       "close": 5,
       "flagged": 16,
       "not_found": 44
     },
     "spotify": {
-      "unique_artists": 170,
-      "linked": 130,
+      "unique_artists": 168,
+      "linked": 128,
       "venue": 0,
-      "api": 130,
+      "api": 128,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 90
     }
   }
 }

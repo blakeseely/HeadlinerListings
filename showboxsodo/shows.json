@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-15",
-  "count": 40,
+  "scraped_at": "2026-11-16",
+  "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "apple_music": "https://music.apple.com/us/artist/boynextdoor/1687612559",
-          "spotify": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1",
-          "confidence": 1.0,
-          "matched": "BOYNEXTDOOR",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-15",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.axs.com/events/1477898/boynextdoor-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1477898",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1719,26 +1688,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40,
+      "music": 39,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 77,
-      "found": 71,
-      "exact": 65,
+      "unique_artists": 76,
+      "found": 70,
+      "exact": 64,
       "close": 0,
       "flagged": 6,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 77,
-      "linked": 72,
+      "unique_artists": 76,
+      "linked": 71,
       "venue": 0,
-      "api": 72,
+      "api": 71,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 36
     }
   }
 }
