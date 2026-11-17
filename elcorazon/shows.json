@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 30,
+  "scraped_at": "2026-11-17",
+  "count": 31,
   "shows": [
     {
       "event_type": "music",
@@ -1538,6 +1538,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Delta Sleep",
+          "apple_music": "https://music.apple.com/us/artist/delta-sleep/643617115",
+          "spotify": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk",
+          "confidence": 1.0,
+          "matched": "Delta Sleep",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Pure Hex",
+          "apple_music": "https://music.apple.com/us/artist/pure-hex/1483163612",
+          "spotify": "https://open.spotify.com/artist/3QWUxLJqRsyGpjdKo4xeJN",
+          "confidence": 1.0,
+          "matched": "Pure Hex",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "TWIN GALAXIES anniversary tour performing the album in its entirety",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/delta-sleep-twin-galaxies-anniversary-tour-performing-the-album-in-its-entirety-28-mar",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Four Year Strong",
           "apple_music": "https://music.apple.com/us/artist/four-year-strong/192476371",
           "spotify": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn",
@@ -1753,26 +1795,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 86,
-      "exact": 85,
+      "unique_artists": 98,
+      "found": 88,
+      "exact": 87,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 84,
+      "unique_artists": 98,
+      "linked": 86,
       "venue": 0,
-      "api": 84,
+      "api": 86,
       "feed": 0,
-      "shows_with_link": 27
+      "shows_with_link": 28
     }
   }
 }

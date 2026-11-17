@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
+  "scraped_at": "2026-11-17",
   "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Mountain Goats",
-          "apple_music": "https://music.apple.com/us/artist/the-mountain-goats/4978336",
-          "spotify": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5",
-          "confidence": 1.0,
-          "matched": "The Mountain Goats",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Night Two: Alpha",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-two-alpha-san-francisco-california-11-16-2026/event/1C0064C40B8DB3FE",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-two-alpha-san-francisco-california-11-16-2026/event/1C0064C40B8DB3FE",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1206,6 +1175,37 @@
       "ticket_link": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-05-2027/event/1C0065579F46F0C2",
       "ticket_status": "on sale",
       "event_page": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-05-2027/event/1C0065579F46F0C2",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm This shows is strictly 16+ (no exceptions)"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening With They Might Be Giants",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Evening Elephants",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Big Show Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-06-2027/event/1C0065579F4CF0CD",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-06-2027/event/1C0065579F4CF0CD",
       "room": null,
       "age_rating": null,
       "note": null,

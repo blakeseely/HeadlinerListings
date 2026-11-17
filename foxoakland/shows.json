@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 31,
+  "scraped_at": "2026-11-17",
+  "count": 33,
   "shows": [
     {
       "event_type": "music",
@@ -792,6 +792,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Bridget Everett",
+          "apple_music": "https://music.apple.com/us/artist/bridget-everett/853333843",
+          "spotify": "https://open.spotify.com/artist/4hur1saPcI7PBFJ9vj6GC7",
+          "confidence": 1.0,
+          "matched": "Bridget Everett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Big Titties, Big Dreams 27",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/bridget-everett-big-titties-big-dreams-oakland-california-03-11-2027/event/1C00656AE44BD59E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/bridget-everett-270311",
+      "room": null,
+      "age_rating": "all ages with recommended 18 and over for mature content",
+      "note": null,
+      "description": "Bridget Everett is a comedian, actor, singer, writer and producer living in New York City. She is the star, writer and executive producer of HBO’s critically acclaimed, Peabody Award-winning and AFI “Program of the Year” comedy series, Somebody Somewhere . Inspired by Everett’s own life as an actor, singer and Midwesterner, the series follows Sam Miller, a true Kansan struggling to fit the hometown mold while grappling with loss, acceptance and the search for belonging. Over the course of three acclaimed seasons, Sam discovers herself and a community of outsiders who may not fit in, but refuse to give up. The series concluded its third and final season in December 2024. Everett’s performance as Sam earned widespread critical acclaim, with Variety calling it “dazzling,” Rolling Stone describing it as “hypnotizing,” and Collider praising her as “masterful…brilliant…compelling and effortlessly funny.” The Boston Globe called the series a “revelation” that “exudes compassion” with a “nuanc"
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "ALOK",
           "apple_music": "https://music.apple.com/us/artist/alok/324709167",
           "spotify": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W",
@@ -1031,6 +1062,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "BigXthaPlug",
+          "apple_music": "https://music.apple.com/us/artist/bigxthaplug/1482508209",
+          "spotify": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I",
+          "confidence": 1.0,
+          "matched": "BigXthaPlug",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Better Over Time Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-09",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/bigxthaplug-better-over-time-tour-oakland-california-05-09-2027/event/1C0065641F3DB24E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/bigxthaplug-270509",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "BigXthaPlug , the multi-platinum hip-hop hitmaker from Dallas, Texas, has rapidly cemented his place as one of the most magnetic and genre-bending voices. Known for his raw storytelling, unapologetic lyrics, and undeniable presence on the mic, he’s reshaping what modern hip-hop sounds like today and for future generations. Having garnered over 6.6B+ global streams, multiple No. 1 records, major awards, and rapidly expanding his footprint in both rap and country, BigXthaPlug stands as one of the most influential, genre-shifting artists of his generation after his critically acclaimed TAKE CARE and I Hope You’re Happy albums. He recently released his highly anticipated rap album BETTER OVER TIME on October 30th with features from fellow hip-hop, R&B and pop hitmakers, Lil Yachty, Lil Wayne, GloRilla, Loe Shimmy, Ro$ama, Belly Gang Kushington, Fridayy, BabyFace Ray, Ava Max, and Leon Thomas. BigX is redefining what crossover looks like. Rooted unapologetically in Southern hip-hop, he has"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Tinashe",
           "apple_music": "https://music.apple.com/us/artist/tinashe/464835513",
           "spotify": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD",
@@ -1164,26 +1226,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
-      "comedy": 3,
+      "music": 29,
+      "comedy": 4,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 34,
-      "exact": 32,
+      "unique_artists": 37,
+      "found": 36,
+      "exact": 34,
       "close": 1,
       "flagged": 1,
       "not_found": 1
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 35,
-      "venue": 31,
+      "unique_artists": 37,
+      "linked": 37,
+      "venue": 33,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 33
     }
   }
 }

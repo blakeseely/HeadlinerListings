@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 42,
+  "scraped_at": "2026-11-17",
+  "count": 46,
   "shows": [
     {
       "event_type": "music",
@@ -878,6 +878,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "CUMBIATRON: THE CUMBIA RAVE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: DJ CHIHUAHUA @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-02",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/95528223/cumbiatron-the-cumbia-rave-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-02-cumbiatron-the-cumbia-rave",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Hugs // Brites // Tradie",
           "apple_music": null,
           "spotify": null,
@@ -1116,6 +1147,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "paris jackson",
+          "apple_music": "https://music.apple.com/us/artist/paris-jackson/442691924",
+          "spotify": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e",
+          "confidence": 1.0,
+          "matched": "paris jackson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/30668154/paris-jackson-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-11-paris-jackson",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Spend The Night Presents: Jacques Greene",
           "apple_music": null,
           "spotify": null,
@@ -1172,6 +1236,60 @@
       "event_page": "https://www.holocene.org/events/2027-02-21-sylvie",
       "room": null,
       "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amira Elfeky: It Was Only A Dream Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Amira Elfeky @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "My Upside Down",
+          "apple_music": "https://music.apple.com/us/artist/my-upside-down/1671248011",
+          "spotify": "https://open.spotify.com/artist/3SGr6aDUx9FdbGZRuxtUPX",
+          "confidence": 1.0,
+          "matched": "My Upside Down",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Meghan Curtin",
+          "apple_music": "https://music.apple.com/us/artist/meghan-curtin/1816375360",
+          "spotify": "https://open.spotify.com/artist/4aMCwH4geSzHn9U4sHXvzB",
+          "confidence": 1.0,
+          "matched": "Meghan Curtin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/57626257/amira-elfeky-it-was-only-a-dream-tour-w-my-upside-down-meghan-curtin-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-25-amira-elfeky-it-was-only-a-dream-tour-w-my-upside-down-meghan-curtin",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1302,6 +1420,39 @@
       "event_page": "https://www.holocene.org/events/2027-03-20-helena-deland-early-show",
       "room": null,
       "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "JOHNNIE GUILBERT",
+          "apple_music": "https://music.apple.com/us/artist/johnnie-guilbert/1045999200",
+          "spotify": "https://open.spotify.com/artist/076Gy8u6GxUrHUxbaesJFC",
+          "confidence": 1.0,
+          "matched": "Johnnie Guilbert",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-24",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/50716880/johnnie-guilbert-all-ages-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-03-24-johnnie-guilbert",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1471,26 +1622,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 42,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 49,
-      "found": 23,
-      "exact": 18,
+      "unique_artists": 55,
+      "found": 27,
+      "exact": 22,
       "close": 1,
       "flagged": 4,
-      "not_found": 26
+      "not_found": 28
     },
     "spotify": {
-      "unique_artists": 49,
-      "linked": 24,
+      "unique_artists": 55,
+      "linked": 28,
       "venue": 0,
-      "api": 24,
+      "api": 28,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 22
     }
   }
 }

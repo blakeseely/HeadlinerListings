@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 45,
+  "scraped_at": "2026-11-17",
+  "count": 46,
   "shows": [
     {
       "event_type": "music",
@@ -699,11 +699,11 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Disappear Here",
-          "apple_music": "https://music.apple.com/us/artist/disappear-here/1530317329",
-          "spotify": "https://open.spotify.com/artist/7DqvtNoIQpI9nV6R777Dpi",
+          "name": "Bad Suns",
+          "apple_music": "https://music.apple.com/us/artist/bad-suns/623897863",
+          "spotify": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP",
           "confidence": 1.0,
-          "matched": "Disappear Here",
+          "matched": "Bad Suns",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -711,13 +711,13 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "A Ten Year Celebration",
+      "show_title": "Disappear Here: A Ten Year Celebration",
       "presenters": [],
       "set_format": null,
       "date": "2027-01-25",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/disappear-here-a-ten-year-celebration-san-francisco-california-01-25-2027/event/1C00653CCC8470B9",
+      "ticket_link": "https://www.ticketmaster.com/bad-suns-disappear-here-a-ten-san-francisco-california-01-25-2027/event/1C00653CCC8470B9",
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/disappear-here-a-ten-year-celebration-2/",
       "room": null,
@@ -730,11 +730,11 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Disappear Here",
-          "apple_music": "https://music.apple.com/us/artist/disappear-here/1530317329",
-          "spotify": "https://open.spotify.com/artist/7DqvtNoIQpI9nV6R777Dpi",
+          "name": "Bad Suns",
+          "apple_music": "https://music.apple.com/us/artist/bad-suns/623897863",
+          "spotify": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP",
           "confidence": 1.0,
-          "matched": "Disappear Here",
+          "matched": "Bad Suns",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -742,13 +742,13 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "A Ten Year Celebration",
+      "show_title": "Disappear Here: A Ten Year Celebration",
       "presenters": [],
       "set_format": null,
       "date": "2027-01-26",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/disappear-here-a-ten-year-celebration-san-francisco-california-01-26-2027/event/1C0065291C169683",
+      "ticket_link": "https://www.ticketmaster.com/bad-suns-disappear-here-a-ten-san-francisco-california-01-26-2027/event/1C0065291C169683",
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/disappear-here-a-ten-year-celebration/",
       "room": null,
@@ -1445,6 +1445,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sasha Keable",
+          "apple_music": "https://music.apple.com/us/artist/sasha-keable/325850892",
+          "spotify": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf",
+          "confidence": 1.0,
+          "matched": "Sasha Keable",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Act Right Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/sasha-keable-act-right-tour-san-francisco-california-04-27-2027/event/1C00656DB31EE7AD",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/sasha-keable-the-act-right-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "[MOVED TO RICKSHAW STOP] Introducing The Aces",
           "apple_music": null,
           "spotify": null,
@@ -1558,26 +1589,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 46,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 33,
-      "exact": 30,
+      "unique_artists": 42,
+      "found": 34,
+      "exact": 31,
       "close": 0,
       "flagged": 3,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 33,
+      "unique_artists": 42,
+      "linked": 34,
       "venue": 0,
-      "api": 33,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 30
     }
   }
 }

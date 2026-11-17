@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
+  "scraped_at": "2026-11-17",
   "count": 22,
   "shows": [
     {
@@ -209,39 +209,6 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Event Information On June 29, 2026, Beijing singer-songwriter Song Dongye released Take Another Moment, his second album and his first full-length release in thirteen years. On this world tour, the new songs will be presented alongside the old favorites that have stayed with listeners all these years. Between 2017 and 2018, Song Dongye released three pivotal singles—“Empty Harbor Song,” “Guo Yuan Chao,” and “To Know”—each quietly expanding the boundaries of folk music and reshaping the industry’s perception of him. Now, thirteen years after his landmark debut Anhe Bridge North, arrives his long-awaited second album, Take Another Moment. Entirely self-conceived, arranged, and produced, it stands as a work that, even now, surpasses all expectations upon listening. Over the years, he has lost weight. He fishes. He takes photographs. He plays with beads. And he has completed Take Another Moment, an album astonishing in both its lyrical scope and sonic depth. He remains the songwriter, arranger, and producer at the center of his work. Alongside him are more than twenty instruments and sound sources, leading lights of China’s jazz world such as Wen Zhiyong, Xia Jia, and Nathaniel Gao, and independent spirits as subtle and reclusive as Xing Jiangbo He is still occasionally playful, perhaps as a way of balancing his absolute seriousness and devotion to music—once even letting his cat's backside appear on an album cover. His photographs, too, remain quietly meaningful gazes upon the w"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "ROA",
-          "apple_music": "https://music.apple.com/us/artist/roa/1617105458",
-          "spotify": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH",
-          "confidence": 1.0,
-          "matched": "ROA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "USA TOUR",
-      "presenters": [
-        "Zamora Live Presents"
-      ],
-      "set_format": null,
-      "date": "2026-12-03",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1573659/roa-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1573659",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Event Information Puerto Rican trap-soul sensation ROA brings his genre-blending sound to The Warfield for an unforgettable night. Known for solo hits like \"Fantasía,\" \"Me Gustas CC,\" and \"Tate Quieta,\" and his acclaimed Private Suite series, ROA fuses reggaeton, R&B, and raw, emotionally driven lyrics into a live show that's as intimate as it is electric. Fresh off winning Male Breakout Artist of the Year at Premio Lo Nuestro 2026, don't miss your chance to see one of Latin urban music's fastest-rising stars live. General Admission. All Ages"
     },
     {
       "event_type": "music",
@@ -907,6 +874,39 @@
       "event_page": "https://www.thewarfieldtheatre.com/events/detail/1608434",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "DJ Shadow",
+          "apple_music": "https://music.apple.com/us/artist/dj-shadow/133086",
+          "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI",
+          "confidence": 1.0,
+          "matched": "DJ Shadow",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "DJ Shadow Celebrates 30 Years of Endtroducing",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1704416/dj-shadow-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1704416",
+      "room": null,
+      "age_rating": "6+",
       "note": null,
       "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
     },

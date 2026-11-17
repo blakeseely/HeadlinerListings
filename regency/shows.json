@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
+  "scraped_at": "2026-11-17",
   "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Manic Street Preachers",
-          "apple_music": "https://music.apple.com/us/artist/manic-street-preachers/659158",
-          "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX",
-          "confidence": 1.0,
-          "matched": "Manic Street Preachers",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAABVFwPBAgAAAAA%2f%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1463683",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -560,6 +527,39 @@
       "age_rating": "18 & Over",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ROA",
+          "apple_music": "https://music.apple.com/us/artist/roa/1617105458",
+          "spotify": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH",
+          "confidence": 1.0,
+          "matched": "ROA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "USA TOUR",
+      "presenters": [
+        "Zamora Live Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-03",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546696046",
+      "ticket_status": "Get Tickets",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1573659",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Puerto Rican trap-soul sensation ROA brings his genre-blending sound to The Warfield for an unforgettable night. Known for solo hits like \"Fantasía,\" \"Me Gustas CC,\" and \"Tate Quieta,\" and his acclaimed Private Suite series, ROA fuses reggaeton, R B, and raw, emotionally driven lyrics into a live show that's as intimate as it is electric. Fresh off winning Male Breakout Artist of the Year at Premio Lo Nuestro 2026, don't miss your chance to see one of Latin urban music's fastest-rising stars live. General Admission. All Ages"
     },
     {
       "event_type": "music",

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
+  "scraped_at": "2026-11-17",
   "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pretty Sick",
-          "apple_music": "https://music.apple.com/us/artist/pretty-sick/1347399810",
-          "spotify": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e",
-          "confidence": 1.0,
-          "matched": "Pretty Sick",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Computerwife",
-          "apple_music": "https://music.apple.com/us/artist/computerwife/1505813266",
-          "spotify": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ",
-          "confidence": 1.0,
-          "matched": "Computerwife",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/91855822",
-      "ticket_status": "sold out",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1245,8 +1203,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Rose Winter",
+          "apple_music": "https://books.apple.com/us/author/rose-winter/id694635449",
+          "spotify": "https://open.spotify.com/artist/2M4hiX0LnqKHBJJb6FlLVv",
+          "confidence": 1.0,
+          "matched": "Rose Winter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1555,6 +1524,48 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/99773010",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Cursive",
+          "apple_music": "https://music.apple.com/us/artist/cursive/150633966",
+          "spotify": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3",
+          "confidence": 1.0,
+          "matched": "Cursive",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Smidley",
+          "apple_music": "https://music.apple.com/us/artist/smidley/1165519023",
+          "spotify": "https://open.spotify.com/artist/4VaBF2UB61CMQ45Xtp6vPc",
+          "confidence": 1.0,
+          "matched": "Smidley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Happy Hollow 20th Anniversary",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/94603946",
       "ticket_status": "on sale",
       "event_page": null,
       "room": null,
@@ -2120,18 +2131,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 88,
-      "found": 67,
-      "exact": 62,
+      "unique_artists": 89,
+      "found": 68,
+      "exact": 63,
       "close": 2,
       "flagged": 3,
       "not_found": 21
     },
     "spotify": {
-      "unique_artists": 88,
-      "linked": 69,
+      "unique_artists": 89,
+      "linked": 70,
       "venue": 0,
-      "api": 69,
+      "api": 70,
       "feed": 0,
       "shows_with_link": 44
     }

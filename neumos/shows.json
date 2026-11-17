@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 56,
+  "scraped_at": "2026-11-17",
+  "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Olivia O'Brien",
-          "apple_music": "https://music.apple.com/us/artist/olivia-obrien/1023538468",
-          "spotify": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp",
-          "confidence": 1.0,
-          "matched": "Olivia O'Brien",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sophie Cates",
-          "apple_music": "https://music.apple.com/us/artist/sophie-cates/1439656094",
-          "spotify": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2",
-          "confidence": 1.0,
-          "matched": "Sophie Cates",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The PIXIE Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "8:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1462897/olivia-obrien-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/olivia-obrien-tickets-1462897",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -933,6 +891,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Emo Nite",
+          "apple_music": "https://music.apple.com/us/artist/emo-nite/6800940717",
+          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
+          "confidence": 1.0,
+          "matched": "Emo Nite",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": "9:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1695091/emo-nite-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/emo-nite-tickets-1695091",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "CRANKMA$",
           "apple_music": null,
           "spotify": null,
@@ -1566,6 +1555,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Rio Romeo",
+          "apple_music": "https://music.apple.com/us/artist/rio-romeo/1532384652",
+          "spotify": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub",
+          "confidence": 1.0,
+          "matched": "Rio Romeo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Personal Slot Machine Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-14",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1698267/rio-romeo-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/rio-romeo-tickets-1698267",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Bo Staloch",
           "apple_music": "https://music.apple.com/us/artist/bo-staloch/1698048247",
           "spotify": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh",
@@ -1576,8 +1596,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "RYMAN",
+          "apple_music": "https://music.apple.com/us/artist/ryman/1561850927",
+          "spotify": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj",
+          "confidence": 1.0,
+          "matched": "RYMAN",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "The 'Too Big, Too Big' Tour",
       "presenters": [],
       "set_format": null,
@@ -1607,8 +1638,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "OK Cowgirl",
+          "apple_music": "https://music.apple.com/us/artist/ok-cowgirl/1533325251",
+          "spotify": "https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8",
+          "confidence": 1.0,
+          "matched": "Ok Cowgirl",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Suppre$$ions North America Tour",
       "presenters": [],
       "set_format": null,
@@ -2255,30 +2297,61 @@
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Xana",
+          "apple_music": "https://music.apple.com/us/artist/xana/1527936940",
+          "spotify": "https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3",
+          "confidence": 1.0,
+          "matched": "Xana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Where Else Whould I Go?",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-17",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1702568/xana-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/xana-tickets-1702568",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 56,
+      "music": 58,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 87,
-      "exact": 80,
+      "unique_artists": 100,
+      "found": 90,
+      "exact": 83,
       "close": 2,
       "flagged": 5,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 82,
+      "unique_artists": 100,
+      "linked": 85,
       "venue": 0,
-      "api": 82,
+      "api": 85,
       "feed": 0,
-      "shows_with_link": 51
+      "shows_with_link": 53
     }
   }
 }

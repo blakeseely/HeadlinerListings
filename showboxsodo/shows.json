@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
+  "scraped_at": "2026-11-17",
   "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Story of the Year & Silverstein",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Story Of The Year",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Stand Atlantic and Footballhead",
-          "apple_music": "https://music.apple.com/us/artist/stand-atlantic/981210694",
-          "spotify": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh",
-          "confidence": 0.8,
-          "matched": "Stand Atlantic",
-          "apple_label": "compound bill — links to Stand Atlantic only",
-          "spotify_label": "close match: Stand Atlantic",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "CAMP SCREAMO TOUR",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.axs.com/events/1534964/story-of-the-year-silverstein-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1534964",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1575,6 +1533,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Tori Kelly",
+          "apple_music": "https://music.apple.com/us/artist/tori-kelly/437581991",
+          "spotify": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr",
+          "confidence": 1.0,
+          "matched": "Tori Kelly",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "HILLARI",
+          "apple_music": "https://music.apple.com/us/artist/hillari/1653647109",
+          "spotify": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM",
+          "confidence": 1.0,
+          "matched": "Hillari",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "GOD MUST REALLY LOVE ME TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1704207/tori-kelly-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1704207",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Angus & Julia Stone",
           "apple_music": "https://music.apple.com/us/artist/angus-julia-stone/169843517",
           "spotify": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr",
@@ -1695,11 +1695,11 @@
     },
     "apple_music": {
       "unique_artists": 76,
-      "found": 70,
-      "exact": 64,
+      "found": 71,
+      "exact": 66,
       "close": 0,
-      "flagged": 6,
-      "not_found": 6
+      "flagged": 5,
+      "not_found": 5
     },
     "spotify": {
       "unique_artists": 76,

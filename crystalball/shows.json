@@ -36,52 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 54,
+  "scraped_at": "2026-11-17",
+  "count": 55,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Turnover",
-          "apple_music": "https://music.apple.com/us/artist/turnover/442727465",
-          "spotify": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52",
-          "confidence": 1.0,
-          "matched": "Turnover",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Down On Earth Tour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.343,
-          "matched": null,
-          "apple_label": "no confident match (closest: The Neighbourhood @ 34%)",
-          "spotify_label": "no confident match (closest: Earth to Eve @ 53%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "6:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/80903906/turnover-down-on-earth-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/277458-turnover/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Monday, November 16th at Crystal Ballroom in Portland, OR"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -382,7 +339,7 @@
       "room": null,
       "age_rating": "21 and over",
       "note": null,
-      "description": "Shop and sip local this Small Business Saturday at the Holiday Bazaar Brewfest! With four floors packed with festive fun, this holly, jolly brewfest might just be your new favorite holiday tradition! Put on your best (or worst!) ugly holiday sweater and join us for plenty of beer, cider, cocktails and other delicious beverages to taste, plus local artisan vendors for your holiday shopping needs, pics with Santa, reindeer games and so much more. Brewfest fun Tasting stations & vendors across the property * Ballroom, Mezzanine, Lola’s Room and Ringler’s Pub 40+ beverages, including 25 taps of beer & cider, plus wine, spirits, cocktails, THC & CBD seltzers and non-alcoholic 40+ local artisan vendors Photos with Santa Live music in the Ballroom Roaming mascots * 2-3pm Meet the mascots of the Pickles, the Cherry Bombs and the Bangers! Live Music 1:30-2:30pm The Lauries 3-4:30pm Josh Cole Band 5-7pm Baz Moto VENDORS Portland Pickles Zoe Jones Designs – Upcycled apparel Curly Moon Designs – Mixed metals and beaded jewelry Recollected Pieces – Hand-pressed flower petal jewelry Backseat Window – Ornaments, stickers & decorative art Nuala Crochet – Hats, scarves, jewelry, housewares & home décor Wicks and Hops – Beer can candles Mashall Sharma Sign Painting – Hand painted sassy signs Art of Laura Koppes – Original abstract acrylic landscapes Samara Collective – Botanical wellness items Ghosttart Stickers – Illustrated funny stickers and postcards The Skinny Sheep Yarn Co. – Hand-dyed m"
+      "description": "Shop and sip local this Small Business Saturday at the Holiday Bazaar Brewfest! With four floors packed with festive fun, this holly, jolly brewfest might just be your new favorite holiday tradition! Put on your best (or worst!) ugly holiday sweater and join us for plenty of beer, cider, cocktails and other delicious beverages to taste, plus local artisan vendors for your holiday shopping needs, pics with Santa, reindeer games and so much more. Brewfest fun Tasting stations & vendors across the property * Ballroom, Mezzanine, Lola’s Room and Ringler’s Pub 40+ beverages, including 25 taps of beer & cider, plus wine, spirits, cocktails, THC & CBD seltzers and non-alcoholic 40+ local artisan vendors Photos with Santa Live music in the Ballroom Roaming mascots * 2-3pm Meet the mascots of the Pickles, the Cherry Bombs and the Bangers! Live Music 1:30-2:30pm The Lauries 3-4:30pm Josh Cole Band 5-7pm Baz Moto BEER & CIDER McMenamins Crystal Brewery Barrel-aged Terminator Stout McMenamins Crystal Brewery Dad Watson’s Reserve 2026 Leikam Brewing Ch-Ch-Ch-Cherry Blonde Hetty Alice Future Fog Hazy IPA Yonder Cider Cashmere Stray Cider Memory Palace McMenamins Crystal Brewery Crystal Coolship #3 McMenamins Concordia Brewery Terpene Trippin’ Double IPA McMenamins Crystal Brewery Naughty or Rice Lager McMenamins Cornelius Pass Roadhouse Brewery Barrel-aged Black Widow Porter Funky Fauna Artisan Ales As Though Possessed Tiny Giants Brewing Little Log Cabins McMenamis Edgefield Cidery Imperi"
     },
     {
       "event_type": "music",
@@ -547,12 +504,24 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "\"December to Remember\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: A Day to Remember @ 70%)",
+          "spotify_label": "no confident match (closest: December Joy @ 59%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "94/7FM KNRK presents"
+      ],
       "set_format": null,
       "date": "2026-12-07",
       "doors": "6:30 pm",
@@ -903,6 +872,37 @@
       "age_rating": "All ages welcome",
       "note": null,
       "description": "Ninajirachi is raising the flag for a new generation of Australian artists on the international stage. From festival appearances at Coachella, Lollapalooza, Laneway, and Spilt Milk to sold-out headline shows on both sides of the Pacific, she has quickly become one of electronic music’s most electrifying new voices. With a sound and style “simultaneously garnering respect from the experimental underground and the mainstream” (Rolling Stone), Nina has been tapped by Nike, Sega, and even Ableton, who selected her to produce the official demo project for Ableton Live. Following the acclaim of 2024’s girl edm (disc 1), Ninajirachi entered 2025 with extraordinary momentum. Within the first six weeks of the year, she toured Australia with Porter Robinson, returned with Laneway Festival, and embarked on a sold-out US co-headline tour with PC Music’s umru. During this whirlwind period, she also released the anthemic ‘All I Am’, which soared to the top of triple j’s most-played list and marked her debut on the ARIA Singles Chart. A longtime’ fan-favourite from her live set, ‘All I Am’ offered the first glimpse of her debut album, I Love My Computer. Led by the singles ‘All I Am’, ‘iPod Touch’, ‘Fuck My Computer’, ‘Infohazard’, and ‘Delete’, I Love My Computer debuted at #1 on the ARIA Dance Albums Chart. Propelled by her fast-growing online community and a series of sold-out headline shows across Australia, New Zealand, and North America, the album became a cultural moment – earning an"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Battle of the McMenamins Bands",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Battle Tapes @ 48%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/55721675/battle-of-the-mcmenamins-bands-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/280282-battle-of-the-mcmenamins-bands/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Friday, January 8th at Crystal Ballroom in Portland, OR"
     },
     {
       "event_type": "music",
@@ -1439,6 +1439,47 @@
       "age_rating": "All ages welcome",
       "note": null,
       "description": "Wednesday, March 10th at Crystal Ballroom in Portland, OR"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Chiodos",
+          "apple_music": "https://music.apple.com/us/artist/chiodos/74900736",
+          "spotify": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o",
+          "confidence": 1.0,
+          "matched": "Chiodos",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Hail the Sun",
+          "apple_music": "https://music.apple.com/us/artist/hail-the-sun/382677770",
+          "spotify": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6",
+          "confidence": 1.0,
+          "matched": "Hail the Sun",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-14",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/99516275/chiodosall-the-worlds-a-stage-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/280191-chiodos/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Sunday, March 14th at Crystal Ballroom in Portland, OR"
     },
     {
       "event_type": "music",
@@ -2010,24 +2051,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 54,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 74,
-      "found": 50,
-      "exact": 49,
+      "unique_artists": 75,
+      "found": 51,
+      "exact": 50,
       "close": 1,
       "flagged": 0,
       "not_found": 24
     },
     "spotify": {
-      "unique_artists": 74,
-      "linked": 52,
+      "unique_artists": 75,
+      "linked": 53,
       "venue": 0,
-      "api": 52,
+      "api": 53,
       "feed": 0,
       "shows_with_link": 42
     }

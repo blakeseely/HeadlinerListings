@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 45,
+  "scraped_at": "2026-11-17",
+  "count": 47,
   "shows": [
     {
       "event_type": "music",
@@ -1031,6 +1031,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "PARIS JACKSON",
+          "apple_music": "https://music.apple.com/us/artist/paris-jackson/442691924",
+          "spotify": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e",
+          "confidence": 1.0,
+          "matched": "paris jackson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/paris-jackson/710185",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/paris-jackson/710185",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "NOW THAT'S WHAT I CALL ITALO DISCO Vol. 26",
           "apple_music": null,
           "spotify": null,
@@ -1496,6 +1527,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "KAITLIN BUTTS",
+          "apple_music": "https://music.apple.com/us/artist/kaitlin-butts/650660366",
+          "spotify": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD",
+          "confidence": 1.0,
+          "matched": "Kaitlin Butts",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE HELLO, HONKY TONK TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/kaitlin-butts-the-hello-honky-tonk-tour/711320",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/kaitlin-butts-the-hello-honky-tonk-tour/711320",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "PALOMA MORPHY",
           "apple_music": "https://music.apple.com/us/artist/paloma-morphy/1654342484",
           "spotify": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw",
@@ -1618,26 +1680,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 60,
-      "found": 51,
-      "exact": 49,
+      "unique_artists": 62,
+      "found": 53,
+      "exact": 51,
       "close": 0,
       "flagged": 2,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 60,
-      "linked": 53,
+      "unique_artists": 62,
+      "linked": 55,
       "venue": 0,
-      "api": 53,
+      "api": 55,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 41
     }
   }
 }

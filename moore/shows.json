@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 56,
+  "scraped_at": "2026-11-17",
+  "count": 57,
   "shows": [
     {
       "event_type": "music",
@@ -1348,6 +1348,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "MST3K LIVE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.211,
+          "matched": null,
+          "apple_label": "no confident match (closest: Mystery Science Theater 3000 @ 21%)",
+          "spotify_label": "no confident match (closest: Mister Ai Anane @ 48%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE RETURNENING",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-25",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/mst3k-live/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/mst3k-live/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Vacations",
           "apple_music": "https://music.apple.com/us/artist/vacations/350230773",
           "spotify": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4",
@@ -1864,21 +1895,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 33,
       "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 52,
+      "unique_artists": 53,
       "found": 39,
       "exact": 33,
       "close": 1,
       "flagged": 5,
-      "not_found": 13
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 52,
+      "unique_artists": 53,
       "linked": 39,
       "venue": 0,
       "api": 39,

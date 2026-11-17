@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-13",
-  "count": 41,
+  "scraped_at": "2026-11-17",
+  "count": 44,
   "shows": [
     {
       "event_type": "music",
@@ -51,7 +51,7 @@
           "matched": "Jammy Buffet",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -65,12 +65,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-an-evening-with-cafe-du-nord-tickets/14287124?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-11-17-jammy-buffet",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Jammy Buffet is where Jimmy Buffett’s coastal storytelling meets jam-band improvisation. The Colorado–Tennessee group revives Buffett’s “Gulf & Western” sound with fresh energy and musicianship. Their shows blend greatest-hit singalongs, deep-cut gems, and cosmic grooves—sun-soaked, high-spirited, and always a party. Featuring regular collaborations with members of Jimmy’s Coral Reefer Band…"
+      "description": "Jammy Buffet is where Jimmy Buffett’s coastal storytelling meets jam-band improvisation. The Colorado–Tennessee group revives Buffett’s “Gulf & Western” sound with fresh energy and musicianship. Their shows blend greatest-hit singalongs, deep-cut gems, and cosmic…"
     },
     {
       "event_type": "music",
@@ -84,11 +84,22 @@
           "matched": "LAYA",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "DJ Trauma",
+          "apple_music": "https://music.apple.com/us/artist/dj-trauma/1138343111",
+          "spotify": "https://open.spotify.com/artist/733KHlWluPPsim3sasvzDj",
+          "confidence": 1.0,
+          "matched": "DJ Trauma",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -98,12 +109,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/laya-lipstick-n-cafe-du-nord-tickets/14371104?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "waitlist",
+      "ticket_status": "sold out",
       "event_page": "https://cafedunord.com/shows/2026-11-18-laya",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "LAYA is a singer, songwriter, producer, and creative visionary whose artistry blends R&B, soul, and contemporary music with a distinctive voice and fearless approach to self-expression. Combining infectious melodies, imaginative production, and honest storytelling, her music explores love, confidence, vulnerability, and personal freedom while her bold visual identity brings together fashion…"
+      "description": "LAYA is a singer, songwriter, producer, and creative visionary whose artistry blends R&B, soul, and contemporary music with a distinctive voice and fearless approach to self-expression. Combining infectious melodies, imaginative production, and honest storytelling, her music…"
     },
     {
       "event_type": "music",
@@ -117,11 +128,22 @@
           "matched": "Internet Girl",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "OSHE",
+          "apple_music": "https://music.apple.com/us/artist/oshe/69788284",
+          "spotify": "https://open.spotify.com/artist/6vGoQsXezOodwOgiA7cPkG",
+          "confidence": 1.0,
+          "matched": "Oshe",
+          "apple_label": null,
+          "spotify_label": "close match: O-Shen",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -130,13 +152,13 @@
       "date": "2026-11-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/internet-girl-cafe-du-nord-tickets/15010183?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_link": "https://www.ticketweb.com/event/internet-girl-with-oshe-cafe-du-nord-tickets/15010183?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-11-19-internet-girl",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Internet Girl have become one of the more unlikely underground success stories to emerge from South Africa's alternative scene. Since breaking through with the wiry, hyperactive single \"PULL UP\" in 2024—a song now slated for the NBA 2K27 soundtrack—the trio have carved out a lane where indie sleaze, rap, post-punk, and internet culture collapse into something distinctly their own. Their debut…"
+      "description": "Internet Girl have become one of the more unlikely underground success stories to emerge from South Africa's alternative scene."
     },
     {
       "event_type": "music",
@@ -150,7 +172,7 @@
           "matched": "Memphis LK",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -175,12 +197,12 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/memphis-lk-with-cstr-cafe-du-nord-tickets/14259744?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-11-20-memphis-lk",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Memphis LK has become a defining force in Australia’s next generation of electronic voices. Emerging from Melbourne’s world-class club scene, her music taps into the sanctuary and transcendence of the dancefloor, a space to let go, reconnect, and escape. Her transportive live sets fuse DJing with live vocals and saxophone, creating an immersive, euphoric experience that mirrors the emotional…"
+      "description": "Memphis LK has become a defining force in Australia’s next generation of electronic voices. Emerging from Melbourne’s world-class club scene, her music taps into the sanctuary and transcendence of the dancefloor, a space to let go, reconnect, and escape. Her transportive live…"
     },
     {
       "event_type": "music",
@@ -194,7 +216,7 @@
           "matched": "Frances Whitney",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -219,7 +241,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/frances-whitney-presents-daisys-mixtape-cafe-du-nord-tickets/14341944?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-11-21-frances-whitney",
       "room": null,
       "age_rating": "All ages",
@@ -238,7 +260,7 @@
           "matched": "Elijah Fox",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -263,12 +285,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/elijah-fox-trio-tour-ft-swedish-american-hall-tickets/14314314?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-12-03-elijah-fox",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Fox studied piano at Oberlin Conservatory with Sullivan Fortner, Billy Hart, and Dan Wall and graduated in 2017 before moving to New York City. His piano composition “East Village” was sampled by Drake and 21 Savage on “Major Distribution” reaching number 3 on the Billboard Charts. Fox has also recorded/produced for SZA, Masego, YG, ScHoolboy Q, Denzel Curry, Tate McCrae, Musiq Soulchild…"
+      "description": "Fox studied piano at Oberlin Conservatory with Sullivan Fortner, Billy Hart, and Dan Wall and graduated in 2017 before moving to New York City. His piano composition “East Village” was sampled by Drake and 21 Savage on “Major Distribution” reaching number 3 on the Billboard…"
     },
     {
       "event_type": "music",
@@ -282,11 +304,42 @@
           "matched": "Keenan TreVon",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Wyatt Woodley",
+          "apple_music": "https://music.apple.com/us/artist/wyatt-woodley/1296404493",
+          "spotify": "https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE",
+          "confidence": 1.0,
+          "matched": "Wyatt Woodley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "3LISE",
+          "apple_music": "https://music.apple.com/us/artist/3lise/1592245934",
+          "spotify": "https://open.spotify.com/artist/018k4iDT5vPZTA5EfoalRP",
+          "confidence": 1.0,
+          "matched": "3LISE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Aria Zadeh",
+          "apple_music": "https://music.apple.com/us/artist/aria-zadeh/1756417934",
+          "spotify": "https://open.spotify.com/artist/0nKgHhTQdbeac1Zuz6qKJM",
+          "confidence": 1.0,
+          "matched": "Aria Zadeh",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -296,12 +349,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/keenan-trevons-flowers-after-dark-cafe-du-nord-tickets/14329424?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-12-07-keenan-trevon",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Keenan TreVon is building one of the most compelling independent careers in alternative R&B, driven by genre-defying production, emotionally direct songwriting, and a proven ability to convert listeners into ticket buyers. Keenan has earned cover features in Westword and BandWagon, received R&B Artist of the Year recognition from Denver Spotlight and Westword, and became the first Colorado…"
+      "description": "Keenan TreVon is building one of the most compelling independent careers in alternative R&B, driven by genre-defying production, emotionally direct songwriting, and a proven ability to convert listeners into ticket buyers. Keenan has earned cover features in Westword and…"
     },
     {
       "event_type": "music",
@@ -315,7 +368,7 @@
           "matched": "HARBOUR",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -340,12 +393,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/harbour-with-the-silkies-cafe-du-nord-tickets/14206784?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-12-08-harbour",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Since their formation in 2014, HARBOUR has gone from packing rooms in their native Cincinnati to selling out venues across the United States. Members Ryan Green (vocals/guitar), Jarett Lewis (guitar), Devon Turner (guitar), and Ryan Sulken (drums) have curated an infectious, high energy sound that transfers seamlessly into their live shows. During their tenure as a group, HARBOUR has delivered 5…"
+      "description": "Since their formation in 2014, HARBOUR has gone from packing rooms in their native Cincinnati to selling out venues across the United States. Members Ryan Green (vocals/guitar), Jarett Lewis (guitar), Devon Turner (guitar), and Ryan Sulken (drums) have curated an infectious…"
     },
     {
       "event_type": "music",
@@ -359,7 +412,7 @@
           "matched": "WHY?",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -384,12 +437,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/why-with-kitty-ray-swedish-american-hall-tickets/15003283?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-12-08-why",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Yoni Wolf was at war with himself. As he reached middle age, he was beset by questions that had plagued him for years. Why was life so difficult and lonely? When would the happy part of him take the steering wheel? Far from wallowing, he leaned into the dark and the light, asking how and when real change was possible. first come first serve seating"
+      "description": "Yoni Wolf was at war with himself. As he reached middle age, he was beset by questions that had plagued him for years. Why was life so difficult and lonely? When would the happy part of him take the steering wheel? Far from wallowing, he leaned into the dark and the light…"
     },
     {
       "event_type": "music",
@@ -403,7 +456,7 @@
           "matched": "Josie Edwards",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -428,12 +481,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/josie-edwards-with-hudson-ingram-cafe-du-nord-tickets/14296744?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-12-15-josie-edwards",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Josie Edwards is a rising folk-pop singer-songwriter based in Nashville, TN, whose sharp storytelling and unmistakable voice have earned her more than 100 million streams and a fast-growing audience online. Drawing on artists like Tom Odell, Twenty One Pilots, Noah Kahan, The Lumineers, and Bob Dylan, Josie pairs dark humor with folk-pop melodies that stick. It’s an identity entirely her own…"
+      "description": "Josie Edwards is a rising folk-pop singer-songwriter based in Nashville, TN, whose sharp storytelling and unmistakable voice have earned her more than 100 million streams and a fast-growing audience online."
     },
     {
       "event_type": "music",
@@ -447,7 +500,7 @@
           "matched": "Trestles",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -461,12 +514,45 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/trestles-cafe-du-nord-tickets/14393464?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-01-21-trestles",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Trestles is a surf/psych outfit from Santa Cruz, California. Formed in 2021, the band is centered in 1960’s west coast garage rock tradition. With their own take on a psychedelic surf/garage revival sound, Trestles’ cultural influence is the byproduct of shared time studying and obsessing over the history of music recording arts at school. The band's goal is to only participate in things that…"
+      "description": "Trestles is a surf/psych outfit from Santa Cruz, California. Formed in 2021, the band is centered in 1960’s west coast garage rock tradition. With their own take on a psychedelic surf/garage revival sound, Trestles’ cultural influence is the byproduct of shared time studying…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Madeline Edwards",
+          "apple_music": "https://music.apple.com/us/artist/madeline-edwards/1127961228",
+          "spotify": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa",
+          "confidence": 1.0,
+          "matched": "Madeline Edwards",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-25",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/madeline-edwards-cafe-du-nord-tickets/14248284?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://cafedunord.com/shows/2027-01-25-madeline-edwards",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Madeline Edwards is a genre-defying singer-songwriter whose music seamlessly blends country, jazz, soul, and rock influences into a sound that is uniquely her own. With a voice that carries both power and vulnerability, she has captivated audiences with her authenticity…"
     },
     {
       "event_type": "music",
@@ -480,7 +566,7 @@
           "matched": "Youth Fountain",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -505,12 +591,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/youth-fountain-with-relate-cafe-du-nord-tickets/14302564?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-01-26-youth-fountain",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Since 2018, Youth Fountain have carved out a lasting presence within the pop-punk and emo/hardcore scenes. The project is led by singer/songwriter Tyler Zanon, whose emotionally raw songwriting blends classic emo with modern sensibilities, a gut-punch of sincerity, equal parts vulnerable and anthemic. The band has toured alongside Four Year Strong, Free Throw, Knuckle Puck, Hawthorne Heights…"
+      "description": "Since 2018, Youth Fountain have carved out a lasting presence within the pop-punk and emo/hardcore scenes. The project is led by singer/songwriter Tyler Zanon, whose emotionally raw songwriting blends classic emo with modern sensibilities, a gut-punch of sincerity, equal parts…"
     },
     {
       "event_type": "music",
@@ -524,7 +610,7 @@
           "matched": "Jon Bryant",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -538,12 +624,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-harbour-tour-cafe-du-nord-tickets/14385664?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-01-27-jon-bryant",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Canadian indie-folk singer-songwriter Jon Bryant blends warm acoustic melodies, soulful vocals, and deeply personal storytelling into music that feels both intimate and timeless. With five albums under his belt, his forthcoming release Harbour marks a return to his folk roots, delivering heartfelt songs about love, connection, and finding your way home."
+      "description": "Canadian indie-folk singer-songwriter Jon Bryant blends warm acoustic melodies, soulful vocals, and deeply personal storytelling into music that feels both intimate and timeless. With five albums under his belt, his forthcoming release Harbour marks a return to his folk roots…"
     },
     {
       "event_type": "music",
@@ -557,7 +643,7 @@
           "matched": "Zach Seabaugh",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -571,12 +657,12 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/zach-seabaugh-cafe-du-nord-tickets/14354054?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-01-30-zach-seabaugh",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Zach Seabaugh is a singer-songwriter crafting introspective, quietly powerful songs rooted in honesty and restraint. Blending elements of indie folk and Americana, his music leans into space, texture, and storytelling - drawing comparisons to artists like Gregory Alan Isakov and Noah Kahan. His recent work reflects a shift toward stripped-back production and lyrical vulnerability, capturing…"
+      "description": "Zach Seabaugh is a singer-songwriter crafting introspective, quietly powerful songs rooted in honesty and restraint."
     },
     {
       "event_type": "music",
@@ -590,7 +676,7 @@
           "matched": "The Arcadian Wild",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -604,12 +690,12 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-arcadian-wild-swedish-american-hall-tickets/14348954?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-01-30-the-arcadian-wild",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "The Arcadian Wild is an indie folk/pop group from Nashville, TN, led by songwriters Isaac Horn, Lincoln Mick and Bailey Warren, The Arcadian Wild confidently inhabits and explores an intersection of genre, blending the traditional with the contemporary. Combining elements of confessional pop, folk, progressive bluegrass, and formal vocal music, The Arcadian Wild offer up songs of invitation…"
+      "description": "The Arcadian Wild is an indie folk/pop group from Nashville, TN, led by songwriters Isaac Horn, Lincoln Mick and Bailey Warren, The Arcadian Wild confidently inhabits and explores an intersection of genre, blending the traditional with the contemporary."
     },
     {
       "event_type": "music",
@@ -623,7 +709,7 @@
           "matched": "Where's West?",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -637,12 +723,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wheres-west-cafe-du-nord-tickets/14393364?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-04-wheres-west",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Los Angeles-based dance rock band Where's West? channels the spirit of the California coast through a vibrant blend of rock, indie, dance and funk. The band has quickly built a reputation for infectious melodies, high-energy performances and a sound that fuses funky rock grooves with dynamic synth layers and driving leads."
+      "description": "Los Angeles-based dance rock band Where's West? channels the spirit of the California coast through a vibrant blend of rock, indie, dance and funk."
     },
     {
       "event_type": "music",
@@ -656,7 +742,7 @@
           "matched": "The Sways",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -681,12 +767,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-sways-with-abigail-rose-cafe-du-nord-tickets/14364964?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-06-the-sways",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "The Sways are a rising indie trio from the mountains of Northern Arizona, crafting music rooted in friendship, fatherhood, and a deep appreciation for the beauty of everyday life. Built on a true collaborative spirit, the band writes, produces, and performs everything together. Blending warm harmonies, thoughtful songwriting, and organic instrumentation, The Sways channel the rugged openness of…"
+      "description": "The Sways are a rising indie trio from the mountains of Northern Arizona, crafting music rooted in friendship, fatherhood, and a deep appreciation for the beauty of everyday life."
     },
     {
       "event_type": "music",
@@ -700,7 +786,7 @@
           "matched": "Aubory Bugg",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -714,12 +800,12 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/aubory-bugg-cafe-du-nord-tickets/14325124?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-13-aubory-bugg",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "From a blue-collar steel-mill town in Illinois to Nashville, Aubory has turned her journey of identity, independence, and finding where she belongs into deeply personal songwriting. After going viral on TikTok with a cover of Reneé Rapp’s “Tummy Hurts,” she’s built a following and is now bringing that same raw honesty to her original music. With her debut album on the way and a growing fanbase…"
+      "description": "From a blue-collar steel-mill town in Illinois to Nashville, Aubory has turned her journey of identity, independence, and finding where she belongs into deeply personal songwriting."
     },
     {
       "event_type": "music",
@@ -733,7 +819,7 @@
           "matched": "L.A.B",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -758,12 +844,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/lab-with-seven-suns-cafe-du-nord-tickets/14314574?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-17-lab",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "A formidable live act, the band have made their name with a relentless touring schedule, and an ever-expanding catalogue of reggae, soul, rock & funk-inspired tunes which create a sound all their own. The band released five studio albums in five consecutive years, whilst building their audience through constant touring across Australasia. A formidable live act, the band have made their name with…"
+      "description": "A formidable live act, the band have made their name with a relentless touring schedule, and an ever-expanding catalogue of reggae, soul, rock & funk-inspired tunes which create a sound all their own. The band released five studio albums in five consecutive years, whilst…"
     },
     {
       "event_type": "music",
@@ -777,7 +863,7 @@
           "matched": "Devvy Dub",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -791,10 +877,10 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/devvy-dub-cafe-du-nord-tickets/14343444?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-19-devvy-dub",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
       "description": "Arkansas-born producer and artist Devvy Dub, now based in San Francisco, makes alternative music that pushes past traditional genre lines. Blending synths, guitars, and textured vocal effects, Devvy creates songs that feel both laid-back and slightly chaotic in the best way."
     },
@@ -810,7 +896,7 @@
           "matched": "Cut Worms",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -824,10 +910,10 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/cut-worms-solo-swedish-american-hall-tickets/14379044?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-22-cut-worms",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
       "description": "Cut Worms (solo) NYC singer/songwriter Max Clarke’s self-titled project tells all the right stories of an eternal, American pop identity with the ease of an old-timer and the fresh eyes of a modernist"
     },
@@ -836,29 +922,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Alt Bloom",
+          "name": "Alt Bloom and DOUBLECAMP",
           "apple_music": "https://music.apple.com/us/artist/alt-bloom/1465970266",
           "spotify": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP",
-          "confidence": 1.0,
+          "confidence": 0.8,
           "matched": "Alt Bloom",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DOUBLECAMP",
-          "apple_music": "https://music.apple.com/us/artist/doublecamp/1461687702",
-          "spotify": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy",
-          "confidence": 1.0,
-          "matched": "DOUBLECAMP",
-          "apple_label": null,
-          "spotify_label": null,
+          "apple_label": "compound bill — links to Alt Bloom only",
+          "spotify_label": "close match: Alt Bloom",
           "spotify_source": "api"
         }
       ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -868,7 +943,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/camp-bloom-tour-cafe-du-nord-tickets/14384444?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-23-alt-bloom",
       "room": null,
       "age_rating": "All ages",
@@ -887,7 +962,7 @@
           "matched": "Hot Freaks",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -901,7 +976,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/hot-freaks-cafe-du-nord-tickets/14340764?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-24-hot-freaks",
       "room": null,
       "age_rating": "All ages",
@@ -920,7 +995,7 @@
           "matched": "Brooke Alexx",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -934,12 +1009,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/brooke-alexx-dream-girl-tour-cafe-du-nord-tickets/14288904?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-25-brooke-alexx",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Brooke Alexx is reshaping modern pop with her infectious melodies, sharp wit, and deeply personal lyrics. The independent AAPI artist has won the hearts of millions, highlighted by the viral success of her hit single \"All My Exes’ Moms,\" which garnered 30 million streams and earned 1st place in the pop category of American Songwriter's 2023 contest. Known for her unique blend of humor…"
+      "description": "Brooke Alexx is reshaping modern pop with her infectious melodies, sharp wit, and deeply personal lyrics."
     },
     {
       "event_type": "music",
@@ -953,7 +1028,7 @@
           "matched": "The Stone Foxes",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -967,12 +1042,56 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-stone-foxes-cafe-du-nord-tickets/14343314?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-02-26-the-stone-foxes",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Shannon and Spence Koehler are men of The West. Californians through and through, the brothers know that the Golden State encompasses two halves; abundance and pain. Fruit and fire. Their latest sound flaunts that dichotomy. It’s what they describe as “If Ennio Morricone and T. Rex had a baby.” To that, I say, yep. You can’t help but imagine them jamming out in spandex and spurs."
+      "description": "Shannon and Spence Koehler are men of The West. Californians through and through, the brothers know that the Golden State encompasses two halves; abundance and pain. Fruit and fire. Their latest sound flaunts that dichotomy. It’s what they describe as “If Ennio Morricone and T…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Reality Gays Podcast Live!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Nikki Glaser @ 32%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Mattie and Poodle",
+          "apple_music": "https://music.apple.com/us/artist/mattie/89417963",
+          "spotify": null,
+          "confidence": 0.8,
+          "matched": "Mattie",
+          "apple_label": "compound bill — links to Mattie only",
+          "spotify_label": "no confident match (closest: Mattel @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/reality-gays-same-gays-new-swedish-american-hall-tickets/14438294?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://cafedunord.com/shows/2027-03-06-reality-gays-podcast-live-with-mattie-and-poodle",
+      "room": "Swedish American Hall (upstairs)",
+      "age_rating": null,
+      "note": null,
+      "description": "Matt “Mattie” Marr and Jake “Poodle” Anthony are two Southern queens with one sacred calling: judging the romantic disasters of reality TV. From the international train wrecks of 90 Day Fiancé to the matrimonial delusions of Love Is Blind, the Reality Gays are ready to dish…"
     },
     {
       "event_type": "music",
@@ -986,7 +1105,7 @@
           "matched": "Katherine Li",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1000,7 +1119,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/katherine-li-i-love-you-cafe-du-nord-tickets/14371124?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-10-katherine-li",
       "room": null,
       "age_rating": "All ages",
@@ -1019,7 +1138,7 @@
           "matched": "Surfer Girl",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1054,12 +1173,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-with-the-holdup-cafe-du-nord-tickets/14335194?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-13-surfer-girl",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Led by the magnetic Carter Reeves, former frontman of breakout hip-hop/pop outfit Aer, Surfer Girl delivers the soundtrack to a carefree, sun-soaked life. Hailing from Wayland, MA but deeply rooted in laid-back coastal culture, the band blends indie-pop, reggae, surf-rock, and hip-hop into a seamless high-energy sound. Surfer Girl has built a global community drawn to breezy anthems, crisp…"
+      "description": "Led by the magnetic Carter Reeves, former frontman of breakout hip-hop/pop outfit Aer, Surfer Girl delivers the soundtrack to a carefree, sun-soaked life. Hailing from Wayland, MA but deeply rooted in laid-back coastal culture, the band blends indie-pop, reggae, surf-rock, and…"
     },
     {
       "event_type": "music",
@@ -1073,11 +1192,22 @@
           "matched": "Bo Staloch",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "RYMAN",
+          "apple_music": "https://music.apple.com/us/artist/ryman/1561850927",
+          "spotify": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj",
+          "confidence": 1.0,
+          "matched": "RYMAN",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1087,7 +1217,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bo-staloch-the-cafe-du-nord-tickets/14328434?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-19-bo-staloch",
       "room": null,
       "age_rating": "All ages",
@@ -1106,7 +1236,7 @@
           "matched": "Rowena Wise",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1120,12 +1250,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/rowena-wise-bad-cafe-du-nord-tickets/14351494?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-25-rowena-wise",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Rowena Wise is a Naarm/Melbourne-based singer-songwriter whose work balances beauty and mess with rare emotional precision. Hailed as a \"lyrical assassin\" by the Australian triple j community, Wise writes songs that feel like intimate conversations-ruminations on love, alienation, longing and selfhood delivered with quiet courage and disarming honesty. Drawing from the storytelling lineage of…"
+      "description": "Rowena Wise is a Naarm/Melbourne-based singer-songwriter whose work balances beauty and mess with rare emotional precision. Hailed as a \"lyrical assassin\" by the Australian triple j community, Wise writes songs that feel like intimate conversations-ruminations on love…"
     },
     {
       "event_type": "music",
@@ -1139,7 +1269,7 @@
           "matched": "Wild Pink",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1164,12 +1294,12 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/wild-pink-with-truth-club-cafe-du-nord-tickets/14407884?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "presale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-26-wild-pink",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Wild Pink brings storied expedition that welcomes in the drifters and the kids kicking up dust; the brokenhearted and the cursed; the ones looking for an answer and the ones who simply couldn’t care less with music meant to be played loud, with your hand out the car window, riding the air as you bound down some highway in the early hours."
+      "description": "Wild Pink brings storied expedition that welcomes in the drifters and the kids kicking up dust; the brokenhearted and the cursed; the ones looking for an answer and the ones who simply couldn’t care less with music meant to be played loud, with your hand out the car window…"
     },
     {
       "event_type": "music",
@@ -1183,7 +1313,7 @@
           "matched": "Sarah Julia",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1197,10 +1327,10 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/sarah-julia-2027-swedish-american-hall-tickets/14379054?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-27-sarah-julia",
       "room": "Swedish American Hall (upstairs)",
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
       "description": "Sarah Julia brings music pockmarked with heartbreak, resignation, longing, hope, and pain. Sarah Julia approach each with self-awareness, gazing inward and outward with equal intensity."
     },
@@ -1216,7 +1346,7 @@
           "matched": "Games We Play",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
@@ -1241,12 +1371,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/games-we-play-cafe-du-nord-tickets/14321934?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-30-games-we-play",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "After years of touring with Fall Out Boy, YUNGBLUD, All Time Low and more, Games We Play is back... and this time, Emmyn is doing it his way. Built from bedroom-written songs, piano, DIY energy and a refusal to play by the rules, the project is weird, personal, unapologetic, and completely Emmyn's own. Games We Play is back for real."
+      "description": "After years of touring with Fall Out Boy, YUNGBLUD, All Time Low and more, Games We Play is back... and this time, Emmyn is doing it his way."
     },
     {
       "event_type": "music",
@@ -1260,7 +1390,7 @@
           "matched": "Will Linley",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1274,12 +1404,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/will-linley-could-cafe-du-nord-tickets/14314614?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-03-31-will-linley",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Will Linley writes songs that actually sound like love. You can practically feel the onset of new romance bubbling through the softly strummed acoustic chords, swirling around in the synths, and magnified by his impressive, expansive voice. The South African singer and songwriter tunes into emotion and amplifies it across alternative pop anthems spiked with sun-soaked energy."
+      "description": "Will Linley writes songs that actually sound like love. You can practically feel the onset of new romance bubbling through the softly strummed acoustic chords, swirling around in the synths, and magnified by his impressive, expansive voice. The South African singer and…"
     },
     {
       "event_type": "music",
@@ -1293,7 +1423,7 @@
           "matched": "Victoryland",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1307,7 +1437,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/victoryland-cafe-du-nord-tickets/14378204?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-04-05-victoryland",
       "room": null,
       "age_rating": "All ages",
@@ -1340,12 +1470,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/arthur-hill-cafe-du-nord-tickets/15016263?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-04-07-arthur-hill",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Arthur Hill has established himself as an artist in his own right. His two 2025 EPs, 'Missed Again' and 'In The Middle of Somewhere,' introduced his distinctive blend of witty lyricism, infectious pop and genuine emotional honesty, while his growing live presence has seen him progress from an emerging artist to a headline performer."
+      "description": "Arthur Hill has established himself as an artist in his own right. His two 2025 EPs, 'Missed Again' and 'In The Middle of Somewhere,' introduced his distinctive blend of witty lyricism, infectious pop and genuine emotional honesty, while his growing live presence has seen him…"
     },
     {
       "event_type": "music",
@@ -1359,7 +1489,7 @@
           "matched": "Jack & Jack",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1373,12 +1503,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/jack-jack-cafe-du-nord-tickets/14381474?pl=cdn&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-04-13-jack-and-jack",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Jack & Jack’s rise to success is rooted in the unbreakable bond between lifelong friends Jack Gilinsky and Jack Johnson. From viral sensations to Gold-certified artists, their journey has been defined by relentless passion, creative evolution, and a deep connection with their fans. After breaking free from major label deals, the duo made a triumphant return following a three-year hiatus, this…"
+      "description": "Jack & Jack’s rise to success is rooted in the unbreakable bond between lifelong friends Jack Gilinsky and Jack Johnson. From viral sensations to Gold-certified artists, their journey has been defined by relentless passion, creative evolution, and a deep connection with their…"
     },
     {
       "event_type": "music",
@@ -1392,7 +1522,7 @@
           "matched": "Alex Sampson",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1406,12 +1536,45 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/alex-sampson-sold-out-cafe-du-nord-tickets/14353524?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "waitlist",
+      "ticket_status": "sold out",
       "event_page": "https://cafedunord.com/shows/2027-04-23-alex-sampson",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "With humble small-town beginnings, Canadian singer-songwriter, Alex Sampson knew he was born to perform at just nine years old when he entered a school talent show for the first time singing GOLD by Owl City. “Not a day went by when music wasn’’t playing throughout my house” he says talking about his Childhood.” The multitalented 20-year-old spent most, if not all of his days growing up singing…"
+      "description": "With humble small-town beginnings, Canadian singer-songwriter, Alex Sampson knew he was born to perform at just nine years old when he entered a school talent show for the first time singing GOLD by Owl City."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "VEAUX",
+          "apple_music": "https://music.apple.com/us/artist/veaux/1052261438",
+          "spotify": "https://open.spotify.com/artist/1asSK5d79kA4LoNp4LmV3z",
+          "confidence": 1.0,
+          "matched": "VEAUX",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Live Nation presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-27",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/veaux-cafe-du-nord-tickets/14395704?pl=cafedunord&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://cafedunord.com/shows/2027-04-27-veaux",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Nashville-based alt-pop band VEAUX is on the rise — and they aren’t coming down any time soon."
     },
     {
       "event_type": "music",
@@ -1425,7 +1588,7 @@
           "matched": "The Palms",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1439,12 +1602,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-palms-cafe-du-nord-tickets/14410804?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-04-29-the-palms",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "\"The Palms have shifted toward creating music that is as catchy as pop, yet melded with poignant elements of blues, hip-hop, rock, and reggae. Rothbard's distinct vocals also invite the listener into each track, allowing the duo's intended messages to come through while simultaneously leaving space for individual interpretations.\" - Interview Magazine"
+      "description": "\"The Palms have shifted toward creating music that is as catchy as pop, yet melded with poignant elements of blues, hip-hop, rock, and reggae. Rothbard's distinct vocals also invite the listener into each track, allowing the duo's intended messages to come through while…"
     },
     {
       "event_type": "music",
@@ -1472,12 +1635,12 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/yellow-house-cafe-du-nord-tickets/14384164?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-05-04-yellow-house",
       "room": null,
-      "age_rating": "21+",
+      "age_rating": null,
       "note": null,
-      "description": "Hailing from South Africa, Yellow House makes his long-awaited US live debut with a nationwide headlining tour. Since the release of his debut EP, A Carnival of Fears, in 2017, Yellow House has cultivated a devoted following across the United States with his distinctive blend of ethereal Dream Pop, soulful R&B, and folk inspired songwriting. Envisaged as a musical expression of impressionism…"
+      "description": "Hailing from South Africa, Yellow House makes his long-awaited US live debut with a nationwide headlining tour."
     },
     {
       "event_type": "music",
@@ -1505,7 +1668,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gavn-new-date-cafe-du-nord-tickets/14206234?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-05-23-gavn",
       "room": null,
       "age_rating": "All ages",
@@ -1524,7 +1687,7 @@
           "matched": "Alfie Jukes",
           "apple_label": null,
           "spotify_label": null,
-          "spotify_source": "venue"
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
@@ -1538,36 +1701,36 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/alfie-jukes-funny-cafe-du-nord-tickets/14371174?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2027-06-02-alfie-jukes",
       "room": null,
       "age_rating": "All ages",
       "note": null,
-      "description": "Alfie Jukes is a born storyteller. This young singer-songwriter is on the cusp of something huge, destined to share his remarkable music with the world. His songs are a much-needed balm for our troubled times; songs of love and hope, of moving away from home and coming of age, and they are always written from the heart."
+      "description": "Alfie Jukes is a born storyteller. This young singer-songwriter is on the cusp of something huge, destined to share his remarkable music with the world. His songs are a much-needed balm for our troubled times; songs of love and hope, of moving away from home and coming of age…"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 54,
-      "exact": 52,
+      "unique_artists": 64,
+      "found": 62,
+      "exact": 58,
       "close": 1,
-      "flagged": 1,
-      "not_found": 1
+      "flagged": 3,
+      "not_found": 2
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 55,
-      "venue": 38,
-      "api": 17,
+      "unique_artists": 64,
+      "linked": 62,
+      "venue": 0,
+      "api": 62,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 43
     }
   }
 }

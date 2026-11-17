@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
+  "scraped_at": "2026-11-17",
   "count": 54,
   "shows": [
     {
@@ -89,7 +89,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/slothrust/695824",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": null,
       "note": null,
       "description": null
     },
@@ -1598,7 +1598,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-10",
       "doors": "8:00 pm",
@@ -1607,7 +1609,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/charlie-starr/710719",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },

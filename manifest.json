@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:14:17.222408+00:00",
+  "generated_at": "2026-11-17T12:13:36.387082+00:00",
   "venues": [
     {
       "venue_id": "augusthall",
@@ -9,8 +9,8 @@
       "address": "420 Mason St",
       "lat": 37.7876,
       "lon": -122.4098,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:36",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:43",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -23,8 +23,8 @@
           "api"
         ]
       },
-      "show_count": 45,
-      "sha256_16": "5e213a4abb53bdf3"
+      "show_count": 46,
+      "sha256_16": "6fdfc14864de4e91"
     },
     {
       "venue_id": "bellyup",
@@ -34,12 +34,11 @@
       "address": "143 S Cedros Ave",
       "lat": 32.991,
       "lon": -117.2707,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:46",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:54",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
-          "comedy",
           "music"
         ],
         "ticket_status": [
@@ -53,7 +52,7 @@
         ]
       },
       "show_count": 123,
-      "sha256_16": "135c48871fd27cf6"
+      "sha256_16": "7aca264e140dbdc8"
     },
     {
       "venue_id": "bgc",
@@ -63,8 +62,8 @@
       "address": "99 Grove St",
       "lat": 37.7781,
       "lon": -122.4173,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:43",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:51",
       "oldest_show_date": "2026-11-24",
       "value_domains": {
         "event_type": [
@@ -74,15 +73,16 @@
           "sold out",
           "on sale",
           "LEARN MORE",
-          "PRESALE 11/18"
+          "PRESALE 11/18",
+          "PRESALE 11/19"
         ],
         "spotify_source": [
           "venue",
           "api"
         ]
       },
-      "show_count": 24,
-      "sha256_16": "db6a839a239df030"
+      "show_count": 25,
+      "sha256_16": "c7b826794147babf"
     },
     {
       "venue_id": "brickandmortar",
@@ -92,8 +92,8 @@
       "address": "1710 Mission St",
       "lat": 37.7697,
       "lon": -122.4203,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:42",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:50",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -109,7 +109,7 @@
         ]
       },
       "show_count": 21,
-      "sha256_16": "04adc5d370933595"
+      "sha256_16": "c50307b049cf9ebc"
     },
     {
       "venue_id": "cafedunord",
@@ -119,25 +119,22 @@
       "address": "2170 Market St",
       "lat": 37.7667,
       "lon": -122.4305,
-      "updated_at": "2026-11-13",
-      "fetched_at": "2026-11-16T04:08:37",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:44",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music"
         ],
         "ticket_status": [
-          "on sale",
-          "waitlist",
-          "presale"
+          "sold out"
         ],
         "spotify_source": [
-          "venue",
           "api"
         ]
       },
-      "show_count": 41,
-      "sha256_16": "30115a5e73bc584c"
+      "show_count": 44,
+      "sha256_16": "df6a0a98c4cca248"
     },
     {
       "venue_id": "castro",
@@ -147,24 +144,24 @@
       "address": "429 Castro St",
       "lat": 37.762,
       "lon": -122.4348,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:31",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:38",
+      "oldest_show_date": "2026-11-18",
       "value_domains": {
         "event_type": [
           "music"
         ],
         "ticket_status": [
-          "sold out",
-          "on sale"
+          "on sale",
+          "sold out"
         ],
         "spotify_source": [
-          "venue",
-          "api"
+          "api",
+          "venue"
         ]
       },
-      "show_count": 50,
-      "sha256_16": "666082fba8d29cd3"
+      "show_count": 49,
+      "sha256_16": "c845cfd4e7130238"
     },
     {
       "venue_id": "chapel",
@@ -174,9 +171,9 @@
       "address": "1854 Market St",
       "lat": 37.7605,
       "lon": -122.4212,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:42",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:50",
+      "oldest_show_date": "2026-11-18",
       "value_domains": {
         "event_type": [
           "music"
@@ -189,8 +186,8 @@
           "api"
         ]
       },
-      "show_count": 33,
-      "sha256_16": "7d3064d69443c927"
+      "show_count": 34,
+      "sha256_16": "be739f8c19322752"
     },
     {
       "venue_id": "crocodile",
@@ -200,8 +197,8 @@
       "address": "2505 1st Ave",
       "lat": 47.6146,
       "lon": -122.3491,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:29",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:27",
       "oldest_show_date": "2026-11-27",
       "value_domains": {
         "event_type": [
@@ -216,7 +213,7 @@
         ]
       },
       "show_count": 5,
-      "sha256_16": "da7f5fa50ed52cb7"
+      "sha256_16": "fcd675c25dabad08"
     },
     {
       "venue_id": "crystalball",
@@ -226,9 +223,9 @@
       "address": "1332 W Burnside",
       "lat": 45.5227,
       "lon": -122.6848,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:09:17",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:28",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music",
@@ -241,8 +238,8 @@
           "api"
         ]
       },
-      "show_count": 54,
-      "sha256_16": "c0c7178e3921938e"
+      "show_count": 55,
+      "sha256_16": "0cc36f573b543656"
     },
     {
       "venue_id": "elcorazon",
@@ -252,8 +249,8 @@
       "address": "109 E Eastlake Ave",
       "lat": 47.6187,
       "lon": -122.3293,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:26",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:26",
       "oldest_show_date": "2026-11-20",
       "value_domains": {
         "event_type": [
@@ -264,8 +261,8 @@
           "api"
         ]
       },
-      "show_count": 30,
-      "sha256_16": "2ded0961b4d5cd0d"
+      "show_count": 31,
+      "sha256_16": "101eb9470b85548f"
     },
     {
       "venue_id": "fillmore",
@@ -275,9 +272,9 @@
       "address": "1805 Geary Blvd",
       "lat": 37.7841,
       "lon": -122.4332,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:32",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:39",
+      "oldest_show_date": "2026-11-18",
       "value_domains": {
         "event_type": [
           "music",
@@ -291,7 +288,7 @@
         ]
       },
       "show_count": 33,
-      "sha256_16": "b6049ee82a3f779d"
+      "sha256_16": "662a84a6fcfd2047"
     },
     {
       "venue_id": "foxoakland",
@@ -301,8 +298,8 @@
       "address": "1807 Telegraph Ave",
       "lat": 37.808,
       "lon": -122.2702,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:38",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:46",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -318,8 +315,8 @@
           "api"
         ]
       },
-      "show_count": 31,
-      "sha256_16": "215662961009ec73"
+      "show_count": 33,
+      "sha256_16": "69527ce645a92a06"
     },
     {
       "venue_id": "frost",
@@ -329,8 +326,8 @@
       "address": "Lasuen Way, Stanford",
       "lat": 37.4307,
       "lon": -122.166,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:42",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:50",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -338,7 +335,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "2986362fbe5cf12d"
+      "sha256_16": "02b2ae672acd934e"
     },
     {
       "venue_id": "funhouse",
@@ -348,9 +345,9 @@
       "address": "109 E Eastlake Ave",
       "lat": 47.6189,
       "lon": -122.3293,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:27",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:27",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music"
@@ -360,8 +357,8 @@
           "api"
         ]
       },
-      "show_count": 25,
-      "sha256_16": "e693487541786668"
+      "show_count": 24,
+      "sha256_16": "4cae9360ee45bdc4"
     },
     {
       "venue_id": "gamh",
@@ -371,8 +368,8 @@
       "address": "859 O'Farrell St",
       "lat": 37.7848,
       "lon": -122.4188,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:33",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:40",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -387,7 +384,7 @@
         ]
       },
       "show_count": 22,
-      "sha256_16": "cddf099c1bf73ada"
+      "sha256_16": "e4af43bd9c8ee32d"
     },
     {
       "venue_id": "greek",
@@ -397,8 +394,8 @@
       "address": "2001 Gayley Rd",
       "lat": 37.8737,
       "lon": -122.2542,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:38",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:46",
       "oldest_show_date": "2027-08-12",
       "value_domains": {
         "event_type": [
@@ -413,7 +410,7 @@
         ]
       },
       "show_count": 2,
-      "sha256_16": "74e18c4f296acd25"
+      "sha256_16": "ab152034d7437b18"
     },
     {
       "venue_id": "holocene",
@@ -423,8 +420,8 @@
       "address": "1001 SE Morrison St",
       "lat": 45.5174,
       "lon": -122.6554,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:09:17",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:29",
       "oldest_show_date": "2026-11-18",
       "value_domains": {
         "event_type": [
@@ -440,8 +437,8 @@
           "api"
         ]
       },
-      "show_count": 42,
-      "sha256_16": "9d645a27469b7125"
+      "show_count": 46,
+      "sha256_16": "8098b10faf30a870"
     },
     {
       "venue_id": "humphreys",
@@ -451,8 +448,8 @@
       "address": "2241 Shelter Island Dr",
       "lat": 32.7169,
       "lon": -117.224,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:51",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:00",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -460,7 +457,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "573a99e2507fb7b3"
+      "sha256_16": "6e015ca70efc4120"
     },
     {
       "venue_id": "independent",
@@ -470,8 +467,8 @@
       "address": "628 Haight St",
       "lat": 37.7719,
       "lon": -122.433,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:29",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:36",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -483,8 +480,8 @@
           "api"
         ]
       },
-      "show_count": 94,
-      "sha256_16": "c3df4b18411b69b6"
+      "show_count": 97,
+      "sha256_16": "c9eca119ab9343ad"
     },
     {
       "venue_id": "keller",
@@ -494,8 +491,8 @@
       "address": "222 SW Clay St",
       "lat": 45.5124,
       "lon": -122.6782,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:09:31",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:43",
       "oldest_show_date": "2026-12-05",
       "value_domains": {
         "event_type": [
@@ -511,7 +508,7 @@
         ]
       },
       "show_count": 65,
-      "sha256_16": "1e33a74798d0c265"
+      "sha256_16": "5377c891afdc3e7a"
     },
     {
       "venue_id": "moore",
@@ -521,8 +518,8 @@
       "address": "1932 2nd Ave",
       "lat": 47.6117,
       "lon": -122.3414,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:11:55",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:12:02",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -538,8 +535,8 @@
           "api"
         ]
       },
-      "show_count": 56,
-      "sha256_16": "bc888b4c37bd82dd"
+      "show_count": 57,
+      "sha256_16": "4f5595f80934c79b"
     },
     {
       "venue_id": "musicbox",
@@ -549,8 +546,8 @@
       "address": "1337 India St",
       "lat": 32.7194,
       "lon": -117.1681,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:50",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:59",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -567,7 +564,7 @@
         ]
       },
       "show_count": 39,
-      "sha256_16": "ddf4c19e8bfa4a3d"
+      "sha256_16": "5f0a0371929f64c0"
     },
     {
       "venue_id": "neptune",
@@ -577,8 +574,8 @@
       "address": "1312 NE 41st St",
       "lat": 47.6611,
       "lon": -122.314,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:13",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:12",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -594,8 +591,8 @@
           "api"
         ]
       },
-      "show_count": 101,
-      "sha256_16": "d6910c2bc485c061"
+      "show_count": 103,
+      "sha256_16": "694bf4979b1d7a2e"
     },
     {
       "venue_id": "neumos",
@@ -605,9 +602,9 @@
       "address": "925 E Pike St",
       "lat": 47.614,
       "lon": -122.3196,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:26",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:23",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music"
@@ -620,8 +617,8 @@
           "api"
         ]
       },
-      "show_count": 56,
-      "sha256_16": "bf849b244e59d3de"
+      "show_count": 58,
+      "sha256_16": "c93e7941fdaf0507"
     },
     {
       "venue_id": "pappy",
@@ -631,8 +628,8 @@
       "address": "53688 Pioneertown Rd",
       "lat": 34.1564,
       "lon": -116.493,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:53",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:01",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -647,7 +644,7 @@
         ]
       },
       "show_count": 54,
-      "sha256_16": "859c8199724ada69"
+      "sha256_16": "d09b716b71db662a"
     },
     {
       "venue_id": "paramount",
@@ -657,9 +654,9 @@
       "address": "911 Pine St",
       "lat": 47.6132,
       "lon": -122.3314,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:10:45",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:10:55",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music",
@@ -673,8 +670,8 @@
           "api"
         ]
       },
-      "show_count": 127,
-      "sha256_16": "40904926ac51a3fe"
+      "show_count": 126,
+      "sha256_16": "e77337a74499449f"
     },
     {
       "venue_id": "polarishall",
@@ -684,24 +681,24 @@
       "address": "635 N Killingsworth Ct",
       "lat": 45.5621,
       "lon": -122.6738,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:09:32",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:43",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music",
           "comedy"
         ],
         "ticket_status": [
-          "sold out",
-          "on sale"
+          "on sale",
+          "sold out"
         ],
         "spotify_source": [
           "api"
         ]
       },
       "show_count": 55,
-      "sha256_16": "cc693c78d23549ee"
+      "sha256_16": "cc9ae338fbaf4447"
     },
     {
       "venue_id": "regency",
@@ -711,15 +708,16 @@
       "address": "1300 Van Ness Ave",
       "lat": 37.7878,
       "lon": -122.4216,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:34",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:40",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music"
         ],
         "ticket_status": [
-          "on sale"
+          "on sale",
+          "Get Tickets"
         ],
         "spotify_source": [
           "api",
@@ -727,7 +725,7 @@
         ]
       },
       "show_count": 32,
-      "sha256_16": "49f38756aa78c06e"
+      "sha256_16": "62498d30999c484f"
     },
     {
       "venue_id": "rickshawstop",
@@ -737,8 +735,8 @@
       "address": "155 Fell St",
       "lat": 37.776,
       "lon": -122.4205,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:45",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:53",
       "oldest_show_date": "2026-11-18",
       "value_domains": {
         "event_type": [
@@ -752,8 +750,8 @@
           "api"
         ]
       },
-      "show_count": 45,
-      "sha256_16": "0db0143c4eab3901"
+      "show_count": 47,
+      "sha256_16": "bffa2000103682f5"
     },
     {
       "venue_id": "roseland",
@@ -763,8 +761,8 @@
       "address": "8 NW 6th Ave",
       "lat": 45.5234,
       "lon": -122.6761,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:09:34",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:46",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -779,8 +777,8 @@
           "api"
         ]
       },
-      "show_count": 32,
-      "sha256_16": "a9ec1537a9f79fbb"
+      "show_count": 33,
+      "sha256_16": "c8db780b52679bb0"
     },
     {
       "venue_id": "sfjazz",
@@ -790,8 +788,8 @@
       "address": "201 Franklin St",
       "lat": 37.7764,
       "lon": -122.4216,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:44",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:52",
       "oldest_show_date": "2026-11-20",
       "value_domains": {
         "event_type": [
@@ -803,7 +801,7 @@
         ]
       },
       "show_count": 104,
-      "sha256_16": "26a34397759ab7e3"
+      "sha256_16": "4319068c13f1400c"
     },
     {
       "venue_id": "showbox",
@@ -813,9 +811,9 @@
       "address": "1426 1st Ave",
       "lat": 47.6085,
       "lon": -122.3395,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:22",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:16",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music"
@@ -828,8 +826,8 @@
           "api"
         ]
       },
-      "show_count": 51,
-      "sha256_16": "65a4afe08ce26494"
+      "show_count": 50,
+      "sha256_16": "fdfabf5524439a48"
     },
     {
       "venue_id": "showboxsodo",
@@ -839,9 +837,9 @@
       "address": "1700 1st Ave S",
       "lat": 47.588,
       "lon": -122.3339,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:13:23",
-      "oldest_show_date": "2026-11-16",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:13:17",
+      "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
           "music"
@@ -856,7 +854,7 @@
         ]
       },
       "show_count": 39,
-      "sha256_16": "890e07b1a44e2bd6"
+      "sha256_16": "0954504495980a79"
     },
     {
       "venue_id": "thecasbah",
@@ -866,8 +864,8 @@
       "address": "2501 Kettner Blvd",
       "lat": 32.7303,
       "lon": -117.1718,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:48",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:56",
       "oldest_show_date": "2027-02-24",
       "value_domains": {
         "event_type": [
@@ -881,7 +879,7 @@
         ]
       },
       "show_count": 1,
-      "sha256_16": "7d1ce4c2c0c9676f"
+      "sha256_16": "04f52abb5fcbc8da"
     },
     {
       "venue_id": "theobservatory",
@@ -891,8 +889,8 @@
       "address": "2891 University Ave",
       "lat": 32.748,
       "lon": -117.1313,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:49",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:58",
       "oldest_show_date": null,
       "value_domains": {
         "event_type": [],
@@ -900,7 +898,7 @@
         "spotify_source": []
       },
       "show_count": 0,
-      "sha256_16": "aaffbd69fec58b2a"
+      "sha256_16": "2593edc5a89231a1"
     },
     {
       "venue_id": "thesound",
@@ -910,8 +908,8 @@
       "address": "2260 Jimmy Durante Blvd",
       "lat": 32.9758,
       "lon": -117.2617,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:47",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:55",
       "oldest_show_date": "2026-11-21",
       "value_domains": {
         "event_type": [
@@ -925,7 +923,7 @@
         ]
       },
       "show_count": 26,
-      "sha256_16": "5d11ab78eda72913"
+      "sha256_16": "8fe3af28197ad4a2"
     },
     {
       "venue_id": "warfield",
@@ -935,8 +933,8 @@
       "address": "982 Market St",
       "lat": 37.7826,
       "lon": -122.4103,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:08:36",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:08:44",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -951,7 +949,7 @@
         ]
       },
       "show_count": 22,
-      "sha256_16": "e07df78a8816c25c"
+      "sha256_16": "91fd1f5808d150d2"
     },
     {
       "venue_id": "wonderball",
@@ -961,8 +959,8 @@
       "address": "123 NE Russell St",
       "lat": 45.5407,
       "lon": -122.6635,
-      "updated_at": "2026-11-16",
-      "fetched_at": "2026-11-16T04:09:34",
+      "updated_at": "2026-11-17",
+      "fetched_at": "2026-11-17T04:09:46",
       "oldest_show_date": "2026-11-17",
       "value_domains": {
         "event_type": [
@@ -977,8 +975,8 @@
           "api"
         ]
       },
-      "show_count": 30,
-      "sha256_16": "860fdb7fa658ced7"
+      "show_count": 31,
+      "sha256_16": "96b5b06dae2cdba2"
     }
   ]
 }

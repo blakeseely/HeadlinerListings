@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 24,
+  "scraped_at": "2026-11-17",
+  "count": 25,
   "shows": [
     {
       "event_type": "music",
@@ -695,6 +695,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Westlife",
+          "apple_music": "https://music.apple.com/us/artist/westlife/807028",
+          "spotify": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY",
+          "confidence": 1.0,
+          "matched": "Westlife",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "O-Town",
+          "apple_music": "https://music.apple.com/us/artist/o-town/1116976",
+          "spotify": "https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx",
+          "confidence": 1.0,
+          "matched": "O-Town",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-02",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/westlife-25-the-anniversary-world-tour-san-francisco-california-03-02-2027/event/1C00656B1A6B669F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "PRESALE 11/19",
+      "event_page": "https://billgrahamcivic.com/events/westlife-270302",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Over the last 25 years, Westlife have become one of the most successful pop groups of all time. Their music has been streamed over 3 billion times globally; they’ve achieved 36 No.1 albums worldwide, 14 UK No.1 singles (ranking only behind Elvis Presley and The Beatles), sold over 55 million records, surpassed 1 billion YouTube views, and sold more than 6 million concert tickets around the world. The Wild Dreams Tour sold over 1.2 million tickets alone. The band have performed over 200 shows since their reunion in 2019 across 30 countries. Westlife remain the UK &amp; Ireland’s top-selling album group of the 21st century."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "San Francisco vs. Minnesota",
           "apple_music": null,
           "spotify": null,
@@ -995,26 +1037,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 24,
+      "music": 25,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 30,
-      "exact": 28,
+      "unique_artists": 42,
+      "found": 32,
+      "exact": 30,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 31,
-      "venue": 28,
+      "unique_artists": 42,
+      "linked": 33,
+      "venue": 30,
       "api": 3,
       "feed": 0,
-      "shows_with_link": 15
+      "shows_with_link": 16
     }
   }
 }

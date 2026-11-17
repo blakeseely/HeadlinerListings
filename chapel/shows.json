@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 33,
+  "scraped_at": "2026-11-17",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Margaret Glaspy",
-          "apple_music": "https://music.apple.com/us/artist/margaret-glaspy/499970692",
-          "spotify": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb",
-          "confidence": 1.0,
-          "matched": "Margaret Glaspy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Anna Tivel",
-          "apple_music": "https://music.apple.com/us/artist/anna-tivel/867325063",
-          "spotify": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs",
-          "confidence": 1.0,
-          "matched": "Anna Tivel",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -667,6 +625,16 @@
           "apple_label": null,
           "spotify_label": "no confident match (closest: DJ Smallz 732 @ 46%)",
           "spotify_source": null
+        },
+        {
+          "name": "Candle",
+          "apple_music": "https://music.apple.com/us/artist/candle/63408371",
+          "spotify": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n",
+          "confidence": 1.0,
+          "matched": "Candle",
+          "apple_label": null,
+          "spotify_label": "close match: Candlebox",
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -1220,6 +1188,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "76th Street",
+          "apple_music": "https://music.apple.com/us/artist/76th-street/911372797",
+          "spotify": "https://open.spotify.com/artist/0UCzjO1IZ1PW2l5Z0Gmifr",
+          "confidence": 1.0,
+          "matched": "76th Street",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/76th-street/711145?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/76th-street/711145?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Rockers (Thin Lizzy Tribute)",
           "apple_music": "https://music.apple.com/us/artist/the-rockers/29292963",
           "spotify": "https://open.spotify.com/artist/6QL8rOBHt4rTMTURxto2YV",
@@ -1314,6 +1313,48 @@
       "ticket_link": "https://wl.seetickets.us/event/the-music-of-tom-verlaine/707964?afflky=TheChapel",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-music-of-tom-verlaine/707964?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Delta Sleep",
+          "apple_music": "https://music.apple.com/us/artist/delta-sleep/643617115",
+          "spotify": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk",
+          "confidence": 1.0,
+          "matched": "Delta Sleep",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Pure Hex",
+          "apple_music": "https://music.apple.com/us/artist/pure-hex/1483163612",
+          "spotify": "https://open.spotify.com/artist/3QWUxLJqRsyGpjdKo4xeJN",
+          "confidence": 1.0,
+          "matched": "Pure Hex",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/delta-sleep/711282?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/delta-sleep/711282?afflky=TheChapel",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1426,26 +1467,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 46,
-      "exact": 39,
+      "unique_artists": 65,
+      "found": 48,
+      "exact": 41,
       "close": 3,
       "flagged": 4,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 63,
-      "linked": 46,
+      "unique_artists": 65,
+      "linked": 48,
       "venue": 0,
-      "api": 46,
+      "api": 48,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 30
     }
   }
 }

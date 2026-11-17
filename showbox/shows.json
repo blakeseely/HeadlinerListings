@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 51,
+  "scraped_at": "2026-11-17",
+  "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Arch Enemy & The Black Dahlia Murder",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Septicflesh",
-          "apple_music": "https://music.apple.com/us/artist/septicflesh/275730586",
-          "spotify": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b",
-          "confidence": 1.0,
-          "matched": "Septicflesh",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Crypta",
-          "apple_music": "https://music.apple.com/us/artist/crypta/1562339110",
-          "spotify": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB",
-          "confidence": 1.0,
-          "matched": "Crypta",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "and Thrown Into Exile",
-          "apple_music": "https://music.apple.com/us/artist/thrown-into-exile/619888175",
-          "spotify": "https://open.spotify.com/artist/5nM8rGLz4b1g6ZwAsWPFep",
-          "confidence": 0.9,
-          "matched": "Thrown into Exile",
-          "apple_label": "close match: Thrown into Exile",
-          "spotify_label": "close match: Thrown into Exile",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Wrath Across North America 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "5:00 pm",
-      "show_time": "6:00 pm",
-      "ticket_link": "https://www.axs.com/events/1451139/arch-enemy-the-black-dahlia-murder-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1451139",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2063,26 +2001,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 50,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 92,
-      "found": 81,
-      "exact": 72,
+      "unique_artists": 88,
+      "found": 78,
+      "exact": 70,
       "close": 1,
-      "flagged": 8,
-      "not_found": 11
+      "flagged": 7,
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 92,
-      "linked": 83,
+      "unique_artists": 88,
+      "linked": 79,
       "venue": 0,
-      "api": 83,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 46
+      "shows_with_link": 45
     }
   }
 }

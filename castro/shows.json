@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 50,
+  "scraped_at": "2026-11-17",
+  "count": 49,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jorja Smith",
-          "apple_music": "https://music.apple.com/us/artist/jorja-smith/1088331223",
-          "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd",
-          "confidence": 1.0,
-          "matched": "Jorja Smith",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Wesley Joseph",
-          "apple_music": "https://music.apple.com/us/artist/wesley-joseph/1502543576",
-          "spotify": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa",
-          "confidence": 1.0,
-          "matched": "Wesley Joseph",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/jorja-smith-261116",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "Multi-award-winning singer and songwriter Jorja Smith announces her new album, “What Are The Odds” featuring sole production from P2J [Beyoncé, Stormzy, Burna Boy]. The album arrives ten years after ‘Blue Lights’, the Platinum-selling debut single that introduced Jorja’s singular voice and set the course for one of British music’s most influential musicians. Since 2016, Jorja has delivered two No.3 albums – Gold selling debut “Lost & Found” (2018) and “Falling Or Flying” (2023) – and collaborated with global superstars including Kendrick Lamar, Burna Boy, Stormzy, Drake and Giggs. The Walsall born singer and songwriter has won two BRITs and received nominations for a Grammy, an Ivor Novello and the Mercury Prize and currently counts over 11 million monthly listeners and 4.7 billion streams on Spotify alone, with eight million followers across socials. Jorja had already had a run of major moments in 2026, including a performance on the debut season of Saturday Night Live UK , her appearance on the soundtrack to Riz Ahmed’s Prime Video series ‘Bait’ with ‘Price Of It All’, and the announcement that she will co-headline ‘All Points East’ in Victoria Park on Friday 21 August alongside"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1834,26 +1792,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 49,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
-      "found": 61,
-      "exact": 55,
+      "unique_artists": 64,
+      "found": 59,
+      "exact": 53,
       "close": 2,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 66,
-      "linked": 60,
-      "venue": 47,
-      "api": 13,
+      "unique_artists": 64,
+      "linked": 58,
+      "venue": 46,
+      "api": 12,
       "feed": 0,
-      "shows_with_link": 47
+      "shows_with_link": 46
     }
   }
 }

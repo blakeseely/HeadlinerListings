@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 101,
+  "scraped_at": "2026-11-17",
+  "count": 103,
   "shows": [
     {
       "event_type": "music",
@@ -1516,6 +1516,37 @@
       "ticket_link": "https://www.stgpresents.org/events/tesseract/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/tesseract/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bebel Gilberto",
+          "apple_music": "https://music.apple.com/us/artist/bebel-gilberto/1000227",
+          "spotify": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz",
+          "confidence": 1.0,
+          "matched": "Bebel Gilberto",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Tanto Tempo 25th Anniversary",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/bebel-gilberto/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/bebel-gilberto/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -3364,30 +3395,72 @@
       "age_rating": "All Ages",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Welcome to Night Vale",
+          "apple_music": "https://music.apple.com/us/artist/welcome-to-night-vale/828583955",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Welcome to Night Vale",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mr. Nightmare @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "OPENER",
+          "apple_music": "https://music.apple.com/us/artist/opener/1292345006",
+          "spotify": "https://open.spotify.com/artist/7dQ5wTqFMiy1gOc3JFP6v3",
+          "confidence": 1.0,
+          "matched": "Opener",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-23",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/welcome-to-night-vale/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/welcome-to-night-vale/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 75,
+      "music": 77,
       "comedy": 20,
       "film": 0,
       "other": 6
     },
     "apple_music": {
-      "unique_artists": 95,
-      "found": 80,
-      "exact": 69,
+      "unique_artists": 97,
+      "found": 82,
+      "exact": 71,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 95,
-      "linked": 78,
+      "unique_artists": 97,
+      "linked": 79,
       "venue": 0,
-      "api": 78,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 76
+      "shows_with_link": 78
     }
   }
 }

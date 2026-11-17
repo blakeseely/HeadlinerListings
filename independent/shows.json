@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-16",
-  "count": 94,
+  "scraped_at": "2026-11-17",
+  "count": 97,
   "shows": [
     {
       "event_type": "music",
@@ -2336,6 +2336,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Amira Elfeky",
+          "apple_music": "https://music.apple.com/us/artist/amira-elfeky/1534139424",
+          "spotify": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk",
+          "confidence": 1.0,
+          "matched": "Amira Elfeky",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "My Upside Down Meghan Curtin",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: My Upside Down @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "It Was Only A Dream Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-23",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/amira-elfeky-the-independent-tickets/14445364?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/amira-elfeky/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Way Dynamic",
           "apple_music": "https://music.apple.com/us/artist/way-dynamic/1438475838",
           "spotify": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk",
@@ -2659,39 +2701,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "- Self Aware Tour",
-      "presenters": [
-        "Live 105 Presents - Self Aware Tour"
-      ],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2734,6 +2743,70 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "- Self Aware Tour",
+      "presenters": [
+        "Live 105 Presents - Self Aware Tour"
+      ],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Rio Romeo",
+          "apple_music": "https://music.apple.com/us/artist/rio-romeo/1532384652",
+          "spotify": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub",
+          "confidence": 1.0,
+          "matched": "Rio Romeo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Personal Slot Machine Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/rio-romeo-the-independent-tickets/14441794?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/rio-romeo/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Ruby Waters",
           "apple_music": "https://music.apple.com/us/artist/ruby-waters/1441595388",
           "spotify": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd",
@@ -2744,8 +2817,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "OK Cowgirl",
+          "apple_music": "https://music.apple.com/us/artist/ok-cowgirl/1533325251",
+          "spotify": "https://open.spotify.com/artist/5foQBLMKT1paX8PAI12iH8",
+          "confidence": 1.0,
+          "matched": "Ok Cowgirl",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Suppre$$ions North America Tour",
       "presenters": [],
       "set_format": null,
@@ -3367,6 +3451,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Xana",
+          "apple_music": "https://music.apple.com/us/artist/xana/1527936940",
+          "spotify": "https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3",
+          "confidence": 1.0,
+          "matched": "Xana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "plus special guest (TBD)",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Special Guest to Be Announced @ 70%)",
+          "spotify_label": "no confident match (closest: Talent @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-19",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/xana-the-independent-tickets/14445834?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/xana/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "CG5 Presents",
           "apple_music": "https://music.apple.com/us/artist/cte-presents/362884473",
           "spotify": null,
@@ -3504,26 +3630,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 94,
+      "music": 97,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 132,
-      "found": 120,
-      "exact": 111,
+      "unique_artists": 138,
+      "found": 124,
+      "exact": 115,
       "close": 3,
       "flagged": 6,
-      "not_found": 12
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 132,
-      "linked": 122,
-      "venue": 84,
-      "api": 38,
+      "unique_artists": 138,
+      "linked": 126,
+      "venue": 87,
+      "api": 39,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 94
     }
   }
 }
