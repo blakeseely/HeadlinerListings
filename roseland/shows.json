@@ -36,73 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 33,
+  "scraped_at": "2026-11-18",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "State Champs",
-          "apple_music": "https://music.apple.com/us/artist/state-champs/388451690",
-          "spotify": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr",
-          "confidence": 1.0,
-          "matched": "State Champs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cartel",
-          "apple_music": "https://music.apple.com/us/artist/cartel/19107135",
-          "spotify": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk",
-          "confidence": 1.0,
-          "matched": "Cartel",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Taylor Acorn",
-          "apple_music": "https://music.apple.com/us/artist/taylor-acorn/1161476048",
-          "spotify": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY",
-          "confidence": 1.0,
-          "matched": "Taylor Acorn",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Like Roses",
-          "apple_music": "https://music.apple.com/us/artist/like-roses/1194077299",
-          "spotify": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI",
-          "confidence": 1.0,
-          "matched": "Like Roses",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Mammoth NW Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/36575270/state-champs-portland-roseland-theater?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://roselandpdx.com/event/state-champs/roseland-theater/portland-oregon/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1635,26 +1571,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 74,
-      "found": 67,
-      "exact": 63,
+      "unique_artists": 70,
+      "found": 63,
+      "exact": 59,
       "close": 1,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 74,
-      "linked": 70,
+      "unique_artists": 70,
+      "linked": 66,
       "venue": 0,
-      "api": 70,
+      "api": 66,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }

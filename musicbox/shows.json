@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 39,
+  "scraped_at": "2026-11-18",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "John Craigie",
-          "apple_music": "https://music.apple.com/us/artist/john-craigie/259716390",
-          "spotify": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK",
-          "confidence": 1.0,
-          "matched": "John Craigie",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Lucy Clearwater",
-          "apple_music": "https://music.apple.com/us/artist/lucy-clearwater/1109747461",
-          "spotify": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj",
-          "confidence": 1.0,
-          "matched": "Lucy Clearwater",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Keep It Warm Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/john-craigie-with-special-guest-music-box-tickets/14264344?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14264344/john-craigie-with-special-guest-lucy-clearwater-keep-it-warm-tour-2026",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "$1 from every ticket is going to Pet Project Foundation: For nearly 40 years, Pet Project Foundation (PPF) and the San Clemente-Dana Point Animal Shelter have been united in a unique partnership to provide pro-humane care to the lost and abandoned animals of our two cities. With PPF providing significant financial support, as well as donating over 25,000 hours of volunteer time each year, the shelter is able to ensure that every animal in its care will have a safe refuge until a permanent, loving home can beoh ri found - no matter how long that takes."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -557,48 +515,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Venna",
-          "apple_music": "https://music.apple.com/us/artist/venna/1508130647",
-          "spotify": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP",
-          "confidence": 1.0,
-          "matched": "Venna",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Khal!l",
-          "apple_music": "https://music.apple.com/us/artist/khal-l/1472901286",
-          "spotify": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe",
-          "confidence": 1.0,
-          "matched": "Khal!l",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "North America Tour 26' Malik",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-16",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/venna-north-america-music-box-tickets/15018503?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15018503/venna-north-america-tour-26-malik-w-khall",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "ACQUISITION SOCAL",
           "apple_music": null,
           "spotify": null,
@@ -637,48 +553,6 @@
       "age_rating": null,
       "note": null,
       "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Dyego",
-          "apple_music": "https://music.apple.com/us/artist/dyego/1622808992",
-          "spotify": "https://open.spotify.com/artist/56bkZKcxAWFBuODAyLBwd3",
-          "confidence": 1.0,
-          "matched": "dyego",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "BluNites",
-          "apple_music": "https://music.apple.com/us/artist/blunites/1303894060",
-          "spotify": "https://open.spotify.com/artist/1qT1IiHytkg4UA3jvn2zQE",
-          "confidence": 1.0,
-          "matched": "BluNites",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Holiday Show and Toy Drive",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-20",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/dyego-holiday-show-music-box-tickets/15053603?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15053603/dyego-holiday-show-and-toy-drive-w-blunites",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
     },
     {
       "event_type": "music",
@@ -955,37 +829,6 @@
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-the-music-box-tickets/14384244?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14384244/surfer-girl-the-midnight-tour-w-south-summit-and-joby",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Galdive | rum.gold",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: rum.gold",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "A Friend Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-02-08",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/galdive-rumgold-music-box-tickets/14412664?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14412664/galdive-rum-gold-a-friend-tour",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1285,6 +1128,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "NTO",
+          "apple_music": "https://music.apple.com/us/artist/nto/128862535",
+          "spotify": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq",
+          "confidence": 1.0,
+          "matched": "NTO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "North America Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-18",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nto-north-america-music-box-tickets/14447024?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14447024/nto-north-america-tour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Son Rompe Pera",
+          "apple_music": "https://music.apple.com/us/artist/son-rompe-pera/1435224127",
+          "spotify": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V",
+          "confidence": 1.0,
+          "matched": "Son Rompe Pera",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-15",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/son-rompe-pera-music-box-tickets/14445404?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14445404/son-rompe-pera",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Mei Semones",
           "apple_music": "https://music.apple.com/us/artist/mei-semones/1502896956",
           "spotify": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR",
@@ -1491,26 +1396,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 36,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 61,
-      "found": 49,
-      "exact": 45,
+      "unique_artists": 56,
+      "found": 45,
+      "exact": 41,
       "close": 0,
       "flagged": 4,
-      "not_found": 12
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 61,
-      "linked": 51,
+      "unique_artists": 56,
+      "linked": 46,
       "venue": 0,
-      "api": 51,
+      "api": 46,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 32
     }
   }
 }

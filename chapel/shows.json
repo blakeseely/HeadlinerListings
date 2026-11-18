@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 34,
+  "scraped_at": "2026-11-18",
+  "count": 40,
   "shows": [
     {
       "event_type": "music",
@@ -1115,6 +1115,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Milk Carton Kids",
+          "apple_music": "https://music.apple.com/us/artist/the-milk-carton-kids/447349428",
+          "spotify": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg",
+          "confidence": 1.0,
+          "matched": "The Milk Carton Kids",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Lael Neale",
           "apple_music": "https://music.apple.com/us/artist/lael-neale/598757160",
           "spotify": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF",
@@ -1365,6 +1396,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Narrow Head",
+          "apple_music": "https://music.apple.com/us/artist/narrow-head/973218344",
+          "spotify": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu",
+          "confidence": 1.0,
+          "matched": "Narrow Head",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "apple_music": "https://music.apple.com/us/artist/horse-jumper-of-love/1215440743",
+          "spotify": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6",
+          "confidence": 1.0,
+          "matched": "Horse Jumper of Love",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Knumears",
+          "apple_music": "https://music.apple.com/us/artist/knumears/1622336627",
+          "spotify": "https://open.spotify.com/artist/5oEizTkT6mRlggZPdxWmjk",
+          "confidence": 1.0,
+          "matched": "Knumears",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Worlds Worst",
+          "apple_music": "https://music.apple.com/us/artist/worlds-worst/1507146670",
+          "spotify": "https://open.spotify.com/artist/61WE20UoQujMRZqzTOq3sI",
+          "confidence": 1.0,
+          "matched": "Worlds Worst",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-06",
+      "doors": "6:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Jean-Michel Blais",
           "apple_music": "https://music.apple.com/us/artist/jean-michel-blais/1079111475",
           "spotify": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr",
@@ -1463,30 +1556,154 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OSEES",
+          "apple_music": "https://music.apple.com/us/artist/osees/1794438020",
+          "spotify": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS",
+          "confidence": 1.0,
+          "matched": "Osees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-27",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/osees/709825?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/osees/709825?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OSEES",
+          "apple_music": "https://music.apple.com/us/artist/osees/1794438020",
+          "spotify": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS",
+          "confidence": 1.0,
+          "matched": "Osees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-28",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OSEES",
+          "apple_music": "https://music.apple.com/us/artist/osees/1794438020",
+          "spotify": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS",
+          "confidence": 1.0,
+          "matched": "Osees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-29",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/OSEES/709829?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/OSEES/709829?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "OSEES",
+          "apple_music": "https://music.apple.com/us/artist/osees/1794438020",
+          "spotify": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS",
+          "confidence": 1.0,
+          "matched": "Osees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-30",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/OSEES/709830?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/OSEES/709830?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 40,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 65,
-      "found": 48,
-      "exact": 41,
+      "unique_artists": 71,
+      "found": 54,
+      "exact": 47,
       "close": 3,
       "flagged": 4,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 65,
-      "linked": 48,
+      "unique_artists": 71,
+      "linked": 54,
       "venue": 0,
-      "api": 48,
+      "api": 54,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 36
     }
   }
 }

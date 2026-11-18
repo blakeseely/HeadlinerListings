@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 46,
+  "scraped_at": "2026-11-18",
+  "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Son Volt",
-          "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
-          "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
-          "confidence": 1.0,
-          "matched": "Son Volt",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Kelly Willis",
-          "apple_music": "https://music.apple.com/us/artist/kelly-willis/70312",
-          "spotify": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E",
-          "confidence": 1.0,
-          "matched": "Kelly Willis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/son-volt-san-francisco-california-11-17-2026/event/1C00649DE6724A26",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/son-volt/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1020,6 +978,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Gabriel Jacoby",
+          "apple_music": "https://music.apple.com/us/artist/gabriel-jacoby/1610957262",
+          "spotify": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H",
+          "confidence": 1.0,
+          "matched": "Gabriel Jacoby",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "gutta child tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/gabriel-jacoby-gutta-child-tour-san-francisco-california-02-19-2027/event/1C00656EB920A478",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/gabriel-jacoby-gutta-child-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Elefante",
           "apple_music": "https://music.apple.com/us/artist/elefante/7046239",
           "spotify": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb",
@@ -1260,6 +1249,37 @@
       "event_page": "https://www.augusthallsf.com/tm-event/noah-rinker/",
       "room": null,
       "age_rating": "5 and Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "NTO",
+          "apple_music": "https://music.apple.com/us/artist/nto/128862535",
+          "spotify": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq",
+          "confidence": 1.0,
+          "matched": "NTO",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/nto-san-francisco-california-03-19-2027/event/1C006570CF1BC4F8",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/nto/",
+      "room": null,
+      "age_rating": "21 and Over",
       "note": null,
       "description": null
     },
@@ -1589,7 +1609,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1608,7 +1628,7 @@
       "venue": 0,
       "api": 34,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 31
     }
   }
 }

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
+  "scraped_at": "2026-11-18",
   "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Thundercat",
-          "apple_music": "https://music.apple.com/us/artist/thundercat/367322286",
-          "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-          "confidence": 1.0,
-          "matched": "Thundercat",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "fera",
-          "apple_music": "https://music.apple.com/us/artist/fera/1729077289",
-          "spotify": "https://open.spotify.com/artist/5bS1mHzddxPeRKnFcF7Er8",
-          "confidence": 1.0,
-          "matched": "Fera",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Distracted AF Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/thundercat-distracted-af-tour-oakland-california-11-17-2026/event/1C0064E91EDC126E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/thundercat-261117",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "We live in a time when our thumbs know more than our minds. We scroll past each other’s joy and grief before breakfast, absorb a day’s worth of tragedy by lunch, and still convince ourselves that the next notification might be the dopamine hit that’ll make us feel better. As much as some of us complain about smartphones — or, more specifically, what’s on said smartphones — distraction is the air we breathe. Social media, surveillance, endless updates and countless opinions, it all piles up until focus feels like a luxury item. For Thundercat, the clutter isn’t abstract. And on Distracted , his long-awaited fifth studio album, it’s the central theme of his life and art right now. “If you got an Instagram, you know exactly what I’m talking about,” he says matter-of-factly, half joking, half exhausted, when asked the impetus of the album’s title. Thundercat doesn’t frame distraction as a buzzword or a diagnosis; instead, he treats it like something omnipresent, something you deal with whe"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -885,6 +843,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "MST3K LIVE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.211,
+          "matched": null,
+          "apple_label": "no confident match (closest: Mystery Science Theater 3000 @ 21%)",
+          "spotify_label": "no confident match (closest: Mister Ai Anane @ 48%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE RETURNEN-ING",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/mst3k-live-the-returnening-tour-oakland-california-03-19-2027/event/1C006570D616CFC7?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/mst3k-270319",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Nothing But Thieves",
           "apple_music": "https://music.apple.com/us/artist/nothing-but-thieves/524830875",
           "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp",
@@ -1232,20 +1221,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 36,
-      "exact": 34,
+      "unique_artists": 36,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
-      "not_found": 1
+      "not_found": 2
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 37,
-      "venue": 33,
+      "unique_artists": 36,
+      "linked": 35,
+      "venue": 31,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

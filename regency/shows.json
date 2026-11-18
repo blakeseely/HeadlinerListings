@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
+  "scraped_at": "2026-11-18",
   "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ninajirachi",
-          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
-          "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
-          "confidence": 1.0,
-          "matched": "Ninajirachi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "MGNA Crrrta",
-          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
-          "spotify": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye",
-          "confidence": 1.0,
-          "matched": "MGNA Crrrta",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "I Love My Computer And It Loves Me Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546879352",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1638942",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1233,6 +1189,50 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Avatar",
+          "apple_music": "https://music.apple.com/us/artist/avatar/187616241",
+          "spotify": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs",
+          "confidence": 1.0,
+          "matched": "Avatar",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Barbarians of California",
+          "apple_music": "https://music.apple.com/us/artist/the-barbarians-of-california/1724096474",
+          "spotify": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO",
+          "confidence": 1.0,
+          "matched": "The Barbarians of California",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Across The Underworld",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-11",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547072627",
+      "ticket_status": "coming soon",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1704397",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Wombats",
           "apple_music": "https://music.apple.com/us/artist/the-wombats/162731772",
           "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB",
@@ -1380,18 +1380,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 54,
-      "found": 52,
-      "exact": 51,
+      "unique_artists": 56,
+      "found": 54,
+      "exact": 53,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 54,
-      "linked": 52,
+      "unique_artists": 56,
+      "linked": 54,
       "venue": 0,
-      "api": 49,
+      "api": 51,
       "feed": 3,
       "shows_with_link": 31
     }

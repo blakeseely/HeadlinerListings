@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 33,
+  "scraped_at": "2026-11-18",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -1154,78 +1154,109 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "An Evening With They Might Be Giants",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy",
-          "confidence": 0.0,
-          "matched": null,
+          "name": "Santana",
+          "apple_music": "https://music.apple.com/us/artist/santana/217174",
+          "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+          "confidence": 1.0,
+          "matched": "Santana",
           "apple_label": null,
-          "spotify_label": "close match: Evening Elephants",
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "The Big Show Tour",
+      "show_title": "Planet of Free Will Global Tour 2027",
       "presenters": [],
       "set_format": null,
-      "date": "2027-03-05",
+      "date": "2027-02-25",
       "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-05-2027/event/1C0065579F46F0C2",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-05-2027/event/1C0065579F46F0C2",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/santana-planet-of-free-will-global-san-francisco-california-02-25-2027/event/1C00656D9B02B4BC",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/santana-planet-of-free-will-global-san-francisco-california-02-25-2027/event/1C00656D9B02B4BC",
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm This shows is strictly 16+ (no exceptions)"
+      "description": "Doors 7:00pm / Show 8:00pm"
     },
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "An Evening With They Might Be Giants",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy",
-          "confidence": 0.0,
-          "matched": null,
+          "name": "Santana",
+          "apple_music": "https://music.apple.com/us/artist/santana/217174",
+          "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+          "confidence": 1.0,
+          "matched": "Santana",
           "apple_label": null,
-          "spotify_label": "close match: Evening Elephants",
+          "spotify_label": null,
           "spotify_source": "api"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "The Big Show Tour",
+      "show_title": "Planet of Free Will Global Tour 2027",
       "presenters": [],
       "set_format": null,
-      "date": "2027-03-06",
+      "date": "2027-02-27",
       "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-06-2027/event/1C0065579F4CF0CD",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-06-2027/event/1C0065579F4CF0CD",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/santana-planet-of-free-will-global-san-francisco-california-02-27-2027/event/1C00656D9AFDB4A9",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/santana-planet-of-free-will-global-san-francisco-california-02-27-2027/event/1C00656D9AFDB4A9",
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm This shows is strictly 16+ (no exceptions)"
+      "description": "Doors 7:00pm / Show 8:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Santana",
+          "apple_music": "https://music.apple.com/us/artist/santana/217174",
+          "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P",
+          "confidence": 1.0,
+          "matched": "Santana",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Planet of Free Will Global Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/santana-planet-of-free-will-global-san-francisco-california-02-28-2027/event/1C00656D9AF8B48C",
+      "ticket_status": null,
+      "event_page": "https://www.ticketmaster.com/santana-planet-of-free-will-global-san-francisco-california-02-28-2027/event/1C00656D9AF8B48C",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
       "unique_artists": 33,
-      "found": 29,
-      "exact": 28,
+      "found": 30,
+      "exact": 29,
       "close": 0,
       "flagged": 1,
-      "not_found": 4
+      "not_found": 3
     },
     "spotify": {
       "unique_artists": 33,
@@ -1233,7 +1264,7 @@
       "venue": 0,
       "api": 30,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 30
     }
   }
 }

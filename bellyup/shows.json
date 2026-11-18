@@ -36,50 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 123,
+  "scraped_at": "2026-11-18",
+  "count": 127,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rachael & Vilray",
-          "apple_music": "https://music.apple.com/us/artist/rachael-vilray/1473409155",
-          "spotify": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9",
-          "confidence": 1.0,
-          "matched": "Rachael & Vilray",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Taylor Ashton",
-          "apple_music": "https://music.apple.com/us/artist/taylor-ashton/1747765965",
-          "spotify": "https://open.spotify.com/artist/53t38sKooUEyyENANtticX",
-          "confidence": 1.0,
-          "matched": "Taylor Ashton",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/rachael-vilray-taylor-ashton-belly-up-tickets/14235644?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14235644/rachael-vilray-taylor-ashton",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3086,6 +3045,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Eddie 9V",
+          "apple_music": "https://music.apple.com/us/artist/eddie-9v/1479464445",
+          "spotify": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B",
+          "confidence": 1.0,
+          "matched": "Eddie 9V",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-09",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/eddie-9v-belly-up-tickets/14447644?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14447644/eddie-9v",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Ottmar Liebert & Luna Negra",
           "apple_music": "https://music.apple.com/us/artist/ottmar-liebert/294517",
           "spotify": "https://open.spotify.com/artist/1AhYnfs5mzb3ennyLFXlYD",
@@ -3190,6 +3180,47 @@
       "ticket_link": "https://www.ticketweb.com/event/groundation-a-tribute-belly-up-tickets/14313944?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14313944/groundation-a-tribute-to-bob-marley-w-jah-ollin",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dead Man's Party",
+          "apple_music": "https://music.apple.com/us/artist/dead-mans-party/47118560",
+          "spotify": "https://open.spotify.com/artist/4tZChqH7ojXYCtE6P8OjQy",
+          "confidence": 1.0,
+          "matched": "Dead Man's Party",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Black",
+          "apple_music": "https://music.apple.com/us/artist/black/6781449928",
+          "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ",
+          "confidence": 1.0,
+          "matched": "BLACK",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "52s",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-13",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/dead-mans-party-black-52s-belly-up-tickets/14314214?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14314214/dead-mans-party-black-52s",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3398,6 +3429,37 @@
       "ticket_link": "https://www.ticketweb.com/event/steve-poltz-belly-up-tickets/14219604?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14219604/steve-poltz",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "\"By George\" A George Harrison Celebration",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: George Harrison @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-23",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/by-george-a-george-harrison-belly-up-tickets/14445084?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14445084/by-george-a-george-harrison-celebration",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3641,6 +3703,37 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Nena Anderson's “Dolly Parton Valentine” with Special Guests",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dolly Parton @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-04",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/nena-andersons-dolly-parton-valentine-belly-up-tickets/14409674?REFID=bupwebsite",
+      "ticket_status": "on sale soon",
+      "event_page": "https://bellyup.com/calendar/14409674/nena-andersons-dolly-parton-valentine-with-special-guests",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "4th annual tribute of Dolly Parton hits from the 60's to today, featuring Nena Anderson, Brawley, and special guests, benefiting the Keep A Breast Foundation. Prizes for the best Dolly and Kenny Rogers look-a-likes, singles and couples. Dancing and singing along are highly encouraged. Special guests include: Whitney Shay, Jess Roberts, Tim Petersen, Faith Belle, Gayle Skidmore, Molly Jenson, Rheanna Downey, Laura Levenhagen, and MORE to be announced. nenaanderson.com @dollypartonvalentine"
     },
     {
       "event_type": "music",
@@ -4082,7 +4175,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/cursive-happy-hollow-belly-up-tickets/14445524?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14445524/cursive-happy-hollow-20th-anniversary-w-smidley",
       "room": null,
       "age_rating": null,
@@ -4208,6 +4301,37 @@
       "ticket_link": "https://www.ticketweb.com/event/the-paladins-the-44s-with-belly-up-tickets/15051743?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15051743/the-paladins-the-44s-with-special-guest-kid-ramos",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Devil Makes Three",
+          "apple_music": "https://music.apple.com/us/artist/the-devil-makes-three/31268207",
+          "spotify": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte",
+          "confidence": 1.0,
+          "matched": "The Devil Makes Three",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-04",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-devil-makes-three-belly-up-tickets/14444984?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/14444984/the-devil-makes-three",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4559,26 +4683,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 123,
+      "music": 127,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 169,
-      "found": 126,
-      "exact": 105,
+      "unique_artists": 173,
+      "found": 128,
+      "exact": 107,
       "close": 5,
       "flagged": 16,
-      "not_found": 43
+      "not_found": 45
     },
     "spotify": {
-      "unique_artists": 169,
-      "linked": 130,
+      "unique_artists": 173,
+      "linked": 132,
       "venue": 0,
-      "api": 130,
+      "api": 132,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 93
     }
   }
 }

@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 44,
+  "scraped_at": "2026-11-18",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jammy Buffet",
-          "apple_music": "https://music.apple.com/us/artist/jammy-buffet/1801644212",
-          "spotify": "https://open.spotify.com/artist/2gYTWrlVtX32Mj4FwbFcYY",
-          "confidence": 1.0,
-          "matched": "Jammy Buffet",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-an-evening-with-cafe-du-nord-tickets/14287124?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://cafedunord.com/shows/2026-11-17-jammy-buffet",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Jammy Buffet is where Jimmy Buffett’s coastal storytelling meets jam-band improvisation. The Colorado–Tennessee group revives Buffett’s “Gulf & Western” sound with fresh energy and musicianship. Their shows blend greatest-hit singalongs, deep-cut gems, and cosmic…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -109,7 +76,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/laya-lipstick-n-cafe-du-nord-tickets/14371104?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": "sold out",
+      "ticket_status": null,
       "event_page": "https://cafedunord.com/shows/2026-11-18-laya",
       "room": null,
       "age_rating": "All ages",
@@ -314,26 +281,6 @@
           "spotify": "https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE",
           "confidence": 1.0,
           "matched": "Wyatt Woodley",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "3LISE",
-          "apple_music": "https://music.apple.com/us/artist/3lise/1592245934",
-          "spotify": "https://open.spotify.com/artist/018k4iDT5vPZTA5EfoalRP",
-          "confidence": 1.0,
-          "matched": "3LISE",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Aria Zadeh",
-          "apple_music": "https://music.apple.com/us/artist/aria-zadeh/1756417934",
-          "spotify": "https://open.spotify.com/artist/0nKgHhTQdbeac1Zuz6qKJM",
-          "confidence": 1.0,
-          "matched": "Aria Zadeh",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1426,8 +1373,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Nine Perfect Lives",
+          "apple_music": "https://music.apple.com/us/artist/nine-perfect-lives/6811113567",
+          "spotify": "https://open.spotify.com/artist/4wx3JoePTmyq3xvAQastJi",
+          "confidence": 1.0,
+          "matched": "Nine Perfect Lives",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1711,26 +1669,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 62,
-      "exact": 58,
+      "unique_artists": 62,
+      "found": 60,
+      "exact": 56,
       "close": 1,
       "flagged": 3,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 62,
+      "unique_artists": 62,
+      "linked": 60,
       "venue": 0,
-      "api": 62,
+      "api": 60,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

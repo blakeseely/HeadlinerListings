@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 49,
+  "scraped_at": "2026-11-18",
+  "count": 51,
   "shows": [
     {
       "event_type": "music",
@@ -802,6 +802,48 @@
     },
     {
       "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "horsegiirL",
+          "apple_music": "https://music.apple.com/us/artist/horsegiirl/1608374327",
+          "spotify": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2",
+          "confidence": 1.0,
+          "matched": "horsegiirL",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ali Rq (DJ Set)",
+          "apple_music": "https://music.apple.com/us/artist/ali-rq/1792477071",
+          "spotify": "https://open.spotify.com/artist/0CemAJzdhoInDBh6ydVJiP",
+          "confidence": 1.0,
+          "matched": "Ali Rq",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/horsegiirl-18-san-francisco-california-12-31-2026/event/1C00656D4871905F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/horsegiirl-261231",
+      "room": null,
+      "age_rating": null,
+      "note": "New Year's Eve!",
+      "description": null
+    },
+    {
+      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -1005,7 +1047,38 @@
       "event_page": "https://thecastro.com/events/andrea-gibson-270209",
       "room": null,
       "age_rating": null,
-      "note": "w/ Megan Falley, the Goosebump Orchestra, and extremely special guests",
+      "note": "Two Nights!",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Andrea Gibson’s Love Letter From The Afterlife",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Andrea Gibson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-10",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/andrea-gibsons-love-letter-from-the-san-francisco-california-02-10-2027/event/1C006565FAFD74BE?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/andrea-gibson-270210",
+      "room": null,
+      "age_rating": null,
+      "note": "Second Show Added by Popular Demand!",
       "description": null
     },
     {
@@ -1792,26 +1865,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 49,
+      "music": 51,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 59,
-      "exact": 53,
+      "unique_artists": 66,
+      "found": 61,
+      "exact": 55,
       "close": 2,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 58,
-      "venue": 46,
-      "api": 12,
+      "unique_artists": 66,
+      "linked": 60,
+      "venue": 47,
+      "api": 13,
       "feed": 0,
-      "shows_with_link": 46
+      "shows_with_link": 47
     }
   }
 }

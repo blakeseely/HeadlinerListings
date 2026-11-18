@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
+  "scraped_at": "2026-11-18",
   "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Turnover",
-          "apple_music": "https://music.apple.com/us/artist/turnover/442727465",
-          "spotify": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52",
-          "confidence": 1.0,
-          "matched": "Turnover",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Nothing and Trauma Ray",
-          "apple_music": "https://music.apple.com/us/artist/nothing/593213453",
-          "spotify": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1",
-          "confidence": 0.95,
-          "matched": "Nothing",
-          "apple_label": "compound bill — links to Nothing only",
-          "spotify_label": "close match: trauma ray",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.axs.com/events/1496268/turnover-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1496268",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1209,6 +1167,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Dirtwire",
+          "apple_music": "https://music.apple.com/us/artist/dirtwire/705410968",
+          "spotify": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK",
+          "confidence": 1.0,
+          "matched": "Dirtwire",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Zodiac Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1704435/dirtwire-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.showboxpresents.com/events/detail/1704435",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Caroline Rose",
           "apple_music": "https://music.apple.com/us/artist/caroline-rose/436333749",
           "spotify": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw",
@@ -2007,18 +1996,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 88,
-      "found": 78,
+      "unique_artists": 87,
+      "found": 77,
       "exact": 70,
       "close": 1,
-      "flagged": 7,
+      "flagged": 6,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 88,
-      "linked": 79,
+      "unique_artists": 87,
+      "linked": 78,
       "venue": 0,
-      "api": 79,
+      "api": 78,
       "feed": 0,
       "shows_with_link": 45
     }

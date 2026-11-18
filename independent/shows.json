@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 97,
+  "scraped_at": "2026-11-18",
+  "count": 103,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Silverada",
-          "apple_music": "https://music.apple.com/us/artist/silverada/1728320748",
-          "spotify": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44",
-          "confidence": 1.0,
-          "matched": "Silverada",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Emily Nenni",
-          "apple_music": "https://music.apple.com/us/artist/emily-nenni/1322757426",
-          "spotify": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy",
-          "confidence": 1.0,
-          "matched": "Emily Nenni",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/silverada-the-independent-tickets/14985543?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/silverada/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -774,7 +732,7 @@
       "date": "2026-12-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
+      "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
       "room": null,
@@ -1513,6 +1471,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "mayday mae!",
+          "apple_music": "https://music.apple.com/us/artist/mayday-mae/1716696590",
+          "spotify": "https://open.spotify.com/artist/6cMtO3NTDYk2vjHlqTw0TY",
+          "confidence": 1.0,
+          "matched": "mayday mae!",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "For Horses Cilantro DJ Arktoi",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dj Faculty Lounge @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/mayday-mae-the-independent-tickets/14429954?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/mayday-mae/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Sister Nancy & the Steady Rock Band",
           "apple_music": "https://music.apple.com/us/artist/sister-nancy/2559829",
           "spotify": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB",
@@ -1607,6 +1607,37 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/sts9/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "josh conway",
+          "apple_music": "https://music.apple.com/us/artist/josh-conway/463848254",
+          "spotify": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7",
+          "confidence": 1.0,
+          "matched": "josh conway",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "plum in the pit tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-20",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/josh-conway-the-independent-tickets/14438984?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/josh-conway/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2776,6 +2807,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "SML",
+          "apple_music": "https://music.apple.com/us/artist/sml/1746439635",
+          "spotify": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj",
+          "confidence": 1.0,
+          "matched": "SML",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/sml-the-independent-tickets/14447784?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/sml/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Rio Romeo",
           "apple_music": "https://music.apple.com/us/artist/rio-romeo/1532384652",
           "spotify": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub",
@@ -3223,6 +3285,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Midrift",
+          "apple_music": "https://music.apple.com/us/artist/midrift/1658454602",
+          "spotify": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E",
+          "confidence": 1.0,
+          "matched": "Midrift",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Modern Color Bleary Eyed",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Modern Color @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-08",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/midrift-the-independent-tickets/14445684?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/midrift/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Clap Your Hands Say Yeah",
           "apple_music": "https://music.apple.com/us/artist/clap-your-hands-say-yeah/81899300",
           "spotify": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r",
@@ -3327,6 +3431,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Racing Mount Pleasant",
+          "apple_music": "https://music.apple.com/us/artist/racing-mount-pleasant/1798832480",
+          "spotify": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv",
+          "confidence": 1.0,
+          "matched": "Racing Mount Pleasant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dutch Interior",
+          "apple_music": "https://music.apple.com/us/artist/dutch-interior/1600341426",
+          "spotify": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn",
+          "confidence": 1.0,
+          "matched": "Dutch Interior",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-07",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/racing-mount-pleasant-the-independent-tickets/14447544?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/racing-mount-pleasant/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Too Many Zooz",
           "apple_music": "https://music.apple.com/us/artist/too-many-zooz/885114063",
           "spotify": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr",
@@ -3379,6 +3525,37 @@
       "ticket_link": "https://www.ticketweb.com/event/cleopatrick-the-independent-tickets/14369154?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/cleopatrick/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "apple_music": "https://music.apple.com/us/artist/peel-dream-magazine/1412170457",
+          "spotify": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd",
+          "confidence": 1.0,
+          "matched": "Peel Dream Magazine",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-15",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/peel-dream-magazine-the-independent-tickets/14438934?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/peel-dream-magazine/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3483,6 +3660,37 @@
       "ticket_link": "https://www.ticketweb.com/event/xana-the-independent-tickets/14445834?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/xana/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Madra Salach",
+          "apple_music": "https://music.apple.com/us/artist/madra-salach/1840194470",
+          "spotify": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp",
+          "confidence": 1.0,
+          "matched": "Madra Salach",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-21",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/madra-salach-the-independent-tickets/14445664?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/madra-salach/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3630,26 +3838,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 97,
+      "music": 103,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 138,
-      "found": 124,
-      "exact": 115,
+      "unique_artists": 146,
+      "found": 130,
+      "exact": 121,
       "close": 3,
       "flagged": 6,
-      "not_found": 14
+      "not_found": 16
     },
     "spotify": {
-      "unique_artists": 138,
-      "linked": 126,
-      "venue": 87,
-      "api": 39,
+      "unique_artists": 146,
+      "linked": 132,
+      "venue": 92,
+      "api": 40,
       "feed": 0,
-      "shows_with_link": 94
+      "shows_with_link": 100
     }
   }
 }

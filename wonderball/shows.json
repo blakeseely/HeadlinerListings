@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 31,
+  "scraped_at": "2026-11-18",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "The Residents",
-          "apple_music": "https://music.apple.com/us/artist/the-residents/26238269",
-          "spotify": "https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm",
-          "confidence": 1.0,
-          "matched": "The Residents",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Eskimo Live! Tour",
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/99038188/cancelledthe-residents-eskimo-livetour-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "cancelled",
-      "event_page": "https://wonderballroom.com/event/cancelled-the-residents-eskimo-live-tour/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "venue bills it as *CANCELLED*",
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -365,6 +332,39 @@
       "event_page": "https://wonderballroom.com/event/tiny-habits-the-keepers-tour/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": "all ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Earlybirds Club",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Early Birds @ 67%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Hip-Hop & R&B Night",
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-01-09",
+      "doors": null,
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/67299691/earlybirds-club-hiphop-rb-night-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://wonderballroom.com/event/earlybirds-club-hip-hop-rb-night/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": "ages 21 +",
       "note": null,
       "description": null
     },
@@ -956,6 +956,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Slow Crush",
+          "apple_music": "https://music.apple.com/us/artist/slow-crush/1235181300",
+          "spotify": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv",
+          "confidence": 1.0,
+          "matched": "Slow Crush",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-16",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/90548682/slow-crush-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/slow-crush/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "GETDOWN SERVICES",
           "apple_music": "https://music.apple.com/us/artist/getdown-services/1547195934",
           "spotify": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5",
@@ -979,6 +1012,39 @@
       "ticket_link": "https://www.etix.com/ticket/p/75604102/getdown-services-portland-wonder-ballroom?partner_id=100",
       "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/getdown-services/wonder-ballroom/portland-oregon/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "apple_music": "https://music.apple.com/us/artist/racing-mount-pleasant/1798832480",
+          "spotify": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX",
+          "confidence": 1.0,
+          "matched": "Racing Mount Pleasant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Monqui Presents"
+      ],
+      "set_format": null,
+      "date": "2027-05-10",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/32215929/racing-mount-pleasant-portland-wonder-ballroom?partner_id=100",
+      "ticket_status": "coming soon",
+      "event_page": "https://wonderballroom.com/event/racing-mount-pleasant/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1131,26 +1197,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 32,
-      "exact": 30,
+      "unique_artists": 39,
+      "found": 33,
+      "exact": 31,
       "close": 1,
       "flagged": 1,
-      "not_found": 5
+      "not_found": 6
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 33,
+      "unique_artists": 39,
+      "linked": 34,
       "venue": 0,
-      "api": 33,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 29
     }
   }
 }

@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
+  "scraped_at": "2026-11-18",
   "count": 22,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "apple_music": "https://music.apple.com/us/artist/boynextdoor/1687612559",
-          "spotify": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1",
-          "confidence": 1.0,
-          "matched": "BOYNEXTDOOR",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "BOYNEXTDOOR TOUR 'KNOCK ON Vol.2' IN NORTH AMERICA",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.axs.com/events/1493762/boynextdoor-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1493762",
-      "room": null,
-      "age_rating": "6+",
-      "note": null,
-      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -876,6 +843,39 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Charley Crockett",
+          "apple_music": "https://music.apple.com/us/artist/charley-crockett/987849844",
+          "spotify": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+          "confidence": 1.0,
+          "matched": "Charley Crockett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Honky Tonkin' in Queens",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1696808/charley-crockett-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1696808",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. The event organizer has decided that resale of tickets on AXS Resale will not be immediately available for this event but may become available at a later date. Please review the terms of AXS’s Purchase Agreement (axs.com/purchaseagreement) for more information"
     },
     {
       "event_type": "music",

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
+  "scraped_at": "2026-11-18",
   "count": 126,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Tyla",
-          "apple_music": "https://music.apple.com/us/artist/tyla/1552925732",
-          "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE",
-          "confidence": 1.0,
-          "matched": "Tyla",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Jae Stephens",
-          "apple_music": "https://music.apple.com/us/artist/jae-stephens/796619154",
-          "spotify": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT",
-          "confidence": 1.0,
-          "matched": "Jae Stephens",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/tyla/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/tyla/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3485,6 +3443,37 @@
       "description": null
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ben Schwartz & Friends",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/0KjogNDppvo7kxCWqXOyYQ",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Ben Schwartz",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-22",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/ben-schwartz-friends/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/ben-schwartz-friends/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "other",
       "needs_review": false,
       "headline_artists": [
@@ -4082,18 +4071,18 @@
       "other": 74
     },
     "apple_music": {
-      "unique_artists": 61,
-      "found": 45,
-      "exact": 39,
+      "unique_artists": 60,
+      "found": 43,
+      "exact": 37,
       "close": 1,
       "flagged": 5,
-      "not_found": 16
+      "not_found": 17
     },
     "spotify": {
-      "unique_artists": 61,
-      "linked": 45,
+      "unique_artists": 60,
+      "linked": 44,
       "venue": 0,
-      "api": 45,
+      "api": 44,
       "feed": 0,
       "shows_with_link": 99
     }

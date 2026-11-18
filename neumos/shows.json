@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 58,
+  "scraped_at": "2026-11-18",
+  "count": 63,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Maddie Zahm",
-          "apple_music": "https://music.apple.com/us/artist/maddie-zahm/1397016641",
-          "spotify": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq",
-          "confidence": 1.0,
-          "matched": "Maddie Zahm",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Everything All The Time Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1476428/maddie-zahm-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/maddie-zahm-tickets-1476428",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1015,6 +984,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Reposado",
+          "apple_music": "https://music.apple.com/us/artist/r-e-p-o-s-a-d-o/1742277631",
+          "spotify": "https://open.spotify.com/artist/1cNJaZ3RrY5ZyoCP8RKVeM",
+          "confidence": 0.95,
+          "matched": "R E P O S A D O",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Wasabi Samba",
+          "apple_music": "https://music.apple.com/us/artist/wasabi-samba/1683634733",
+          "spotify": "https://open.spotify.com/artist/2C2jJMHrGB48NXXYJn0BhN",
+          "confidence": 1.0,
+          "matched": "Wasabi Samba",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Pazific",
+          "apple_music": "https://music.apple.com/us/artist/the-pazific/1310262974",
+          "spotify": "https://open.spotify.com/artist/2RimQgu3sWsQgjcOXm1Wcp",
+          "confidence": 1.0,
+          "matched": "The Pazific",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-07",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1708186/reposado-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/reposado-tickets-1708186",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Anna von Hausswolff",
           "apple_music": "https://music.apple.com/us/artist/anna-von-hausswolff/351852229",
           "spotify": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6",
@@ -1451,6 +1472,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "gutta child tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Yo Gotti @ 33%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "tiger lewis",
+          "apple_music": "https://music.apple.com/us/artist/tiger-lewis/1640928856",
+          "spotify": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN",
+          "confidence": 1.0,
+          "matched": "Tiger Lewis",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-16",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1704423/gutta-child-tour-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/gutta-child-tour-tickets-1704423",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -1514,6 +1577,48 @@
       "ticket_link": "https://www.axs.com/events/1664472/vincent-lima-tickets?skin=neumos",
       "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/vincent-lima-tickets-1664472",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MOD SUN",
+          "apple_music": "https://music.apple.com/us/artist/mod-sun/373888452",
+          "spotify": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG",
+          "confidence": 1.0,
+          "matched": "MOD SUN",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Public Works",
+          "apple_music": "https://music.apple.com/us/artist/public-works/1717978299",
+          "spotify": "https://open.spotify.com/artist/1GVAM7sR0zlAqrrZvgTWXm",
+          "confidence": 1.0,
+          "matched": "Public Works",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Don’t Be A Poet Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-12",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1705111/mod-sun-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/mod-sun-tickets-1705111",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,
@@ -1981,6 +2086,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Slow Crush",
+          "apple_music": "https://music.apple.com/us/artist/slow-crush/1235181300",
+          "spotify": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv",
+          "confidence": 1.0,
+          "matched": "Slow Crush",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Seahaven",
+          "apple_music": "https://music.apple.com/us/artist/seahaven/376605217",
+          "spotify": "https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np",
+          "confidence": 1.0,
+          "matched": "Seahaven",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "BADVRIL",
+          "apple_music": "https://music.apple.com/us/artist/badvril/1584699126",
+          "spotify": "https://open.spotify.com/artist/3K8MUSOKCeMlrzYMOYZb0S",
+          "confidence": 1.0,
+          "matched": "Badvril",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-17",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1698300/slow-crush-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/slow-crush-tickets-1698300",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "SiM",
           "apple_music": "https://music.apple.com/us/artist/sim/1124210967",
           "spotify": null,
@@ -2328,30 +2485,92 @@
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Osees",
+          "apple_music": "https://music.apple.com/us/artist/osees/1794438020",
+          "spotify": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS",
+          "confidence": 1.0,
+          "matched": "Osees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-03",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1694428/osees-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/osees-tickets-1694428",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Osees",
+          "apple_music": "https://music.apple.com/us/artist/osees/1794438020",
+          "spotify": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS",
+          "confidence": 1.0,
+          "matched": "Osees",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-04",
+      "doors": "8:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1694440/osees-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/osees-tickets-1694440",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 58,
+      "music": 63,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 100,
-      "found": 90,
-      "exact": 83,
-      "close": 2,
+      "unique_artists": 110,
+      "found": 99,
+      "exact": 91,
+      "close": 3,
       "flagged": 5,
-      "not_found": 10
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 100,
-      "linked": 85,
+      "unique_artists": 110,
+      "linked": 94,
       "venue": 0,
-      "api": 85,
+      "api": 94,
       "feed": 0,
-      "shows_with_link": 53
+      "shows_with_link": 58
     }
   }
 }

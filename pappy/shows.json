@@ -37,62 +37,8 @@
     "artist.spotify_source": "controlled"
   },
   "scraped_at": "2026-11-17",
-  "count": 54,
+  "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Slothrust",
-          "apple_music": "https://music.apple.com/us/artist/slothrust/535461659",
-          "spotify": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4",
-          "confidence": 1.0,
-          "matched": "Slothrust",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Um",
-          "apple_music": "https://music.apple.com/us/artist/%C3%BCm/1254696515",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Üm",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Umm Kulthum @ 31%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Jennifer?",
-          "apple_music": "https://music.apple.com/us/artist/jennifer-lopez/463009",
-          "spotify": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR",
-          "confidence": 0.8,
-          "matched": "Jennifer Lopez",
-          "apple_label": "close match: Jennifer Lopez",
-          "spotify_label": "close match: Jennifer Lopez",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/slothrust/695824",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/slothrust/695824",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2112,26 +2058,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 82,
-      "found": 77,
-      "exact": 71,
+      "unique_artists": 79,
+      "found": 74,
+      "exact": 69,
       "close": 1,
-      "flagged": 5,
+      "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 82,
-      "linked": 73,
+      "unique_artists": 79,
+      "linked": 71,
       "venue": 0,
-      "api": 73,
+      "api": 71,
       "feed": 0,
-      "shows_with_link": 52
+      "shows_with_link": 51
     }
   }
 }

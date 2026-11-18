@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 55,
+  "scraped_at": "2026-11-18",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The PIXIE Tour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.522,
-          "matched": null,
-          "apple_label": "no confident match (closest: The Doors @ 52%)",
-          "spotify_label": "no confident match (closest: The Living Tombstone @ 53%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sophie Cates",
-          "apple_music": "https://music.apple.com/us/artist/sophie-cates/1439656094",
-          "spotify": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2",
-          "confidence": 1.0,
-          "matched": "Sophie Cates",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Olivia O’Brien"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/55541535",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1443,6 +1399,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sam Burchfield",
+          "apple_music": "https://music.apple.com/us/artist/sam-burchfield/814526180",
+          "spotify": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5",
+          "confidence": 1.0,
+          "matched": "Sam Burchfield",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-01",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/43913540",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Claud and the Live Music",
           "apple_music": null,
           "spotify": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1",
@@ -1848,6 +1835,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Midrift",
+          "apple_music": "https://music.apple.com/us/artist/midrift/1658454602",
+          "spotify": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E",
+          "confidence": 1.0,
+          "matched": "Midrift",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Modern Color",
+          "apple_music": "https://music.apple.com/us/artist/modern-color/1117669700",
+          "spotify": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l",
+          "confidence": 1.0,
+          "matched": "Modern Color",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Bleary Eyed",
+          "apple_music": "https://music.apple.com/us/artist/bleary-eyed/1073767610",
+          "spotify": "https://open.spotify.com/artist/0JTGTWQ2CBQlQtAHb8zMWS",
+          "confidence": 1.0,
+          "matched": "Bleary Eyed",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/33938580",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Valencia Grace",
           "apple_music": "https://music.apple.com/us/artist/valencia-grace/1532649578",
           "spotify": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A",
@@ -1867,6 +1906,48 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/83463584",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "apple_music": "https://music.apple.com/us/artist/peel-dream-magazine/1412170457",
+          "spotify": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd",
+          "confidence": 1.0,
+          "matched": "Peel Dream Magazine",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dari Bay",
+          "apple_music": "https://music.apple.com/us/artist/dari-bay/1298653609",
+          "spotify": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC",
+          "confidence": 1.0,
+          "matched": "Dari Bay",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "North America 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-15",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/58446890",
       "ticket_status": "on sale",
       "event_page": null,
       "room": null,
@@ -2125,26 +2206,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 54,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 89,
-      "found": 68,
-      "exact": 63,
+      "unique_artists": 93,
+      "found": 73,
+      "exact": 68,
       "close": 2,
       "flagged": 3,
-      "not_found": 21
+      "not_found": 20
     },
     "spotify": {
-      "unique_artists": 89,
-      "linked": 70,
+      "unique_artists": 93,
+      "linked": 75,
       "venue": 0,
-      "api": 70,
+      "api": 75,
       "feed": 0,
-      "shows_with_link": 44
+      "shows_with_link": 46
     }
   }
 }

@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 103,
+  "scraped_at": "2026-11-18",
+  "count": 104,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "RHYE",
-          "apple_music": "https://music.apple.com/us/artist/rhye/490808665",
-          "spotify": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN",
-          "confidence": 1.0,
-          "matched": "Rhye",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Joy Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/rhye/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/rhye/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2321,6 +2290,37 @@
       "description": null
     },
     {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Teenage Fanclub",
+          "apple_music": "https://music.apple.com/us/artist/teenage-fanclub/1295756",
+          "spotify": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW",
+          "confidence": 1.0,
+          "matched": "Teenage Fanclub",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/teenage-fanclub/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/teenage-fanclub/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
@@ -2998,6 +2998,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Racing Mount Pleasant",
+          "apple_music": "https://music.apple.com/us/artist/racing-mount-pleasant/1798832480",
+          "spotify": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX",
+          "confidence": 1.0,
+          "matched": "Racing Mount Pleasant",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dutch Interior",
+          "apple_music": "https://music.apple.com/us/artist/dutch-interior/1600341426",
+          "spotify": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn",
+          "confidence": 1.0,
+          "matched": "Dutch Interior",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-12",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/racing-mount-pleasant/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/racing-mount-pleasant/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Leo Middea",
           "apple_music": "https://music.apple.com/us/artist/leo-middea/980727000",
           "spotify": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG",
@@ -3444,23 +3486,23 @@
       "music": 77,
       "comedy": 20,
       "film": 0,
-      "other": 6
+      "other": 7
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 82,
-      "exact": 71,
+      "unique_artists": 99,
+      "found": 84,
+      "exact": 73,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 79,
+      "unique_artists": 99,
+      "linked": 81,
       "venue": 0,
-      "api": 79,
+      "api": 81,
       "feed": 0,
-      "shows_with_link": 78
+      "shows_with_link": 79
     }
   }
 }

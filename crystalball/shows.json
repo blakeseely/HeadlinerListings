@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 55,
+  "scraped_at": "2026-11-18",
+  "count": 54,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "apple_music": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685",
-          "spotify": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF",
-          "confidence": 1.0,
-          "matched": "Rodrigo y Gabriela",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Showbox Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "5:30 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/97131606/rodrigo-y-gabriela-ourhome-tour-portland-mcmenamins-crystal-ballroom",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/277359-rodrigo-y-gabriela/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Grammy-winning Mexican guitar duo Rodrigo y Gabriela return with OurHome , a bold new album and global tour that invites audiences into a dreamlike universe of rogue monsters, celestial birds, stardust, savage landscapes, and the search for inner peace. Self-produced in Tokyo, OurHome is both a love letter to Japan and a meditation on what it means to find home within yourself, delivered through the wildly expressive instrumental guitar music that has made Rodrigo Sánchez and Gabriela Quintero one of the most electrifying live acts in the world. For more than two decades, Rodrigo y Gabriela have pushed acoustic guitar into new territory, blending classical, rock, metal, cinematic atmosphere, and spiritual exploration into a sound entirely their own. From their early days busking on Dublin’s Grafton Street, they have gone on to win a GRAMMY Award for Mettavolution , headline Glastonbury, and sell out iconic stages including the Hollywood Bowl, Red Rocks Amphitheatre, Royal Albert Hall, Radio City Music Hall, and the Sydney Opera House. On OurHome , the duo returns to the textural beauty of acoustic instrumentation while expanding their world with guests including Marty Friedman and Hiromi. Live, Rodrigo’s lightning-fast lead lines and Gabriela’s hypnotic, hard-hitting rhythms become a pulse-raising journey of stillness, intensity, and unstoppable momentum. For longtime fans and first-timers alike, this is a rare chance to experience two master musicians at their most adventuro"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1891,7 +1858,7 @@
       "room": null,
       "age_rating": "All ages welcome",
       "note": null,
-      "description": "Friday, May 14th at Crystal Ballroom in Portland, OR"
+      "description": "The latest album from three-time Grammy winner Tori Kelly, God Must Really Love Me captures her in a moment of near-magical harmony between inner life and artistic impulse. Within two months of giving birth to her first child, the Southern California-bred singer/songwriter found herself gripped by a rush of inspiration that reshaped her creative instincts in real time, stripping away any tendency to overthink. As a flood of new songs spilled out with an urgency she’d never experienced, Tori locked into the songwriting process with full-hearted conviction, frequently recording voice memos while nursing her son. The sixth studio LP from a generational vocal talent, God Must Really Love Me ultimately offers a wildly joyful and richly textured meditation on love, identity, and the quiet work of protecting your peace amid the constant noise of the outside world. “Before the baby was born I’d tried to work on as many songs as possible, because I thought maybe I wouldn’t want to write once I was in mom mode,” reveals Tori, whose son, Zayden, arrived in November 2025. “But then everything just hit me at once, which I think had to do with feeling so overwhelmed with love in this new chapter of my life. Right away I knew what I needed to say and exactly how I wanted it to sound, and by January the whole record was done.” The follow-up to 2024’s TORI. , God Must Really Love Me marks her most intimate work yet in a critically celebrated catalog that began with 2015’s Unbreakable Smile (a"
     },
     {
       "event_type": "music",
@@ -2051,26 +2018,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 75,
-      "found": 51,
-      "exact": 50,
+      "unique_artists": 74,
+      "found": 50,
+      "exact": 49,
       "close": 1,
       "flagged": 0,
       "not_found": 24
     },
     "spotify": {
-      "unique_artists": 75,
-      "linked": 53,
+      "unique_artists": 74,
+      "linked": 52,
       "venue": 0,
-      "api": 53,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }

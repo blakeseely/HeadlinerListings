@@ -36,9 +36,103 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 2,
+  "scraped_at": "2026-11-18",
+  "count": 5,
   "shows": [
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Remi Wolf",
+          "apple_music": "https://music.apple.com/us/artist/remi-wolf/1223869670",
+          "spotify": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d",
+          "confidence": 1.0,
+          "matched": "Remi Wolf",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "special guest",
+          "apple_music": "https://music.apple.com/us/artist/special-guest/1788639674",
+          "spotify": "https://open.spotify.com/artist/7o2fFjWXWhFU2xnFen0tp7",
+          "confidence": 1.0,
+          "matched": "Special Guest",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Annabelle Dinda",
+          "apple_music": "https://music.apple.com/us/artist/annabelle-dinda/1156542943",
+          "spotify": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36",
+          "confidence": 1.0,
+          "matched": "Annabelle Dinda",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "LIVE 105 presents — The Mud Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-30",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/remi-wolf-the-mud-tour-berkeley-california-04-30-2027/event/1C00656DDECA5A14?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/remi-wolf-270430",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "If Remi Wolf ’s first two albums, 2021’s Juno and 2024’s Big Ideas , were in technicolor, her third LP Mud (out October 9 via Island Records) is more neutral, earthy and grounded. It’s still colorful, as Wolf tends to be, but the newly 30-year-old singer has been on a journey of rooting herself more firmly in the ground. “I feel like I’ve crossed into a new phase of life because of this album,” she says, sitting in the same basement studio at Electric Lady where most of the album was recorded. “I literally felt like I was covered in shit. And now, at the end of the album process, I feel so clean and clear. It has been a very cleansing record to make for me.” The rawness is delivered in the sound: stripped away of synths and programmed drums, Mud is Remi Wolf at her most lyrically and sonically vulnerable. The songs evoke the feeling of singing around a campfire with just your friends and a couple guitars because that’s how it felt for Wolf to make it. But to find the clearing in the fo"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Durand Jones & The Indications and The Teskey Brothers",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs",
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Durand Jones & The Indications @ 70%)",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Steph Strings",
+          "apple_music": "https://music.apple.com/us/artist/steph-strings/1599174072",
+          "spotify": "https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB",
+          "confidence": 1.0,
+          "matched": "Steph Strings",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-07-15",
+      "doors": "5:00 pm",
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/durand-jones-the-indications-and-the-berkeley-california-07-15-2027/event/1C00656DBD5CFC46?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/durand-teskey-270715",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "After more than a decade of music-making, Durand Jones & The Indications have blossomed as a unit and are basking in their successes. On their aptly titled new album, Flowers, The Indications unfurl their true colors — embracing all their roots and influences, maturation and confidence, and share them with the world. Since forming in 2012, the road has taken The Indications from those origins at Indiana University, Bloomington to the global stage, selling out shows across Europe, Japan, Australia, and New Zealand to the West Coast— where DJI has a strong following among the lowrider and vintage soul enthusiasts. For as far as Durand Jones & The Indications have come, Flowers grew from the desire to return to their roots in a Bloomington basement, a space where they first found camaraderie in gritty funk and Southern soul that would inspire their self-titled debut. Pulling sonically and spiritually from each of the group’s previous releases and solo work, Flowers is the next stage of DJ"
+    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -86,6 +180,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Jason Isbell and the 400 Unit & Drive-By Truckers",
+          "apple_music": "https://music.apple.com/us/artist/jason-isbell-and-the-400-unit/301599804",
+          "spotify": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf",
+          "confidence": 0.95,
+          "matched": "Jason Isbell and the 400 Unit",
+          "apple_label": "compound bill — links to Jason Isbell and the 400 Unit only",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": "Summer of Joy",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-08-29",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/jason-isbell-and-the-400-unit-berkeley-california-08-29-2027/event/1C00656C9DC8A9AB?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thegreekberkeley.com/events/ji-dbt-270829",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Six-time Grammy Award-winning singer/songwriter Jason Isbell is one of the most respected and celebrated artists of his generation. The North Alabama native possesses an incredible penchant for identifying and articulating some of the deepest, yet simplest, human emotions, and turning them into beautiful poetry through song. Isbell sings of the everyday human condition with thoughtful, heartfelt, and sometimes brutal honesty. After releasing multiple critically-acclaimed albums, appearing in an Academy Award-nominated film, Killers of the Flower Moon , and touring the world with his band, the 400 Unit, Isbell began 2025 with a change of pace. A solo record. Simply Isbell and his voice and an acoustic guitar, an all-mahogany 1940 Martin 0-17. Recorded at Electric Lady Studios in NYC, ‘Foxes in the Snow’ further demonstrates his pure talent as a songwriter and musician. As Stereogum so aptly put it, “the barebones intimacy recenters the artist behind the persona and serves as a reminder"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Sienna Spiro",
           "apple_music": "https://music.apple.com/us/artist/sienna-spiro/1745678083",
           "spotify": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v",
@@ -115,26 +240,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 2,
+      "music": 5,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 3,
-      "found": 3,
-      "exact": 3,
+      "unique_artists": 9,
+      "found": 8,
+      "exact": 7,
       "close": 0,
-      "flagged": 0,
-      "not_found": 0
+      "flagged": 1,
+      "not_found": 1
     },
     "spotify": {
-      "unique_artists": 3,
-      "linked": 3,
-      "venue": 3,
-      "api": 0,
+      "unique_artists": 9,
+      "linked": 9,
+      "venue": 6,
+      "api": 3,
       "feed": 0,
-      "shows_with_link": 2
+      "shows_with_link": 5
     }
   }
 }

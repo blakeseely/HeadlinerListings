@@ -36,81 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 24,
+  "scraped_at": "2026-11-18",
+  "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SEB EL ZIN",
-          "apple_music": "https://music.apple.com/us/artist/seb-el-zin/339759827",
-          "spotify": "https://open.spotify.com/artist/6tZCYhtckilkL8VrzBE4fX",
-          "confidence": 1.0,
-          "matched": "Seb el Zin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "wet peynt",
-          "apple_music": "https://music.apple.com/us/artist/wet-peynt/1540152543",
-          "spotify": "https://open.spotify.com/artist/0oKyW7dbTCul1AAUea4CZE",
-          "confidence": 1.0,
-          "matched": "wet peynt",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "La Luxx",
-          "apple_music": "https://music.apple.com/us/artist/la-luxx-baby/1842452026",
-          "spotify": null,
-          "confidence": 0.8,
-          "matched": "La Luxx Baby",
-          "apple_label": "close match: La Luxx Baby",
-          "spotify_label": "no confident match (closest: Larry Lux @ 75%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Dadbaud",
-          "apple_music": "https://music.apple.com/us/artist/dadbaud/1778119521",
-          "spotify": "https://open.spotify.com/artist/6GKs0Oz9sJKQLE4UkkIgD7",
-          "confidence": 1.0,
-          "matched": "DadBaud",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "cyranetic",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.636,
-          "matched": null,
-          "apple_label": "no confident match (closest: Marc Cyanotic @ 64%)",
-          "spotify_label": "no confident match (closest: Cyranek @ 75%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/dadbaud-la-luxx-wet-peynt-seb-el-zin-cyranetic-17-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -901,6 +829,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Veriteras",
+          "apple_music": "https://music.apple.com/us/artist/veriteras/1613200256",
+          "spotify": "https://open.spotify.com/artist/47Jmgane5nxarmytXkeMo3",
+          "confidence": 1.0,
+          "matched": "Veriteras",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gravewitch",
+          "apple_music": "https://music.apple.com/us/artist/gravewitch/971465009",
+          "spotify": "https://open.spotify.com/artist/2YeNndNnnjC40KlROdma33",
+          "confidence": 1.0,
+          "matched": "Gravewitch",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "psyclops",
+          "apple_music": "https://music.apple.com/us/artist/psyclops/1337515802",
+          "spotify": "https://open.spotify.com/artist/2xLLB3oxrOX3QHhUOy6UyK",
+          "confidence": 1.0,
+          "matched": "Psyclops",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Newlore",
+          "apple_music": "https://music.apple.com/us/artist/newlore/1809775193",
+          "spotify": "https://open.spotify.com/artist/1MN13T8CAui18w6oHtMDyS",
+          "confidence": 1.0,
+          "matched": "newlore",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": "7:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/veriteras-08-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Basement / RockMomEnough / Brake Down",
           "apple_music": null,
           "spotify": null,
@@ -1077,6 +1067,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Saidan - Three Stars Glimmering Between Astral Spacing Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Shimmering Shrapnelc @ 40%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Trha",
+          "apple_music": "https://music.apple.com/us/artist/trh%C3%A4/1644092047",
+          "spotify": "https://open.spotify.com/artist/5LCW1YUGpMpsWklZ36rp91",
+          "confidence": 1.0,
+          "matched": "Trhä",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Barbelith",
+          "apple_music": "https://music.apple.com/us/artist/barbelith/933632434",
+          "spotify": "https://open.spotify.com/artist/1gHOPL1XurmzxYMCSXGeoa",
+          "confidence": 1.0,
+          "matched": "Barbelith",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-31",
+      "doors": "7:00 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/saidan-three-stars-glimmering-between-astral-spacing-tour-31-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "DUUNES",
           "apple_music": "https://music.apple.com/us/artist/duunes/1699212364",
           "spotify": "https://open.spotify.com/artist/42naoAm7826YcWJsnXlNhk",
@@ -1190,26 +1232,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 24,
+      "music": 25,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 50,
-      "exact": 45,
+      "unique_artists": 65,
+      "found": 52,
+      "exact": 48,
       "close": 1,
-      "flagged": 4,
+      "flagged": 3,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 63,
-      "linked": 47,
+      "unique_artists": 65,
+      "linked": 50,
       "venue": 0,
-      "api": 47,
+      "api": 50,
       "feed": 0,
-      "shows_with_link": 18
+      "shows_with_link": 19
     }
   }
 }

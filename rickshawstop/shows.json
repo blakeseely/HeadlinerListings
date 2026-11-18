@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 47,
+  "scraped_at": "2026-11-18",
+  "count": 50,
   "shows": [
     {
       "event_type": "music",
@@ -1093,6 +1093,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "HEATED RIVALRY DANCE PARTY: Return to the Cottage",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Original Off-Broadway Heated Rivalry Unauthorized Musical Parody Cast @ 41%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": "8:00 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/heated-rivalry-dance-party-return-to-the-cottage/711479",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/heated-rivalry-dance-party-return-to-the-cottage/711479",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "SMALL BROWN BIKE",
           "apple_music": "https://music.apple.com/us/artist/small-brown-bike/5635242",
           "spotify": "https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j",
@@ -1279,6 +1310,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "DYING FETUS",
+          "apple_music": "https://music.apple.com/us/artist/dying-fetus/74420598",
+          "spotify": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie",
+          "confidence": 1.0,
+          "matched": "Dying Fetus",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/dying-fetus/711295",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/dying-fetus/711295",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "THE BODY & CEL GENESIS",
           "apple_music": null,
           "spotify": null,
@@ -1455,6 +1517,37 @@
       "ticket_link": "https://wl.eventim.us/event/dj-suzy/708799",
       "ticket_status": "on sale",
       "event_page": "https://wl.eventim.us/event/dj-suzy/708799",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ASH",
+          "apple_music": "https://music.apple.com/us/artist/ash/721451",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Ash",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Ashanti @ 60%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-04",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/ash/711690",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/ash/711690",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1680,26 +1773,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 50,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 62,
-      "found": 53,
-      "exact": 51,
+      "unique_artists": 65,
+      "found": 55,
+      "exact": 53,
       "close": 0,
       "flagged": 2,
-      "not_found": 9
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 62,
-      "linked": 55,
+      "unique_artists": 65,
+      "linked": 56,
       "venue": 0,
-      "api": 55,
+      "api": 56,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 42
     }
   }
 }
