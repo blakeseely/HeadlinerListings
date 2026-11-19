@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 127,
+  "scraped_at": "2026-11-19",
+  "count": 124,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BERTHA: Grateful Drag The World's First All-Drag Grateful Dead Tribute Band",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: BERTHA: Grateful Drag @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/bertha-grateful-drag-the-belly-up-tickets/14989283?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14989283/bertha-grateful-drag-the-worlds-first-all-drag-grateful-dead-tribute-band",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -582,48 +551,6 @@
       "ticket_link": "https://www.ticketweb.com/event/the-james-hunter-six-belly-up-tickets/14304484?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14304484/the-james-hunter-six-off-the-fence-tour-w-dove",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Residents",
-          "apple_music": "https://music.apple.com/us/artist/the-residents/26238269",
-          "spotify": "https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm",
-          "confidence": 1.0,
-          "matched": "The Residents",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Rushadicus",
-          "apple_music": "https://music.apple.com/us/artist/rushadicus/6794673748",
-          "spotify": "https://open.spotify.com/artist/5jRibyZfezDnfHZkvQISgs",
-          "confidence": 1.0,
-          "matched": "Rushadicus",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Eskimo Live",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-01",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-residents-eskimo-belly-up-tickets/14256704?REFID=bupwebsite",
-      "ticket_status": null,
-      "event_page": "https://bellyup.com/calendar/14256704/the-residents-eskimo-live-w-rushadicus",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1529,15 +1456,15 @@
         }
       ],
       "multi_artist": true,
-      "show_title": "3rd Annual Buffett Birthday Bash",
+      "show_title": "A Pirate Looks at 80 Birthday Bash",
       "presenters": [],
       "set_format": null,
       "date": "2026-12-26",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jimmys-buffet-3rd-belly-up-tickets/14221484?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/jimmys-buffet-a-pirate-looks-belly-up-tickets/14221484?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14221484/jimmys-buffet-3rd-annual-buffett-birthday-bash-w-toga-party-band",
+      "event_page": "https://bellyup.com/calendar/14221484/jimmys-buffet-a-pirate-looks-at-80-birthday-bash-w-toga-party-band",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1672,68 +1599,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Atomic Groove's Special Edition Thursday New Year's Eve Bash Dance Party Happy Hour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Atomic Space @ 25%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-31",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-special-edition-thursday-belly-up-tickets/14391904?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14391904/atomic-grooves-special-edition-thursday-new-years-eve-bash-dance-party-happy-hour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Atomic Groove Happy Hour (2",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 46%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "day Ticket)",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-31",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-2-belly-up-tickets/14391924?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14391924/atomic-groove-happy-hour-2-day-ticket",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "The Floozies",
           "apple_music": "https://music.apple.com/us/artist/the-floozies/287904525",
           "spotify": "https://open.spotify.com/artist/5czcqWtwZb5btfWWvWTmgZ",
@@ -1766,6 +1631,37 @@
       "ticket_link": "https://www.ticketweb.com/event/the-floozies-nye-belly-up-tickets/14369984?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14369984/the-floozies-nye-w-kaipora-bray-radbury",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Atomic Groove NYE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Guava @ 62%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": null,
+      "show_time": "5:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": null,
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4538,7 +4434,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/an-alleged-evening-with-conor-belly-up-tickets/14407904?REFID=bupwebsite",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://bellyup.com/calendar/14407904/an-alleged-evening-with-conor-oberst",
       "room": null,
       "age_rating": null,
@@ -4683,26 +4579,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 127,
+      "music": 124,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 173,
-      "found": 128,
-      "exact": 107,
+      "unique_artists": 169,
+      "found": 126,
+      "exact": 105,
       "close": 5,
       "flagged": 16,
-      "not_found": 45
+      "not_found": 43
     },
     "spotify": {
-      "unique_artists": 173,
-      "linked": 132,
+      "unique_artists": 169,
+      "linked": 130,
       "venue": 0,
-      "api": 132,
+      "api": 130,
       "feed": 0,
-      "shows_with_link": 93
+      "shows_with_link": 92
     }
   }
 }

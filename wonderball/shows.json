@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 33,
+  "scraped_at": "2026-11-19",
+  "count": 32,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Eivør",
-          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
-          "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
-          "confidence": 1.0,
-          "matched": "Eivør",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Midori Jaeger",
-          "apple_music": "https://music.apple.com/us/artist/midori-jaeger/1482434343",
-          "spotify": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp",
-          "confidence": 1.0,
-          "matched": "midori jaeger",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/65250726/eiv%C3%B8r-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://wonderballroom.com/event/eiv%c3%b8r/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -361,7 +317,7 @@
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/67299691/earlybirds-club-hiphop-rb-night-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
+      "ticket_status": "coming soon",
       "event_page": "https://wonderballroom.com/event/earlybirds-club-hip-hop-rb-night/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": "ages 21 +",
@@ -1197,26 +1153,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 33,
-      "exact": 31,
+      "unique_artists": 37,
+      "found": 31,
+      "exact": 29,
       "close": 1,
       "flagged": 1,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 34,
+      "unique_artists": 37,
+      "linked": 32,
       "venue": 0,
-      "api": 34,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 28
     }
   }
 }

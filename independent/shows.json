@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
+  "scraped_at": "2026-11-19",
   "count": 103,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Icona Pop",
-          "apple_music": "https://music.apple.com/us/artist/icona-pop/398345158",
-          "spotify": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw",
-          "confidence": 1.0,
-          "matched": "Icona Pop",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sorana",
-          "apple_music": "https://music.apple.com/us/artist/sorana/153893009",
-          "spotify": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx",
-          "confidence": 1.0,
-          "matched": "Sorana",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/icona-pop-the-independent-tickets/15047023?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/icona-pop/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -138,8 +96,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Quedronol",
+          "apple_music": "https://music.apple.com/us/artist/quedronol/6773007879",
+          "spotify": "https://open.spotify.com/artist/6HNPwTAPT2teyY43GsJBBB",
+          "confidence": 1.0,
+          "matched": "Quedronol",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "The *TOUR* The *MOVIE*",
       "presenters": [],
       "set_format": null,
@@ -732,7 +701,7 @@
       "date": "2026-12-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
       "room": null,
@@ -2983,8 +2952,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "lighthearted",
+          "apple_music": "https://music.apple.com/us/artist/lighthearted/1500298176",
+          "spotify": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf",
+          "confidence": 1.0,
+          "matched": "lighthearted",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3213,6 +3193,37 @@
       "ticket_link": "https://www.ticketweb.com/event/rikas-the-independent-tickets/14391504?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/rikas/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Butcher Brown",
+          "apple_music": "https://music.apple.com/us/artist/butcher-brown/570681436",
+          "spotify": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP",
+          "confidence": 1.0,
+          "matched": "Butcher Brown",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-03",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/butcher-brown-the-independent-tickets/14441624?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/butcher-brown-2/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3844,18 +3855,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 146,
-      "found": 130,
-      "exact": 121,
+      "unique_artists": 147,
+      "found": 131,
+      "exact": 122,
       "close": 3,
       "flagged": 6,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 146,
-      "linked": 132,
-      "venue": 92,
-      "api": 40,
+      "unique_artists": 147,
+      "linked": 133,
+      "venue": 94,
+      "api": 39,
       "feed": 0,
       "shows_with_link": 100
     }

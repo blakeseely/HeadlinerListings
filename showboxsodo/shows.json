@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 38,
+  "scraped_at": "2026-11-19",
+  "count": 36,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "KINO",
-          "apple_music": "https://music.apple.com/us/artist/kino/1139337453",
-          "spotify": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42",
-          "confidence": 1.0,
-          "matched": "Kino",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1405847/kino-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1405847",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -109,37 +78,6 @@
       "event_page": "https://www.showboxpresents.com/events/detail/1516580",
       "room": null,
       "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Song Dongye",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Song Wongeun @ 78%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1617020/song-dongye-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1617020",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,
       "description": null
     },
@@ -1646,26 +1584,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 36,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 74,
-      "found": 69,
-      "exact": 64,
+      "unique_artists": 72,
+      "found": 68,
+      "exact": 63,
       "close": 0,
       "flagged": 5,
-      "not_found": 5
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 74,
-      "linked": 70,
+      "unique_artists": 72,
+      "linked": 69,
       "venue": 0,
-      "api": 70,
+      "api": 69,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 34
     }
   }
 }

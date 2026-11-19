@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 37,
+  "scraped_at": "2026-11-19",
+  "count": 40,
   "shows": [
     {
       "event_type": "music",
@@ -515,6 +515,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Venna",
+          "apple_music": "https://music.apple.com/us/artist/venna/1508130647",
+          "spotify": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP",
+          "confidence": 1.0,
+          "matched": "Venna",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Khal!l",
+          "apple_music": "https://music.apple.com/us/artist/khal-l/1472901286",
+          "spotify": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe",
+          "confidence": 1.0,
+          "matched": "Khal!l",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "North America Tour 26' Malik",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/venna-north-america-music-box-tickets/15018503?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15018503/venna-north-america-tour-26-malik-w-khall",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "ACQUISITION SOCAL",
           "apple_music": null,
           "spotify": null,
@@ -553,6 +595,48 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dyego",
+          "apple_music": "https://music.apple.com/us/artist/dyego/1622808992",
+          "spotify": "https://open.spotify.com/artist/56bkZKcxAWFBuODAyLBwd3",
+          "confidence": 1.0,
+          "matched": "dyego",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "BluNites",
+          "apple_music": "https://music.apple.com/us/artist/blunites/1303894060",
+          "spotify": "https://open.spotify.com/artist/1qT1IiHytkg4UA3jvn2zQE",
+          "confidence": 1.0,
+          "matched": "BluNites",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Holiday Show and Toy Drive",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/dyego-holiday-show-music-box-tickets/15053603?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15053603/dyego-holiday-show-and-toy-drive-w-blunites",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
     },
     {
       "event_type": "music",
@@ -829,6 +913,37 @@
       "ticket_link": "https://www.ticketweb.com/event/surfer-girl-the-music-box-tickets/14384244?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14384244/surfer-girl-the-midnight-tour-w-south-summit-and-joby",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Galdive | rum.gold",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: rum.gold",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "A Friend Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-08",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/galdive-rumgold-music-box-tickets/14412664?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14412664/galdive-rum-gold-a-friend-tour",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1396,26 +1511,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 39,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 45,
-      "exact": 41,
+      "unique_artists": 61,
+      "found": 49,
+      "exact": 45,
       "close": 0,
       "flagged": 4,
-      "not_found": 11
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 46,
+      "unique_artists": 61,
+      "linked": 51,
       "venue": 0,
-      "api": 46,
+      "api": 51,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 35
     }
   }
 }

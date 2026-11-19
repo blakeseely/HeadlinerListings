@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 49,
+  "scraped_at": "2026-11-19",
+  "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Silvertongue // Bikini Drone // AUROCHS",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: silver seraph @ 38%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Holocene Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/91536533/silvertongue-bikini-drone-aurochs-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-18-silvertongue-bikini-drone-aurochs",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1740,21 +1707,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 44,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 60,
+      "unique_artists": 59,
       "found": 30,
       "exact": 25,
       "close": 1,
       "flagged": 4,
-      "not_found": 30
+      "not_found": 29
     },
     "spotify": {
-      "unique_artists": 60,
+      "unique_artists": 59,
       "linked": 31,
       "venue": 0,
       "api": 31,

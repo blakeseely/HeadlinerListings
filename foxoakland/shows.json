@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 33,
+  "scraped_at": "2026-11-19",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -1211,30 +1211,61 @@
       "age_rating": "all ages",
       "note": null,
       "description": "Hailing from Bangor and Donaghadee, Northern Ireland’s Two Door Cinema Club first gained attention with their debut album ‘Tourist History’ which included singles like “What you Know” **, ‘Something Good Can Work’ and ‘Undercover Martyn’ mixing guitar-driven, post-punk hooks with dancey, electronic polish. The album released in 2010 hit number one on the Irish chart, landed on the BBC Sound of 2010 Poll and went on to be a globally lauded debut record taking them from their garage where they wrote the album in Bangor to the main stages of festivals around the world. Two Door Cinema Club features singer/guitarist/programmer Alex Trimble, guitarist/singer Sam Halliday and bassist/singer Kevin Baird. Trimble and Halliday met in school, and then hooked up with Baird through mutual friends. The trio began writing in Trimble’s parents garage and skipped going to university to focus on the band, fortunately, the gamble paid off – the band’s self-released debut EP, Four Words to Stand On, was"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ben Folds Five",
+          "apple_music": "https://music.apple.com/us/artist/ben-folds-five/814572",
+          "spotify": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk",
+          "confidence": 1.0,
+          "matched": "Ben Folds Five",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Ben Folds Five On Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-07-27",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/ben-folds-five-on-tour-oakland-california-07-27-2027/event/1C006570F811F493?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/ben-folds-five-270727",
+      "room": null,
+      "age_rating": "all ages",
+      "note": null,
+      "description": "Formed in 1993 in the alternative-rock breeding ground of Chapel Hill, North Carolina, Ben Folds Five were three guys, zero guitars, and one glaring math problem. Led by piano-pounding maestro Ben Folds, with Robert Sledge on bass and Darren Jessee on drums, the trio dubbed their distinctive sound “punk rock for sissies.” A smart-aleck collision of spaz rock, power pop, irresistible 70s AM melodies, pseudo-jazz, and copious lyrical mischief that proved you didn’t need aggro guitars to make a glorious ‘90s noise. Their self-titled debut album landed in 1995, followed by 1997’s breakthrough Whatever and Ever Amen, featuring the unlikely hit “Brick.” Three studio albums, plus a collection of B-sides and outtakes later, the band split in 2000. They regrouped and released The Sound of the Life of the Mind and a Live Album in 2012, parting ways again in 2013. Now celebrating the anniversary of their debut record with a return US tour, Ben Folds Five remain one of alternative rock’s great suc"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 29,
+      "music": 30,
       "comedy": 4,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 34,
-      "exact": 32,
+      "unique_artists": 37,
+      "found": 35,
+      "exact": 33,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 35,
-      "venue": 31,
+      "unique_artists": 37,
+      "linked": 36,
+      "venue": 32,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 33
     }
   }
 }

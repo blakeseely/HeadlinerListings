@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 51,
+  "scraped_at": "2026-11-19",
+  "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Hamilton Leithauser + Rostam",
-          "apple_music": "https://music.apple.com/us/artist/hamilton-leithauser-rostam/1132492394",
-          "spotify": "https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n",
-          "confidence": 1.0,
-          "matched": "Hamilton Leithauser + Rostam",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Emma Ogier",
-          "apple_music": "https://music.apple.com/us/artist/emma-ogier/1571801234",
-          "spotify": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm",
-          "confidence": 1.0,
-          "matched": "Emma Ogier",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/hamilton-leithauser-rostam-the-joint-tour-san-francisco-california-11-18-2026/event/1C00652C13A2FD7F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/hamilton-leithauser-and-rostam-261118",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "The Joint Tour",
-      "description": "At the time I Had a Dream That You Were Mine was first released, the Hamilton Leithauser and Rostam were best known for their work in two of the most influential rock bands of the era: Hamilton as lead singer in The Walkmen and Rostam as the co-songwriter and producer behind Vampire Weekend. The inspired collaboration was born of friendship, and mutual admiration, but grew into a synergistic creative partnership that birthed a timeless album of beautifully evocative songs. I Had a Dream That You Were Mine is a delightfully immersive album, built around Rostam’s meticulous, expansive production and Hamilton’s distinctive, wild vocal range. Unlike anything either artist had done before, the album’s stylistic flourishes include doo-wop, country-rock, baroque pop, folk, and spellbinding torch songs. Together, the lauded musicians found a unique flair for the dramatic which made their handful of live performances a thrilling experience; ten years on, these rare live shows are not to be missed!"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -906,6 +864,37 @@
     },
     {
       "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "George Michael",
+          "apple_music": "https://music.apple.com/us/artist/george-michael/894337",
+          "spotify": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo",
+          "confidence": 1.0,
+          "matched": "George Michael",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Faith Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-17",
+      "doors": "5:30 pm",
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/george-michael-the-the-castro-theatre-tickets/14445624?theme=APESCASTRO&REFID=clientsitewp?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thecastro.com/events/george-michael-the-faith-tour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -975,6 +964,37 @@
       "room": null,
       "age_rating": null,
       "note": "IN THE MOUNTAIN IN THE CLOUD - 15 Year Anniversary",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Fleetmac Wood",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.24,
+          "matched": null,
+          "apple_label": "no confident match (closest: Stevie Nicks @ 24%)",
+          "spotify_label": "no confident match (closest: Fleetwood Mac @ 69%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/fleetmac-wood-san-francisco-california-02-05-2027/event/1C00656F34384C77?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/fleetmac-wood-270205",
+      "room": null,
+      "age_rating": null,
+      "note": "Rumours Rave: 50 Years of Rotation",
       "description": null
     },
     {
@@ -1074,11 +1094,11 @@
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketmaster.com/andrea-gibsons-love-letter-from-the-san-francisco-california-02-10-2027/event/1C006565FAFD74BE?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://thecastro.com/events/andrea-gibson-270210",
       "room": null,
       "age_rating": null,
-      "note": "Second Show Added by Popular Demand!",
+      "note": "2nd Show Added by Popular Demand!",
       "description": null
     },
     {
@@ -1164,6 +1184,37 @@
       "age_rating": "all ages",
       "note": null,
       "description": "Richard Thompson’s musical influence cannot be overstated. Having co-founded the groundbreaking group Fairport Convention as a teenager in the ‘60s, he and his bandmates invented the distinctive strain of British Folk Rock. He left the group by the age of21 which was followed by a decade long musical partnership with his then-wife Linda, to over 30 years as a highly successful solo artist. In 2011, Thompson received an OBE (Order of the British Empire) personally bestowed upon him by Queen Elizabeth II at Buckingham Palace. The Los Angeles Times called him “the finest rock songwriter after Dylan and the best electric guitarist since Hendrix” and Rolling Stone has named him one of the Top 100 Guitarists of All Time. He has received lifetime achievement awards for songwriting from the BBC Radio 2 Awards, the Americana Music Association, and was awarded the prestigious Ivor Novello Award. His song “1952 Vincent Black Lightning” was named one of TIME Magazine’s “100 Greatest Songs Since 1923.”A wide range of musicians have recorded Thompson’s songs including Robert Plant, Elvis Costello, R.E.M., Sleater-Kinney, Del McCoury, Bonnie Raitt, Tom Jones, David Byrne, Don Henley, Los Lobos, a"
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Nu Genea",
+          "apple_music": "https://music.apple.com/us/artist/nu-genea/997053217",
+          "spotify": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ",
+          "confidence": 1.0,
+          "matched": "Nu Genea",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/nu-genea-san-francisco-california-02-18-2027/event/1C00656F2DB4437E?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": null,
+      "event_page": "https://thecastro.com/events/nu-genea-270218",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     },
     {
       "event_type": "music",
@@ -1865,26 +1916,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 53,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
+      "unique_artists": 67,
       "found": 61,
       "exact": 55,
       "close": 2,
       "flagged": 4,
-      "not_found": 5
+      "not_found": 6
     },
     "spotify": {
-      "unique_artists": 66,
+      "unique_artists": 67,
       "linked": 60,
-      "venue": 47,
-      "api": 13,
+      "venue": 48,
+      "api": 12,
       "feed": 0,
-      "shows_with_link": 47
+      "shows_with_link": 48
     }
   }
 }

@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
+  "scraped_at": "2026-11-19",
   "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Christian Death",
-          "apple_music": "https://music.apple.com/us/artist/christian-death/6550137",
-          "spotify": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD",
-          "confidence": 1.0,
-          "matched": "Christian Death",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Black Season Witch",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Season of the Witch @ 70%)",
-          "spotify_label": "no confident match (closest: Halloween Witches @ 51%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Altar Girl",
-          "apple_music": "https://music.apple.com/us/artist/altar-girl/1814161526",
-          "spotify": "https://open.spotify.com/artist/75VuX6V05VahfufvZqGzUS",
-          "confidence": 1.0,
-          "matched": "Altar Girl",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/christian-death-18-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -829,6 +777,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Boydream",
+          "apple_music": "https://music.apple.com/us/artist/boydream/1598696559",
+          "spotify": "https://open.spotify.com/artist/1di04o6FOVSnNQmuWA1iSE",
+          "confidence": 1.0,
+          "matched": "BOYDREAM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-26",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/boydream-26-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Veriteras",
           "apple_music": "https://music.apple.com/us/artist/veriteras/1613200256",
           "spotify": "https://open.spotify.com/artist/47Jmgane5nxarmytXkeMo3",
@@ -1238,18 +1217,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 65,
-      "found": 52,
-      "exact": 48,
+      "unique_artists": 63,
+      "found": 51,
+      "exact": 47,
       "close": 1,
       "flagged": 3,
-      "not_found": 13
+      "not_found": 12
     },
     "spotify": {
-      "unique_artists": 65,
-      "linked": 50,
+      "unique_artists": 63,
+      "linked": 49,
       "venue": 0,
-      "api": 50,
+      "api": 49,
       "feed": 0,
       "shows_with_link": 19
     }

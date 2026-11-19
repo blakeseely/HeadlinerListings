@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 32,
+  "scraped_at": "2026-11-19",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ninajirachi",
-          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
-          "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
-          "confidence": 1.0,
-          "matched": "Ninajirachi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "MGNA Crrrta",
-          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
-          "spotify": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye",
-          "confidence": 1.0,
-          "matched": "MGNA Crrrta",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "I Love My Computer And It Loves Me Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546874871",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1629413",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -412,50 +368,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Amtrac",
-          "apple_music": "https://music.apple.com/us/artist/amtrac/384096444",
-          "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J",
-          "confidence": 1.0,
-          "matched": "Amtrac",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Special Guest Seb Wildblood",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Seb Wildblood @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Dream Live Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546685009",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1566122",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Devault",
           "apple_music": "https://music.apple.com/us/artist/devault/1068294292",
           "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL",
@@ -699,6 +611,39 @@
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547048423",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1695046",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dumb Nathan Fielder Rave",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Nathaniel Rateliff @ 62%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice & cool is dead"
+      ],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547073685",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1705151",
       "room": null,
       "age_rating": "18 & Over",
       "note": null,
@@ -1374,26 +1319,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 54,
-      "exact": 53,
+      "unique_artists": 55,
+      "found": 53,
+      "exact": 52,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 54,
+      "unique_artists": 55,
+      "linked": 53,
       "venue": 0,
-      "api": 51,
+      "api": 50,
       "feed": 3,
-      "shows_with_link": 31
+      "shows_with_link": 29
     }
   }
 }

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 57,
+  "scraped_at": "2026-11-19",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "WHITMER THOMAS",
-          "apple_music": "https://music.apple.com/us/artist/whitmer-thomas/1491347092",
-          "spotify": "https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1",
-          "confidence": 1.0,
-          "matched": "Whitmer Thomas",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "+with comedy from CLAY TATUM",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Dry Bar Comedy @ 33%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/41356454",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2206,26 +2164,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 54,
+      "music": 53,
       "comedy": 3,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 93,
-      "found": 73,
-      "exact": 68,
+      "unique_artists": 91,
+      "found": 72,
+      "exact": 67,
       "close": 2,
       "flagged": 3,
-      "not_found": 20
+      "not_found": 19
     },
     "spotify": {
-      "unique_artists": 93,
-      "linked": 75,
+      "unique_artists": 91,
+      "linked": 74,
       "venue": 0,
-      "api": 75,
+      "api": 74,
       "feed": 0,
-      "shows_with_link": 46
+      "shows_with_link": 45
     }
   }
 }

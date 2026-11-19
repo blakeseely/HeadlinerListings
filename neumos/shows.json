@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
+  "scraped_at": "2026-11-19",
   "count": 63,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Clarion",
-          "apple_music": "https://music.apple.com/us/artist/clarion/1751863984",
-          "spotify": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW",
-          "confidence": 1.0,
-          "matched": "Clarion",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Novulent",
-          "apple_music": "https://music.apple.com/us/artist/novulent/1617476529",
-          "spotify": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0",
-          "confidence": 1.0,
-          "matched": "Novulent",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1521572/clarion-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/clarion-tickets-1521572",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -984,10 +942,10 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Reposado",
+          "name": "R E P O S A D O",
           "apple_music": "https://music.apple.com/us/artist/r-e-p-o-s-a-d-o/1742277631",
           "spotify": "https://open.spotify.com/artist/1cNJaZ3RrY5ZyoCP8RKVeM",
-          "confidence": 0.95,
+          "confidence": 1.0,
           "matched": "R E P O S A D O",
           "apple_label": null,
           "spotify_label": null,
@@ -1023,9 +981,9 @@
       "date": "2027-01-07",
       "doors": "7:00 pm",
       "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1708186/reposado-tickets?skin=neumos",
+      "ticket_link": "https://www.axs.com/events/1708186/r-e-p-o-s-a-d-o-tickets?skin=neumos",
       "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/reposado-tickets-1708186",
+      "event_page": "https://www.neumos.com/events/detail/r-e-p-o-s-a-d-o-tickets-1708186",
       "room": null,
       "age_rating": "21 & Over",
       "note": null,
@@ -1816,8 +1774,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "lighthearted",
+          "apple_music": "https://music.apple.com/us/artist/lighthearted/1500298176",
+          "spotify": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf",
+          "confidence": 1.0,
+          "matched": "lighthearted",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1933,6 +1902,37 @@
       "event_page": "https://www.neumos.com/events/detail/susannah-joffe-tickets-1676086",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Butcher Brown",
+          "apple_music": "https://music.apple.com/us/artist/butcher-brown/570681436",
+          "spotify": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP",
+          "confidence": 1.0,
+          "matched": "Butcher Brown",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-31",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1698282/butcher-brown-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/butcher-brown-tickets-1698282",
+      "room": null,
+      "age_rating": "21 & Over",
       "note": null,
       "description": null
     },
@@ -2279,7 +2279,7 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-04-30",
-      "doors": "8:00 pm",
+      "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1694867/snotty-nose-rez-kids-tickets?skin=neumos",
       "ticket_status": "coming soon",
@@ -2559,8 +2559,8 @@
     "apple_music": {
       "unique_artists": 110,
       "found": 99,
-      "exact": 91,
-      "close": 3,
+      "exact": 92,
+      "close": 2,
       "flagged": 5,
       "not_found": 11
     },

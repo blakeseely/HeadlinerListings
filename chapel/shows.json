@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
+  "scraped_at": "2026-11-19",
   "count": 40,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "John Carroll Kirby",
-          "apple_music": "https://music.apple.com/us/artist/john-carroll-kirby/1213407268",
-          "spotify": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld",
-          "confidence": 1.0,
-          "matched": "John Carroll Kirby",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Danny Paul Grody Duo",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Danny Paul Grody",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -428,6 +386,48 @@
       "ticket_link": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fred Barchetta (Rush Tribute)",
+          "apple_music": "https://music.apple.com/us/artist/red-barchetta/195038639",
+          "spotify": null,
+          "confidence": 0.963,
+          "matched": "Red Barchetta",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Fred Durst @ 58%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Dream Off (Aerosmith Tribute)",
+          "apple_music": "https://music.apple.com/us/artist/dreamoff/1732315395",
+          "spotify": null,
+          "confidence": 0.941,
+          "matched": "DreamOff",
+          "apple_label": "close match: DreamOff",
+          "spotify_label": "no confident match (closest: Dream Fuzz @ 74%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/fred-barchetta-rush-tribute/711661?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/fred-barchetta-rush-tribute/711661?afflky=TheChapel",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1061,7 +1061,7 @@
       "doors": "7:30 pm",
       "show_time": "8:30 pm",
       "ticket_link": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
       "room": null,
       "age_rating": null,
@@ -1134,7 +1134,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
       "room": null,
       "age_rating": null,
@@ -1446,7 +1446,7 @@
       "doors": "6:30 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
       "room": null,
       "age_rating": null,
@@ -1691,19 +1691,19 @@
     },
     "apple_music": {
       "unique_artists": 71,
-      "found": 54,
-      "exact": 47,
-      "close": 3,
-      "flagged": 4,
-      "not_found": 17
+      "found": 55,
+      "exact": 46,
+      "close": 4,
+      "flagged": 5,
+      "not_found": 16
     },
     "spotify": {
       "unique_artists": 71,
-      "linked": 54,
+      "linked": 52,
       "venue": 0,
-      "api": 54,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 36
+      "shows_with_link": 35
     }
   }
 }

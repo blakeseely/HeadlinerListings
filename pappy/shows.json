@@ -36,66 +36,22 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-17",
-  "count": 53,
+  "scraped_at": "2026-11-19",
+  "count": 57,
   "shows": [
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Mark William Lewis",
-          "apple_music": "https://music.apple.com/us/artist/mark-william-lewis/1547525149",
-          "spotify": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k",
-          "confidence": 1.0,
-          "matched": "mark william lewis",
+          "name": "DRUGS Record Release Party",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "claire rousay",
-          "apple_music": "https://music.apple.com/us/artist/claire-rousay/1467815164",
-          "spotify": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq",
-          "confidence": 1.0,
-          "matched": "claire rousay",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/mark-william-lewis/699711",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/mark-william-lewis/699711",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DRUGS",
-          "apple_music": "https://music.apple.com/us/artist/drugs/1820114653",
-          "spotify": "https://open.spotify.com/artist/0AJsdNR18Y0nX0BeYDB1SJ",
-          "confidence": 1.0,
-          "matched": "DRUGS",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Drug Store Romeos @ 46%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -119,9 +75,9 @@
       "date": "2026-11-19",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/anddrugs-record-release/707127",
+      "ticket_link": "https://www.ticketweb.com/event/drugs-record-release-party-pappy-harriets-tickets/14438884?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/anddrugs-record-release/707127",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -140,9 +96,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Kelly Willis",
           "apple_music": "https://music.apple.com/us/artist/kelly-willis/70312",
@@ -154,6 +108,7 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -163,9 +118,9 @@
       "date": "2026-11-20",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/son-volt/689783",
+      "ticket_link": "https://www.ticketweb.com/event/son-volt-kelly-willis-pappy-harriets-tickets/14438944?theme=PappyandHarriets",
       "ticket_status": "sold out",
-      "event_page": "https://wl.seetickets.us/event/son-volt/689783",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -196,9 +151,9 @@
       "date": "2026-11-21",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jerrys-middle-finger-night-1/700333",
+      "ticket_link": "https://www.ticketweb.com/event/jerrys-middle-finger-night-1-pappy-harriets-tickets/14438954?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/jerrys-middle-finger-night-1/700333",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -229,9 +184,9 @@
       "date": "2026-11-22",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jerrys-middle-finger-night-2/700335",
+      "ticket_link": "https://www.ticketweb.com/event/jerrys-middle-finger-night-2-pappy-harriets-tickets/14438964?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/jerrys-middle-finger-night-2/700335",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -250,9 +205,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Dove",
           "apple_music": "https://music.apple.com/us/artist/dove/1442032103",
@@ -264,6 +217,7 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -273,9 +227,9 @@
       "date": "2026-11-29",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-james-hunter-six/705147",
+      "ticket_link": "https://www.ticketweb.com/event/the-james-hunter-six-dove-pappy-harriets-tickets/14438974?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-james-hunter-six/705147",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -286,14 +240,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Mexican Slum Rats",
-          "apple_music": "https://music.apple.com/us/artist/mexican-slum-rats/1232892973",
-          "spotify": "https://open.spotify.com/artist/4rjlpKrZkDXXh3nAhF41tn",
-          "confidence": 1.0,
-          "matched": "Mexican Slum Rats",
+          "name": "Mexican Slum Rats The High Curbs",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Mexican Slum Rats @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -317,9 +271,9 @@
       "date": "2026-12-03",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/mexican-slum-rats/706905",
+      "ticket_link": "https://www.ticketweb.com/event/mexican-slum-rats-the-high-pappy-harriets-tickets/14439044?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/mexican-slum-rats/706905",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -350,9 +304,9 @@
       "date": "2026-12-04",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/kenny-feidler/698452",
+      "ticket_link": "https://www.ticketweb.com/event/kenny-feidler-pappy-harriets-tickets/14439074?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/kenny-feidler/698452",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -371,9 +325,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "DJ Lee Joseph",
           "apple_music": null,
@@ -385,6 +337,7 @@
           "spotify_source": null
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -394,9 +347,9 @@
       "date": "2026-12-05",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/dengue-fever/692387",
+      "ticket_link": "https://www.ticketweb.com/event/dengue-fever-dj-lee-joseph-pappy-harriets-tickets/14439084?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/dengue-fever/692387",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -427,9 +380,9 @@
       "date": "2026-12-06",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/ozomatli/706438",
+      "ticket_link": "https://www.ticketweb.com/event/ozomatli-pappy-harriets-tickets/14439094?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/ozomatli/706438",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -454,15 +407,15 @@
       "multi_artist": false,
       "show_title": null,
       "presenters": [
-        "(((folkYEAH!))) // Brooklyn Vegan Presents:"
+        "(((folkYEAH!))) and Brooklyn Vegan Present:"
       ],
       "set_format": null,
       "date": "2026-12-10",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/swervedriver/691256",
+      "ticket_link": "https://www.ticketweb.com/event/swervedriver-pappy-harriets-tickets/14439124?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/swervedriver/691256",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -483,19 +436,8 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [
-        {
-          "name": "Kisser",
-          "apple_music": "https://music.apple.com/us/artist/kisser/308589160",
-          "spotify": "https://open.spotify.com/artist/7oSTBGTdRpwnvPLEOFB9bQ",
-          "confidence": 1.0,
-          "matched": "Kisser",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -504,9 +446,9 @@
       "date": "2026-12-11",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/buck-meek/682092",
+      "ticket_link": "https://www.ticketweb.com/event/buck-meek-pappy-harriets-tickets/14439134?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/buck-meek/682092",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -514,7 +456,7 @@
     },
     {
       "event_type": "music",
-      "needs_review": true,
+      "needs_review": false,
       "headline_artists": [
         {
           "name": "Labiahead",
@@ -525,51 +467,21 @@
           "apple_label": null,
           "spotify_label": "no confident match (closest: Haiden Henderson @ 40%)",
           "spotify_source": null
-        },
-        {
-          "name": "Lena Hall",
-          "apple_music": "https://music.apple.com/us/artist/lena-hall/386034950",
-          "spotify": "https://open.spotify.com/artist/2zEGZaYnEVjERT8iFHfArc",
-          "confidence": 1.0,
-          "matched": "Lena Hall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Charlene Kaye",
-          "apple_music": "https://music.apple.com/us/artist/charlene-kaye/163929428",
-          "spotify": "https://open.spotify.com/artist/51ikgEUUG2IpSLu4VNb4ni",
-          "confidence": 1.0,
-          "matched": "Charlene Kaye",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Meg Toohey",
-          "apple_music": "https://music.apple.com/us/artist/meg-toohey/1489534182",
-          "spotify": "https://open.spotify.com/artist/3X1QcSoryJKq7DQQ9yOf3n",
-          "confidence": 1.0,
-          "matched": "Meg Toohey",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": true,
+      "multi_artist": false,
       "show_title": null,
       "presenters": [
-        "LPR Presents:"
+        "LPR and Pappy & Harriet's Present:"
       ],
       "set_format": null,
       "date": "2026-12-12",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/labiahead/705232",
+      "ticket_link": "https://www.ticketweb.com/event/labiahead-pappy-harriets-tickets/14439144?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/labiahead/705232",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -588,9 +500,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Space In Sound",
           "apple_music": "https://music.apple.com/us/artist/space-in-sound/1844222048",
@@ -602,7 +512,7 @@
           "spotify_source": null
         },
         {
-          "name": "June and The Tax Evaders",
+          "name": "June and the Tax Evaders",
           "apple_music": "https://music.apple.com/us/artist/june-the-tax-evaders/6785299987",
           "spotify": null,
           "confidence": 0.9,
@@ -612,6 +522,7 @@
           "spotify_source": null
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -621,9 +532,9 @@
       "date": "2026-12-13",
       "doors": "8:00 pm",
       "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/lazuli-bones-space-in-sound-june-and-the-tax-evaders/708121",
+      "ticket_link": "https://www.ticketweb.com/event/lazuli-bones-space-in-sound-pappy-harriets-tickets/14439404?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/lazuli-bones-space-in-sound-june-and-the-tax-evaders/708121",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -642,9 +553,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Bad Cop Bad Cop",
           "apple_music": "https://music.apple.com/us/artist/bad-cop-bad-cop/335899358",
@@ -656,6 +565,7 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -665,9 +575,9 @@
       "date": "2026-12-16",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-vandals/707129",
+      "ticket_link": "https://www.ticketweb.com/event/the-vandals-bad-cop-bad-pappy-harriets-tickets/14439424?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-vandals/707129",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -698,9 +608,9 @@
       "date": "2026-12-17",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/drugdealer/709123",
+      "ticket_link": "https://www.ticketweb.com/event/drugdealer-pappy-harriets-tickets/14441934?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/drugdealer/709123",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -708,7 +618,7 @@
     },
     {
       "event_type": "music",
-      "needs_review": false,
+      "needs_review": true,
       "headline_artists": [
         {
           "name": "Mini Trees",
@@ -721,7 +631,7 @@
           "spotify_source": "api"
         },
         {
-          "name": "illuminati hotties",
+          "name": "Illuminati Hotties",
           "apple_music": "https://music.apple.com/us/artist/illuminati-hotties/1264905232",
           "spotify": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O",
           "confidence": 1.0,
@@ -739,20 +649,19 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
-          "name": "Charlie Havenick",
+          "name": "Charlie Havenich",
           "apple_music": "https://music.apple.com/us/artist/charlie-havenick/1531423885",
           "spotify": "https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi",
-          "confidence": 1.0,
+          "confidence": 0.938,
           "matched": "Charlie Havenick",
-          "apple_label": null,
-          "spotify_label": null,
+          "apple_label": "close match: Charlie Havenick",
+          "spotify_label": "close match: Charlie Havenick",
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -762,9 +671,9 @@
       "date": "2026-12-18",
       "doors": "8:00 pm",
       "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/mini-trees-illuminati-hotties-baths/703590",
+      "ticket_link": "https://www.ticketweb.com/event/mini-trees-illuminati-hotties-baths-pappy-harriets-tickets/14441964?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/mini-trees-illuminati-hotties-baths/703590",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -783,9 +692,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Amelia Day",
           "apple_music": "https://music.apple.com/us/artist/amelia-day/1552349264",
@@ -797,6 +704,7 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -806,9 +714,9 @@
       "date": "2026-12-19",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/willi-carlisle-the-universal-bubba-tour/698365",
+      "ticket_link": "https://www.ticketweb.com/event/willi-carlisle-amelia-day-pappy-harriets-tickets/14441974?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/willi-carlisle-the-universal-bubba-tour/698365",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -819,26 +727,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Karma Dealers",
-          "apple_music": "https://music.apple.com/us/artist/karma-dealers/1023459477",
-          "spotify": "https://open.spotify.com/artist/0YOR1hHvu6GuWoAGm3Gxs1",
-          "confidence": 1.0,
-          "matched": "Karma Dealers",
+          "name": "Karma Dealers The Sibleys",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Sibleys",
-          "apple_music": "https://music.apple.com/us/artist/the-sibleys/210184159",
-          "spotify": "https://open.spotify.com/artist/1GGvD2xbk4MCxhLmuxngJ3",
-          "confidence": 1.0,
-          "matched": "The Sibleys",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Tommy James & The Shondells @ 42%)",
+          "spotify_source": null
         },
         {
           "name": "Stone Levitation",
@@ -851,6 +747,18 @@
           "spotify_source": null
         }
       ],
+      "support_artists": [
+        {
+          "name": "The Sibleys",
+          "apple_music": "https://music.apple.com/us/artist/the-sibleys/210184159",
+          "spotify": "https://open.spotify.com/artist/1GGvD2xbk4MCxhLmuxngJ3",
+          "confidence": 1.0,
+          "matched": "The Sibleys",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -860,9 +768,9 @@
       "date": "2026-12-20",
       "doors": "8:00 pm",
       "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/karma-dealers/708131",
+      "ticket_link": "https://www.ticketweb.com/event/karma-dealers-the-sibleys-stone-pappy-harriets-tickets/14442004?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/karma-dealers/708131",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -881,9 +789,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Abby Posner",
           "apple_music": "https://music.apple.com/us/artist/abby-posner/413930233",
@@ -895,6 +801,7 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -902,11 +809,11 @@
       ],
       "set_format": null,
       "date": "2026-12-27",
-      "doors": "8:00 pm",
+      "doors": "8:00 am",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/dustbowl-revival/706202",
+      "ticket_link": "https://www.ticketweb.com/event/dustbowl-revival-abby-posner-pappy-harriets-tickets/14442024?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/dustbowl-revival/706202",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -917,17 +824,15 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Black Crystal Wolf Kids",
+          "name": "NYE – Black Crystal Wolf Kids",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Broken Neon Kids @ 46%)",
+          "spotify_label": "no confident match (closest: The Black Crusade Echo @ 55%)",
           "spotify_source": null
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Well Well Well",
           "apple_music": "https://music.apple.com/us/artist/well-well-well/1609100265",
@@ -939,6 +844,18 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [
+        {
+          "name": "Black Crystal Wolf Kids",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Broken Neon Kids @ 46%)",
+          "spotify_source": null
+        }
+      ],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -948,9 +865,9 @@
       "date": "2026-12-31",
       "doors": "9:00 pm",
       "show_time": "10:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/nye-black-crystal-wolf-kids-well-well-well/707695",
+      "ticket_link": "https://www.ticketweb.com/event/nye-black-crystal-pappy-harriets-tickets/14442044?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/nye-black-crystal-wolf-kids-well-well-well/707695",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -961,18 +878,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Big Sandy and His Fly-Rite Boys",
+          "name": "Big Sandy & His Fly-Rite Boys",
           "apple_music": "https://music.apple.com/us/artist/big-sandy-his-fly-rite-boys/64805172",
-          "spotify": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp",
-          "confidence": 0.9,
+          "spotify": "https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv",
+          "confidence": 1.0,
           "matched": "Big Sandy & His Fly-Rite Boys",
-          "apple_label": "close match: Big Sandy & His Fly-Rite Boys",
+          "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -981,9 +898,9 @@
       "date": "2027-01-01",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/big-sandy-and-his-fly-rite-boys/709460",
+      "ticket_link": "https://www.ticketweb.com/event/big-sandy-his-fly-pappy-harriets-tickets/14442064?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/big-sandy-and-his-fly-rite-boys/709460",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1002,11 +919,9 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
-          "name": "Jesika von Rabbit",
+          "name": "Jesika Von Rabbit",
           "apple_music": "https://music.apple.com/us/artist/jesika-von-rabbit/987976004",
           "spotify": "https://open.spotify.com/artist/228m37gn65MbaI86rMIEfM",
           "confidence": 1.0,
@@ -1016,6 +931,7 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -1024,10 +940,10 @@
       "set_format": null,
       "date": "2027-01-02",
       "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/missing-persons/705772",
+      "show_time": "9:30 am",
+      "ticket_link": "https://www.ticketweb.com/event/missing-persons-jesika-von-rabbit-pappy-harriets-tickets/14442074?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/missing-persons/705772",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1046,9 +962,7 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
+        },
         {
           "name": "Tchotchke",
           "apple_music": "https://music.apple.com/us/artist/tchotchke/1597904288",
@@ -1060,18 +974,19 @@
           "spotify_source": "api"
         }
       ],
+      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
-        "(((folkYEAH!)) Presents:"
+        "(((folkYEAH!))) Presents:"
       ],
       "set_format": null,
       "date": "2027-01-03",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-lemon-twigs/708923",
+      "ticket_link": "https://www.ticketweb.com/event/the-lemon-twigs-tchotchke-pappy-harriets-tickets/14442114?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-lemon-twigs/708923",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1102,9 +1017,9 @@
       "date": "2027-01-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/swirlies/706443",
+      "ticket_link": "https://www.ticketweb.com/event/swirlies-pappy-harriets-tickets/14442174?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/swirlies/706443",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1135,9 +1050,9 @@
       "date": "2027-01-08",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/black-flag/706249",
+      "ticket_link": "https://www.ticketweb.com/event/black-flag-pappy-harriets-tickets/14442184?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/black-flag/706249",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1148,7 +1063,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Leroy from the North",
+          "name": "Leroy From The North",
           "apple_music": "https://music.apple.com/us/artist/leroy-from-the-north/1202874240",
           "spotify": "https://open.spotify.com/artist/44MlC408LJEgMgNHXSR348",
           "confidence": 1.0,
@@ -1156,10 +1071,20 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Brad Byrd",
+          "apple_music": "https://music.apple.com/us/artist/brad-byrd/1304439978",
+          "spotify": "https://open.spotify.com/artist/1M1CtiM4p3lLkMzDvBhK1w",
+          "confidence": 1.0,
+          "matched": "Brad Byrd",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -1167,10 +1092,10 @@
       "set_format": null,
       "date": "2027-01-09",
       "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/leroy-from-the-north/709579",
+      "show_time": "9:30 am",
+      "ticket_link": "https://www.ticketweb.com/event/leroy-from-the-north-pappy-harriets-tickets/14442214?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/leroy-from-the-north/709579",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1181,20 +1106,30 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Tom Freund & Friends",
-          "apple_music": "https://music.apple.com/us/artist/tom-freund-and-friends/266941506",
-          "spotify": "https://open.spotify.com/artist/0wPhCPiSpVMQA76EDBmgAJ",
-          "confidence": 0.9,
-          "matched": "Tom Freund and Friends",
-          "apple_label": "close match: Tom Freund and Friends",
-          "spotify_label": "close match: Tom Freund and Friends",
-          "spotify_source": "api"
+          "name": "Guitars & Desert Stars II – Local Night!",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Desert Dwellers @ 33%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
         {
-          "name": "Lisa Rae & The Black Sugar Band",
-          "apple_music": "https://music.apple.com/us/artist/lisa-rae/969341960",
+          "name": "Tom Freund",
+          "apple_music": "https://music.apple.com/us/artist/tom-freund/5405222",
+          "spotify": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT",
+          "confidence": 1.0,
+          "matched": "Tom Freund",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Lisa Rae & Black Sugar Band",
+          "apple_music": "https://itunes.apple.com/us/artist/lisa-rae/969341960",
           "spotify": "https://open.spotify.com/artist/1jq3532M9NeuzPJeeSb75O",
           "confidence": 0.95,
           "matched": "Lisa Rae",
@@ -1216,15 +1151,15 @@
       "multi_artist": true,
       "show_title": null,
       "presenters": [
-        "jtcitylimits.presents:"
+        "Pappy & Harriet's Presents:"
       ],
       "set_format": null,
       "date": "2027-01-14",
-      "doors": "8:00 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/guitars-and-desert-stars-ii-local-night/709466",
+      "doors": "8:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/guitars-desert-stars-ii-pappy-harriets-tickets/14442274?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/guitars-and-desert-stars-ii-local-night/709466",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1245,19 +1180,8 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [
-        {
-          "name": "DJ Lee Joseph",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.632,
-          "matched": null,
-          "apple_label": "no confident match (closest: JOSEPH @ 63%)",
-          "spotify_label": "no confident match (closest: DJ TONYA LEE @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
@@ -1266,9 +1190,42 @@
       "date": "2027-01-16",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/an-evening-with-the-english-beat/709236",
+      "ticket_link": "https://www.ticketweb.com/event/an-evening-with-the-english-pappy-harriets-tickets/14442284?theme=PappyandHarriets",
       "ticket_status": "sold out",
-      "event_page": "https://wl.seetickets.us/event/an-evening-with-the-english-beat/709236",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tommy Castro & The Painkillers",
+          "apple_music": "https://music.apple.com/us/artist/tommy-castro/3828268",
+          "spotify": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165",
+          "confidence": 0.8,
+          "matched": "Tommy Castro",
+          "apple_label": null,
+          "spotify_label": "close match: Tommy Castro",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-01-21",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/tommy-castro-the-painkillers-pappy-harriets-tickets/14445784?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1299,9 +1256,9 @@
       "date": "2027-01-22",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-greyboy-allstars/706005",
+      "ticket_link": "https://www.ticketweb.com/event/the-greyboy-allstars-pappy-harriets-tickets/14442304?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-greyboy-allstars/706005",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1312,14 +1269,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Prescott Niles",
-          "apple_music": "https://music.apple.com/us/artist/prescott-niles/194050329",
-          "spotify": "https://open.spotify.com/artist/1ZK7Pkbw34gDmLXMKkjGc9",
-          "confidence": 1.0,
-          "matched": "Prescott Niles",
+          "name": "Prescott Niles’ The Knack",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Prescott Vale @ 58%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
@@ -1332,9 +1289,9 @@
       "date": "2027-01-23",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/prescott-niles-the-knack/710244",
+      "ticket_link": "https://www.ticketweb.com/event/prescott-niles-the-knack-pappy-harriets-tickets/14444774?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/prescott-niles-the-knack/710244",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1365,9 +1322,9 @@
       "date": "2027-01-24",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/may-erlewine/706446",
+      "ticket_link": "https://www.ticketweb.com/event/may-erlewine-pappy-harriets-tickets/14444824?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/may-erlewine/706446",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1378,21 +1335,11 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Fred Tackett",
-          "apple_music": "https://music.apple.com/us/artist/fred-tackett/5137434",
-          "spotify": "https://open.spotify.com/artist/707COSLYkM3HJxcD6UZ5yL",
+          "name": "Fred Tackett & Scott Sharrard",
+          "apple_music": "https://music.apple.com/us/artist/fred-tackett-scott-sharrard/6786390532",
+          "spotify": "https://open.spotify.com/artist/19NzPv29a8rhuUg5A1x3zL",
           "confidence": 1.0,
-          "matched": "Fred Tackett",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Scott Sharrard",
-          "apple_music": "https://music.apple.com/us/artist/scott-sharrard/72977187",
-          "spotify": "https://open.spotify.com/artist/2JW5WaMlB4TytZIggg8wts",
-          "confidence": 1.0,
-          "matched": "Scott Sharrard",
+          "matched": "Fred Tackett & Scott Sharrard",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1408,9 +1355,9 @@
       "date": "2027-01-28",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/fred-tackett-and-scott-sharrard-from-little-feat/703193",
+      "ticket_link": "https://www.ticketweb.com/event/fred-tackett-scott-sharrard-pappy-harriets-tickets/14444844?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/fred-tackett-and-scott-sharrard-from-little-feat/703193",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1429,21 +1376,41 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Abbie McAllister",
+          "apple_music": "https://music.apple.com/us/artist/abbie-mcallister/1870712660",
+          "spotify": "https://open.spotify.com/artist/4IUPZCdm6Z3SdbPE9fHnvq",
+          "confidence": 1.0,
+          "matched": "Abbie McAllister",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "AC Saphire",
+          "apple_music": "https://music.apple.com/us/artist/ac-sapphire/1491783021",
+          "spotify": null,
+          "confidence": 0.952,
+          "matched": "Ac Sapphire",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Saphir @ 75%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Pappy & Harriet's Presents:"
       ],
       "set_format": null,
       "date": "2027-01-29",
-      "doors": "8:30 pm",
+      "doors": "8:30 am",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/angela-autumn/706652",
+      "ticket_link": "https://www.ticketweb.com/event/angela-autumn-pappy-harriets-tickets/14444874?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/angela-autumn/706652",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1474,9 +1441,9 @@
       "date": "2027-01-30",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jackrabbit/708747",
+      "ticket_link": "https://www.ticketweb.com/event/jackrabbit-pappy-harriets-tickets/14444914?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/jackrabbit/708747",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1495,11 +1462,21 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Michael Wilbur",
+          "apple_music": "https://music.apple.com/us/artist/michael-wilbur/1300305454",
+          "spotify": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n",
+          "confidence": 1.0,
+          "matched": "Michael Wilbur",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [
         {
-          "name": "Michael Wilbur",
+          "name": "Michael Wilbur (of Moon Hooch)",
           "apple_music": "https://music.apple.com/us/artist/michael-wilbur/1300305454",
           "spotify": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n",
           "confidence": 1.0,
@@ -1518,9 +1495,9 @@
       "date": "2027-02-06",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/lotus/708037",
+      "ticket_link": "https://www.ticketweb.com/event/lotus-michael-wilbur-of-moon-pappy-harriets-tickets/14445004?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/lotus/708037",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1551,9 +1528,9 @@
       "date": "2027-02-10",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/charlie-starr/710719",
+      "ticket_link": "https://www.ticketweb.com/event/charlie-starr-of-blackberry-smoke-pappy-harriets-tickets/14445044?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/charlie-starr/710719",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1577,16 +1554,18 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-11",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/sons-of-cream/705769",
+      "ticket_link": "https://www.ticketweb.com/event/sons-of-cream-pappy-harriets-tickets/14445104?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/sons-of-cream/705769",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1595,29 +1574,41 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Jackie Evans and Marie Dresselhuis",
+          "name": "Jackie Evans",
           "apple_music": "https://music.apple.com/us/artist/jackie-evans/1770630661",
           "spotify": "https://open.spotify.com/artist/3hr95JCfCIlFRK9EmDFJ3R",
-          "confidence": 0.95,
+          "confidence": 1.0,
           "matched": "Jackie Evans",
-          "apple_label": "compound bill — links to Jackie Evans only",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Marie Dresselhuis",
+          "apple_music": "https://music.apple.com/us/artist/marie-dresselhuis/1710044428",
+          "spotify": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL",
+          "confidence": 1.0,
+          "matched": "Marie Dresselhuis",
+          "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-12",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/jackie-evans-and-marie-dresselhuis/710580",
+      "ticket_link": "https://www.ticketweb.com/event/jackie-evans-marie-dresselhuis-pappy-harriets-tickets/14445674?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/jackie-evans-and-marie-dresselhuis/710580",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1634,21 +1625,33 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Maggie Koerner",
+          "apple_music": "https://music.apple.com/us/artist/maggie-koerner/480831917",
+          "spotify": "https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe",
+          "confidence": 1.0,
+          "matched": "Maggie Koerner",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-16",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/fink/703356",
+      "ticket_link": "https://www.ticketweb.com/event/fink-maggie-koerner-pappy-harriets-tickets/14445134?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/fink/703356",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1665,21 +1668,43 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Angry Samoans",
+          "apple_music": "https://music.apple.com/us/artist/angry-samoans/151040728",
+          "spotify": "https://open.spotify.com/artist/2jDH1UoHRcgg4pwOvyEvD9",
+          "confidence": 1.0,
+          "matched": "Angry Samoans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Toxic Energy",
+          "apple_music": "https://music.apple.com/us/artist/toxic-energy/1268878828",
+          "spotify": "https://open.spotify.com/artist/5wE9DncLSIbr7nj7f8YgUL",
+          "confidence": 1.0,
+          "matched": "Toxic Energy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-19",
       "doors": "8:30 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-dickies/706653",
+      "ticket_link": "https://www.ticketweb.com/event/the-dickies-angry-samoans-toxic-pappy-harriets-tickets/14445144?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-dickies/706653",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1701,16 +1726,61 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-25",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/hot-8-brass-band/709484",
+      "ticket_link": "https://www.ticketweb.com/event/hot-8-brass-band-pappy-harriets-tickets/14445174?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/hot-8-brass-band/709484",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Trevor M. Keith",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Trever M Keith @ 70%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Lilly Hiatt",
+          "apple_music": "https://music.apple.com/us/artist/lilly-hiatt/562645998",
+          "spotify": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90",
+          "confidence": 1.0,
+          "matched": "Lilly Hiatt",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/trevor-m-keith-lilly-hiatt-pappy-harriets-tickets/14445734?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1732,16 +1802,18 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-02-28",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-brothers-comatose/710383",
+      "ticket_link": "https://www.ticketweb.com/event/the-brothers-comatose-pappy-harriets-tickets/14445644?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-brothers-comatose/710383",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1750,29 +1822,31 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Umphrey’s McGee",
-          "apple_music": "https://music.apple.com/us/artist/umphreys-mcgee/22134818",
-          "spotify": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o",
-          "confidence": 1.0,
-          "matched": "Umphrey's McGee",
+          "name": "Umphrey’s McGee – Fresh Cut 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Umphrey's McGee @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-03-02",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/umphreys-mcgee/707788",
+      "ticket_link": "https://www.ticketweb.com/event/umphreys-mcgee-fresh-pappy-harriets-tickets/14445214?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/umphreys-mcgee/707788",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1789,21 +1863,33 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Will Evans",
+          "apple_music": "https://music.apple.com/us/artist/will-evans/603262751",
+          "spotify": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8",
+          "confidence": 1.0,
+          "matched": "Will Evans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-03-05",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/moontricks/710359",
+      "ticket_link": "https://www.ticketweb.com/event/moontricks-will-evans-pappy-harriets-tickets/14445274?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/moontricks/710359",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1820,21 +1906,66 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Al Olender",
+          "apple_music": "https://music.apple.com/us/artist/al-olender/1525790764",
+          "spotify": "https://open.spotify.com/artist/4FuzaWSpOOERShvEnIcM0s",
+          "confidence": 1.0,
+          "matched": "Al Olender",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "8:30 pm",
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/tommy-lefroy-al-olender-pappy-harriets-tickets/14445294?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Wilder Blue",
+          "apple_music": "https://music.apple.com/us/artist/the-wilder-blue/1505504842",
+          "spotify": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD",
+          "confidence": 1.0,
+          "matched": "The Wilder Blue",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
-      "date": "2027-03-06",
-      "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/tommy-lefroy/707664",
+      "date": "2027-03-07",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-wilder-blue-pappy-harriets-tickets/14447504?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/tommy-lefroy/707664",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1851,21 +1982,33 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Salami Rose Joe Lewis",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Salami Rose Joe Louis @ 70%)",
+          "spotify_label": "no confident match (closest: Salami Rose Joe Louis @ 70%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-03-11",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/strongboi/692337",
+      "ticket_link": "https://www.ticketweb.com/event/strongboi-salami-rose-joe-lewis-pappy-harriets-tickets/14445304?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/strongboi/692337",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1874,11 +2017,128 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "apple_music": "https://music.apple.com/us/artist/durand-jones-the-indications/1054693860",
-          "spotify": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP",
+          "name": "High Desert Art Fair",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: High Desert Records @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "The Kills",
+          "apple_music": "https://music.apple.com/us/artist/the-kills/5543013",
+          "spotify": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr",
           "confidence": 1.0,
-          "matched": "Durand Jones & The Indications",
+          "matched": "The Kills",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The Velveteers",
+          "apple_music": "https://music.apple.com/us/artist/the-velveteers/1160478537",
+          "spotify": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq",
+          "confidence": 1.0,
+          "matched": "The Velveteers",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Escape Artist Lovers",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Escape from New York @ 55%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Poppy Jean Crawford",
+          "apple_music": "https://music.apple.com/us/artist/poppy-jean-crawford/1252791844",
+          "spotify": "https://open.spotify.com/artist/4kmE1cIX5AhDFxOLOY5HNM",
+          "confidence": 1.0,
+          "matched": "Poppy Jean Crawford",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-03-13",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/high-desert-art-fair-ft-pappy-harriets-tickets/14451914?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Durand Jones",
+          "apple_music": "https://music.apple.com/us/artist/durand-jones/954969959",
+          "spotify": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs",
+          "confidence": 1.0,
+          "matched": "Durand Jones",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-03-18",
+      "doors": "5:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/durand-jones-pappy-harriets-tickets/14445574?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Cursive",
+          "apple_music": "https://music.apple.com/us/artist/cursive/150633966",
+          "spotify": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3",
+          "confidence": 1.0,
+          "matched": "Cursive",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Smidley",
+          "apple_music": "https://music.apple.com/us/artist/smidley/1165519023",
+          "spotify": "https://open.spotify.com/artist/4VaBF2UB61CMQ45Xtp6vPc",
+          "confidence": 1.0,
+          "matched": "Smidley",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1887,16 +2147,18 @@
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
-      "date": "2027-03-18",
-      "doors": "5:30 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/durand-jones-and-the-indications/708433",
+      "date": "2027-03-20",
+      "doors": "8:00 am",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/cursive-smidley-pappy-harriets-tickets/14444264?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/durand-jones-and-the-indications/708433",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1913,21 +2175,33 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Sean Solomon",
+          "apple_music": "https://music.apple.com/us/artist/sean-solomon/45393110",
+          "spotify": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3",
+          "confidence": 1.0,
+          "matched": "Sean Solomon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-03-24",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/hudson-freeman/709475",
+      "ticket_link": "https://www.ticketweb.com/event/hudson-freeman-sean-solomon-pappy-harriets-tickets/14445584?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/hudson-freeman/709475",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1949,16 +2223,18 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-03-25",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/chasing-abbey/705143",
+      "ticket_link": "https://www.ticketweb.com/event/chasing-abbey-pappy-harriets-tickets/14445594?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/chasing-abbey/705143",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1980,16 +2256,18 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-04-17",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/earth-tongue/710417",
+      "ticket_link": "https://www.ticketweb.com/event/earth-tongue-pappy-harriets-tickets/14445694?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/earth-tongue/710417",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2011,16 +2289,18 @@
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-04-29",
       "doors": "5:00 pm",
       "show_time": "6:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/michael-shannon-and-jason-narducy-and-friends-play-rem/706432",
+      "ticket_link": "https://www.ticketweb.com/event/michael-shannon-and-jason-narducy-pappy-harriets-tickets/14445614?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/michael-shannon-and-jason-narducy-and-friends-play-rem/706432",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -2037,47 +2317,59 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Rosegarden Funeral Party",
+          "apple_music": "https://music.apple.com/us/artist/rosegarden-funeral-party/1266038140",
+          "spotify": "https://open.spotify.com/artist/30kQn8H0xfBtBGzDwnuaTx",
+          "confidence": 1.0,
+          "matched": "Rosegarden Funeral Party",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
       "set_format": null,
       "date": "2027-05-13",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/the-chameleons/708629",
+      "ticket_link": "https://www.ticketweb.com/event/the-chameleons-rosegarden-funeral-party-pappy-harriets-tickets/14428194?theme=PappyandHarriets",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/the-chameleons/708629",
+      "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 57,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 79,
-      "found": 74,
-      "exact": 69,
-      "close": 1,
-      "flagged": 4,
-      "not_found": 5
+      "unique_artists": 98,
+      "found": 82,
+      "exact": 77,
+      "close": 3,
+      "flagged": 2,
+      "not_found": 16
     },
     "spotify": {
-      "unique_artists": 79,
-      "linked": 71,
+      "unique_artists": 98,
+      "linked": 78,
       "venue": 0,
-      "api": 71,
+      "api": 78,
       "feed": 0,
-      "shows_with_link": 51
+      "shows_with_link": 52
     }
   }
 }

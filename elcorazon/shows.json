@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 34,
+  "scraped_at": "2026-11-19",
+  "count": 35,
   "shows": [
     {
       "event_type": "music",
@@ -1070,6 +1070,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Burton C. Bell and the Void",
+          "apple_music": "https://books.apple.com/us/artist/burton-c-bell/30626711",
+          "spotify": "https://open.spotify.com/artist/7cCJQDevmRKi7keixY1D3r",
+          "confidence": 0.8,
+          "matched": "Burton C. Bell",
+          "apple_label": "compound bill — links to Burton C. Bell only",
+          "spotify_label": "close match: Burton C. Bell",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "96 Bitter Beings",
+          "apple_music": "https://music.apple.com/us/artist/96-bitter-beings/1444860850",
+          "spotify": "https://open.spotify.com/artist/0QnzcdDAygAr8wb0BoSxcU",
+          "confidence": 1.0,
+          "matched": "96 Bitter Beings",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Witches Ride",
+          "apple_music": "https://music.apple.com/us/artist/witches-ride/1710580141",
+          "spotify": "https://open.spotify.com/artist/6MetgwRKnTvxn9ylqbBDbr",
+          "confidence": 1.0,
+          "matched": "Witches Ride",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/burton-c-bell-and-the-void-29-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Haunt Me",
           "apple_music": "https://music.apple.com/us/artist/haunt-me/1543844066",
           "spotify": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6",
@@ -1909,26 +1961,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 35,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 103,
-      "found": 91,
-      "exact": 90,
+      "unique_artists": 106,
+      "found": 94,
+      "exact": 92,
       "close": 0,
-      "flagged": 1,
+      "flagged": 2,
       "not_found": 12
     },
     "spotify": {
-      "unique_artists": 103,
-      "linked": 89,
+      "unique_artists": 106,
+      "linked": 92,
       "venue": 0,
-      "api": 89,
+      "api": 92,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 31
     }
   }
 }

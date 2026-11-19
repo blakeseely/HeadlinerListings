@@ -36,21 +36,21 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 21,
+  "scraped_at": "2026-11-19",
+  "count": 49,
   "shows": [
     {
       "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Sueco The Child",
-          "apple_music": "https://music.apple.com/us/artist/suecothechild/1438899012",
-          "spotify": "https://open.spotify.com/artist/2S1rqQUNnw70QtMpPBNyjb",
-          "confidence": 0.929,
-          "matched": "SuecoTheChild",
-          "apple_label": "close match: SuecoTheChild",
-          "spotify_label": null,
+          "name": "Jayski and the Dawn",
+          "apple_music": "https://music.apple.com/us/artist/jayski/1717460941",
+          "spotify": "https://open.spotify.com/artist/33wG9ktVFFvNP2e0r73TtL",
+          "confidence": 0.8,
+          "matched": "Jayski",
+          "apple_label": "compound bill — links to Jayski only",
+          "spotify_label": "close match: Jayski",
           "spotify_source": "api"
         }
       ],
@@ -59,16 +59,16 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.tenderloinmusichall.com/events/sueco-the-child-18-november-2026/",
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378232/buy-tickets",
       "ticket_status": "on sale",
-      "event_page": "https://www.tenderloinmusichall.com/events/sueco-the-child-18-november-2026/",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378232/buy-tickets",
       "room": null,
       "age_rating": null,
-      "note": "From $43",
-      "description": "Los Angeles native Sueco The Child and his LA sensation show comes to the legendary..."
+      "note": "From $65",
+      "description": "Jayski and the Dawn at Great American Music Hall on Friday 20th November 2026 in San Francisco..."
     },
     {
       "event_type": "music",
@@ -164,6 +164,37 @@
       "description": "Los Angeles, CA singer-songwriter Emma Ruth Rundle tours in Fall 2026 in support of her..."
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Zepparella - All Female Tribute To Led Zeppelin",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Led Zeppelin @ 70%)",
+          "spotify_label": "no confident match (closest: Led Zeppelin @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "All Female Tribute To Led Zeppelin",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378295/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378295/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $40",
+      "description": "Zepparella - All Female Tribute To Led Zeppelin at Great American Music Hall on Saturday 28th November 2026 in San Francisco..."
+    },
+    {
       "event_type": "other",
       "needs_review": false,
       "headline_artists": [
@@ -230,6 +261,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Strike",
+          "apple_music": "https://music.apple.com/us/artist/the-strike/632957415",
+          "spotify": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj",
+          "confidence": 1.0,
+          "matched": "The Strike",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378340/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378340/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $55",
+      "description": "The Strike at Great American Music Hall on Wednesday 9th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Matt Hansen",
           "apple_music": "https://music.apple.com/us/artist/matt-hansen/1442658353",
           "spotify": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ",
@@ -255,6 +317,37 @@
       "age_rating": null,
       "note": "From $44",
       "description": "Los Angeles based singer-songwriter and illustrious rising star Matt Hansen embarks on his global tour..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amigo the Devil",
+          "apple_music": "https://music.apple.com/us/artist/amigo-the-devil/398046580",
+          "spotify": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv",
+          "confidence": 1.0,
+          "matched": "Amigo the Devil",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-16",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378318/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378318/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $59",
+      "description": "Amigo the Devil at Great American Music Hall on Wednesday 16th December 2026 in San Francisco..."
     },
     {
       "event_type": "music",
@@ -292,6 +385,254 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Mother Hips Annual Holiday Show - 3 Day Pass",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Mother Hips @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "3 Day Pass",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378306/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378306/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "The Mother Hips Annual Holiday Show - 3 Day Pass at Great American Music Hall on Friday 18th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Mother Hips Annual Holiday Show",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Mother Hips @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378301/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378301/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $59",
+      "description": "The Mother Hips Annual Holiday Show at Great American Music Hall on Friday 18th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Mother Hips Annual Holiday Show",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Mother Hips @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378302/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378302/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $67",
+      "description": "The Mother Hips Annual Holiday Show at Great American Music Hall on Saturday 19th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Mother Hips Annual Holiday Show",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Mother Hips @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378304/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378304/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $188",
+      "description": "The Mother Hips Annual Holiday Show at Great American Music Hall on Sunday 20th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Oakland Interfaith Gospel Choir",
+          "apple_music": "https://music.apple.com/us/artist/oakland-interfaith-gospel-choir/322028264",
+          "spotify": "https://open.spotify.com/artist/1EEWQrdxmvIoDQ3gRnEjEB",
+          "confidence": 1.0,
+          "matched": "Oakland Interfaith Gospel Choir",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-24",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378321/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378321/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $38",
+      "description": "Oakland Interfaith Gospel Choir at Great American Music Hall on Thursday 24th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jerry's Middle Finger",
+          "apple_music": "https://music.apple.com/us/artist/jerrys-middle-finger/1743215808",
+          "spotify": "https://open.spotify.com/artist/2Sh3PmnY9d2kMExq2UHjtL",
+          "confidence": 1.0,
+          "matched": "Jerry's Middle Finger",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-26",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378316/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378316/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $61",
+      "description": "Jerry's Middle Finger at Great American Music Hall on Saturday 26th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Jerry's Middle Finger",
+          "apple_music": "https://music.apple.com/us/artist/jerrys-middle-finger/1743215808",
+          "spotify": "https://open.spotify.com/artist/2Sh3PmnY9d2kMExq2UHjtL",
+          "confidence": 1.0,
+          "matched": "Jerry's Middle Finger",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-27",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378317/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378317/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $54",
+      "description": "Jerry's Middle Finger at Great American Music Hall on Sunday 27th December 2026 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Mom Dance Party",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.444,
+          "matched": null,
+          "apple_label": "no confident match (closest: Chance the Rapper @ 44%)",
+          "spotify_label": "no confident match (closest: The Monkees @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-08",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378346/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378346/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $84",
+      "description": "The Mom Dance Party at Great American Music Hall on Friday 8th January 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Anna Von Hausswolff",
           "apple_music": "https://music.apple.com/us/artist/anna-von-hausswolff/351852229",
           "spotify": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6",
@@ -323,6 +664,161 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "LSD and the Search for God",
+          "apple_music": "https://music.apple.com/us/artist/lsd-and-the-search-for-god/1010848523",
+          "spotify": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv",
+          "confidence": 1.0,
+          "matched": "LSD and the Search for God",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378336/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378336/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $78",
+      "description": "LSD and the Search for God at Great American Music Hall on Thursday 14th January 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bowie Bash - 2 Day Pass",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Boldy James @ 41%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "2 Day Pass",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378334/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378334/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Bowie Bash - 2 Day Pass at Great American Music Hall on Friday 15th January 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bowie Bash",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Baby Bash @ 63%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-15",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378332/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378332/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $41",
+      "description": "Bowie Bash at Great American Music Hall on Friday 15th January 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Bowie Bash",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Baby Bash @ 63%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378333/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378333/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $51",
+      "description": "Bowie Bash at Great American Music Hall on Saturday 16th January 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "True Widow",
+          "apple_music": "https://music.apple.com/us/artist/true-widow/288059117",
+          "spotify": "https://open.spotify.com/artist/7fS59zKuYPKhYlTGdg2PyM",
+          "confidence": 1.0,
+          "matched": "True Widow",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-19",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378343/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378343/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $44",
+      "description": "True Widow at Great American Music Hall on Tuesday 19th January 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "AJJ",
           "apple_music": "https://music.apple.com/us/artist/ajj/265075519",
           "spotify": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl",
@@ -348,6 +844,68 @@
       "age_rating": null,
       "note": "From $56",
       "description": "Hold you horses, AJJ's \"Dirty Old Power Tour\" is set to make a stop over..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Edwardian Ball",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Edward Ross @ 56%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378356/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378356/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $192",
+      "description": "Edwardian Ball at Great American Music Hall on Friday 5th February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Edwardian Ball",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Edward Ross @ 56%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-06",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378357/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378357/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Edwardian Ball at Great American Music Hall on Saturday 6th February 2027 in San Francisco..."
     },
     {
       "event_type": "music",
@@ -410,6 +968,223 @@
       "age_rating": null,
       "note": "From $54",
       "description": "Got you boots and country hats ready for the night?  Well, even if you're..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dumpstaphunk",
+          "apple_music": "https://music.apple.com/us/artist/dumpstaphunk/263158513",
+          "spotify": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC",
+          "confidence": 1.0,
+          "matched": "Dumpstaphunk",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-20",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378350/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378350/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $188",
+      "description": "Dumpstaphunk at Great American Music Hall on Saturday 20th February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Into It. Over It",
+          "apple_music": "https://music.apple.com/us/artist/into-it-over-it/316515693",
+          "spotify": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF",
+          "confidence": 0.9,
+          "matched": "Into It. Over It.",
+          "apple_label": "close match: Into It. Over It.",
+          "spotify_label": "close match: Into It. Over It.",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-21",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378373/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378373/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $57",
+      "description": "Into It. Over It. at Great American Music Hall on Sunday 21st February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Deerhoof",
+          "apple_music": "https://music.apple.com/us/artist/deerhoof/2894441",
+          "spotify": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V",
+          "confidence": 1.0,
+          "matched": "Deerhoof",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-24",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378348/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378348/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $49",
+      "description": "Deerhoof at Great American Music Hall on Wednesday 24th February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Here We Go Magic",
+          "apple_music": "https://music.apple.com/us/artist/here-we-go-magic/301579582",
+          "spotify": "https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f",
+          "confidence": 1.0,
+          "matched": "Here We Go Magic",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-26",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378382/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378382/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $55",
+      "description": "Here We Go Magic at Great American Music Hall on Friday 26th February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gibby Haynes",
+          "apple_music": "https://books.apple.com/us/artist/gibby-haynes/31734166",
+          "spotify": "https://open.spotify.com/artist/53zHmd1TV9gYuZW6iiI4gE",
+          "confidence": 1.0,
+          "matched": "Gibby Haynes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378364/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378364/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $72",
+      "description": "Gibby Haynes at Great American Music Hall on Saturday 27th February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Gibby Haynes",
+          "apple_music": "https://books.apple.com/us/artist/gibby-haynes/31734166",
+          "spotify": "https://open.spotify.com/artist/53zHmd1TV9gYuZW6iiI4gE",
+          "confidence": 1.0,
+          "matched": "Gibby Haynes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-28",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378363/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378363/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $59",
+      "description": "Gibby Haynes at Great American Music Hall on Sunday 28th February 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Misfit Cabaret: Grimm",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Misfit Lullabies @ 54%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Grimm",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378386/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378386/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $141",
+      "description": "Misfit Cabaret: Grimm at Great American Music Hall on Saturday 6th March 2027 in San Francisco..."
     },
     {
       "event_type": "music",
@@ -482,6 +1257,37 @@
       "age_rating": null,
       "note": "From $116",
       "description": "Underworld Dissonance returns to the Great American Music Hall in San Francisco on Thursday, March..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Teenage Fanclub",
+          "apple_music": "https://music.apple.com/us/artist/teenage-fanclub/1295756",
+          "spotify": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW",
+          "confidence": 1.0,
+          "matched": "Teenage Fanclub",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8379181/buy-tickets",
+      "ticket_status": null,
+      "event_page": "https://www.ticketsqueeze.com/tickets/8379181/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Teenage Fanclub at Great American Music Hall on Friday 19th March 2027 in San Francisco..."
     },
     {
       "event_type": "music",
@@ -653,6 +1459,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Chameleons",
+          "apple_music": "https://music.apple.com/us/artist/the-chameleons/32354597",
+          "spotify": "https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm",
+          "confidence": 1.0,
+          "matched": "The Chameleons",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-06",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378383/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378383/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $63",
+      "description": "The Chameleons at Great American Music Hall on Thursday 6th May 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Chameleons",
+          "apple_music": "https://music.apple.com/us/artist/the-chameleons/32354597",
+          "spotify": "https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm",
+          "confidence": 1.0,
+          "matched": "The Chameleons",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-07",
+      "doors": null,
+      "show_time": null,
+      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378385/buy-tickets",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketsqueeze.com/tickets/8378385/buy-tickets",
+      "room": null,
+      "age_rating": null,
+      "note": "From $63",
+      "description": "The Chameleons at Great American Music Hall on Friday 7th May 2027 in San Francisco..."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Yendry",
           "apple_music": "https://music.apple.com/us/artist/yendry/380610071",
           "spotify": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw",
@@ -713,26 +1581,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 48,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 23,
-      "found": 23,
-      "exact": 21,
+      "unique_artists": 44,
+      "found": 36,
+      "exact": 33,
       "close": 0,
-      "flagged": 2,
-      "not_found": 0
+      "flagged": 3,
+      "not_found": 8
     },
     "spotify": {
-      "unique_artists": 23,
-      "linked": 23,
+      "unique_artists": 44,
+      "linked": 36,
       "venue": 0,
-      "api": 23,
+      "api": 36,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 37
     }
   }
 }

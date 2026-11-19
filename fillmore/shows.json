@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 34,
+  "scraped_at": "2026-11-19",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Mountain Goats",
-          "apple_music": "https://music.apple.com/us/artist/the-mountain-goats/4978336",
-          "spotify": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5",
-          "confidence": 1.0,
-          "matched": "The Mountain Goats",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Night Three: Stump the Band",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-three-stump-san-francisco-california-11-18-2026/event/1C0064C40B92B419",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-three-stump-san-francisco-california-11-18-2026/event/1C0064C40B92B419",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -563,8 +532,119 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Dweezil Zappa",
+          "apple_music": "https://music.apple.com/us/artist/dweezil-zappa/2324179",
+          "spotify": "https://open.spotify.com/artist/4Dbp4J9AFoY5c9LsRPdoVP",
+          "confidence": 1.0,
+          "matched": "Dweezil Zappa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Robert Randolph",
+          "apple_music": "https://music.apple.com/us/artist/robert-randolph/4479354",
+          "spotify": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx",
+          "confidence": 1.0,
+          "matched": "Robert Randolph",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Judith Hill",
+          "apple_music": "https://music.apple.com/us/artist/judith-hill/207222565",
+          "spotify": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t",
+          "confidence": 1.0,
+          "matched": "Judith Hill",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Andy Frasco",
+          "apple_music": "https://music.apple.com/us/artist/andy-frasco/276585734",
+          "spotify": "https://open.spotify.com/artist/19IxcOLeJds0dHL9SpyOvP",
+          "confidence": 1.0,
+          "matched": "Andy Frasco",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Luther Dickinson",
+          "apple_music": "https://music.apple.com/us/artist/luther-dickinson/79335588",
+          "spotify": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk",
+          "confidence": 1.0,
+          "matched": "Luther Dickinson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jimmy Hall",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-hall/911961",
+          "spotify": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi",
+          "confidence": 1.0,
+          "matched": "Jimmy Hall",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Steel Beans",
+          "apple_music": "https://music.apple.com/us/artist/steel-beans/1319523091",
+          "spotify": "https://open.spotify.com/artist/5oWONdpBAddO3mxZfYwiyh",
+          "confidence": 1.0,
+          "matched": "Steel Beans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Larry McCray",
+          "apple_music": "https://music.apple.com/us/artist/larry-mccray/7242564",
+          "spotify": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc",
+          "confidence": 1.0,
+          "matched": "Larry McCray",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Cody Dickinson",
+          "apple_music": "https://music.apple.com/us/artist/cody-dickinson/185254213",
+          "spotify": "https://open.spotify.com/artist/1JOJr8I2BVbAzP3Q5G6b3u",
+          "confidence": 1.0,
+          "matched": "Cody Dickinson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Alex Orbison",
+          "apple_music": "https://itunes.apple.com/us/artist/alex-orbison/879435977",
+          "spotify": "https://open.spotify.com/artist/1fprDBeCKrHSz3TZDiML9a",
+          "confidence": 1.0,
+          "matched": "Alex Orbison",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Bella Rayne Band",
+          "apple_music": "https://music.apple.com/us/artist/bella-rayne/6793748805",
+          "spotify": "https://open.spotify.com/artist/4rccdUpUxxXO1KijS00vdv",
+          "confidence": 0.8,
+          "matched": "Bella Rayne",
+          "apple_label": "close match: Bella Rayne",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "A DECADE OF REVIVAL",
       "presenters": [],
       "set_format": null,
@@ -594,8 +674,119 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Dweezil Zappa",
+          "apple_music": "https://music.apple.com/us/artist/dweezil-zappa/2324179",
+          "spotify": "https://open.spotify.com/artist/4Dbp4J9AFoY5c9LsRPdoVP",
+          "confidence": 1.0,
+          "matched": "Dweezil Zappa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Robert Randolph",
+          "apple_music": "https://music.apple.com/us/artist/robert-randolph/4479354",
+          "spotify": "https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx",
+          "confidence": 1.0,
+          "matched": "Robert Randolph",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Judith Hill",
+          "apple_music": "https://music.apple.com/us/artist/judith-hill/207222565",
+          "spotify": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t",
+          "confidence": 1.0,
+          "matched": "Judith Hill",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Andy Frasco",
+          "apple_music": "https://music.apple.com/us/artist/andy-frasco/276585734",
+          "spotify": "https://open.spotify.com/artist/19IxcOLeJds0dHL9SpyOvP",
+          "confidence": 1.0,
+          "matched": "Andy Frasco",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Luther Dickinson",
+          "apple_music": "https://music.apple.com/us/artist/luther-dickinson/79335588",
+          "spotify": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk",
+          "confidence": 1.0,
+          "matched": "Luther Dickinson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jimmy Hall",
+          "apple_music": "https://music.apple.com/us/artist/jimmy-hall/911961",
+          "spotify": "https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi",
+          "confidence": 1.0,
+          "matched": "Jimmy Hall",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Steel Beans",
+          "apple_music": "https://music.apple.com/us/artist/steel-beans/1319523091",
+          "spotify": "https://open.spotify.com/artist/5oWONdpBAddO3mxZfYwiyh",
+          "confidence": 1.0,
+          "matched": "Steel Beans",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Larry McCray",
+          "apple_music": "https://music.apple.com/us/artist/larry-mccray/7242564",
+          "spotify": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc",
+          "confidence": 1.0,
+          "matched": "Larry McCray",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Cody Dickinson",
+          "apple_music": "https://music.apple.com/us/artist/cody-dickinson/185254213",
+          "spotify": "https://open.spotify.com/artist/1JOJr8I2BVbAzP3Q5G6b3u",
+          "confidence": 1.0,
+          "matched": "Cody Dickinson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Alex Orbison",
+          "apple_music": "https://itunes.apple.com/us/artist/alex-orbison/879435977",
+          "spotify": "https://open.spotify.com/artist/1fprDBeCKrHSz3TZDiML9a",
+          "confidence": 1.0,
+          "matched": "Alex Orbison",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Bella Rayne Band",
+          "apple_music": "https://music.apple.com/us/artist/bella-rayne/6793748805",
+          "spotify": "https://open.spotify.com/artist/4rccdUpUxxXO1KijS00vdv",
+          "confidence": 0.8,
+          "matched": "Bella Rayne",
+          "apple_label": "close match: Bella Rayne",
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "A DECADE OF REVIVAL",
       "presenters": [],
       "set_format": null,
@@ -1245,26 +1436,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 33,
-      "found": 30,
-      "exact": 29,
+      "unique_artists": 44,
+      "found": 41,
+      "exact": 39,
       "close": 0,
-      "flagged": 1,
+      "flagged": 2,
       "not_found": 3
     },
     "spotify": {
-      "unique_artists": 33,
-      "linked": 30,
+      "unique_artists": 44,
+      "linked": 41,
       "venue": 0,
-      "api": 30,
+      "api": 41,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 31
     }
   }
 }

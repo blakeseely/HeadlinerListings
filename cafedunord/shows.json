@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 43,
+  "scraped_at": "2026-11-19",
+  "count": 42,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "LAYA",
-          "apple_music": "https://music.apple.com/us/artist/laya/1457563752",
-          "spotify": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X",
-          "confidence": 1.0,
-          "matched": "LAYA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DJ Trauma",
-          "apple_music": "https://music.apple.com/us/artist/dj-trauma/1138343111",
-          "spotify": "https://open.spotify.com/artist/733KHlWluPPsim3sasvzDj",
-          "confidence": 1.0,
-          "matched": "DJ Trauma",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/laya-lipstick-n-cafe-du-nord-tickets/14371104?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://cafedunord.com/shows/2026-11-18-laya",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "LAYA is a singer, songwriter, producer, and creative visionary whose artistry blends R&B, soul, and contemporary music with a distinctive voice and fearless approach to self-expression. Combining infectious melodies, imaginative production, and honest storytelling, her music…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1669,26 +1625,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 42,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 62,
-      "found": 60,
-      "exact": 56,
+      "unique_artists": 60,
+      "found": 58,
+      "exact": 54,
       "close": 1,
       "flagged": 3,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 62,
-      "linked": 60,
+      "unique_artists": 60,
+      "linked": 58,
       "venue": 0,
-      "api": 60,
+      "api": 58,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }

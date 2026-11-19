@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-18",
-  "count": 50,
+  "scraped_at": "2026-11-19",
+  "count": 49,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "State Champs",
-          "apple_music": "https://music.apple.com/us/artist/state-champs/388451690",
-          "spotify": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr",
-          "confidence": 1.0,
-          "matched": "State Champs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cartel",
-          "apple_music": "https://music.apple.com/us/artist/cartel/19107135",
-          "spotify": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk",
-          "confidence": 1.0,
-          "matched": "Cartel",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Taylor Acorn",
-          "apple_music": "https://music.apple.com/us/artist/taylor-acorn/1161476048",
-          "spotify": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY",
-          "confidence": 1.0,
-          "matched": "Taylor Acorn",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "and Like Roses",
-          "apple_music": "https://music.apple.com/us/artist/like-roses/1194077299",
-          "spotify": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI",
-          "confidence": 0.9,
-          "matched": "Like Roses",
-          "apple_label": "close match: Like Roses",
-          "spotify_label": "close match: Like Roses",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "10 YEARS OF ‘AROUND THE WORLD AND BACK'",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-18",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.axs.com/events/1484026/state-champs-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1484026",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1990,26 +1928,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 49,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 87,
-      "found": 77,
-      "exact": 70,
+      "unique_artists": 83,
+      "found": 73,
+      "exact": 67,
       "close": 1,
-      "flagged": 6,
+      "flagged": 5,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 87,
-      "linked": 78,
+      "unique_artists": 83,
+      "linked": 74,
       "venue": 0,
-      "api": 78,
+      "api": 74,
       "feed": 0,
-      "shows_with_link": 45
+      "shows_with_link": 44
     }
   }
 }
