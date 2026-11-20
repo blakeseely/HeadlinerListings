@@ -36,52 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 53,
+  "scraped_at": "2026-11-20",
+  "count": 52,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Thundercat",
-          "apple_music": "https://music.apple.com/us/artist/thundercat/367322286",
-          "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-          "confidence": 1.0,
-          "matched": "Thundercat",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Distracted AF Tour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: DISGRACEMODE @ 53%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Showbox Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "6:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/64977553/thundercatdistracted-af-tour-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/277813-thundercat/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "In recent years Thundercat, aka Stephen Bruner, has completed his transition from virtuoso bassist to bonafide star and cemented his reputation as a wholly unique voice, transcending genre. He has become a cornerstone of the Brainfeeder label having released “The Golden Age of Apocalypse” (2011), “Apocalypse” (2013), “Drunk” (2017), and his 2020 album “It Is What It Is” won Best Progressive R&B Album at the 63rd GRAMMY Awards, featuring Ty Dolla $ign, Childish Gambino, Lil B, Kamasi Washington, Steve Lacy, Steve Arrington, BADBADNOTGOOD, Louis Cole, Pedro Martins and Zack Fox. The record was produced by Thundercat and his longtime partner Flying Lotus who was GRAMMY-nominated in “Producer of the Year, Non-Classical” for his work on the album. 2023 kicked off with a bang, with Thundercat joining Steve Lacy live onstage at the 65th Annual GRAMMY Awards to perform the hit single “Bad Habit.” He also released his latest single “No More Lies” with Tame Impala, and announced a slew of tour dates spanning 5 continents. 2022 was a banner year, with highlights including his vocals and bass heavily featuring on Gorillaz single and title track “Cracker Island” which hit #1 on the Alternative radio charts. He also starred in the official music video and performed onstage with Gorillaz at Coachella and the MTV European Music Awards ceremony. He also joined Red Hot Chilli Peppers as support on their North American and EU stadium tour. Thundercat made his acting debut in 2022 with a recurri"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -570,7 +527,9 @@
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "True West Presents"
+      ],
       "set_format": null,
       "date": "2026-12-10",
       "doors": "6:30 pm",
@@ -1987,26 +1946,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 51,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 73,
-      "found": 50,
-      "exact": 49,
+      "unique_artists": 71,
+      "found": 49,
+      "exact": 48,
       "close": 1,
       "flagged": 0,
-      "not_found": 23
+      "not_found": 22
     },
     "spotify": {
-      "unique_artists": 73,
-      "linked": 52,
+      "unique_artists": 71,
+      "linked": 51,
       "venue": 0,
-      "api": 52,
+      "api": 51,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 39
     }
   }
 }

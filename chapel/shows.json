@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 40,
+  "scraped_at": "2026-11-20",
+  "count": 43,
   "shows": [
     {
       "event_type": "music",
@@ -438,6 +438,78 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "45th Annual Encuentro Del Canto Popular ft. Mireya Ramos",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Los Pleneros de la Cresta @ 40%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Gina Madrid",
+          "apple_music": "https://music.apple.com/us/artist/gina-madrid/1508181841",
+          "spotify": "https://open.spotify.com/artist/0cdhMx5HPUAWwFdc5nL9ps",
+          "confidence": 1.0,
+          "matched": "Gina Madrid",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Audiopharmacy",
+          "apple_music": "https://music.apple.com/us/artist/audiopharmacy/287864172",
+          "spotify": "https://open.spotify.com/artist/4emUk6xZMxZvWQkXw3IXBt",
+          "confidence": 1.0,
+          "matched": "Audiopharmacy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "La Misa Negra",
+          "apple_music": "https://music.apple.com/us/artist/la-misa-negra/725022638",
+          "spotify": "https://open.spotify.com/artist/0Q6BYEUIIzKDzxFd4sRD8h",
+          "confidence": 1.0,
+          "matched": "La Misa Negra",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "DJ La Femme Papi",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.1,
+          "matched": null,
+          "apple_label": "no confident match (closest: Zaho @ 10%)",
+          "spotify_label": "no confident match (closest: DJ Felli Fel @ 50%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-18",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/45th-annual-encuentro-del-canto-popular-ft-mireya-ramos/711950?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/45th-annual-encuentro-del-canto-popular-ft-mireya-ramos/711950?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "RAMONES X",
           "apple_music": "https://music.apple.com/us/artist/ramones/60715",
           "spotify": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm",
@@ -647,6 +719,37 @@
       "ticket_link": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "apple_music": "https://music.apple.com/us/artist/the-dirty-dozen-brass-band/158578569",
+          "spotify": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7",
+          "confidence": 1.0,
+          "matched": "The Dirty Dozen Brass Band",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-02",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/the-dirty-dozen-brass-band/712020?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/the-dirty-dozen-brass-band/712020?afflky=TheChapel",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1219,6 +1322,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Horse Vision",
+          "apple_music": "https://music.apple.com/us/artist/horse-vision/1711270490",
+          "spotify": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM",
+          "confidence": 1.0,
+          "matched": "Horse Vision",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-27",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/horse-vision/712024?afflky=TheChapel",
+      "ticket_status": null,
+      "event_page": "https://wl.seetickets.us/event/horse-vision/712024?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "76th Street",
           "apple_music": "https://music.apple.com/us/artist/76th-street/911372797",
           "spotify": "https://open.spotify.com/artist/0UCzjO1IZ1PW2l5Z0Gmifr",
@@ -1684,26 +1818,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 40,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 71,
-      "found": 55,
-      "exact": 46,
+      "unique_artists": 78,
+      "found": 60,
+      "exact": 51,
       "close": 4,
       "flagged": 5,
-      "not_found": 16
+      "not_found": 18
     },
     "spotify": {
-      "unique_artists": 71,
-      "linked": 52,
+      "unique_artists": 78,
+      "linked": 57,
       "venue": 0,
-      "api": 52,
+      "api": 57,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 38
     }
   }
 }

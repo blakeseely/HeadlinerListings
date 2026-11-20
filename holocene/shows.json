@@ -36,73 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Amtrac @ PROCESS",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Amtrac @ 55%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Holocene & Spend the Night present"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/93499436/amtrac-process-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-19-amtrac-process",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SCHROTTHAGEN: NEW WORLD TOUR 2026",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Schrotthagen @ 53%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/90331569/schrotthagen-new-world-tour-2026-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-19-schrotthagen-new-world-tour-2026",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -738,6 +674,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Santo Perreo: Reggaeton, Dembow, and Latin hits dance party",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: PERREO REGGAETON MX @ 70%)",
+          "spotify_label": "no confident match (closest: Alex Gargolas @ 22%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-12",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/99205532/santo-perreo-reggaeton-dembow-and-latin-hits-dance-party-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-12-santo-perreo-reggaeton-dembow-and-latin-hits-dance-party",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Josie Edwards",
           "apple_music": "https://music.apple.com/us/artist/josie-edwards/1750143054",
           "spotify": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq",
@@ -1158,6 +1125,39 @@
       "event_page": "https://www.holocene.org/events/2027-01-30-tessa-violet-there-will-be-joy-album-release-show-early-show",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tony Jupiter",
+          "apple_music": "https://music.apple.com/us/artist/tony-jupiter/1366452502",
+          "spotify": "https://open.spotify.com/artist/2Nltwr6M99tXy78hUaOTCH",
+          "confidence": 1.0,
+          "matched": "Tony Jupiter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Holocene Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-02",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47171298/tony-jupiter-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-02-tony-jupiter",
+      "room": null,
+      "age_rating": "21+",
       "note": null,
       "description": null
     },
@@ -1714,19 +1714,19 @@
     },
     "apple_music": {
       "unique_artists": 59,
-      "found": 30,
-      "exact": 25,
+      "found": 31,
+      "exact": 26,
       "close": 1,
       "flagged": 4,
-      "not_found": 29
+      "not_found": 28
     },
     "spotify": {
       "unique_artists": 59,
-      "linked": 31,
+      "linked": 32,
       "venue": 0,
-      "api": 31,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 24
+      "shows_with_link": 25
     }
   }
 }

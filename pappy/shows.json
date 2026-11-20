@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 57,
+  "scraped_at": "2026-11-20",
+  "count": 58,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DRUGS Record Release Party",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Drug Store Romeos @ 46%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Normans",
-          "apple_music": "https://music.apple.com/us/artist/normans/1236014434",
-          "spotify": "https://open.spotify.com/artist/2BMz0pY4d3I6A3x0HQ6rIf",
-          "confidence": 1.0,
-          "matched": "NORMANS",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/drugs-record-release-party-pappy-harriets-tickets/14438884?theme=PappyandHarriets",
-      "ticket_status": "on sale",
-      "event_page": "https://pappyandharriets.com/calendar",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -152,7 +108,7 @@
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/jerrys-middle-finger-night-1-pappy-harriets-tickets/14438954?theme=PappyandHarriets",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
       "age_rating": "All Ages",
@@ -824,6 +780,59 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Brosquitos",
+          "apple_music": "https://music.apple.com/us/artist/brosquitos/1598575883",
+          "spotify": "https://open.spotify.com/artist/5D7RZ1N7PVJKwSC3QTbGHp",
+          "confidence": 1.0,
+          "matched": "BrosQuitos",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Jul!an and The Band",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.562,
+          "matched": null,
+          "apple_label": "no confident match (closest: Jul!an Javari @ 56%)",
+          "spotify_label": "no confident match (closest: JULIE AND THE SOUL DIA BAND @ 70%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Vinyl Spins",
+          "apple_music": "https://music.apple.com/us/artist/vinyl-spin/1697404499",
+          "spotify": "https://open.spotify.com/artist/1VD0loCtF8Cv1CIaE92Omu",
+          "confidence": 0.952,
+          "matched": "Vinyl Spin",
+          "apple_label": null,
+          "spotify_label": "close match: Vinyl Sapiens",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2026-12-30",
+      "doors": "8:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/brosquitos-julan-and-the-band-pappy-harriets-tickets/15057673?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "NYE – Black Crystal Wolf Kids",
           "apple_music": null,
           "spotify": null,
@@ -1269,7 +1278,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Prescott Niles’ The Knack",
+          "name": "Prescott Niles' The Knack",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
@@ -1323,6 +1332,59 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/may-erlewine-pappy-harriets-tickets/14444824?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Fever Dog",
+          "apple_music": "https://music.apple.com/us/artist/fever-dog/582540947",
+          "spotify": "https://open.spotify.com/artist/6NjVBX4JFIAxnAkICAGo9J",
+          "confidence": 1.0,
+          "matched": "Fever Dog",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Wicked",
+          "apple_music": "https://music.apple.com/us/artist/wicked/607128136",
+          "spotify": "https://open.spotify.com/artist/3cDS67gxibaMV2ha8nmFUf",
+          "confidence": 1.0,
+          "matched": "Wicked",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "12 Gauge Trixie",
+          "apple_music": "https://music.apple.com/us/artist/12-gauge-trixie/1703193791",
+          "spotify": "https://open.spotify.com/artist/7zAoZyGJDCR1CCNxNNKJTR",
+          "confidence": 1.0,
+          "matched": "12 GAUGE TRIXIE",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [
+        "Dunes Booking Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-01-27",
+      "doors": "8:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/fever-dog-wicked-12-gauge-pappy-harriets-tickets/15057513?theme=PappyandHarriets",
       "ticket_status": "on sale",
       "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
@@ -2350,26 +2412,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 57,
+      "music": 58,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 98,
-      "found": 82,
-      "exact": 77,
-      "close": 3,
+      "unique_artists": 102,
+      "found": 86,
+      "exact": 80,
+      "close": 4,
       "flagged": 2,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 98,
-      "linked": 78,
+      "unique_artists": 102,
+      "linked": 82,
       "venue": 0,
-      "api": 78,
+      "api": 82,
       "feed": 0,
-      "shows_with_link": 52
+      "shows_with_link": 53
     }
   }
 }

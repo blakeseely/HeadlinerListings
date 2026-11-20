@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 22,
+  "scraped_at": "2026-11-20",
+  "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "RØZ",
-          "apple_music": "https://music.apple.com/us/artist/r%C3%B8z/1497371365",
-          "spotify": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI",
-          "confidence": 1.0,
-          "matched": "RØZ",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "SE ESTÁ HACIENDO TARDE",
-      "presenters": [
-        "Monster Energy Outbreak Tour, Goldenvoice, & CMN Present RØZ: SE ESTÁ HACIENDO TARDE"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1556908/roz-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1556908",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": "Event Information Monster Energy Outbreak Tour & Goldenvoice Present RØZ: SE ESTÁ HACIENDO TARDE Artist Presale: Wednesday, August 12th at 10am PT Register Here for Presale Access: https://laylo.com/rozwavvv/m/fyu9pY If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. This event has a tiered pricing structure in the General Admission area. All General Admission tiers have the same access. Once a price level sells out it may no longer be visible or available for selection. THIS EVENT IS 18+ A VALID, PHYSICAL GOVERNMENT-ISSUED PHOTO ID IS REQUIRED FOR ENTRY WHERE APPLICABLE AND FOR THE PURCHASE OF ALCOHOL. SCHOOL IDS, EXPIRED IDS, PHOTOS OR PHOTOCOPIES OF IDS, AND DIGITAL IDS WILL NOT BE ACCEPTED FOR EVENT ENTRY OR ALCOHOL PURCHASES. NO DIFFERENCE IN GA FLOOR TIERS OTHER THAN PRICE"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1074,26 +1041,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 22,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 48,
-      "found": 43,
-      "exact": 40,
+      "unique_artists": 47,
+      "found": 42,
+      "exact": 39,
       "close": 2,
       "flagged": 1,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 48,
-      "linked": 45,
+      "unique_artists": 47,
+      "linked": 44,
       "venue": 0,
-      "api": 45,
+      "api": 44,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

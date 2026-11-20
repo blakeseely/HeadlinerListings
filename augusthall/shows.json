@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 46,
+  "scraped_at": "2026-11-20",
+  "count": 45,
   "shows": [
     {
       "event_type": "music",
@@ -876,7 +876,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sf-sketchfest-the-trav-enture-zone/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "Ages 5+",
       "note": null,
       "description": null
     },
@@ -947,29 +947,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Gabriel Jacoby",
-          "apple_music": "https://music.apple.com/us/artist/gabriel-jacoby/1610957262",
-          "spotify": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H",
-          "confidence": 1.0,
-          "matched": "Gabriel Jacoby",
+          "name": "Popscene & Live Nation Co-Present: Gabriel Jacoby – gutta child tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Roscoe Dash @ 20%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "gutta child tour",
+      "show_title": null,
       "presenters": [],
       "set_format": null,
       "date": "2027-02-19",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/gabriel-jacoby-gutta-child-tour-san-francisco-california-02-19-2027/event/1C00656EB920A478",
+      "ticket_link": "https://www.ticketmaster.com/popscene-live-nation-copresent-gabriel-jacoby-san-francisco-california-02-19-2027/event/1C00656EB920A478",
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/gabriel-jacoby-gutta-child-tour/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "Ages 5+",
       "note": null,
       "description": null
     },
@@ -1000,7 +1000,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/elefante-tour-30-aniversario/",
       "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "Ages 5+",
       "note": null,
       "description": null
     },
@@ -1456,49 +1456,7 @@
       "ticket_status": "on sale",
       "event_page": "https://www.augusthallsf.com/tm-event/sasha-keable-the-act-right-tour/",
       "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "[MOVED TO RICKSHAW STOP] Introducing The Aces",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Musical Aces @ 32%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Gatlin",
-          "apple_music": "https://music.apple.com/us/artist/gatlin/1456307048",
-          "spotify": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9",
-          "confidence": 1.0,
-          "matched": "Gatlin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-05-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/the-aces/",
-      "room": null,
-      "age_rating": "All Ages",
+      "age_rating": "Ages 5+",
       "note": null,
       "description": null
     },
@@ -1578,26 +1536,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 45,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 34,
-      "exact": 31,
+      "unique_artists": 39,
+      "found": 32,
+      "exact": 29,
       "close": 0,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 34,
+      "unique_artists": 39,
+      "linked": 32,
       "venue": 0,
-      "api": 34,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 29
     }
   }
 }

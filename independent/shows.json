@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 103,
+  "scraped_at": "2026-11-20",
+  "count": 104,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pretty Sick",
-          "apple_music": "https://music.apple.com/us/artist/pretty-sick/1347399810",
-          "spotify": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e",
-          "confidence": 1.0,
-          "matched": "Pretty Sick",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Sex Week",
-          "apple_music": "https://music.apple.com/us/artist/sex-week/1710436172",
-          "spotify": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r",
-          "confidence": 1.0,
-          "matched": "Sex Week",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/pretty-sick-the-independent-tickets/15030033?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/pretty-sick/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -253,8 +211,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "BANKSIA",
+          "apple_music": "https://music.apple.com/us/artist/banksia/1485764433",
+          "spotify": "https://open.spotify.com/artist/5KbxQ4ymkRxh9tB59smVYz",
+          "confidence": 1.0,
+          "matched": "Banksia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1139,8 +1108,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Eternal Wave Jamsoe",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Eternal Eclipse @ 65%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1992,6 +1972,37 @@
       "ticket_link": "https://www.ticketweb.com/event/romare-live-dj-the-independent-tickets/14330644?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/romare-live-dj/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "BabyTron",
+          "apple_music": "https://music.apple.com/us/artist/babytron/1473692829",
+          "spotify": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk",
+          "confidence": 1.0,
+          "matched": "BabyTron",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The IV Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-08",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/babytron-the-independent-tickets/15058113?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/babytron/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -3338,6 +3349,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Love Letter",
+          "apple_music": "https://music.apple.com/us/artist/love-letter/1709623658",
+          "spotify": "https://open.spotify.com/artist/58dOfabvkhScGZJNO2HONt",
+          "confidence": 1.0,
+          "matched": "Love Letter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-09",
+      "doors": "8:30 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/love-letter-the-independent-tickets/14455004?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/love-letter/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Clap Your Hands Say Yeah",
           "apple_music": "https://music.apple.com/us/artist/clap-your-hands-say-yeah/81899300",
           "spotify": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r",
@@ -3849,26 +3891,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 103,
+      "music": 104,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 147,
-      "found": 131,
-      "exact": 122,
+      "unique_artists": 149,
+      "found": 132,
+      "exact": 123,
       "close": 3,
       "flagged": 6,
-      "not_found": 16
+      "not_found": 17
     },
     "spotify": {
-      "unique_artists": 147,
-      "linked": 133,
-      "venue": 94,
-      "api": 39,
+      "unique_artists": 149,
+      "linked": 134,
+      "venue": 96,
+      "api": 38,
       "feed": 0,
-      "shows_with_link": 100
+      "shows_with_link": 101
     }
   }
 }

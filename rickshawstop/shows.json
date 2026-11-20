@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 51,
+  "scraped_at": "2026-11-20",
+  "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Cannelle",
-          "apple_music": "https://music.apple.com/us/artist/cannelle/1754623505",
-          "spotify": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg",
-          "confidence": 1.0,
-          "matched": "Cannelle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Baldgirl",
-          "apple_music": "https://music.apple.com/us/artist/baldgirl/6777200242",
-          "spotify": "https://open.spotify.com/artist/3rwJKHwCcLgdW7jIwrROU3",
-          "confidence": 1.0,
-          "matched": "Baldgirl",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "popscene + rickshaw stop co-presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "8:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.eventim.us/event/cannelle/703640",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.eventim.us/event/cannelle/703640",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -461,30 +417,43 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Graham Hunt",
-          "apple_music": "https://music.apple.com/us/artist/graham-hunt/252292506",
-          "spotify": "https://open.spotify.com/artist/3cdxdVJIA1FE4oMT85haWb",
+          "name": "Graham Hunt, 9Million",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Graham Barham @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Bed Bug Guru",
+          "apple_music": "https://music.apple.com/us/artist/bed-bug-guru/1629092367",
+          "spotify": "https://open.spotify.com/artist/2s6lHLuKKreqcTwVEyCNMY",
           "confidence": 1.0,
-          "matched": "Graham Hunt",
+          "matched": "bed bug guru",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         },
         {
-          "name": "9Million",
-          "apple_music": "https://music.apple.com/us/artist/9million/1562519017",
-          "spotify": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna",
+          "name": "Seltzer",
+          "apple_music": "https://music.apple.com/us/artist/seltzer/1690794370",
+          "spotify": "https://open.spotify.com/artist/2onSmwVnPR9quOJMlscjt4",
           "confidence": 1.0,
-          "matched": "9Million",
+          "matched": "Seltzer",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Throwin Bos + Rickshaw Stop co-present"
+      ],
       "set_format": null,
       "date": "2026-12-11",
       "doors": "8:00 pm",
@@ -493,7 +462,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/graham-hunt-9million-co-headline/702096",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1409,7 +1378,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/rickshaw-billies-burger-patrol-cadollarh-grab-tour/711353",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/rickshaw-billies-burger-patrol-cadollarh-grab-tour/711353",
       "room": null,
       "age_rating": null,
@@ -1791,26 +1760,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 50,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 65,
-      "found": 55,
-      "exact": 53,
+      "unique_artists": 64,
+      "found": 53,
+      "exact": 51,
       "close": 0,
       "flagged": 2,
-      "not_found": 10
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 65,
-      "linked": 56,
+      "unique_artists": 64,
+      "linked": 54,
       "venue": 0,
-      "api": 56,
+      "api": 54,
       "feed": 0,
-      "shows_with_link": 43
+      "shows_with_link": 42
     }
   }
 }

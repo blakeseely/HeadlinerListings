@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 31,
+  "scraped_at": "2026-11-20",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ninajirachi",
-          "apple_music": "https://music.apple.com/us/artist/ninajirachi/1210938233",
-          "spotify": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR",
-          "confidence": 1.0,
-          "matched": "Ninajirachi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "MGNA Crrrta",
-          "apple_music": "https://music.apple.com/us/artist/mgna-crrrta/1620045272",
-          "spotify": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye",
-          "confidence": 1.0,
-          "matched": "MGNA Crrrta",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "I Love My Computer And It Loves Me Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546836611",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1629381",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1319,26 +1275,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 55,
-      "found": 53,
-      "exact": 52,
+      "unique_artists": 53,
+      "found": 51,
+      "exact": 50,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 55,
-      "linked": 53,
+      "unique_artists": 53,
+      "linked": 51,
       "venue": 0,
-      "api": 50,
+      "api": 48,
       "feed": 3,
-      "shows_with_link": 29
+      "shows_with_link": 28
     }
   }
 }

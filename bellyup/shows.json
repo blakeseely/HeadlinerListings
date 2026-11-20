@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "count": 124,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jammy Buffet",
-          "apple_music": "https://music.apple.com/us/artist/jammy-buffet/1801644212",
-          "spotify": "https://open.spotify.com/artist/2gYTWrlVtX32Mj4FwbFcYY",
-          "confidence": 1.0,
-          "matched": "Jammy Buffet",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Lakes Below the Mountains Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jammy-buffet-lakes-belly-up-tickets/14288634?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14288634/jammy-buffet-lakes-below-the-mountains-tour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -696,6 +665,37 @@
       "ticket_link": "https://www.ticketweb.com/event/poncho-sanchez-the-sleepwalkers-belly-up-tickets/14993023?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14993023/poncho-sanchez-the-sleepwalkers",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Private Party",
+          "apple_music": "https://music.apple.com/us/artist/private-party/1774061954",
+          "spotify": "https://open.spotify.com/artist/4YzAmFFlHhfbs6u8yshy4D",
+          "confidence": 1.0,
+          "matched": "Private Party",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-06",
+      "doors": null,
+      "show_time": "4:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": null,
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1672,37 +1672,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Atomic Groove's NYE After Party Dance Party Happy Hour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Atomic Space @ 36%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-01-01",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-nye-after-party-belly-up-tickets/14351694?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14351694/atomic-grooves-nye-after-party-dance-party-happy-hour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "No Duh",
           "apple_music": "https://music.apple.com/us/artist/no-duh/793477155",
           "spotify": "https://open.spotify.com/artist/7olKFLTio40Hkf0N95LrYF",
@@ -1734,6 +1703,37 @@
       "ticket_link": "https://www.ticketweb.com/event/no-duh-fooz-fighters-belly-up-tickets/14366524?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14366524/no-duh-fooz-fighters",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Atomic Groove New Year's Day",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Atomic Heart @ 50%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-01",
+      "doors": null,
+      "show_time": "5:30 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": null,
       "room": null,
       "age_rating": null,
       "note": null,

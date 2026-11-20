@@ -36,91 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "MATTRESS",
-          "apple_music": "https://music.apple.com/us/artist/mattress/292303482",
-          "spotify": "https://open.spotify.com/artist/0YkTO6J7YkOB4pXwUd5Fh0",
-          "confidence": 1.0,
-          "matched": "Mattress",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Isaac Brock",
-          "apple_music": "https://music.apple.com/us/artist/isaac-brock/467116",
-          "spotify": "https://open.spotify.com/artist/5wELYBathlnqivJfG5ddWw",
-          "confidence": 1.0,
-          "matched": "Isaac Brock",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Joe Von Appen",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Jorge Von Appen @ 70%)",
-          "spotify_label": "no confident match (closest: Joe Bonamassa @ 54%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Thrones",
-          "apple_music": "https://music.apple.com/us/artist/thrones/3195729",
-          "spotify": "https://open.spotify.com/artist/3HoyYECCSwK0Zl2C0xCOHU",
-          "confidence": 1.0,
-          "matched": "Thrones",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Dragging An Ox Through Water",
-          "apple_music": "https://music.apple.com/us/artist/dragging-an-ox-through-water/337932388",
-          "spotify": "https://open.spotify.com/artist/55vx2X8Vu0bUHQX3pCc1A5",
-          "confidence": 1.0,
-          "matched": "Dragging an Ox through Water",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Black Shelton",
-          "apple_music": "https://music.apple.com/us/artist/black-shelton/1457604574",
-          "spotify": "https://open.spotify.com/artist/5GQjsgFJjvqKHOJZ6I9RZG",
-          "confidence": 1.0,
-          "matched": "Black Shelton",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "20 YEARS OF MATTRESS",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/91263217",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -259,7 +177,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/59224066",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": null,
       "room": null,
       "age_rating": null,
@@ -1845,6 +1763,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Love Letter",
+          "apple_music": "https://music.apple.com/us/artist/love-letter/1709623658",
+          "spotify": "https://open.spotify.com/artist/58dOfabvkhScGZJNO2HONt",
+          "confidence": 1.0,
+          "matched": "Love Letter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-07",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/45876528",
+      "ticket_status": "on sale",
+      "event_page": null,
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Valencia Grace",
           "apple_music": "https://music.apple.com/us/artist/valencia-grace/1532649578",
           "spotify": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A",
@@ -2170,18 +2119,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 91,
-      "found": 72,
-      "exact": 67,
+      "unique_artists": 86,
+      "found": 68,
+      "exact": 63,
       "close": 2,
       "flagged": 3,
-      "not_found": 19
+      "not_found": 18
     },
     "spotify": {
-      "unique_artists": 91,
-      "linked": 74,
+      "unique_artists": 86,
+      "linked": 70,
       "venue": 0,
-      "api": 74,
+      "api": 70,
       "feed": 0,
       "shows_with_link": 45
     }

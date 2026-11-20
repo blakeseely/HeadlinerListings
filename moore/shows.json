@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 58,
+  "scraped_at": "2026-11-20",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "apple_music": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685",
-          "spotify": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF",
-          "confidence": 1.0,
-          "matched": "Rodrigo y Gabriela",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "OurHome Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.stgpresents.org/events/rodrigo-y-gabriela/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/rodrigo-y-gabriela/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1957,26 +1926,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 44,
-      "exact": 38,
+      "unique_artists": 56,
+      "found": 43,
+      "exact": 37,
       "close": 1,
       "flagged": 5,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 57,
-      "linked": 43,
+      "unique_artists": 56,
+      "linked": 42,
       "venue": 0,
-      "api": 43,
+      "api": 42,
       "feed": 0,
-      "shows_with_link": 36
+      "shows_with_link": 35
     }
   }
 }

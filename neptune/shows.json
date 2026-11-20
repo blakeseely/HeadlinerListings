@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 103,
+  "scraped_at": "2026-11-20",
+  "count": 102,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gary Numan",
-          "apple_music": "https://music.apple.com/us/artist/gary-numan/2780160",
-          "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE",
-          "confidence": 1.0,
-          "matched": "Gary Numan",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "TREMOURS",
-          "apple_music": "https://music.apple.com/us/artist/tremours/1630704631",
-          "spotify": "https://open.spotify.com/artist/3lBafPrb1MzhpqUxXDgItW",
-          "confidence": 1.0,
-          "matched": "Tremours",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/gary-numan/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/gary-numan/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -272,8 +230,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Abbey Blackwell",
+          "apple_music": "https://music.apple.com/us/artist/abbey-blackwell/1556715776",
+          "spotify": "https://open.spotify.com/artist/5bWDUEJMVrA0HKPRCKCrTE",
+          "confidence": 1.0,
+          "matched": "Abbey Blackwell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3452,26 +3421,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 76,
+      "music": 75,
       "comedy": 20,
       "film": 0,
       "other": 7
     },
     "apple_music": {
-      "unique_artists": 98,
-      "found": 83,
-      "exact": 72,
+      "unique_artists": 97,
+      "found": 82,
+      "exact": 71,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 98,
-      "linked": 80,
+      "unique_artists": 97,
+      "linked": 79,
       "venue": 0,
-      "api": 80,
+      "api": 79,
       "feed": 0,
-      "shows_with_link": 78
+      "shows_with_link": 77
     }
   }
 }

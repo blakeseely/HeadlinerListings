@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 25,
+  "scraped_at": "2026-11-20",
+  "count": 29,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Bad Wallpaper / Narbs / One Night at the Eagles / Public Witness",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Rare Americans @ 30%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/bad-wallpaper-narbs-one-night-at-the-eagles-public-witness-19-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -313,98 +282,6 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/jen-howard-23-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Stevie Stone",
-          "apple_music": "https://music.apple.com/us/artist/stevie-stone/4089566",
-          "spotify": "https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN",
-          "confidence": 1.0,
-          "matched": "Stevie Stone",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Don Diesle",
-          "apple_music": "https://music.apple.com/us/artist/don-diesle/271568343",
-          "spotify": "https://open.spotify.com/artist/1kce2LMKwpp9F7Zfdq5TmZ",
-          "confidence": 1.0,
-          "matched": "Don Diesle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "RVSH",
-          "apple_music": "https://music.apple.com/us/artist/rvsh/1171067769",
-          "spotify": "https://open.spotify.com/artist/27yTE2D8JnlbyOVNodlZpm",
-          "confidence": 1.0,
-          "matched": "RVSH",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Swisher Sleep",
-          "apple_music": "https://music.apple.com/us/artist/swisher-sleep/665698368",
-          "spotify": "https://open.spotify.com/artist/2JIH9d1YrpfiMuxm7ianqx",
-          "confidence": 1.0,
-          "matched": "Swisher Sleep",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "OG Mambo",
-          "apple_music": "https://music.apple.com/us/artist/og-mambo/1515897315",
-          "spotify": "https://open.spotify.com/artist/5UIAc7dT1m4t5R9TXiBYoz",
-          "confidence": 1.0,
-          "matched": "OG Mambo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Dxth Cvbb",
-          "apple_music": "https://music.apple.com/us/artist/dxth-cvbb/1592733269",
-          "spotify": "https://open.spotify.com/artist/44tlUeiIWbFyieAmqS8frM",
-          "confidence": 1.0,
-          "matched": "Dxth Cvbb",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "White Bear",
-          "apple_music": "https://music.apple.com/us/artist/white-bear/1482306116",
-          "spotify": "https://open.spotify.com/artist/5bvRiQqBDnZ3DeNTPrFevI",
-          "confidence": 1.0,
-          "matched": "White Bear",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Goat Talk Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/stevie-stone-goat-talk-tour-24-nov",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -684,13 +561,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Far Reaches / Killbilly / Primal Beast",
+          "name": "Far Reaches / Collin Salcido / Killbilly / Primal Beast",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Fear Factory @ 28%)",
+          "spotify_label": "no confident match (closest: Fear Factory @ 24%)",
           "spotify_source": null
         }
       ],
@@ -777,6 +654,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "KARAOKE",
+          "apple_music": "https://music.apple.com/us/artist/karaoke/80103704",
+          "spotify": "https://open.spotify.com/artist/00h8Jj4O2sib47wARwfRTR",
+          "confidence": 1.0,
+          "matched": "Karaoke",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-15",
+      "doors": "7:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/karaoke-15-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "KARAOKE",
+          "apple_music": "https://music.apple.com/us/artist/karaoke/80103704",
+          "spotify": "https://open.spotify.com/artist/00h8Jj4O2sib47wARwfRTR",
+          "confidence": 1.0,
+          "matched": "Karaoke",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-22",
+      "doors": "7:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/karaoke-22-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Boydream",
           "apple_music": "https://music.apple.com/us/artist/boydream/1598696559",
           "spotify": "https://open.spotify.com/artist/1di04o6FOVSnNQmuWA1iSE",
@@ -798,6 +737,37 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/boydream-26-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "KARAOKE",
+          "apple_music": "https://music.apple.com/us/artist/karaoke/80103704",
+          "spotify": "https://open.spotify.com/artist/00h8Jj4O2sib47wARwfRTR",
+          "confidence": 1.0,
+          "matched": "Karaoke",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-29",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/karaoke-29-dec",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -984,6 +954,129 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/red-sky-riot-drop-sea-no-more-enemies-17-jan",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Stevie Stone",
+          "apple_music": "https://music.apple.com/us/artist/stevie-stone/4089566",
+          "spotify": "https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN",
+          "confidence": 1.0,
+          "matched": "Stevie Stone",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Don Diesle",
+          "apple_music": "https://music.apple.com/us/artist/don-diesle/271568343",
+          "spotify": "https://open.spotify.com/artist/1kce2LMKwpp9F7Zfdq5TmZ",
+          "confidence": 1.0,
+          "matched": "Don Diesle",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "RVSH",
+          "apple_music": "https://music.apple.com/us/artist/rvsh/1171067769",
+          "spotify": "https://open.spotify.com/artist/27yTE2D8JnlbyOVNodlZpm",
+          "confidence": 1.0,
+          "matched": "RVSH",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Swisher Sleep",
+          "apple_music": "https://music.apple.com/us/artist/swisher-sleep/665698368",
+          "spotify": "https://open.spotify.com/artist/2JIH9d1YrpfiMuxm7ianqx",
+          "confidence": 1.0,
+          "matched": "Swisher Sleep",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "OG Mambo",
+          "apple_music": "https://music.apple.com/us/artist/og-mambo/1515897315",
+          "spotify": "https://open.spotify.com/artist/5UIAc7dT1m4t5R9TXiBYoz",
+          "confidence": 1.0,
+          "matched": "OG Mambo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dxth Cvbb",
+          "apple_music": "https://music.apple.com/us/artist/dxth-cvbb/1592733269",
+          "spotify": "https://open.spotify.com/artist/44tlUeiIWbFyieAmqS8frM",
+          "confidence": 1.0,
+          "matched": "Dxth Cvbb",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "White Bear",
+          "apple_music": "https://music.apple.com/us/artist/white-bear/1482306116",
+          "spotify": "https://open.spotify.com/artist/5bvRiQqBDnZ3DeNTPrFevI",
+          "confidence": 1.0,
+          "matched": "White Bear",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Goat Talk Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/stevie-stone-goat-talk-tour-24-nov",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "EBK Young Joc",
+          "apple_music": "https://music.apple.com/us/artist/ebk-young-joc/1473852857",
+          "spotify": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS",
+          "confidence": 1.0,
+          "matched": "EBK Young Joc",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Straight Out Of Nightingale Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/ebk-young-joc-straight-out-of-nightingale-tour-28-jan",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1207,30 +1300,61 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Uncle Strut",
+          "apple_music": "https://music.apple.com/us/artist/uncle-strut/1574215120",
+          "spotify": "https://open.spotify.com/artist/6laNc8Rd1uBO9Coxv0EZez",
+          "confidence": 1.0,
+          "matched": "Uncle Strut",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/uncle-strut-11-jun",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 25,
+      "music": 29,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 63,
-      "found": 51,
-      "exact": 47,
+      "unique_artists": 65,
+      "found": 54,
+      "exact": 50,
       "close": 1,
       "flagged": 3,
-      "not_found": 12
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 63,
-      "linked": 49,
+      "unique_artists": 65,
+      "linked": 52,
       "venue": 0,
-      "api": 49,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 24
     }
   }
 }

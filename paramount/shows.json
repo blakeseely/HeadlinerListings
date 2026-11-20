@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 127,
+  "scraped_at": "2026-11-20",
+  "count": 126,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Straight No Chaser",
-          "apple_music": "https://music.apple.com/us/artist/straight-no-chaser/3706494",
-          "spotify": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM",
-          "confidence": 1.0,
-          "matched": "Straight No Chaser",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.stgpresents.org/events/straight-no-chaser/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/straight-no-chaser/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -4096,26 +4065,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 45,
       "comedy": 7,
       "film": 0,
       "other": 74
     },
     "apple_music": {
-      "unique_artists": 61,
-      "found": 43,
-      "exact": 37,
+      "unique_artists": 60,
+      "found": 42,
+      "exact": 36,
       "close": 1,
       "flagged": 5,
       "not_found": 18
     },
     "spotify": {
-      "unique_artists": 61,
-      "linked": 44,
+      "unique_artists": 60,
+      "linked": 43,
       "venue": 0,
-      "api": 44,
+      "api": 43,
       "feed": 0,
-      "shows_with_link": 99
+      "shows_with_link": 98
     }
   }
 }

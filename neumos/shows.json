@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 63,
+  "scraped_at": "2026-11-20",
+  "count": 64,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Julien Baker",
-          "apple_music": "https://music.apple.com/us/artist/julien-baker/1033453223",
-          "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip",
-          "confidence": 1.0,
-          "matched": "Julien Baker",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Great Grandpa",
-          "apple_music": "https://music.apple.com/us/artist/great-grandpa/1084999797",
-          "spotify": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6",
-          "confidence": 1.0,
-          "matched": "Great Grandpa",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1595867/julien-baker-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/julien-baker-tickets-1595867",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1264,6 +1222,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "BabyTron",
+          "apple_music": "https://music.apple.com/us/artist/babytron/1473692829",
+          "spotify": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk",
+          "confidence": 1.0,
+          "matched": "BabyTron",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "THE IV TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1714068/babytron-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/babytron-tickets-1714068",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Winona Fighter",
           "apple_music": "https://music.apple.com/us/artist/winona-fighter/1618260492",
           "spotify": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ",
@@ -2034,6 +2023,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Stomach Book",
+          "apple_music": "https://music.apple.com/us/artist/stomach-book/1551276096",
+          "spotify": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN",
+          "confidence": 1.0,
+          "matched": "STOMACH BOOK",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Shteppi",
+          "apple_music": "https://music.apple.com/us/artist/shteppi/1772480003",
+          "spotify": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b",
+          "confidence": 1.0,
+          "matched": "shteppi",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Aren't We Amphibians",
+          "apple_music": "https://music.apple.com/us/artist/arent-we-amphibians/1638871551",
+          "spotify": "https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy",
+          "confidence": 1.0,
+          "matched": "Aren't We Amphibians",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-10",
+      "doors": "6:30 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1714499/stomach-book-tickets?skin=neumos",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.neumos.com/events/detail/stomach-book-tickets-1714499",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Destroy Boys",
           "apple_music": "https://music.apple.com/us/artist/destroy-boys/1202438410",
           "spotify": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5",
@@ -2551,26 +2592,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 63,
+      "music": 64,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 110,
-      "found": 99,
-      "exact": 92,
+      "unique_artists": 114,
+      "found": 103,
+      "exact": 96,
       "close": 2,
       "flagged": 5,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 110,
-      "linked": 94,
+      "unique_artists": 114,
+      "linked": 98,
       "venue": 0,
-      "api": 94,
+      "api": 98,
       "feed": 0,
-      "shows_with_link": 58
+      "shows_with_link": 59
     }
   }
 }

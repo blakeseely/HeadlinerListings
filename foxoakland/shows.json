@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 34,
+  "scraped_at": "2026-11-20",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pretty Lights",
-          "apple_music": "https://music.apple.com/us/artist/pretty-lights/294600594",
-          "spotify": "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q",
-          "confidence": 1.0,
-          "matched": "Pretty Lights",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Three Nights! — Soundship Space Bus Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/pretty-lights-18-1119-oakland-california-11-19-2026/event/1C0064DB89F666C9?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/pretty-lights-261119",
-      "room": null,
-      "age_rating": "18 and over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1246,7 +1215,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 29,
       "comedy": 4,
       "film": 0,
       "other": 0
@@ -1265,7 +1234,7 @@
       "venue": 32,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

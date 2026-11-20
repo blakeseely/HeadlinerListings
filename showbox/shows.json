@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-19",
-  "count": 49,
+  "scraped_at": "2026-11-20",
+  "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lil Tracy performing live!",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Lil Tracy @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1644690/lil-tracy-performing-live-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1644690",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1928,21 +1897,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 49,
+      "music": 48,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 83,
+      "unique_artists": 82,
       "found": 73,
       "exact": 67,
       "close": 1,
       "flagged": 5,
-      "not_found": 10
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 83,
+      "unique_artists": 82,
       "linked": 74,
       "venue": 0,
       "api": 74,
