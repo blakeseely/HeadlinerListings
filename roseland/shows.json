@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 33,
+  "scraped_at": "2026-11-21",
+  "count": 32,
   "shows": [
     {
       "event_type": "music",
@@ -1419,39 +1419,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Power Trip",
-          "apple_music": "https://music.apple.com/us/artist/power-trip/58120250",
-          "spotify": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT",
-          "confidence": 1.0,
-          "matched": "Power Trip",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Mammoth NW Presents"
-      ],
-      "set_format": null,
-      "date": "2027-04-19",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/88781676/power-trip-portland-roseland-theater?partner_id=100",
-      "ticket_status": "coming soon",
-      "event_page": "https://roselandpdx.com/event/power-trip/roseland-theater/portland-oregon/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "The Warning",
           "apple_music": "https://music.apple.com/us/artist/the-warning/260719953",
           "spotify": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
@@ -1604,26 +1571,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 71,
-      "found": 64,
-      "exact": 60,
+      "unique_artists": 70,
+      "found": 63,
+      "exact": 59,
       "close": 1,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 71,
-      "linked": 67,
+      "unique_artists": 70,
+      "linked": 66,
       "venue": 0,
-      "api": 67,
+      "api": 66,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }

@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 30,
+  "scraped_at": "2026-11-21",
+  "count": 29,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Layton Giordani",
-          "apple_music": "https://music.apple.com/us/artist/layton-giordani/748431694",
-          "spotify": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4",
-          "confidence": 1.0,
-          "matched": "Layton Giordani",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Greggio",
-          "apple_music": "https://music.apple.com/us/artist/greggio/1565039536",
-          "spotify": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3",
-          "confidence": 1.0,
-          "matched": "Greggio",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546204228",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1464359",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -148,7 +104,7 @@
       "set_format": null,
       "date": "2026-11-22",
       "doors": "6:00 pm",
-      "show_time": "7:00 pm",
+      "show_time": "6:30 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546970281",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1672138",
@@ -1122,7 +1078,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547072627",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1704397",
       "room": null,
       "age_rating": "All Ages",
@@ -1275,26 +1231,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 30,
+      "music": 29,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 53,
-      "found": 51,
-      "exact": 50,
+      "unique_artists": 51,
+      "found": 49,
+      "exact": 48,
       "close": 0,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 51,
+      "unique_artists": 51,
+      "linked": 49,
       "venue": 0,
-      "api": 48,
+      "api": 46,
       "feed": 3,
-      "shows_with_link": 28
+      "shows_with_link": 27
     }
   }
 }

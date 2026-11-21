@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DANNA",
-          "apple_music": "https://music.apple.com/us/artist/danna/1891412909",
-          "spotify": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB",
-          "confidence": 1.0,
-          "matched": "DANNA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/danna-the-bedroom-sessions-us-tour-san-francisco-california-11-20-2026/event/1C00651CD920BD0F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thecastro.com/events/danna-261120",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "THE BEDROOM SESSIONS US TOUR An Evening With",
-      "description": "DANNA is a Latin GRAMMY-nominated Mexican singer, songwriter, actress, and entrepreneur whose career spans more than two decades across music, television, theater, and film. One of the most influential Latin artists of her generation, she has successfully evolved from a celebrated child star into a global pop force, earning acclaim for her powerful vocals, artistic versatility, and cultural impact. She is stepping into a new era as a multidimensional creative force and visionary with her upcoming project, VISIONS, an immersive universe that blends music and storytelling in an entirely new way.Four of her albums have reached Billboard’s “Top Latin Pop Albums” chart, while another landed on the “Top Latin Albums” chart. In 2025 her track “Khe Calor” was featured in Rolling Stone’s “The 50 Best Latin And Spanish-Language Songs Of 2025.” Her acclaimed career includes collaborations with artists such as Steve Aoki, Ne-Yo, Alesso, Juan Gabriel, David Bisbal, Aitana, Santa Fe Klan, Morat, and Sebastián Yatra, as well as standout performances on screen and stage. She starred in Netflix’s Elite and in the official Mexican production of the Broadway musical Wicked, where she portrayed Elphab"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1675,12 +1644,43 @@
       "date": "2027-05-02",
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-san-francisco-california-05-02-2027/event/1C006562F194F5CC?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://thecastro.com/events/conor-oberst-270502",
       "room": null,
       "age_rating": null,
-      "note": "An Alleged Evening with",
+      "note": "Two Nights! An Alleged Evening with",
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Conor Oberst",
+          "apple_music": "https://music.apple.com/us/artist/conor-oberst/202642374",
+          "spotify": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R",
+          "confidence": 1.0,
+          "matched": "Conor Oberst",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-03",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-san-francisco-california-05-03-2027/event/1C006572E772FAD6?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thecastro.com/events/conor-oberst-270503",
+      "room": null,
+      "age_rating": null,
+      "note": "2nd Show Added by Popular Demand! An Alleged Evening with",
       "description": null
     },
     {
@@ -1922,17 +1922,17 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 67,
-      "found": 61,
-      "exact": 55,
+      "unique_artists": 66,
+      "found": 60,
+      "exact": 54,
       "close": 2,
       "flagged": 4,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 67,
-      "linked": 60,
-      "venue": 48,
+      "unique_artists": 66,
+      "linked": 59,
+      "venue": 47,
       "api": 12,
       "feed": 0,
       "shows_with_link": 48

@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 41,
+  "scraped_at": "2026-11-21",
+  "count": 39,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Memphis LK",
-          "apple_music": "https://music.apple.com/us/artist/memphis-lk/1456734304",
-          "spotify": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe",
-          "confidence": 1.0,
-          "matched": "Memphis LK",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "CSTR",
-          "apple_music": "https://music.apple.com/us/artist/adda-cstr/1471972113",
-          "spotify": "https://open.spotify.com/artist/5JWO452PadvY5ih1drJ63T",
-          "confidence": 0.8,
-          "matched": "Adda Cstr",
-          "apple_label": "close match: Adda Cstr",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/memphis-lk-with-cstr-cafe-du-nord-tickets/14259744?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://cafedunord.com/shows/2026-11-20-memphis-lk",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Memphis LK has become a defining force in Australia’s next generation of electronic voices. Emerging from Melbourne’s world-class club scene, her music taps into the sanctuary and transcendence of the dancefloor, a space to let go, reconnect, and escape. Her transportive live…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -170,50 +126,6 @@
       "age_rating": null,
       "note": null,
       "description": "Fox studied piano at Oberlin Conservatory with Sullivan Fortner, Billy Hart, and Dan Wall and graduated in 2017 before moving to New York City. His piano composition “East Village” was sampled by Drake and 21 Savage on “Major Distribution” reaching number 3 on the Billboard…"
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Keenan TreVon",
-          "apple_music": "https://music.apple.com/us/artist/keenan-trevon/1073509873",
-          "spotify": "https://open.spotify.com/artist/3TRl3Kgn8RGc0sw5QDOMsW",
-          "confidence": 1.0,
-          "matched": "Keenan TreVon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Wyatt Woodley",
-          "apple_music": "https://music.apple.com/us/artist/wyatt-woodley/1296404493",
-          "spotify": "https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE",
-          "confidence": 1.0,
-          "matched": "Wyatt Woodley",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-12-07",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/keenan-trevons-flowers-after-dark-cafe-du-nord-tickets/14329424?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://cafedunord.com/shows/2026-12-07-keenan-trevon",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Keenan TreVon is building one of the most compelling independent careers in alternative R&B, driven by genre-defying production, emotionally direct songwriting, and a proven ability to convert listeners into ticket buyers. Keenan has earned cover features in Westword and…"
     },
     {
       "event_type": "music",
@@ -1285,19 +1197,8 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [
-        {
-          "name": "Nine Perfect Lives",
-          "apple_music": "https://music.apple.com/us/artist/nine-perfect-lives/6811113567",
-          "spotify": "https://open.spotify.com/artist/4wx3JoePTmyq3xvAQastJi",
-          "confidence": 1.0,
-          "matched": "Nine Perfect Lives",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1581,26 +1482,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 41,
+      "music": 39,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 56,
-      "exact": 52,
+      "unique_artists": 53,
+      "found": 51,
+      "exact": 48,
       "close": 1,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 58,
-      "linked": 56,
+      "unique_artists": 53,
+      "linked": 51,
       "venue": 0,
-      "api": 56,
+      "api": 51,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 38
     }
   }
 }

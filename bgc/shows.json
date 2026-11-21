@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 25,
   "shows": [
     {
@@ -724,8 +724,8 @@
       "date": "2027-03-02",
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/westlife-25-the-anniversary-world-tour-san-francisco-california-03-02-2027/event/1C00656B1A6B669F?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
+      "ticket_link": null,
+      "ticket_status": "sold out",
       "event_page": "https://billgrahamcivic.com/events/westlife-270302",
       "room": null,
       "age_rating": "All ages",

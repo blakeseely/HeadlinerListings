@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 65,
+  "scraped_at": "2026-11-21",
+  "count": 66,
   "shows": [
     {
       "event_type": "other",
@@ -2012,6 +2012,37 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
+      "date": "2027-05-21",
+      "doors": "1 hour prior to start",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=JJOHNSON&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/josh-johnsons-comedy-band-camp",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "comedy",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Josh Johnson’s Comedy Band Camp",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Josh Johnson @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
       "date": "2027-05-22",
       "doors": "1 hour prior to start",
       "show_time": "5:00 pm",
@@ -2058,7 +2089,7 @@
   "stats": {
     "event_types": {
       "music": 12,
-      "comedy": 5,
+      "comedy": 6,
       "film": 0,
       "other": 48
     },

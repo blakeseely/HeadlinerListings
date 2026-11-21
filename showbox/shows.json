@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 48,
+  "scraped_at": "2026-11-21",
+  "count": 50,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Baby Smoove Live!",
-          "apple_music": "https://music.apple.com/us/artist/baby-smoove/1209282817",
-          "spotify": "https://open.spotify.com/artist/2vfYAS93N3Kc3eg0IakrRp",
-          "confidence": 0.8,
-          "matched": "Baby Smoove",
-          "apple_label": "close match: Baby Smoove",
-          "spotify_label": "close match: Baby Smoove",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Purple Heart Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1610757/baby-smoove-live-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1610757",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1093,7 +1062,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1704435/dirtwire-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1704435",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1230,6 +1199,99 @@
       "ticket_link": "https://www.axs.com/events/1687951/little-big-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
       "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1687951",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Protomen",
+          "apple_music": "https://music.apple.com/us/artist/the-protomen/189245013",
+          "spotify": "https://open.spotify.com/artist/2rVDi66o7gdeUq1OHUzM0W",
+          "confidence": 1.0,
+          "matched": "The Protomen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-18",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1714502/the-protomen-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1714502",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Protomen",
+          "apple_music": "https://music.apple.com/us/artist/the-protomen/189245013",
+          "spotify": "https://open.spotify.com/artist/2rVDi66o7gdeUq1OHUzM0W",
+          "confidence": 1.0,
+          "matched": "The Protomen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1714503/the-protomen-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1714503",
+      "room": null,
+      "age_rating": "All Ages to Enter, 21 & Over to Drink",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Protomen",
+          "apple_music": "https://music.apple.com/us/artist/the-protomen/189245013",
+          "spotify": "https://open.spotify.com/artist/2rVDi66o7gdeUq1OHUzM0W",
+          "confidence": 1.0,
+          "matched": "The Protomen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1714504/the-protomen-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1714504",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
       "note": null,
@@ -1385,7 +1447,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://www.axs.com/events/1694869/gang-of-youths-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1694869",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1897,7 +1959,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 48,
+      "music": 50,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1905,9 +1967,9 @@
     "apple_music": {
       "unique_artists": 82,
       "found": 73,
-      "exact": 67,
+      "exact": 68,
       "close": 1,
-      "flagged": 5,
+      "flagged": 4,
       "not_found": 9
     },
     "spotify": {
@@ -1916,7 +1978,7 @@
       "venue": 0,
       "api": 74,
       "feed": 0,
-      "shows_with_link": 44
+      "shows_with_link": 46
     }
   }
 }

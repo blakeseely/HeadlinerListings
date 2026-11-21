@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 35,
+  "scraped_at": "2026-11-21",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Fear Factory",
-          "apple_music": "https://music.apple.com/us/artist/fear-factory/15773169",
-          "spotify": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX",
-          "confidence": 1.0,
-          "matched": "Fear Factory",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Darkest Hour",
-          "apple_music": "https://music.apple.com/us/artist/darkest-hour/15366902",
-          "spotify": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq",
-          "confidence": 1.0,
-          "matched": "Darkest Hour",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Brotality",
-          "apple_music": "https://music.apple.com/us/artist/brotality/1498074541",
-          "spotify": "https://open.spotify.com/artist/1YKdG7Vru85xcH0DDBlQW8",
-          "confidence": 1.0,
-          "matched": "Brotality",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Lacabra",
-          "apple_music": "https://music.apple.com/us/artist/lacabra/1622791161",
-          "spotify": "https://open.spotify.com/artist/3vUiPAhpOCW2r5TdcyQrc3",
-          "confidence": 1.0,
-          "matched": "LACABRA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Cybernetic Domination Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/fear-factory-cybernetic-domination-tour-2026-20-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -398,68 +336,6 @@
       "room": null,
       "age_rating": null,
       "note": "Promoted as “Mammoth NW Presents - El Corazon” (third-party series at this venue).",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Instant Crush",
-          "apple_music": "https://music.apple.com/us/artist/instant-crush/1585238851",
-          "spotify": "https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu",
-          "confidence": 1.0,
-          "matched": "instant crush",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Palettes",
-          "apple_music": "https://music.apple.com/us/artist/palettes/1688486877",
-          "spotify": "https://open.spotify.com/artist/6fktdsYeSWl3qSGekown62",
-          "confidence": 1.0,
-          "matched": "palettes",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Pastel Faces",
-          "apple_music": "https://music.apple.com/us/artist/pastel-faces/1579535669",
-          "spotify": "https://open.spotify.com/artist/2ynLWEnx8MMjgKBVN7AfWo",
-          "confidence": 1.0,
-          "matched": "Pastel Faces",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Honeyed",
-          "apple_music": "https://music.apple.com/us/artist/honeyed/1723939157",
-          "spotify": "https://open.spotify.com/artist/6J0zvCuXn9wCuU89NRLXkC",
-          "confidence": 1.0,
-          "matched": "Honeyed",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-06",
-      "doors": "7:00 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/instant-crush-palettes-pastel-faces-honeyed-06-dec",
-      "room": null,
-      "age_rating": null,
-      "note": null,
       "description": null
     },
     {
@@ -1961,26 +1837,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 106,
-      "found": 94,
-      "exact": 92,
+      "unique_artists": 98,
+      "found": 86,
+      "exact": 84,
       "close": 0,
       "flagged": 2,
       "not_found": 12
     },
     "spotify": {
-      "unique_artists": 106,
-      "linked": 92,
+      "unique_artists": 98,
+      "linked": 84,
       "venue": 0,
-      "api": 92,
+      "api": 84,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 29
     }
   }
 }

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 64,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Julien Baker",
-          "apple_music": "https://music.apple.com/us/artist/julien-baker/1033453223",
-          "spotify": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip",
-          "confidence": 1.0,
-          "matched": "Julien Baker",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Great Grandpa",
-          "apple_music": "https://music.apple.com/us/artist/great-grandpa/1084999797",
-          "spotify": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6",
-          "confidence": 1.0,
-          "matched": "Great Grandpa",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1596348/julien-baker-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/julien-baker-tickets-1596348",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -994,6 +952,68 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Bazaar",
+          "apple_music": "https://music.apple.com/us/artist/bazaar/1705992515",
+          "spotify": "https://open.spotify.com/artist/7eszk3TkiRSGTW2btRVOW1",
+          "confidence": 1.0,
+          "matched": "Bazaar",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Black Ends",
+          "apple_music": "https://music.apple.com/us/artist/black-ends/1456795717",
+          "spotify": "https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3",
+          "confidence": 1.0,
+          "matched": "Black Ends",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Stoneyard",
+          "apple_music": "https://music.apple.com/us/artist/stoneyard/1749925819",
+          "spotify": "https://open.spotify.com/artist/6JsT66Pf0d7vw79kdDH99T",
+          "confidence": 1.0,
+          "matched": "Stoneyard",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Pleasantbusstop",
+          "apple_music": "https://music.apple.com/us/artist/pleasantbusstop/1616594843",
+          "spotify": "https://open.spotify.com/artist/2P1vNLXoYzaq47X4P4x8cm",
+          "confidence": 1.0,
+          "matched": "pleasantbusstop",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-14",
+      "doors": "6:30 pm",
+      "show_time": null,
+      "ticket_link": "https://www.axs.com/events/1704263/bazaar-tickets?skin=neumos",
+      "ticket_status": "on sale",
+      "event_page": "https://www.neumos.com/events/detail/bazaar-tickets-1704263",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Charles Zaid",
           "apple_music": "https://music.apple.com/us/artist/charles-zaid/1550563544",
           "spotify": "https://open.spotify.com/artist/2tvXKINOwzxbdBgOLIrDeV",
@@ -1241,7 +1261,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1714068/babytron-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/babytron-tickets-1714068",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1263,8 +1283,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Max Diaz",
+          "apple_music": "https://music.apple.com/us/artist/max-diaz/1707816504",
+          "spotify": "https://open.spotify.com/artist/1pS55lIysppNO0zbvF3qlB",
+          "confidence": 1.0,
+          "matched": "MAX DIAZ",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "BRUTAL & EXTREMELY UNDERRATED…the tour",
       "presenters": [],
       "set_format": null,
@@ -1449,7 +1480,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1704423/gutta-child-tour-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/gutta-child-tour-tickets-1704423",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1564,7 +1595,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1705111/mod-sun-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/mod-sun-tickets-1705111",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1626,7 +1657,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1698267/rio-romeo-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/rio-romeo-tickets-1698267",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1918,7 +1949,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1698282/butcher-brown-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/butcher-brown-tickets-1698282",
       "room": null,
       "age_rating": "21 & Over",
@@ -2063,7 +2094,7 @@
       "doors": "6:30 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1714499/stomach-book-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/stomach-book-tickets-1714499",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2167,7 +2198,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1698300/slow-crush-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/slow-crush-tickets-1698300",
       "room": null,
       "age_rating": "21 & Over",
@@ -2323,7 +2354,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1694867/snotty-nose-rez-kids-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/snotty-nose-rez-kids-tickets-1694867",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2520,7 +2551,7 @@
       "doors": "7:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1702568/xana-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/xana-tickets-1702568",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2551,7 +2582,7 @@
       "doors": "8:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1694428/osees-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/osees-tickets-1694428",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -2582,7 +2613,7 @@
       "doors": "8:00 pm",
       "show_time": null,
       "ticket_link": "https://www.axs.com/events/1694440/osees-tickets?skin=neumos",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.neumos.com/events/detail/osees-tickets-1694440",
       "room": null,
       "age_rating": "21 & Over",
@@ -2598,18 +2629,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 114,
-      "found": 103,
-      "exact": 96,
+      "unique_artists": 119,
+      "found": 108,
+      "exact": 101,
       "close": 2,
       "flagged": 5,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 114,
-      "linked": 98,
+      "unique_artists": 119,
+      "linked": 103,
       "venue": 0,
-      "api": 98,
+      "api": 103,
       "feed": 0,
       "shows_with_link": 59
     }

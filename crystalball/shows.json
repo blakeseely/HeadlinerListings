@@ -36,52 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 52,
+  "scraped_at": "2026-11-21",
+  "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Haley Johnsen",
-          "apple_music": "https://music.apple.com/us/artist/haley-johnsen/1004119393",
-          "spotify": "https://open.spotify.com/artist/4ucOu5swE2xW8ibx4yqHbE",
-          "confidence": 1.0,
-          "matched": "Haley Johnsen",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Presidio",
-          "apple_music": "https://music.apple.com/us/artist/presidio/459830992",
-          "spotify": "https://open.spotify.com/artist/0k2LHfRiHCGrhX3OAUodiB",
-          "confidence": 1.0,
-          "matched": "PRESIDIO",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "McMenamins Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/92209868/haley-johnsen-portland-mcmenamins-crystal-ballroom",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Haley Johnsen is a Portland-based Americana artist blending alt-pop edge with powerhouse vocals and emotionally charged songwriting. Often compared to Brandi Carlile and Bonnie Raitt, she delivers heart-forward storytelling wrapped in bold, anthemic hooks and an electrifying live presence. Haley has toured with and opened for artists including Allen Stone, KT Tunstall, Joseph, The Talbott Brothers, and Liam St. John, and performed at the nation’s largest festival. Summerfest, last year in Milwaukie, WI. Her 2026 NPR Tiny Desk Contest submission featuring her single “Lyin’ Man” marks a bold new chapter of new music dropping May 2026. With millions of streams worldwide via the Virgin Music Group, sponsorships with Fender and Breedlove, and a headline slot at Seattle’s Fremont Fair Festival this summer, Haley Johnsen is bringing the Pacific Northwest’s freshest sound to the world, one unforgettable performance at a time."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -570,7 +527,9 @@
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "True West Presents"
+      ],
       "set_format": null,
       "date": "2026-12-11",
       "doors": "6:30 pm",
@@ -1138,6 +1097,37 @@
       "age_rating": "All ages welcome",
       "note": null,
       "description": "Trampled by Turtles are from Duluth, Minnesota, where frontman Dave Simonett initially formed the group as a side project in 2003. At the time, Simonett had lost most of his music gear, thanks to a group of enterprising car thieves who’d ransacked his vehicle while he played a show with his previous band. Left with nothing more than an acoustic guitar, he began piecing together a new band, this time taking inspiration from bluegrass, folk, and other genres that didn’t rely on amplification. Simonett hadn’t played any bluegrass music before, and he filled his lineup with other newcomers to the genre, including fiddler Ryan Young (who’d previously played drums in a speed metal act) and bassist Tim Saxhaug. Along with mandolinist Erik Berry and banjo player Dave Carroll, the group began carving out a fast, frenetic sound that owed as much to rock & roll as bluegrass. There crossover appeal has landed them on the #1 spot of Billboard’s Bluegrass Charts on every record they’ve released while playing marquee festivals like Coachella, ACL Fest, and Lollapalooza. Countless tours with diverse artists ranging Shakey Graves, Zach Bryan, Wilco, Caamp, Mt Joy, Willie Nelson, Avett Brothers, Lord Huron and many more have followed solidifying a loyal fanbase. Their last full length album Alpenglow was produced by Wilco’s Jeﬀ Tweedy. 2025 began with the band releasing a cover of Bon Iver’s “ From Emma ” with Caamp’s Taylor Meier (aka Sumbuck) on lead vocals. A few new collaborations are set"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Mike Gordon",
+          "apple_music": "https://music.apple.com/us/artist/mike-gordon/2406757",
+          "spotify": "https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37",
+          "confidence": 1.0,
+          "matched": "Mike Gordon",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-21",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/85655469/an-evening-with-mike-gordon-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/280336-mike-gordon/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Mike Gordon (bassist and co-founder of the seminal improvisational rock band Phish) returns to the road with a live show that’s filled with constant and wildly hypnotic movement animated by unexpected sounds that morph and expand and spin off into their own strange orbits, revealing entirely new dimensions of the kaleidoscopic musicianship he’s displayed as a bassist for the last four decades. Website: http://mike-gordon.com/"
     },
     {
       "event_type": "music",
@@ -1839,6 +1829,37 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
+      "date": "2027-05-20",
+      "doors": "6:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/56155319/haute-freddy-bigger-disgrace-tour-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/280316-haute-freddy/",
+      "room": null,
+      "age_rating": "All ages welcome",
+      "note": null,
+      "description": "Instagram: https://www.instagram.com/hauteandfreddy/ Facebook: https://www.facebook.com/p/Haute-Freddy-61575042550975/ TikTok: https://www.tiktok.com/@hauteandfreddy YouTube: https://www.youtube.com/channel/UCLziWUVJ651AEYKkZ8_unfw Spotify: https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR?si=AubLTey5R1GtdzGmG4fybQ"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haute & Freddy",
+          "apple_music": "https://music.apple.com/us/artist/haute-freddy/1751891683",
+          "spotify": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
+          "confidence": 1.0,
+          "matched": "Haute & Freddy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
       "date": "2027-05-21",
       "doors": "6:30 pm",
       "show_time": "8:00 pm",
@@ -1946,26 +1967,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 52,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 71,
-      "found": 49,
-      "exact": 48,
+      "unique_artists": 70,
+      "found": 48,
+      "exact": 47,
       "close": 1,
       "flagged": 0,
       "not_found": 22
     },
     "spotify": {
-      "unique_artists": 71,
-      "linked": 51,
+      "unique_artists": 70,
+      "linked": 50,
       "venue": 0,
-      "api": 51,
+      "api": 50,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 40
     }
   }
 }

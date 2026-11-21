@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 104,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "@NICKCHEO",
-          "apple_music": "https://music.apple.com/us/artist/nick-cheo/1771726999",
-          "spotify": "https://open.spotify.com/artist/0vB402YKj99Mu81GPSSOVu",
-          "confidence": 0.95,
-          "matched": "Nick Cheo",
-          "apple_label": null,
-          "spotify_label": "close match: Nick Checo",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Quedronol",
-          "apple_music": "https://music.apple.com/us/artist/quedronol/6773007879",
-          "spotify": "https://open.spotify.com/artist/6HNPwTAPT2teyY43GsJBBB",
-          "confidence": 1.0,
-          "matched": "Quedronol",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The *TOUR* The *MOVIE*",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/nickcheo-the-tour-the-movie-the-independent-tickets/14287224?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/nickcheo-the-tour-the-movie/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -670,7 +628,7 @@
       "date": "2026-12-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
+      "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
       "room": null,
@@ -1566,6 +1524,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Rin",
+          "apple_music": "https://music.apple.com/us/artist/rin/1704962776",
+          "spotify": "https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA",
+          "confidence": 1.0,
+          "matched": "Rin",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dearest Diary Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-19",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/rin-the-independent-tickets/15059663?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/rin/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "josh conway",
           "apple_music": "https://music.apple.com/us/artist/josh-conway/463848254",
           "spotify": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7",
@@ -1857,8 +1846,19 @@
           "spotify_source": "venue"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "MAX DIAZ",
+          "apple_music": "https://music.apple.com/us/artist/max-diaz/1707816504",
+          "spotify": "https://open.spotify.com/artist/1pS55lIysppNO0zbvF3qlB",
+          "confidence": 1.0,
+          "matched": "MAX DIAZ",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -3899,16 +3899,16 @@
     "apple_music": {
       "unique_artists": 149,
       "found": 132,
-      "exact": 123,
-      "close": 3,
+      "exact": 124,
+      "close": 2,
       "flagged": 6,
       "not_found": 17
     },
     "spotify": {
       "unique_artists": 149,
       "linked": 134,
-      "venue": 96,
-      "api": 38,
+      "venue": 98,
+      "api": 36,
       "feed": 0,
       "shows_with_link": 101
     }

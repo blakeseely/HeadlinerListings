@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 31,
+  "scraped_at": "2026-11-21",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Growing Pains",
-          "apple_music": "https://music.apple.com/us/artist/growing-pains/1459072528",
-          "spotify": "https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc",
-          "confidence": 1.0,
-          "matched": "Growing Pains",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/64253673/growing-pains-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -691,7 +658,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/57091682/gang-of-youths-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/gang-of-youths/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -889,7 +856,7 @@
       "doors": "6:30 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://www.etix.com/ticket/p/90548682/slow-crush-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/slow-crush/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -955,7 +922,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/32215929/racing-mount-pleasant-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/racing-mount-pleasant/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -1099,7 +1066,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.etix.com/ticket/p/98936786/xana-where-else-would-i-go-portland-wonder-ballroom?partner_id=100",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://wonderballroom.com/event/xana-where-else-would-i-go/wonder-ballroom/portland-oregon/",
       "room": null,
       "age_rating": null,
@@ -1109,26 +1076,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 35,
-      "found": 29,
-      "exact": 28,
+      "unique_artists": 34,
+      "found": 28,
+      "exact": 27,
       "close": 1,
       "flagged": 0,
       "not_found": 6
     },
     "spotify": {
-      "unique_artists": 35,
-      "linked": 30,
+      "unique_artists": 34,
+      "linked": 29,
       "venue": 0,
-      "api": 30,
+      "api": 29,
       "feed": 0,
-      "shows_with_link": 27
+      "shows_with_link": 26
     }
   }
 }

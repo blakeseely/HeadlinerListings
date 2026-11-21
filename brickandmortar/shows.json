@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 20,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Bayonne",
-          "apple_music": "https://music.apple.com/us/artist/bayonne/1043103558",
-          "spotify": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek",
-          "confidence": 1.0,
-          "matched": "Bayonne",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Bobbing",
-          "apple_music": "https://music.apple.com/us/artist/bobbing/1468237709",
-          "spotify": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX",
-          "confidence": 1.0,
-          "matched": "Bobbing",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The 'Filters' Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/bayonne-the-filters-tour-brick-and-mortar-music-hall-tickets/14854653?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "sold out",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/bayonne-the-filters-tour/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Bayonne’s music captures the indescribable. For 10 years, the Austin, Texas-based experimental avant-pop/electronic musician, born Roger Sellers, has been creating atmospheric soundscapes brimming with layers, texture, and deep emotional resonance. On his fourth and most immersive album to date, Filters, Sellers picks up where he left us on 2023’s mournful yet pop-minded Temporary Time. With its elegantly constructed melodies, silken synth-work, a sprinkle of field recordings, and an upbeat yet blissful blend of piano and percussion, Filters finds Sellers entering a new phase of existence as he works through the grief around losing his father and into a place of acceptance."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -741,6 +699,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "The name Full Circle represents the humble beginning of each member and how they’ve taking on the journey of reaching higher peaks together — since they knew each other from other projects before the idea of the group even came up —, so when the band was formed it became a full circle moment for all of them. In 2014, James Herron and Sean Garrity met each other joining the same dance team in their hometown of Temecula, California. Adjacently, Jagger Moon and Dossan Bell met the same year at their dance studio in Ogden, Utah. Oliver Hincy later joined the Ogden crew in 2018. The two worlds collided when Jagger and Sean booked the same dance job becoming friends."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "La Reezy —Skiddle Bandana Tour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: La Reezy @ 70%)",
+          "spotify_label": "no confident match (closest: La Reezy @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-16",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/la-reezy-skiddle-bandana-tour-brick-and-mortar-music-hall-tickets/14221534?pl=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/la-reezy-skiddle-bandana-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -751,20 +740,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 26,
-      "found": 25,
-      "exact": 24,
+      "unique_artists": 25,
+      "found": 23,
+      "exact": 22,
       "close": 1,
       "flagged": 0,
-      "not_found": 1
+      "not_found": 2
     },
     "spotify": {
-      "unique_artists": 26,
-      "linked": 25,
-      "venue": 11,
-      "api": 14,
+      "unique_artists": 25,
+      "linked": 23,
+      "venue": 10,
+      "api": 13,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 18
     }
   }
 }

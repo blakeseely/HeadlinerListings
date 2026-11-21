@@ -36,91 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 124,
+  "scraped_at": "2026-11-21",
+  "count": 127,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Atomic Groove's Here Comes The Holidays Benefit for The Red Nose Run Dance Party Happy Hour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Atomic Heart @ 23%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-here-comes-the-belly-up-tickets/14999903?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14999903/atomic-grooves-here-comes-the-holidays-benefit-for-the-red-nose-run-dance-party-happy-hour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Season's Greetings from Atomic Groove! Our annual \"Here Comes The Holidays\" Dance Party Happy Hour will get you officially in the mood for Holiday Season 2026! A touch of mirthful holiday attire and a good amount of early-in-the-season holiday cheer highly suggested. With the Season of Gratitude and Giving upon us, we'll once again support a benefit for The Red Nose Run, presented by The Del Mar Foundation. Their annual 5k Run-Walk is December 5th on the beach in Del Mar. Enjoy a spirited presentation from the Volun-deers of TRNR and know that two dollars of each ticket will go directly to TRNR. More TRNR info - CLICK HERE. We'll feature our festive AG guests: the joyful AG vocalist Mark Jones and our merry AG Conga Girl Monette. Performer Studentz from the CW Fitness/AG Fly Girlz Dance Class will take the stage for a few songs, sharing the gift of their continuous evolution. Atomic Girl Carrie, The AG Fly Girlz and the entire AG band will deliver with their consistently upbeat celebratory experience they always provide at these Happy Hours, no matter the season, for the past 20+ years! Wanna learn to dance like an Atomic Groove Fly Girl? Come take an AG Fly Girlz Dance Class, taught by Atomic Girl Carrie of Carrie Weiland Fitness. Held at locally-owned boutique fitness facility MB Fit Studio in Solana Beach. Class is held every Tuesday at 630p, Select Saturdays 1230p and Special Edition Thursdays at 630p. All levels welcome, no dance experience needed. Get all AG Friday Happy Hours for one low price plus perkz. Special Holiday Offers: Get $25 off for one single purchase.... or partake in the Group Friends & Fam Discount: buy two get one free (that ends up beiing $75 off each for trio!). Hurry, offer expires soon! CLICK HERE to purchase. www.atomicgroovemusic.com/public-events"
-    },
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "KBong",
-          "apple_music": "https://music.apple.com/us/artist/kbong/703526510",
-          "spotify": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq",
-          "confidence": 1.0,
-          "matched": "KBong",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Johnny Cosmic",
-          "apple_music": "https://music.apple.com/us/artist/johnny-cosmic/555351939",
-          "spotify": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL",
-          "confidence": 1.0,
-          "matched": "Johnny Cosmic",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Swooon",
-          "apple_music": "https://music.apple.com/us/artist/swooon/1883504965",
-          "spotify": "https://open.spotify.com/artist/1NqiQWWEW5SFojbe038i1q",
-          "confidence": 1.0,
-          "matched": "Swooon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/kbong-johnny-cosmic-swooon-belly-up-tickets/14250234?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14250234/kbong-johnny-cosmic-swooon",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": true,
@@ -295,7 +213,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": null
+      "description": "Last year, the Food Bank distributed over 50 million pounds of food, and the Food Bank serves, on average, 400,000 people per month in San Diego County. Through our two warehouse locations and by partnering with more than 450 nonprofit partners, the Food Bank provides nutritious food to individuals and families in need in communities throughout San Diego County."
     },
     {
       "event_type": "music",
@@ -1824,6 +1742,137 @@
     },
     {
       "event_type": "music",
+      "needs_review": true,
+      "headline_artists": [
+        {
+          "name": "Bug Guts",
+          "apple_music": "https://music.apple.com/us/artist/bug-guts/210422471",
+          "spotify": "https://open.spotify.com/artist/1Wmw5VHNni6LPJ0isp07ni",
+          "confidence": 1.0,
+          "matched": "Bug Guts",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Calamity",
+          "apple_music": "https://music.apple.com/us/artist/calamity/1438463233",
+          "spotify": "https://open.spotify.com/artist/4nYOfBeAKHnU0ybltoxq18",
+          "confidence": 1.0,
+          "matched": "Calamity",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Dan Gindling",
+          "apple_music": "https://music.apple.com/us/artist/dan-gindling/710628903",
+          "spotify": "https://open.spotify.com/artist/1q8o9M6eN9OnDXXyX2kXpi",
+          "confidence": 1.0,
+          "matched": "Dan Gindling",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Joel Rafael",
+          "apple_music": "https://music.apple.com/us/artist/joel-rafael/120502231",
+          "spotify": "https://open.spotify.com/artist/5IrGlonoT4oaG6fuL9rytI",
+          "confidence": 1.0,
+          "matched": "Joel Rafael",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "JT Moring Cohort",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: JT Music @ 50%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Lindsay White",
+          "apple_music": "https://music.apple.com/us/artist/lindsay-white/402919912",
+          "spotify": "https://open.spotify.com/artist/4DA0vOymX7i1J6YR5pLvt9",
+          "confidence": 1.0,
+          "matched": "Lindsay White",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Lisa Sanders & Brown Sugar",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Lisa Lisa & Cult Jam @ 52%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Mark Montijo",
+          "apple_music": "https://music.apple.com/us/artist/mark-montijo/518880310",
+          "spotify": "https://open.spotify.com/artist/48rpBPkL6mWHBOWlmmm04j",
+          "confidence": 1.0,
+          "matched": "Mark Montijo",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Peggy Watson & David Beldock",
+          "apple_music": "https://music.apple.com/us/artist/david-beldock-peggy-watson/1829177340",
+          "spotify": "https://open.spotify.com/artist/3pt53w4QgPFFcVeL4qVoGk",
+          "confidence": 0.9,
+          "matched": "David Beldock & Peggy Watson",
+          "apple_label": "close match: David Beldock & Peggy Watson",
+          "spotify_label": "close match: David Beldock & Peggy Watson",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Shawn Rholf",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/544fDHPRyqY9KAe4IolO3B",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Shawn Holt",
+          "spotify_source": "api"
+        },
+        {
+          "name": "James Lee Stanley",
+          "apple_music": "https://music.apple.com/us/artist/james-lee-stanley/5103884",
+          "spotify": "https://open.spotify.com/artist/6VBsOzX05iaVzcEeLdV1Yq",
+          "confidence": 1.0,
+          "matched": "James Lee Stanley",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-06",
+      "doors": null,
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/bug-guts-calamity-dan-gindling-belly-up-tickets/15060463?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15060463/bug-guts-calamity-dan-gindling-joel-rafael-jt-moring-cohort-lindsay-white-lisa-sanders-brown-sugar-mark-montijo-peggy-watson-david-beldock-shawn-rholf-james-lee-stanley",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "One night only, the inaugural San Diego FolkFest will feature performances by a diverse and immensely talented group of Southern California songwriters and musicians."
+    },
+    {
+      "event_type": "music",
       "needs_review": false,
       "headline_artists": [
         {
@@ -2828,6 +2877,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Atomic Groove Happy Hour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": null,
+      "show_time": "5:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14446544?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14446544/atomic-groove-happy-hour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Super Diamond",
           "apple_music": "https://music.apple.com/us/artist/super-diamond/6771701161",
           "spotify": "https://open.spotify.com/artist/2m3jFXO5syfHfhE6YahQ65",
@@ -3044,6 +3124,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Atomic Groove Happy Hour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-12",
+      "doors": null,
+      "show_time": "5:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14446554?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14446554/atomic-groove-happy-hour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Groundation",
           "apple_music": "https://music.apple.com/us/artist/groundation/118019462",
           "spotify": "https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p",
@@ -3115,7 +3226,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dead-mans-party-black-52s-belly-up-tickets/14314214?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14314214/dead-mans-party-black-52s",
       "room": null,
       "age_rating": null,
@@ -3242,6 +3353,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Atomic Groove Happy Hour",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 49%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-19",
+      "doors": null,
+      "show_time": "5:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14446564?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14446564/atomic-groove-happy-hour",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Through the Roots",
           "apple_music": "https://music.apple.com/us/artist/through-the-roots/336986661",
           "spotify": "https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc",
@@ -3354,7 +3496,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/by-george-a-george-harrison-belly-up-tickets/14445084?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14445084/by-george-a-george-harrison-celebration",
       "room": null,
       "age_rating": null,
@@ -3624,7 +3766,7 @@
       "doors": null,
       "show_time": "7:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/nena-andersons-dolly-parton-valentine-belly-up-tickets/14409674?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14409674/nena-andersons-dolly-parton-valentine-with-special-guests",
       "room": null,
       "age_rating": null,
@@ -4226,7 +4368,7 @@
       "doors": null,
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/the-devil-makes-three-belly-up-tickets/14444984?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14444984/the-devil-makes-three",
       "room": null,
       "age_rating": null,
@@ -4446,6 +4588,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "An Alleged Evening",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Allegaeon @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Conor Oberst",
+          "apple_music": "https://music.apple.com/us/artist/conor-oberst/202642374",
+          "spotify": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R",
+          "confidence": 1.0,
+          "matched": "Conor Oberst",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-26",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/an-alleged-evening-with-conor-belly-up-tickets/15055813?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15055813/an-alleged-evening-with-conor-oberst",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Sergio Mendes Band",
           "apple_music": null,
           "spotify": null,
@@ -4579,26 +4763,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 124,
+      "music": 127,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 169,
-      "found": 126,
-      "exact": 105,
+      "unique_artists": 178,
+      "found": 133,
+      "exact": 111,
       "close": 5,
-      "flagged": 16,
-      "not_found": 43
+      "flagged": 17,
+      "not_found": 45
     },
     "spotify": {
-      "unique_artists": 169,
-      "linked": 130,
+      "unique_artists": 178,
+      "linked": 138,
       "venue": 0,
-      "api": 130,
+      "api": 138,
       "feed": 0,
-      "shows_with_link": 92
+      "shows_with_link": 93
     }
   }
 }

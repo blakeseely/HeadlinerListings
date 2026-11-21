@@ -36,52 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 58,
+  "scraped_at": "2026-11-21",
+  "count": 57,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Son Volt",
-          "apple_music": "https://music.apple.com/us/artist/son-volt/147647",
-          "spotify": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
-          "confidence": 1.0,
-          "matched": "Son Volt",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Kelly Willis",
-          "apple_music": "https://music.apple.com/us/artist/kelly-willis/70312",
-          "spotify": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E",
-          "confidence": 1.0,
-          "matched": "Kelly Willis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Pappy & Harriet's Presents:"
-      ],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "8:30 pm",
-      "show_time": "9:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/son-volt-kelly-willis-pappy-harriets-tickets/14438944?theme=PappyandHarriets",
-      "ticket_status": "sold out",
-      "event_page": "https://pappyandharriets.com/calendar",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1808,15 +1765,17 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Trevor M. Keith",
+          "name": "Trever M. Keith & Lilly Hiatt",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Trever M Keith @ 70%)",
+          "spotify_label": "no confident match (closest: Lilly Hiatt @ 70%)",
           "spotify_source": null
-        },
+        }
+      ],
+      "support_artists": [
         {
           "name": "Lilly Hiatt",
           "apple_music": "https://music.apple.com/us/artist/lilly-hiatt/562645998",
@@ -1828,7 +1787,6 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [
@@ -1838,7 +1796,7 @@
       "date": "2027-02-27",
       "doors": "8:30 pm",
       "show_time": "9:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/trevor-m-keith-lilly-hiatt-pappy-harriets-tickets/14445734?theme=PappyandHarriets",
+      "ticket_link": "https://www.ticketweb.com/event/trever-m-keith-lilly-pappy-harriets-tickets/14445734?theme=PappyandHarriets",
       "ticket_status": "on sale",
       "event_page": "https://pappyandharriets.com/calendar",
       "room": null,
@@ -1884,13 +1842,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Umphrey’s McGee – Fresh Cut 2027",
+          "name": "Umphrey's McGee – Fresh Cut 2027",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Umphrey's McGee @ 70%)",
+          "spotify_label": "no confident match (closest: Emacculent @ 24%)",
           "spotify_source": null
         }
       ],
@@ -2412,26 +2370,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 58,
+      "music": 57,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 102,
-      "found": 86,
-      "exact": 80,
+      "unique_artists": 100,
+      "found": 84,
+      "exact": 78,
       "close": 4,
       "flagged": 2,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 102,
-      "linked": 82,
+      "unique_artists": 100,
+      "linked": 80,
       "venue": 0,
-      "api": 82,
+      "api": 80,
       "feed": 0,
-      "shows_with_link": 53
+      "shows_with_link": 52
     }
   }
 }

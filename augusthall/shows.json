@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Eivør",
-          "apple_music": "https://music.apple.com/us/artist/eiv%C3%B8r/259306836",
-          "spotify": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H",
-          "confidence": 1.0,
-          "matched": "Eivør",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "midori jaeger",
-          "apple_music": "https://music.apple.com/us/artist/midori-jaeger/1482434343",
-          "spotify": "https://open.spotify.com/artist/5k8Fqu43UFNxwDjHoeFcrp",
-          "confidence": 1.0,
-          "matched": "midori jaeger",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/eivr-san-francisco-california-11-20-2026/event/1C006497C83DDA61",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/eivor/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1257,6 +1215,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Mya",
+          "apple_music": "https://music.apple.com/us/artist/m%C3%BDa/108751",
+          "spotify": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF",
+          "confidence": 1.0,
+          "matched": "Mýa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-20",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/mya-san-francisco-california-03-20-2027/event/1C006572C2263ECB",
+      "ticket_status": "on sale",
+      "event_page": "https://www.augusthallsf.com/tm-event/mya/",
+      "room": null,
+      "age_rating": "Ages 5+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "VNV Nation",
           "apple_music": "https://music.apple.com/us/artist/vnv-nation/49251259",
           "spotify": "https://open.spotify.com/artist/4KlYg0F5KG9QNDFKaeTNAy",
@@ -1542,18 +1531,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 39,
-      "found": 32,
-      "exact": 29,
+      "unique_artists": 38,
+      "found": 31,
+      "exact": 28,
       "close": 0,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 39,
-      "linked": 32,
+      "unique_artists": 38,
+      "linked": 31,
       "venue": 0,
-      "api": 32,
+      "api": 31,
       "feed": 0,
       "shows_with_link": 29
     }

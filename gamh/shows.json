@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 49,
+  "scraped_at": "2026-11-21",
+  "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jayski and the Dawn",
-          "apple_music": "https://music.apple.com/us/artist/jayski/1717460941",
-          "spotify": "https://open.spotify.com/artist/33wG9ktVFFvNP2e0r73TtL",
-          "confidence": 0.8,
-          "matched": "Jayski",
-          "apple_label": "compound bill — links to Jayski only",
-          "spotify_label": "close match: Jayski",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378232/buy-tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8378232/buy-tickets",
-      "room": null,
-      "age_rating": null,
-      "note": "From $65",
-      "description": "Jayski and the Dawn at Great American Music Hall on Friday 20th November 2026 in San Francisco..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1581,26 +1550,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 48,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 44,
-      "found": 36,
+      "unique_artists": 43,
+      "found": 35,
       "exact": 33,
       "close": 0,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 44,
-      "linked": 36,
+      "unique_artists": 43,
+      "linked": 35,
       "venue": 0,
-      "api": 36,
+      "api": 35,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 36
     }
   }
 }

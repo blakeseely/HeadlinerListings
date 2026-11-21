@@ -36,73 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 50,
+  "scraped_at": "2026-11-21",
+  "count": 49,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Natural Child",
-          "apple_music": "https://music.apple.com/us/artist/natural-child/380478897",
-          "spotify": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt",
-          "confidence": 1.0,
-          "matched": "Natural Child",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Buzzed Lightbeer",
-          "apple_music": "https://music.apple.com/us/artist/buzzed-lightbeer/1509387237",
-          "spotify": "https://open.spotify.com/artist/7DH4ANOgB5wmNwRvm38KZi",
-          "confidence": 1.0,
-          "matched": "Buzzed Lightbeer",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Milk for the Angry",
-          "apple_music": "https://music.apple.com/us/artist/milk-for-the-angry/1361675954",
-          "spotify": "https://open.spotify.com/artist/7zHgdBrZrf6QLOVapWjQlm",
-          "confidence": 1.0,
-          "matched": "Milk for the Angry",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Catnip",
-          "apple_music": "https://music.apple.com/us/artist/catnip/1765205248",
-          "spotify": "https://open.spotify.com/artist/4756Ogon06v9ngH7bMEqUE",
-          "confidence": 1.0,
-          "matched": "Catnip",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Psyched! Radio and Rickshaw Stop Present"
-      ],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/natural-child/688788",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/natural-child/688788",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -471,7 +407,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "TANUKICHAN",
+          "name": "Tanukichan",
           "apple_music": "https://music.apple.com/us/artist/tanukichan/1139641915",
           "spotify": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6",
           "confidence": 1.0,
@@ -481,8 +417,29 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Badvril",
+          "apple_music": "https://music.apple.com/us/artist/badvril/1584699126",
+          "spotify": "https://open.spotify.com/artist/3K8MUSOKCeMlrzYMOYZb0S",
+          "confidence": 1.0,
+          "matched": "Badvril",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Stargirl Mare",
+          "apple_music": "https://music.apple.com/us/artist/stargirl-mare/6808816010",
+          "spotify": "https://open.spotify.com/artist/63ZeJ9JIs5t1SfqwR7Bf02",
+          "confidence": 1.0,
+          "matched": "Stargirl Mare",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -493,7 +450,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/tanukichan/702971",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1254,7 +1211,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/dying-fetus/711295",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/dying-fetus/711295",
       "room": null,
       "age_rating": null,
@@ -1502,7 +1459,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/ash/711690",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/ash/711690",
       "room": null,
       "age_rating": null,
@@ -1719,7 +1676,7 @@
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/knives/711331",
-      "ticket_status": null,
+      "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/knives/711331",
       "room": null,
       "age_rating": null,
@@ -1760,26 +1717,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 49,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 64,
-      "found": 53,
-      "exact": 51,
+      "unique_artists": 62,
+      "found": 51,
+      "exact": 49,
       "close": 0,
       "flagged": 2,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 64,
-      "linked": 54,
+      "unique_artists": 62,
+      "linked": 52,
       "venue": 0,
-      "api": 54,
+      "api": 52,
       "feed": 0,
-      "shows_with_link": 42
+      "shows_with_link": 41
     }
   }
 }

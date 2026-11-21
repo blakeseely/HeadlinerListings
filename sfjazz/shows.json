@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 104,
+  "scraped_at": "2026-11-21",
+  "count": 102,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brittany Davis",
-          "apple_music": "https://music.apple.com/us/artist/brittany-davis/492477461",
-          "spotify": "https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB",
-          "confidence": 1.0,
-          "matched": "Brittany Davis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.sfjazz.org/tickets/productions/26-27/brittany-davis/",
-      "ticket_status": null,
-      "event_page": "https://www.sfjazz.org/tickets/productions/26-27/brittany-davis/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Django Festival Allstars",
-          "apple_music": "https://music.apple.com/us/artist/django-festival-allstars/1104317261",
-          "spotify": "https://open.spotify.com/artist/3qfsfDeal6JCGP4VQegk6W",
-          "confidence": 1.0,
-          "matched": "Django Festival Allstars",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": null,
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.sfjazz.org/tickets/productions/26-27/django-festival-allstars-fall-2026/",
-      "ticket_status": null,
-      "event_page": "https://www.sfjazz.org/tickets/productions/26-27/django-festival-allstars-fall-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3266,26 +3204,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 104,
+      "music": 102,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 72,
-      "found": 34,
-      "exact": 29,
+      "unique_artists": 71,
+      "found": 33,
+      "exact": 28,
       "close": 0,
       "flagged": 5,
       "not_found": 38
     },
     "spotify": {
-      "unique_artists": 72,
-      "linked": 48,
+      "unique_artists": 71,
+      "linked": 47,
       "venue": 0,
-      "api": 48,
+      "api": 47,
       "feed": 0,
-      "shows_with_link": 77
+      "shows_with_link": 75
     }
   }
 }

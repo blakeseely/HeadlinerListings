@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 36,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Thundercat",
-          "apple_music": "https://music.apple.com/us/artist/thundercat/367322286",
-          "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw",
-          "confidence": 1.0,
-          "matched": "Thundercat",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "fera",
-          "apple_music": "https://music.apple.com/us/artist/fera/1729077289",
-          "spotify": "https://open.spotify.com/artist/5bS1mHzddxPeRKnFcF7Er8",
-          "confidence": 1.0,
-          "matched": "Fera",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "DISTRACTED AF TOUR",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1516580/thundercat-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1516580",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1105,7 +1063,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1699788/noga-erez-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1699788",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1190,6 +1148,58 @@
       "ticket_link": "https://www.axs.com/events/1670896/layz-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
       "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1670896",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "HOL! PRESENTS",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Holmes Ives presents @ 73%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "VKTM",
+          "apple_music": "https://music.apple.com/us/artist/vktm/1727751135",
+          "spotify": "https://open.spotify.com/artist/3Hvi9LxTMvcAUxf8GNZKeD",
+          "confidence": 1.0,
+          "matched": "VKTM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Finnuh",
+          "apple_music": "https://music.apple.com/us/artist/finnuh/1449325710",
+          "spotify": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA",
+          "confidence": 1.0,
+          "matched": "Finnuh",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "RIPDUBSTEP NORTH AMERICA TOUR",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-02",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.axs.com/events/1707426/hol-presents-ripdubstep-north-america-tour-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
+      "ticket_status": "on sale",
+      "event_page": "https://www.showboxpresents.com/events/detail/1707426",
       "room": null,
       "age_rating": "18 & Over",
       "note": null,
@@ -1459,7 +1469,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.axs.com/events/1704207/tori-kelly-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "coming soon",
+      "ticket_status": "on sale",
       "event_page": "https://www.showboxpresents.com/events/detail/1704207",
       "room": null,
       "age_rating": "All Ages to Enter, 21 & Over to Drink",
@@ -1590,15 +1600,15 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 72,
+      "unique_artists": 73,
       "found": 68,
       "exact": 63,
       "close": 0,
       "flagged": 5,
-      "not_found": 4
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 72,
+      "unique_artists": 73,
       "linked": 69,
       "venue": 0,
       "api": 69,

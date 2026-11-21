@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
-  "count": 102,
+  "scraped_at": "2026-11-21",
+  "count": 101,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Phoebe Robinson",
-          "apple_music": "https://books.apple.com/us/author/phoebe-robinson/id1093341867",
-          "spotify": "https://open.spotify.com/artist/5tmHmuIHkRlfwhNkZw0pKs",
-          "confidence": 1.0,
-          "matched": "Phoebe Robinson",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/phoebe-robinson/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/phoebe-robinson/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -2770,6 +2739,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Sindhu Vee",
+          "apple_music": "https://books.apple.com/us/artist/sindhu-vee/1577163326",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "Sindhu Vee",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Sindhu Devi @ 76%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Swanky Stand up live",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-24",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.stgpresents.org/events/sindhu-vee/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/sindhu-vee/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Mei Semones",
           "apple_music": "https://music.apple.com/us/artist/mei-semones/1502896956",
           "spotify": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR",
@@ -3061,37 +3061,6 @@
       "ticket_link": "https://www.stgpresents.org/events/enjambre/",
       "ticket_status": "on sale",
       "event_page": "https://www.stgpresents.org/events/enjambre/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Haute & Freddy",
-          "apple_music": "https://music.apple.com/us/artist/haute-freddy/1751891683",
-          "spotify": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR",
-          "confidence": 1.0,
-          "matched": "Haute & Freddy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Bigger Disgrace Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-05-19",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/haute-and-freddy/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/haute-and-freddy/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -3422,25 +3391,25 @@
   "stats": {
     "event_types": {
       "music": 75,
-      "comedy": 20,
+      "comedy": 19,
       "film": 0,
       "other": 7
     },
     "apple_music": {
-      "unique_artists": 97,
-      "found": 82,
-      "exact": 71,
+      "unique_artists": 96,
+      "found": 81,
+      "exact": 70,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 97,
-      "linked": 79,
+      "unique_artists": 96,
+      "linked": 77,
       "venue": 0,
-      "api": 79,
+      "api": 77,
       "feed": 0,
-      "shows_with_link": 77
+      "shows_with_link": 75
     }
   }
 }

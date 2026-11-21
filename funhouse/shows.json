@@ -36,91 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-20",
+  "scraped_at": "2026-11-21",
   "count": 29,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Divinity Productions presents",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Divine Dimensions @ 44%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Defier",
-          "apple_music": "https://music.apple.com/us/artist/defier/1496289352",
-          "spotify": "https://open.spotify.com/artist/1ADaQGvFNHZC4GYmyy6X0a",
-          "confidence": 1.0,
-          "matched": "Defier",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Four Dead Seasons",
-          "apple_music": "https://music.apple.com/us/artist/four-dead-seasons/1509944438",
-          "spotify": "https://open.spotify.com/artist/6diByANF2yoaXuzHwmj5bt",
-          "confidence": 1.0,
-          "matched": "Four Dead Seasons",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Deceiving The Masses",
-          "apple_music": "https://music.apple.com/us/artist/deceiving-the-masses/1727536446",
-          "spotify": "https://open.spotify.com/artist/1vTRD9GroKM1HnWBKhb9H4",
-          "confidence": 1.0,
-          "matched": "Deceiving The Masses",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "City of Reign",
-          "apple_music": "https://music.apple.com/us/artist/city-of-reign/1457212245",
-          "spotify": "https://open.spotify.com/artist/5niRPcBLsvqLYQflAfl3Y9",
-          "confidence": 1.0,
-          "matched": "City Of Reign",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Gore Storm Massacre",
-          "apple_music": "https://music.apple.com/us/artist/gorestorm-massacre/1845715766",
-          "spotify": null,
-          "confidence": 0.973,
-          "matched": "Gorestorm Massacre",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Massacre @ 59%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-20",
-      "doors": "5:30 pm",
-      "show_time": "6:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/divinity-productions-presents-crucible-of-absolution-20-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1306,6 +1224,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Drakulas",
+          "apple_music": "https://music.apple.com/us/artist/drakulas/987304347",
+          "spotify": "https://open.spotify.com/artist/7IAgtmu2mbfjwkqNIeRviN",
+          "confidence": 1.0,
+          "matched": "Drakulas",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Midnight City Dispatch Tour 2027",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/drakulas-midnight-city-dispatch-tour-2027-14-apr",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Uncle Strut",
           "apple_music": "https://music.apple.com/us/artist/uncle-strut/1574215120",
           "spotify": "https://open.spotify.com/artist/6laNc8Rd1uBO9Coxv0EZez",
@@ -1341,18 +1290,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 65,
-      "found": 54,
-      "exact": 50,
-      "close": 1,
+      "unique_artists": 60,
+      "found": 50,
+      "exact": 47,
+      "close": 0,
       "flagged": 3,
-      "not_found": 11
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 65,
-      "linked": 52,
+      "unique_artists": 60,
+      "linked": 49,
       "venue": 0,
-      "api": 52,
+      "api": 49,
       "feed": 0,
       "shows_with_link": 24
     }
