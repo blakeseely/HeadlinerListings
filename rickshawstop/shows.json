@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 49,
+  "scraped_at": "2026-11-22",
+  "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "EMO NITE at Rickshaw Stop - San Francisco, CA",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/5yLt3AwPEISSiNTpdDPbDU",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Emergency Broadcast System (guest DJs)",
-          "apple_music": "https://music.apple.com/us/artist/the-emergency-broadcast-system/1678926755",
-          "spotify": "https://open.spotify.com/artist/4hUCnQY8O191DdopAqW8Cv",
-          "confidence": 1.0,
-          "matched": "The Emergency Broadcast System",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "9:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/709338",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/709338",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -459,7 +417,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "RUBY HAUNT",
+          "name": "Ruby Haunt",
           "apple_music": "https://music.apple.com/us/artist/ruby-haunt/1138827311",
           "spotify": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5",
           "confidence": 1.0,
@@ -469,8 +427,29 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "vhs ghost",
+          "apple_music": "https://music.apple.com/us/artist/vhs-ghost/1551276585",
+          "spotify": "https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl",
+          "confidence": 1.0,
+          "matched": "vhs ghost",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "zz",
+          "apple_music": "https://music.apple.com/us/artist/zz/1593868255",
+          "spotify": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN",
+          "confidence": 1.0,
+          "matched": "ZZ",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -481,7 +460,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/ruby-haunt/697882",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1211,7 +1190,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://wl.seetickets.us/event/dying-fetus/711295",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://wl.seetickets.us/event/dying-fetus/711295",
       "room": null,
       "age_rating": null,
@@ -1717,18 +1696,18 @@
   ],
   "stats": {
     "event_types": {
-      "music": 49,
+      "music": 48,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
       "unique_artists": 62,
-      "found": 51,
-      "exact": 49,
+      "found": 52,
+      "exact": 50,
       "close": 0,
       "flagged": 2,
-      "not_found": 11
+      "not_found": 10
     },
     "spotify": {
       "unique_artists": 62,
@@ -1736,7 +1715,7 @@
       "venue": 0,
       "api": 52,
       "feed": 0,
-      "shows_with_link": 41
+      "shows_with_link": 40
     }
   }
 }

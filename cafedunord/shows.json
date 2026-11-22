@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 39,
+  "scraped_at": "2026-11-22",
+  "count": 38,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Frances Whitney",
-          "apple_music": "https://music.apple.com/us/artist/frances-whitney/1733625918",
-          "spotify": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E",
-          "confidence": 1.0,
-          "matched": "Frances Whitney",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Abby Walker",
-          "apple_music": "https://music.apple.com/us/artist/abby-walker/1733300966",
-          "spotify": "https://open.spotify.com/artist/7jszfbhgcYuNuQt2QR8HCy",
-          "confidence": 1.0,
-          "matched": "Abby Walker",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [
-        "Live Nation presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/frances-whitney-presents-daisys-mixtape-cafe-du-nord-tickets/14341944?pl=cafedunord&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://cafedunord.com/shows/2026-11-21-frances-whitney",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": "Frances Whitney’s California, singer-songwriter roots underpin her intimate, confessional, alternative folk music. Her second EP, Daisy’s Mixtape, arrives this fall."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1482,26 +1438,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 39,
+      "music": 38,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 53,
-      "found": 51,
-      "exact": 48,
+      "unique_artists": 51,
+      "found": 49,
+      "exact": 46,
       "close": 1,
       "flagged": 2,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 51,
+      "unique_artists": 51,
+      "linked": 49,
       "venue": 0,
-      "api": 51,
+      "api": 49,
       "feed": 0,
-      "shows_with_link": 38
+      "shows_with_link": 37
     }
   }
 }

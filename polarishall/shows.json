@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 55,
+  "scraped_at": "2026-11-22",
+  "count": 54,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Teacher Show",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.333,
-          "matched": null,
-          "apple_label": "no confident match (closest: George Michael @ 33%)",
-          "spotify_label": "no confident match (closest: The Teaching @ 64%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Comedy from the Classroom (Night 2)",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/65038002",
-      "ticket_status": "on sale",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "comedy",
       "needs_review": false,
@@ -2083,20 +2052,20 @@
   "stats": {
     "event_types": {
       "music": 53,
-      "comedy": 2,
+      "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 86,
+      "unique_artists": 85,
       "found": 68,
       "exact": 63,
       "close": 2,
       "flagged": 3,
-      "not_found": 18
+      "not_found": 17
     },
     "spotify": {
-      "unique_artists": 86,
+      "unique_artists": 85,
       "linked": 70,
       "venue": 0,
       "api": 70,

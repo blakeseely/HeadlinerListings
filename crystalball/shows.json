@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 53,
+  "scraped_at": "2026-11-22",
+  "count": 52,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "90's Dance Flashback",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Flashback 90 @ 70%)",
-          "spotify_label": "no confident match (closest: Salaam Remi @ 32%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Dance Flashback Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/47868780/90s2010s-dance-flashback-portland-mcmenamins-crystal-ballroom",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/278430-90s-dance-flashback/",
-      "room": null,
-      "age_rating": "21 and over",
-      "note": null,
-      "description": "Ticket allows entry to the ’90s Dance Flashback party in Crystal Ballroom AND the 2010s Dance Flashback party in Lola’s Room The 90s are alive in Portland! For over 13 years Dance Flashback has put on the best decade themed parties in the northwest. Come dance to only the best 90s music videos on giant video screens. Featuring music by T.L.C., Snoop Dog, Britney Spears, N’Sync, The Beastie Boys, Salt-N-Pepa, Biggie, The Spice Girls, Outkast and so much more…"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -555,12 +522,24 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "\"December to Remember\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: A Day to Remember @ 70%)",
+          "spotify_label": "no confident match (closest: December Joy @ 59%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
-      "multi_artist": false,
+      "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "94/7FM KNRK presents"
+      ],
       "set_format": null,
       "date": "2026-12-13",
       "doors": "6:30 pm",
@@ -1967,21 +1946,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 51,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 70,
+      "unique_artists": 69,
       "found": 48,
       "exact": 47,
       "close": 1,
       "flagged": 0,
-      "not_found": 22
+      "not_found": 21
     },
     "spotify": {
-      "unique_artists": 70,
+      "unique_artists": 69,
       "linked": 50,
       "venue": 0,
       "api": 50,

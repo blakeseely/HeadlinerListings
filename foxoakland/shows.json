@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 32,
+  "scraped_at": "2026-11-22",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Pretty Lights",
-          "apple_music": "https://music.apple.com/us/artist/pretty-lights/294600594",
-          "spotify": "https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q",
-          "confidence": 1.0,
-          "matched": "Pretty Lights",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Three Nights! — Soundship Space Bus Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/pretty-lights-18-1121-oakland-california-11-21-2026/event/1C0064DB89FE66D8?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
-      "ticket_status": "on sale",
-      "event_page": "https://thefoxoakland.com/events/pretty-lights-261121",
-      "room": null,
-      "age_rating": "18 and over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1184,26 +1153,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 27,
       "comedy": 4,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 37,
-      "found": 35,
-      "exact": 33,
+      "unique_artists": 36,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
       "not_found": 2
     },
     "spotify": {
-      "unique_artists": 37,
-      "linked": 36,
-      "venue": 32,
+      "unique_artists": 36,
+      "linked": 35,
+      "venue": 31,
       "api": 4,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 30
     }
   }
 }

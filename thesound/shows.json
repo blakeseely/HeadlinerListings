@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 26,
+  "scraped_at": "2026-11-22",
+  "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Houndmouth",
-          "apple_music": "https://music.apple.com/us/artist/houndmouth/552021268",
-          "spotify": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5",
-          "confidence": 1.0,
-          "matched": "Houndmouth",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Dogpark",
-          "apple_music": "https://music.apple.com/us/artist/dogpark/1710263796",
-          "spotify": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7",
-          "confidence": 1.0,
-          "matched": "Dogpark",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The LORDY Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/houndmouth-the-lordy-the-sound-tickets/14262974?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14262974/houndmouth-the-lordy-tour-w-dogpark",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1013,26 +971,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 26,
+      "music": 25,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
-      "found": 34,
-      "exact": 31,
+      "unique_artists": 36,
+      "found": 32,
+      "exact": 29,
       "close": 2,
       "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 38,
-      "linked": 35,
+      "unique_artists": 36,
+      "linked": 33,
       "venue": 0,
-      "api": 35,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 22
     }
   }
 }

@@ -36,60 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 127,
+  "scraped_at": "2026-11-22",
+  "count": 126,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": true,
-      "headline_artists": [
-        {
-          "name": "KBong",
-          "apple_music": "https://music.apple.com/us/artist/kbong/703526510",
-          "spotify": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq",
-          "confidence": 1.0,
-          "matched": "KBong",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Johnny Cosmic",
-          "apple_music": "https://music.apple.com/us/artist/johnny-cosmic/555351939",
-          "spotify": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL",
-          "confidence": 1.0,
-          "matched": "Johnny Cosmic",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Brendan Clemente",
-          "apple_music": "https://music.apple.com/us/artist/brendan-clemente/1500801344",
-          "spotify": "https://open.spotify.com/artist/4T6WnZHyq3zzd2gcqIpBk9",
-          "confidence": 1.0,
-          "matched": "Brendan Clemente",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/kbong-johnny-cosmic-brendan-clemente-belly-up-tickets/14250254?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14250254/kbong-johnny-cosmic-brendan-clemente",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1552,7 +1501,7 @@
       "room": null,
       "age_rating": null,
       "note": null,
-      "description": null
+      "description": "Party into the New Year with The Floozies at the Belly Up! To help prevent fraud and protect against scammers, your tickets will be emailed to you via TicketWeb 72 hours before the show."
     },
     {
       "event_type": "music",
@@ -4763,26 +4712,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 127,
+      "music": 126,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 178,
-      "found": 133,
-      "exact": 111,
+      "unique_artists": 175,
+      "found": 130,
+      "exact": 108,
       "close": 5,
       "flagged": 17,
       "not_found": 45
     },
     "spotify": {
-      "unique_artists": 178,
-      "linked": 138,
+      "unique_artists": 175,
+      "linked": 135,
       "venue": 0,
-      "api": 138,
+      "api": 135,
       "feed": 0,
-      "shows_with_link": 93
+      "shows_with_link": 92
     }
   }
 }

@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 104,
+  "scraped_at": "2026-11-22",
+  "count": 103,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Q Marsden",
-          "apple_music": "https://music.apple.com/us/artist/q-marsden/1132308977",
-          "spotify": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3",
-          "confidence": 1.0,
-          "matched": "Q Marsden",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "RAHM",
-          "apple_music": "https://music.apple.com/us/artist/rahm/1502765060",
-          "spotify": "https://open.spotify.com/artist/0d5QT5iD8kwkVqqBolki7F",
-          "confidence": 1.0,
-          "matched": "Rahm",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/q-marsden-the-independent-tickets/15020333?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/q-marsden/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3891,26 +3849,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 104,
+      "music": 103,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 149,
-      "found": 132,
-      "exact": 124,
+      "unique_artists": 147,
+      "found": 130,
+      "exact": 122,
       "close": 2,
       "flagged": 6,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 149,
-      "linked": 134,
+      "unique_artists": 147,
+      "linked": 132,
       "venue": 98,
-      "api": 36,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 101
+      "shows_with_link": 100
     }
   }
 }

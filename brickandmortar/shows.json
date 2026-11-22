@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 20,
+  "scraped_at": "2026-11-22",
+  "count": 21,
   "shows": [
     {
       "event_type": "music",
@@ -177,7 +177,7 @@
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/gorilla-glue-lil-nakur-brick-and-mortar-music-hall-tickets/14437764?pl=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
+      "ticket_status": "sold out",
       "event_page": "https://www.brickandmortarmusic.com/tm-event/gorilla-glue-lil-nakur/",
       "room": null,
       "age_rating": "All Ages",
@@ -730,30 +730,61 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Lightris & Ekebabyy",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Lightris",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-22",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/lightris-ekebabyy-sero-brick-and-mortar-music-hall-tickets/15055803?pl=bnm&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/lightris-ekebabyy/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Exploding onto the scene in early 2026 with the viral song Kwik Trip, Milwaukee artist Lightris quickly made a name for himself, creating one-of-a-kind songs using an eclectic mix of sounds, including but not limited to Dembow, New Jack Swing, and Milwaukee hip-hop."
     }
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 21,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 25,
+      "unique_artists": 26,
       "found": 23,
       "exact": 22,
       "close": 1,
       "flagged": 0,
-      "not_found": 2
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 25,
-      "linked": 23,
+      "unique_artists": 26,
+      "linked": 24,
       "venue": 10,
-      "api": 13,
+      "api": 14,
       "feed": 0,
-      "shows_with_link": 18
+      "shows_with_link": 19
     }
   }
 }

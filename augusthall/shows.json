@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 45,
+  "scraped_at": "2026-11-22",
+  "count": 44,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Agriculture",
-          "apple_music": "https://music.apple.com/us/artist/agriculture/1620725472",
-          "spotify": "https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY",
-          "confidence": 1.0,
-          "matched": "Agriculture",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Dry Socket and Pure Hex",
-          "apple_music": "https://music.apple.com/us/artist/dry-socket/1483259560",
-          "spotify": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm",
-          "confidence": 0.95,
-          "matched": "Dry Socket",
-          "apple_label": "compound bill — links to Dry Socket only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/agriculture-san-francisco-california-11-21-2026/event/1C0064D8E4628954",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/agriculture/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1525,26 +1483,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 38,
-      "found": 31,
-      "exact": 28,
+      "unique_artists": 36,
+      "found": 29,
+      "exact": 27,
       "close": 0,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 38,
-      "linked": 31,
+      "unique_artists": 36,
+      "linked": 29,
       "venue": 0,
-      "api": 31,
+      "api": 29,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 28
     }
   }
 }

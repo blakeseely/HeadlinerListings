@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 50,
+  "scraped_at": "2026-11-22",
+  "count": 49,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jai Wolf",
-          "apple_music": "https://music.apple.com/us/artist/jai-wolf/896670451",
-          "spotify": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw",
-          "confidence": 1.0,
-          "matched": "Jai Wolf",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Conrad",
-          "apple_music": "https://music.apple.com/us/artist/conrad/1504597473",
-          "spotify": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC",
-          "confidence": 1.0,
-          "matched": "Conrad",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "10 Year Anniversary Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "9:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.axs.com/events/1495149/jai-wolf-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1495149",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1959,26 +1917,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 50,
+      "music": 49,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 82,
-      "found": 73,
-      "exact": 68,
+      "unique_artists": 80,
+      "found": 71,
+      "exact": 66,
       "close": 1,
       "flagged": 4,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 82,
-      "linked": 74,
+      "unique_artists": 80,
+      "linked": 72,
       "venue": 0,
-      "api": 74,
+      "api": 72,
       "feed": 0,
-      "shows_with_link": 46
+      "shows_with_link": 45
     }
   }
 }

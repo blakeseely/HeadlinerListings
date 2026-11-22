@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 53,
+  "scraped_at": "2026-11-22",
+  "count": 52,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "BERTHA",
-          "apple_music": "https://music.apple.com/us/artist/bertha-grateful-drag/1743215675",
-          "spotify": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9",
-          "confidence": 0.95,
-          "matched": "BERTHA: Grateful Drag",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The World's First All-Drag Grateful Dead Tribute Band",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Grateful Dead @ 70%)",
-          "spotify_label": "no confident match (closest: Grateful Dead @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Grateful Drag",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/bertha-grateful-drag-261121",
-      "room": null,
-      "age_rating": "all ages",
-      "note": null,
-      "description": "BERTHA: Grateful Drag are the world’s first and only drag-infused Grateful Dead tribute band, born in Tennessee in 2023 as a joyful, defiant response to anti-drag legislation. What began as a one-night experiment quickly sold out, caught the attention of Rolling Stone and the San Francisco Chronicle, and grew into an all-star, Nashville-based roots collective. Blending high-octane late 70’s / early 80’s Dead sound Dead energy with powerhouse female vocals, BERTHA delivers the classic two-set, three-hour Grateful Dead experience complete with fresh setlists every night. Each show also features local drag or burlesque performers and raises funds for LGBTQ+ organizations, turning every performance into both a celebration and a cause.Equal parts jam-band devotion and queer joy, BERTHA has first-timers and Deadheads alike waving that flag wide and bi"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1916,26 +1874,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 52,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
-      "found": 60,
+      "unique_artists": 64,
+      "found": 59,
       "exact": 54,
-      "close": 2,
+      "close": 1,
       "flagged": 4,
-      "not_found": 6
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 66,
-      "linked": 59,
+      "unique_artists": 64,
+      "linked": 58,
       "venue": 47,
-      "api": 12,
+      "api": 11,
       "feed": 0,
-      "shows_with_link": 48
+      "shows_with_link": 47
     }
   }
 }

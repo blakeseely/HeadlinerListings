@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 101,
+  "scraped_at": "2026-11-22",
+  "count": 99,
   "shows": [
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Emily Catalano",
-          "apple_music": "https://music.apple.com/us/artist/emily-catalano/1745774102",
-          "spotify": "https://open.spotify.com/artist/2tWdadRDBI95PuP2I1bx4V",
-          "confidence": 1.0,
-          "matched": "Emily Catalano",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": null,
-      "show_time": "6:30 pm",
-      "ticket_link": "https://www.stgpresents.org/events/emily-catalano/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/emily-catalano/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "comedy",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Emily Catalano",
-          "apple_music": "https://music.apple.com/us/artist/emily-catalano/1745774102",
-          "spotify": "https://open.spotify.com/artist/2tWdadRDBI95PuP2I1bx4V",
-          "confidence": 1.0,
-          "matched": "Emily Catalano",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/emily-catalano/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/emily-catalano/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3391,25 +3329,25 @@
   "stats": {
     "event_types": {
       "music": 75,
-      "comedy": 19,
+      "comedy": 17,
       "film": 0,
       "other": 7
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 81,
-      "exact": 70,
+      "unique_artists": 95,
+      "found": 80,
+      "exact": 69,
       "close": 3,
       "flagged": 8,
       "not_found": 15
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 77,
+      "unique_artists": 95,
+      "linked": 76,
       "venue": 0,
-      "api": 77,
+      "api": 76,
       "feed": 0,
-      "shows_with_link": 75
+      "shows_with_link": 73
     }
   }
 }

@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 33,
+  "scraped_at": "2026-11-22",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Mountain Goats",
-          "apple_music": "https://music.apple.com/us/artist/the-mountain-goats/4978336",
-          "spotify": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5",
-          "confidence": 1.0,
-          "matched": "The Mountain Goats",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Night Six: Closers",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/the-mountain-goats-night-six-closers-san-francisco-california-11-21-2026/event/1C0064C40B9DB43D",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/the-mountain-goats-night-six-closers-san-francisco-california-11-21-2026/event/1C0064C40B9DB43D",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1432,30 +1401,113 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 7:00pm / Show 8:00pm This shows is strictly 16+ (no exceptions)"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "An Evening With They Might Be Giants",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/4mvJqW3HQswIu7RmvcAQUy",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: Evening Elephants",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "The Big Show Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-07",
+      "doors": "7:00 pm",
+      "show_time": null,
+      "ticket_link": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-07-2027/event/1C0065579F51F0E5",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/an-evening-with-they-might-be-san-francisco-california-03-07-2027/event/1C0065579F51F0E5",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm This shows is strictly 16+ (no exceptions)"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Haken",
+          "apple_music": "https://music.apple.com/us/artist/haken/363702196",
+          "spotify": "https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt",
+          "confidence": 1.0,
+          "matched": "Haken",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Thank You Scientist",
+          "apple_music": "https://music.apple.com/us/artist/thank-you-scientist/414127865",
+          "spotify": "https://open.spotify.com/artist/4YygB8sfxuIcj2p0G9kpQ5",
+          "confidence": 1.0,
+          "matched": "Thank You Scientist",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Einar Solberg",
+          "apple_music": "https://music.apple.com/us/artist/einar-solberg/452416052",
+          "spotify": "https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv",
+          "confidence": 1.0,
+          "matched": "Einar Solberg",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "In A Fever Dream Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/haken-in-a-fever-dream-tour-san-francisco-california-03-10-2027/event/1C00654C9D8C8E5F",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/haken-in-a-fever-dream-tour-san-francisco-california-03-10-2027/event/1C00654C9D8C8E5F",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 6:00pm / Show 7:00pm"
     }
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 45,
-      "found": 41,
-      "exact": 39,
+      "unique_artists": 47,
+      "found": 43,
+      "exact": 41,
       "close": 0,
       "flagged": 2,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 45,
-      "linked": 42,
+      "unique_artists": 47,
+      "linked": 44,
       "venue": 0,
-      "api": 42,
+      "api": 44,
       "feed": 0,
-      "shows_with_link": 31
+      "shows_with_link": 32
     }
   }
 }

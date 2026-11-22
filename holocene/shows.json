@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 47,
+  "scraped_at": "2026-11-22",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Laffy Taffy Presents: Twerky Twerky Twerky (A Friendsgiving Function)",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Laffy taffy @ 70%)",
-          "spotify_label": "no confident match (closest: MAF Teeski @ 27%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/80717807/laffy-taffy-presents-twerky-twerky-twerky-a-friendsgiving-function-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-21-laffy-taffy-presents-twerky-twerky-twerky-a-friendsgiving-function",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1676,21 +1645,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 43,
+      "music": 42,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 58,
+      "unique_artists": 57,
       "found": 31,
       "exact": 26,
       "close": 1,
       "flagged": 4,
-      "not_found": 27
+      "not_found": 26
     },
     "spotify": {
-      "unique_artists": 58,
+      "unique_artists": 57,
       "linked": 32,
       "venue": 0,
       "api": 32,

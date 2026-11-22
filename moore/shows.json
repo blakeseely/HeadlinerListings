@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-21",
-  "count": 57,
+  "scraped_at": "2026-11-22",
+  "count": 56,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Switchfoot",
-          "apple_music": "https://music.apple.com/us/artist/switchfoot/655658",
-          "spotify": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu",
-          "confidence": 1.0,
-          "matched": "Switchfoot",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Anberlin",
-          "apple_music": "https://music.apple.com/us/artist/anberlin/16269045",
-          "spotify": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp",
-          "confidence": 1.0,
-          "matched": "Anberlin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-21",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/switchfoot/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/switchfoot/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "other",
       "needs_review": false,
@@ -1926,26 +1884,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 32,
       "comedy": 10,
       "film": 0,
       "other": 14
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 43,
-      "exact": 37,
+      "unique_artists": 54,
+      "found": 41,
+      "exact": 35,
       "close": 1,
       "flagged": 5,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 42,
+      "unique_artists": 54,
+      "linked": 40,
       "venue": 0,
-      "api": 42,
+      "api": 40,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 34
     }
   }
 }
