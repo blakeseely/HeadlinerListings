@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 100,
+  "scraped_at": "2026-11-23",
+  "count": 98,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sarah Hanahan Quartet",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4iebgPzHrK3G5qzTp4oCbC",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Sarah Hanahan",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": null,
-      "show_time": "6:00 pm",
-      "ticket_link": "https://www.sfjazz.org/tickets/productions/26-27/sarah-hanahan-quartet/",
-      "ticket_status": null,
-      "event_page": "https://www.sfjazz.org/tickets/productions/26-27/sarah-hanahan-quartet/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brian Blade & The Fellowship Band",
-          "apple_music": "https://music.apple.com/us/artist/brian-blade-the-fellowship-band/278643307",
-          "spotify": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF",
-          "confidence": 1.0,
-          "matched": "Brian Blade & The Fellowship Band",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.sfjazz.org/tickets/productions/26-27/brian-blade-the-fellowship-band/",
-      "ticket_status": null,
-      "event_page": "https://www.sfjazz.org/tickets/productions/26-27/brian-blade-the-fellowship-band/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3142,26 +3080,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 100,
+      "music": 98,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 70,
-      "found": 33,
-      "exact": 28,
+      "unique_artists": 68,
+      "found": 32,
+      "exact": 27,
       "close": 0,
       "flagged": 5,
-      "not_found": 37
+      "not_found": 36
     },
     "spotify": {
-      "unique_artists": 70,
-      "linked": 46,
+      "unique_artists": 68,
+      "linked": 44,
       "venue": 0,
-      "api": 46,
+      "api": 44,
       "feed": 0,
-      "shows_with_link": 73
+      "shows_with_link": 71
     }
   }
 }

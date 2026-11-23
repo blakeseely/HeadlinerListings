@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 25,
+  "scraped_at": "2026-11-23",
+  "count": 24,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Clara La San",
-          "apple_music": "https://music.apple.com/us/artist/clara-la-san/845271893",
-          "spotify": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj",
-          "confidence": 1.0,
-          "matched": "Clara La San",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "SAUSHA",
-          "apple_music": "https://music.apple.com/us/artist/sausha/1783612520",
-          "spotify": "https://open.spotify.com/artist/3NVd63ya53odOWhNyCE3k8",
-          "confidence": 1.0,
-          "matched": "SAUSHA",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Chosen Silences Tour Fall 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/clara-la-san-the-sound-tickets/15035903?REFID=bupwebsite",
-      "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/15035903/clara-la-san-chosen-silences-tour-fall-2026-w-sausha",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -971,26 +929,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 25,
+      "music": 24,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 32,
-      "exact": 29,
+      "unique_artists": 34,
+      "found": 30,
+      "exact": 27,
       "close": 2,
       "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 33,
+      "unique_artists": 34,
+      "linked": 31,
       "venue": 0,
-      "api": 33,
+      "api": 31,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 21
     }
   }
 }

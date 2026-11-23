@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
+  "scraped_at": "2026-11-23",
   "count": 21,
   "shows": [
     {
@@ -458,6 +458,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Bay Area Bands Winter Showcase",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Bay Area Rising @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-13",
+      "doors": "6:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/bay-area-bands-winter-showcase-brick-and-mortar-music-hall-tickets/15065073?pl=bnm&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/bay-area-bands-winter-showcase/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Soos",
           "apple_music": "https://music.apple.com/us/artist/soos/1758703724",
           "spotify": "https://open.spotify.com/artist/7tlbt55BMHgO3pL7kps1Bh",
@@ -730,37 +761,6 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Lightris & Ekebabyy",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: Lightris",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-01-22",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/lightris-ekebabyy-sero-brick-and-mortar-music-hall-tickets/15055803?pl=bnm&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/lightris-ekebabyy/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Exploding onto the scene in early 2026 with the viral song Kwik Trip, Milwaukee artist Lightris quickly made a name for himself, creating one-of-a-kind songs using an eclectic mix of sounds, including but not limited to Dembow, New Jack Swing, and Milwaukee hip-hop."
     }
   ],
   "stats": {
@@ -780,11 +780,11 @@
     },
     "spotify": {
       "unique_artists": 26,
-      "linked": 24,
+      "linked": 23,
       "venue": 10,
-      "api": 14,
+      "api": 13,
       "feed": 0,
-      "shows_with_link": 19
+      "shows_with_link": 18
     }
   }
 }

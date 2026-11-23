@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 103,
+  "scraped_at": "2026-11-23",
+  "count": 102,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Mark William Lewis",
-          "apple_music": "https://music.apple.com/us/artist/mark-william-lewis/1547525149",
-          "spotify": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k",
-          "confidence": 1.0,
-          "matched": "mark william lewis",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "claire rousay",
-          "apple_music": "https://music.apple.com/us/artist/claire-rousay/1467815164",
-          "spotify": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq",
-          "confidence": 1.0,
-          "matched": "claire rousay",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/mark-william-lewis-the-independent-tickets/14271174?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/mark-william-lewis/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3849,26 +3807,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 103,
+      "music": 102,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 147,
-      "found": 130,
-      "exact": 122,
+      "unique_artists": 145,
+      "found": 128,
+      "exact": 120,
       "close": 2,
       "flagged": 6,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 147,
-      "linked": 132,
-      "venue": 98,
-      "api": 34,
+      "unique_artists": 145,
+      "linked": 130,
+      "venue": 97,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 100
+      "shows_with_link": 99
     }
   }
 }

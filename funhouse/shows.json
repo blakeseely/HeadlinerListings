@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 28,
+  "scraped_at": "2026-11-23",
+  "count": 27,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Brokencyde",
-          "apple_music": "https://music.apple.com/us/artist/brokencyde/266962025",
-          "spotify": "https://open.spotify.com/artist/22WwE0lMmGx4AJeyUfT7rh",
-          "confidence": 1.0,
-          "matched": "Brokencyde",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Dot Dot Curve :)",
-          "apple_music": "https://music.apple.com/us/artist/dot-dot-curve/305696063",
-          "spotify": "https://open.spotify.com/artist/5RfBjStwyB6Me27I1m2wED",
-          "confidence": 0.9,
-          "matched": "Dot Dot Curve",
-          "apple_label": "close match: Dot Dot Curve",
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Nitrah Neon",
-          "apple_music": "https://music.apple.com/us/artist/nitrah-neon/1121271918",
-          "spotify": "https://open.spotify.com/artist/6pAjp4YxDc5VzikoFBOh6o",
-          "confidence": 1.0,
-          "matched": "Nitrah Neon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "A Very Scary Crunkmas Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/brokencyde-a-very-scary-crunkmas-tour-22-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1067,8 +1015,39 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Holy Death Temple",
+          "apple_music": "https://music.apple.com/us/artist/holy-death-temple/1800934708",
+          "spotify": "https://open.spotify.com/artist/6hYyMKMSbeNh4ukG7QlVNq",
+          "confidence": 1.0,
+          "matched": "Holy Death Temple",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Hospital Lies",
+          "apple_music": "https://music.apple.com/us/artist/hospital-lies/1527919778",
+          "spotify": "https://open.spotify.com/artist/1a8tGQiJKYdDDgfQQ2qRU0",
+          "confidence": 1.0,
+          "matched": "Hospital Lies",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Noir Addiction",
+          "apple_music": "https://music.apple.com/us/artist/noir-addiction/1817678757",
+          "spotify": "https://open.spotify.com/artist/0vployUBHcI3DnWWhkFZp2",
+          "confidence": 1.0,
+          "matched": "Noir Addiction",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "The Airwaves World Tour",
       "presenters": [],
       "set_format": null,
@@ -1232,7 +1211,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 27,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1240,9 +1219,9 @@
     "apple_music": {
       "unique_artists": 57,
       "found": 47,
-      "exact": 45,
+      "exact": 46,
       "close": 0,
-      "flagged": 2,
+      "flagged": 1,
       "not_found": 10
     },
     "spotify": {
@@ -1251,7 +1230,7 @@
       "venue": 0,
       "api": 46,
       "feed": 0,
-      "shows_with_link": 23
+      "shows_with_link": 22
     }
   }
 }

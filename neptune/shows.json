@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 99,
+  "scraped_at": "2026-11-23",
+  "count": 98,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Music of Hey Arnold! Live!",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.7,
-          "matched": null,
-          "apple_label": "no confident match (closest: Hey Arnold @ 70%)",
-          "spotify_label": "no confident match (closest: Hey Arnold! @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Feat. Jim Lang and The PS 118 AllStars with Special Guest Craig Bartlett",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/the-music-of-hey-arnold-live/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/the-music-of-hey-arnold-live/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3328,21 +3297,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 75,
+      "music": 74,
       "comedy": 17,
       "film": 0,
       "other": 7
     },
     "apple_music": {
-      "unique_artists": 95,
+      "unique_artists": 94,
       "found": 80,
       "exact": 69,
       "close": 3,
       "flagged": 8,
-      "not_found": 15
+      "not_found": 14
     },
     "spotify": {
-      "unique_artists": 95,
+      "unique_artists": 94,
       "linked": 76,
       "venue": 0,
       "api": 76,

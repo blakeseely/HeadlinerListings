@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 44,
+  "scraped_at": "2026-11-23",
+  "count": 43,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Boston Manor",
-          "apple_music": "https://music.apple.com/us/artist/boston-manor/453487358",
-          "spotify": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM",
-          "confidence": 1.0,
-          "matched": "Boston Manor",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ben Quad and Super Sometimes",
-          "apple_music": "https://music.apple.com/us/artist/ben-quad/1433413372",
-          "spotify": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE",
-          "confidence": 0.95,
-          "matched": "Ben Quad",
-          "apple_label": "compound bill — links to Ben Quad only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.ticketmaster.com/boston-manor-san-francisco-california-11-22-2026/event/1C0064B5D4474F7F",
-      "ticket_status": "on sale",
-      "event_page": "https://www.augusthallsf.com/tm-event/boston-manor/",
-      "room": null,
-      "age_rating": "5 and Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1483,26 +1441,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 29,
-      "exact": 27,
+      "unique_artists": 34,
+      "found": 27,
+      "exact": 26,
       "close": 0,
-      "flagged": 2,
+      "flagged": 1,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 29,
+      "unique_artists": 34,
+      "linked": 27,
       "venue": 0,
-      "api": 29,
+      "api": 27,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 27
     }
   }
 }

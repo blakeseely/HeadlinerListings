@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 126,
+  "scraped_at": "2026-11-23",
+  "count": 125,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Andrew McMahon and his piano",
-          "apple_music": "https://music.apple.com/us/artist/andrew-mcmahon/3193956",
-          "spotify": "https://open.spotify.com/artist/4DkJSlXifrArtzO0Zf3OLk",
-          "confidence": 0.95,
-          "matched": "Andrew McMahon",
-          "apple_label": "compound bill — links to Andrew McMahon only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "very special guest Ivory Layne",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Ivory Layne @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153?REFID=bupwebsite",
-      "ticket_status": "sold out",
-      "event_page": "https://bellyup.com/calendar/14974153/andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4712,26 +4670,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 126,
+      "music": 125,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 175,
-      "found": 130,
+      "unique_artists": 173,
+      "found": 129,
       "exact": 108,
       "close": 5,
-      "flagged": 17,
-      "not_found": 45
+      "flagged": 16,
+      "not_found": 44
     },
     "spotify": {
-      "unique_artists": 175,
-      "linked": 135,
+      "unique_artists": 173,
+      "linked": 134,
       "venue": 0,
-      "api": 135,
+      "api": 134,
       "feed": 0,
-      "shows_with_link": 92
+      "shows_with_link": 91
     }
   }
 }

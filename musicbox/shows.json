@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-22",
-  "count": 38,
+  "scraped_at": "2026-11-23",
+  "count": 37,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Wrecks",
-          "apple_music": "https://music.apple.com/us/artist/the-wrecks/1027163978",
-          "spotify": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34",
-          "confidence": 1.0,
-          "matched": "The Wrecks",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Worry Club & Kid Sistr",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl",
-          "confidence": 0.294,
-          "matched": null,
-          "apple_label": "no confident match (closest: Dire Straits @ 29%)",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Finally : OUTSIDE Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-22",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14204254/the-wrecks-finally-outside-tour-w-worry-club-kid-sistr",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Intent of this condition is to allow sale and service of food to minors in a bona fide public eating place with reasonable conditions placed to prevent curfew violations, protect the minors from alcohol and other criminal activity."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1109,6 +1067,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Lunasa",
+          "apple_music": "https://music.apple.com/us/artist/l%C3%BAnasa/129169614",
+          "spotify": "https://open.spotify.com/artist/020YMlk8jpd2AKUi5B0OK1",
+          "confidence": 1.0,
+          "matched": "Lúnasa",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-10",
+      "doors": null,
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/lunasa-music-box-tickets/15043003?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15043003/lunasa",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Little Big",
           "apple_music": "https://music.apple.com/us/artist/little-big/310964912",
           "spotify": "https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB",
@@ -1326,37 +1315,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Leo Middea",
-          "apple_music": "https://music.apple.com/us/artist/leo-middea/980727000",
-          "spotify": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG",
-          "confidence": 1.0,
-          "matched": "Leo Middea",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "US & Canada Tour 2027",
-      "presenters": [],
-      "set_format": null,
-      "date": "2027-05-20",
-      "doors": null,
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/leo-middea-us-music-box-tickets/14381424?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14381424/leo-middea-us-canada-tour-2027",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Whitney",
           "apple_music": "https://music.apple.com/us/artist/whitney/1076723147",
           "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G",
@@ -1439,26 +1397,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 37,
+      "music": 36,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 58,
-      "found": 46,
-      "exact": 42,
+      "unique_artists": 56,
+      "found": 45,
+      "exact": 41,
       "close": 0,
       "flagged": 4,
-      "not_found": 12
+      "not_found": 11
     },
     "spotify": {
-      "unique_artists": 58,
-      "linked": 48,
+      "unique_artists": 56,
+      "linked": 46,
       "venue": 0,
-      "api": 48,
+      "api": 46,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }
