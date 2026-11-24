@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
+  "scraped_at": "2026-11-24",
   "count": 35,
   "shows": [
     {
@@ -185,6 +185,16 @@
           "spotify": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ",
           "confidence": 1.0,
           "matched": "Doctor P",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "TwoPercent",
+          "apple_music": "https://music.apple.com/us/artist/twopercent/1438901471",
+          "spotify": "https://open.spotify.com/artist/4Gm9RrVjqWXfS1ew8UeAT8",
+          "confidence": 1.0,
+          "matched": "Twopercent",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1538,18 +1548,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 69,
-      "found": 64,
-      "exact": 60,
+      "unique_artists": 70,
+      "found": 65,
+      "exact": 61,
       "close": 0,
       "flagged": 4,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 69,
-      "linked": 65,
+      "unique_artists": 70,
+      "linked": 66,
       "venue": 0,
-      "api": 65,
+      "api": 66,
       "feed": 0,
       "shows_with_link": 33
     }
