@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
+  "scraped_at": "2026-11-24",
   "count": 24,
   "shows": [
     {
@@ -54,8 +54,19 @@
           "spotify_source": null
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Moondough",
+          "apple_music": "https://music.apple.com/us/artist/moondough/1479465923",
+          "spotify": "https://open.spotify.com/artist/0kRKKlFroEhNFwLkonqTBv",
+          "confidence": 1.0,
+          "matched": "Moondough",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Young the Giant"
@@ -66,7 +77,7 @@
       "show_time": "8:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/young-the-giant-the-sound-tickets/14339864?REFID=bupwebsite",
       "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14339864/young-the-giant-presented-by-alt-94-9s-december-to-remember",
+      "event_page": "https://bellyup.com/calendar/14339864/young-the-giant-presented-by-alt-94-9s-december-to-remember-w-moondough",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -77,29 +88,38 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "by Alt 94.9's December to Remember",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
+          "name": "Cannons",
+          "apple_music": "https://music.apple.com/us/artist/cannons/65568551",
+          "spotify": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B",
+          "confidence": 1.0,
+          "matched": "Cannons",
           "apple_label": null,
-          "spotify_label": "no confident match (closest: The Decemberists @ 44%)",
-          "spotify_source": null
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Cannons"
+      "support_artists": [
+        {
+          "name": "Tania Cassette",
+          "apple_music": "https://music.apple.com/us/artist/tania-cassette/1880035468",
+          "spotify": "https://open.spotify.com/artist/7b9ea1qYy8iXBCjGTWphtK",
+          "confidence": 1.0,
+          "matched": "Tania Cassette",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
       ],
+      "multi_artist": true,
+      "show_title": "pres by Alt 94.9's December to Remember",
+      "presenters": [],
       "set_format": null,
       "date": "2026-12-09",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/cannons-presented-by-the-sound-tickets/14339904?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/cannons-pres-by-the-sound-tickets/14339904?REFID=bupwebsite",
       "ticket_status": "not on sale",
-      "event_page": "https://bellyup.com/calendar/14339904/cannons-presented-by-alt-94-9s-december-to-remember",
+      "event_page": "https://bellyup.com/calendar/14339904/cannons-pres-by-alt-94-9s-december-to-remember-w-tania-cassette",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -935,20 +955,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 34,
-      "found": 30,
-      "exact": 27,
+      "unique_artists": 37,
+      "found": 33,
+      "exact": 30,
       "close": 2,
       "flagged": 1,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 34,
-      "linked": 31,
+      "unique_artists": 37,
+      "linked": 34,
       "venue": 0,
-      "api": 31,
+      "api": 34,
       "feed": 0,
-      "shows_with_link": 21
+      "shows_with_link": 23
     }
   }
 }

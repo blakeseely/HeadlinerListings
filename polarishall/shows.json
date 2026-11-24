@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 53,
+  "scraped_at": "2026-11-24",
+  "count": 52,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Babe Haven",
-          "apple_music": "https://music.apple.com/us/artist/babe-haven/1598477704",
-          "spotify": "https://open.spotify.com/artist/0b0NRq58okVkvcHSGOzM4x",
-          "confidence": 1.0,
-          "matched": "Babe Haven",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Spaced",
-          "apple_music": "https://music.apple.com/us/artist/spaced/1578305972",
-          "spotify": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8",
-          "confidence": 1.0,
-          "matched": "SPACED",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Scarlet Demore",
-          "apple_music": "https://music.apple.com/us/artist/scarlet-demore/1476938393",
-          "spotify": "https://open.spotify.com/artist/6cO7GKXtnHxzX3prlNraDR",
-          "confidence": 1.0,
-          "matched": "Scarlet Demore",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/59224066",
-      "ticket_status": "sold out",
-      "event_page": null,
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2020,26 +1968,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 53,
+      "music": 52,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 84,
-      "found": 68,
-      "exact": 63,
+      "unique_artists": 81,
+      "found": 65,
+      "exact": 60,
       "close": 2,
       "flagged": 3,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 84,
-      "linked": 70,
+      "unique_artists": 81,
+      "linked": 67,
       "venue": 0,
-      "api": 70,
+      "api": 67,
       "feed": 0,
-      "shows_with_link": 45
+      "shows_with_link": 44
     }
   }
 }

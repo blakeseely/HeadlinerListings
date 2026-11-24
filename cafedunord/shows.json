@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 38,
+  "scraped_at": "2026-11-24",
+  "count": 39,
   "shows": [
     {
       "event_type": "music",
@@ -170,6 +170,39 @@
       "age_rating": null,
       "note": null,
       "description": "Yoni Wolf was at war with himself. As he reached middle age, he was beset by questions that had plagued him for years. Why was life so difficult and lonely? When would the happy part of him take the steering wheel? Far from wallowing, he leaned into the dark and the light…"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Big Brain Lectures - SF",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Brain Floss @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Cafe du Nord presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-09",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/talking-ourselves-into-and-out-swedish-american-hall-tickets/15066223?pl=cdn&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://cafedunord.com/shows/2026-12-09-big-brain-lectures-sf",
+      "room": "Swedish American Hall (upstairs)",
+      "age_rating": null,
+      "note": null,
+      "description": "💬 What is actually happening beneath the surface of an ordinary conversation? We talk to people every day, but research reveals surprising blindspots in our conversational awareness. We don't realize that we're quietly calculating the end of another person's sentence, actively building a shared sense of reality, or leaning on well-worn paths to make others laugh. In this talk, Zachary Reese…"
     },
     {
       "event_type": "music",
@@ -373,8 +406,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Luke Tyler Shelton",
+          "apple_music": "https://music.apple.com/us/artist/luke-tyler-shelton/1504453479",
+          "spotify": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC",
+          "confidence": 1.0,
+          "matched": "Luke Tyler Shelton",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Live Nation presents"
@@ -1438,24 +1482,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 38,
+      "music": 39,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 51,
-      "found": 49,
-      "exact": 46,
+      "unique_artists": 53,
+      "found": 50,
+      "exact": 47,
       "close": 1,
       "flagged": 2,
-      "not_found": 2
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 51,
-      "linked": 49,
+      "unique_artists": 53,
+      "linked": 50,
       "venue": 0,
-      "api": 49,
+      "api": 50,
       "feed": 0,
       "shows_with_link": 37
     }

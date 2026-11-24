@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 20,
+  "scraped_at": "2026-11-24",
+  "count": 22,
   "shows": [
     {
       "event_type": "music",
@@ -667,6 +667,72 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "ADÉLA",
+          "apple_music": "https://music.apple.com/us/artist/ad%C3%A9la/1765924916",
+          "spotify": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP",
+          "confidence": 1.0,
+          "matched": "ADÉLA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Prima Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-13",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1718691/adela-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1718691",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. The event organizer has decided that ticket transfer will be delayed for this event. Ticket transfer will be available 2 weeks prior to event. Please review the terms of AXS’s Purchase Agreement (axs.com/purchaseagreement) for more information. Multiple General Admission price levels are available for this event. All General Admission price levels provide the same access and benefits. Prices may increase as lower-priced inventory sells out"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "ADÉLA",
+          "apple_music": "https://music.apple.com/us/artist/ad%C3%A9la/1765924916",
+          "spotify": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP",
+          "confidence": 1.0,
+          "matched": "ADÉLA",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Prima Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-04-14",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.axs.com/events/1718712/adela-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "coming soon",
+      "event_page": "https://www.thewarfieldtheatre.com/events/detail/1718712",
+      "room": null,
+      "age_rating": "6+",
+      "note": null,
+      "description": "Event Information If tickets in the accessible section are unavailable, please reach out to the venue for accommodations. Please note, orders in violation of the published ticket limit are subject to cancellation without notice. Ticket prices may fluctuate, at any time, based on demand. The event organizer has decided that ticket transfer will be delayed for this event. Ticket transfer will be available 2 weeks prior to event. Please review the terms of AXS’s Purchase Agreement (axs.com/purchaseagreement) for more information. Multiple General Admission price levels are available for this event. All General Admission price levels provide the same access and benefits. Prices may increase as lower-priced inventory sells out"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Warning",
           "apple_music": "https://music.apple.com/us/artist/the-warning/260719953",
           "spotify": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh",
@@ -967,26 +1033,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 20,
+      "music": 22,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 42,
-      "found": 37,
-      "exact": 35,
+      "unique_artists": 43,
+      "found": 38,
+      "exact": 36,
       "close": 1,
       "flagged": 1,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 42,
-      "linked": 39,
+      "unique_artists": 43,
+      "linked": 40,
       "venue": 0,
-      "api": 39,
+      "api": 40,
       "feed": 0,
-      "shows_with_link": 18
+      "shows_with_link": 20
     }
   }
 }

@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 31,
+  "scraped_at": "2026-11-24",
+  "count": 32,
   "shows": [
     {
       "event_type": "music",
@@ -202,6 +202,68 @@
       "event_page": "https://thefoxoakland.com/events/ali-siddiq-261219",
       "room": null,
       "age_rating": "16 and over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Rap Show Live",
+          "apple_music": "https://music.apple.com/us/artist/the-rap-show/1861999421",
+          "spotify": "https://open.spotify.com/artist/7dgVwcHoa2gOnc6JzZQ1Zq",
+          "confidence": 0.8,
+          "matched": "The Rap Show",
+          "apple_label": "close match: The Rap Show",
+          "spotify_label": "close match: The Rap Show",
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Ft. Conversations & Performances by E-40",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: E-40 @ 70%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Too $hort & More!",
+          "apple_music": "https://music.apple.com/us/artist/too-%24hort/145173964",
+          "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v",
+          "confidence": 0.8,
+          "matched": "Too $hort",
+          "apple_label": null,
+          "spotify_label": "close match: Too $hort",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Hosted by Big Court",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Big Country @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Soul Beat presents — Celebrating 30 Years of West Coast Hip-Hop Media History",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-20",
+      "doors": "6:00 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/the-rap-show-live-celebrating-30-oakland-california-12-20-2026/event/1C0065752A776DF6?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://thefoxoakland.com/events/the-rap-show-live-261220",
+      "room": null,
+      "age_rating": "all ages",
       "note": null,
       "description": null
     },
@@ -1153,26 +1215,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 27,
+      "music": 28,
       "comedy": 4,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 36,
-      "found": 34,
+      "unique_artists": 40,
+      "found": 36,
       "exact": 32,
-      "close": 1,
-      "flagged": 1,
-      "not_found": 2
+      "close": 2,
+      "flagged": 2,
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 36,
-      "linked": 35,
+      "unique_artists": 40,
+      "linked": 37,
       "venue": 31,
-      "api": 4,
+      "api": 6,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 31
     }
   }
 }

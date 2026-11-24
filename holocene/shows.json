@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 46,
+  "scraped_at": "2026-11-24",
+  "count": 48,
   "shows": [
     {
       "event_type": "music",
@@ -427,16 +427,6 @@
       ],
       "support_artists": [
         {
-          "name": "Omari Jazz",
-          "apple_music": "https://music.apple.com/us/artist/omari-jazz/606163083",
-          "spotify": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT",
-          "confidence": 1.0,
-          "matched": "Omari Jazz",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
           "name": "DJ Cuica",
           "apple_music": "https://music.apple.com/us/artist/dj-cuca/118716070",
           "spotify": "https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe",
@@ -456,9 +446,9 @@
       "date": "2026-12-06",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/46707871/jeremiah-chiu-w-omari-jazz-dj-cuica-21-portland-holocene?partner_id=100",
+      "ticket_link": "https://www.etix.com/ticket/p/46707871/jeremiah-chiu-w-dj-cuica-21-portland-holocene?partner_id=100",
       "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-12-06-jeremiah-chiu-w-omari-jazz-dj-cuica",
+      "event_page": "https://www.holocene.org/events/2026-12-06-jeremiah-chiu-w-dj-cuica",
       "room": null,
       "age_rating": "21+",
       "note": null,
@@ -802,6 +792,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "NEW YEAR, NEW DIVA: NYE DISCO SPA",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: New Years Day @ 52%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/67735162/new-year-new-diva-nye-disco-spa-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-31-new-year-new-diva-nye-disco-spa",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "CUMBIATRON: THE CUMBIA RAVE",
           "apple_music": null,
           "spotify": null,
@@ -1114,8 +1135,29 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Limanjaya",
+          "apple_music": "https://music.apple.com/us/artist/limanjaya/1040001480",
+          "spotify": "https://open.spotify.com/artist/1W5Ff2vPDET8biMToogxwH",
+          "confidence": 1.0,
+          "matched": "Limanjaya",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Oscurita",
+          "apple_music": "https://music.apple.com/us/artist/oscurita/1867345734",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "oscurita",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Oscarito @ 75%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [
         "Holocene and Spend the Night Present"
@@ -1124,9 +1166,9 @@
       "date": "2027-02-04",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/34393956/romare-live-21-portland-holocene?partner_id=100",
+      "ticket_link": "https://www.etix.com/ticket/p/34393956/romare-live-w-limanjaya-oscurita-21-portland-holocene?partner_id=100",
       "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2027-02-04-romare-live",
+      "event_page": "https://www.holocene.org/events/2027-02-04-romare-live-w-limanjaya-oscurita",
       "room": null,
       "age_rating": "21+",
       "note": null,
@@ -1191,6 +1233,48 @@
       "ticket_link": "https://www.etix.com/ticket/p/45782678/spend-the-night-presents-jacques-greene-jg-album-tour-21-portland-holocene?partner_id=100",
       "ticket_status": "on sale",
       "event_page": "https://www.holocene.org/events/2027-02-13-spend-the-night-presents-jacques-greene-jg-album-tour",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "CITY POP Valentine's!! Japanese Boogie, J-jazz, & New Wave Night",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Citypopvibes @ 29%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "SEASIDE.FM + JOE BALL",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: Joe Ball @ 70%)",
+          "spotify_label": "no confident match (closest: Joe Bataan @ 39%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-14",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/63418349/city-pop-valentine-s-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-02-14-city-pop-valentine-s-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball",
       "room": null,
       "age_rating": "21+",
       "note": null,
@@ -1645,21 +1729,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 42,
+      "music": 44,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 31,
-      "exact": 26,
+      "unique_artists": 61,
+      "found": 32,
+      "exact": 27,
       "close": 1,
       "flagged": 4,
-      "not_found": 26
+      "not_found": 29
     },
     "spotify": {
-      "unique_artists": 57,
+      "unique_artists": 61,
       "linked": 32,
       "venue": 0,
       "api": 32,

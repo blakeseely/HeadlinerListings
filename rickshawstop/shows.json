@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 47,
+  "scraped_at": "2026-11-24",
+  "count": 49,
   "shows": [
     {
       "event_type": "music",
@@ -490,7 +490,7 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "MILK & BONE",
+          "name": "Milk & Bone",
           "apple_music": "https://music.apple.com/us/artist/milk-bone/675265030",
           "spotify": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW",
           "confidence": 1.0,
@@ -500,10 +500,33 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
+      "support_artists": [
+        {
+          "name": "Chloe Saavedra",
+          "apple_music": "https://music.apple.com/us/artist/chloe-saavedra/1409857512",
+          "spotify": "https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y",
+          "confidence": 1.0,
+          "matched": "Chloe Saavedra",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "PRXZM",
+          "apple_music": "https://music.apple.com/us/artist/prxzm/995751469",
+          "spotify": "https://open.spotify.com/artist/2uYisEeWBn5hp3e8ObdeUV",
+          "confidence": 1.0,
+          "matched": "PRXZM",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Rickshaw Stop + Live Nation co-present"
+      ],
       "set_format": null,
       "date": "2026-12-18",
       "doors": "8:00 pm",
@@ -512,7 +535,7 @@
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/milk-and-bone/703435",
       "room": null,
-      "age_rating": null,
+      "age_rating": "All Ages",
       "note": null,
       "description": null
     },
@@ -1192,6 +1215,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "SLEEPYTIME GORILLA MUSEUM",
+          "apple_music": "https://music.apple.com/us/artist/sleepytime-gorilla-museum/19081752",
+          "spotify": "https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC",
+          "confidence": 1.0,
+          "matched": "Sleepytime Gorilla Museum",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-06",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://wl.seetickets.us/event/sleepytime-gorilla-museum/712309",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/sleepytime-gorilla-museum/712309",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "THE BODY & CEL GENESIS",
           "apple_music": null,
           "spotify": null,
@@ -1427,9 +1481,9 @@
       "date": "2027-04-04",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/ash/711690",
+      "ticket_link": "https://wl.eventim.us/event/ash/711271",
       "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/ash/711690",
+      "event_page": "https://wl.eventim.us/event/ash/711271",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1564,6 +1618,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "PISS",
+          "apple_music": "https://music.apple.com/us/artist/piss/6796357519",
+          "spotify": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf",
+          "confidence": 1.0,
+          "matched": "PISS",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-05",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/event/1C006571B7FF23D3",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/event/1C006571B7FF23D3",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "HOTEL MIRA",
           "apple_music": "https://music.apple.com/us/artist/hotel-mira/1362236300",
           "spotify": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw",
@@ -1686,26 +1771,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 47,
+      "music": 49,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 62,
-      "found": 52,
-      "exact": 50,
+      "unique_artists": 66,
+      "found": 56,
+      "exact": 54,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 62,
-      "linked": 52,
+      "unique_artists": 66,
+      "linked": 56,
       "venue": 0,
-      "api": 52,
+      "api": 56,
       "feed": 0,
-      "shows_with_link": 39
+      "shows_with_link": 41
     }
   }
 }

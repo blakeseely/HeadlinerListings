@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 27,
+  "scraped_at": "2026-11-24",
+  "count": 26,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jen Howard",
-          "apple_music": "https://music.apple.com/us/artist/jen-howard/1483280080",
-          "spotify": "https://open.spotify.com/artist/3IBz3Iehn7AO3qzrD5cgt3",
-          "confidence": 1.0,
-          "matched": "Jen Howard",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "The Sound and the Fury",
-          "apple_music": "https://music.apple.com/us/artist/the-sound-and-the-fury/538921865",
-          "spotify": "https://open.spotify.com/artist/4tuKCNn6MCK37BDeyAl6tQ",
-          "confidence": 1.0,
-          "matched": "The Sound and the Fury",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Kavon Samadi",
-          "apple_music": "https://music.apple.com/us/artist/kavon-samadi/1740206410",
-          "spotify": "https://open.spotify.com/artist/56Cuuff9DfwETaRhSRM8Vu",
-          "confidence": 1.0,
-          "matched": "Kavon Samadi",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Patrick Santerre",
-          "apple_music": "https://music.apple.com/us/artist/patrick-santerre/1616515330",
-          "spotify": "https://open.spotify.com/artist/6MiLw4nHOmdgR1CwOeroIQ",
-          "confidence": 1.0,
-          "matched": "Patrick Santerre",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/jen-howard-23-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -292,8 +230,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "MuerteMen",
+          "apple_music": "https://music.apple.com/us/artist/muertemen/1747051491",
+          "spotify": "https://open.spotify.com/artist/4qIJ8ZvbwRJey7xgdcfK5M",
+          "confidence": 1.0,
+          "matched": "MuerteMen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -670,8 +619,8 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-01-10",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
+      "doors": "3:00 pm",
+      "show_time": "3:30 pm",
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/the-basement-rockmomenough-brake-down-10-jan",
@@ -1211,26 +1160,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 27,
+      "music": 26,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 57,
-      "found": 47,
-      "exact": 46,
+      "unique_artists": 54,
+      "found": 44,
+      "exact": 43,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 57,
-      "linked": 46,
+      "unique_artists": 54,
+      "linked": 43,
       "venue": 0,
-      "api": 46,
+      "api": 43,
       "feed": 0,
-      "shows_with_link": 22
+      "shows_with_link": 21
     }
   }
 }

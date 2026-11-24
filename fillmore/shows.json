@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
+  "scraped_at": "2026-11-24",
   "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "CocoRosie",
-          "apple_music": "https://music.apple.com/us/artist/cocorosie/14945387",
-          "spotify": "https://open.spotify.com/artist/05fo024EFotg9songSENOZ",
-          "confidence": 1.0,
-          "matched": "CocoRosie",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketmaster.com/cocorosie-san-francisco-california-11-23-2026/event/1C006511BAEB3B53",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketmaster.com/cocorosie-san-francisco-california-11-23-2026/event/1C006511BAEB3B53",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Doors 7:00pm / Show 8:00pm"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1484,6 +1453,48 @@
       "age_rating": null,
       "note": null,
       "description": "Doors 6:00pm / Show 7:00pm"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Grace Potter & The Trespassers w/ Langhorne Slim",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Langhorne Slim",
+          "apple_music": "https://music.apple.com/us/artist/langhorne-slim/41896696",
+          "spotify": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy",
+          "confidence": 1.0,
+          "matched": "Langhorne Slim",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Trespasser Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-11",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
+      "ticket_status": "on sale",
+      "event_page": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "Doors 7:00pm / Show 8:00pm"
     }
   ],
   "stats": {
@@ -1494,18 +1505,18 @@
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 47,
+      "unique_artists": 48,
       "found": 43,
       "exact": 41,
       "close": 0,
       "flagged": 2,
-      "not_found": 4
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 47,
-      "linked": 44,
+      "unique_artists": 48,
+      "linked": 45,
       "venue": 0,
-      "api": 44,
+      "api": 45,
       "feed": 0,
       "shows_with_link": 32
     }

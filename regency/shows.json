@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 28,
+  "scraped_at": "2026-11-24",
+  "count": 29,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Gary Numan",
-          "apple_music": "https://music.apple.com/us/artist/gary-numan/2780160",
-          "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE",
-          "confidence": 1.0,
-          "matched": "Gary Numan",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "TREMOURS",
-          "apple_music": "https://music.apple.com/us/artist/tremours/1630704631",
-          "spotify": "https://open.spotify.com/artist/3lBafPrb1MzhpqUxXDgItW",
-          "confidence": 1.0,
-          "matched": "Tremours",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "North American Fall Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-23",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://tix.axs.com/BTg4EgAAAAA71xC%2fAgAAAADr%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fC0dvbGRlbnZvaWNlAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1423298",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -140,7 +96,7 @@
       "doors": "6:00 pm",
       "show_time": "7:00 pm",
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546587461",
-      "ticket_status": "on sale",
+      "ticket_status": "cancelled",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1516665",
       "room": null,
       "age_rating": "All Ages",
@@ -198,6 +154,50 @@
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1474827",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amtrac",
+          "apple_music": "https://music.apple.com/us/artist/amtrac/384096444",
+          "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J",
+          "confidence": 1.0,
+          "matched": "Amtrac",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Special Guest Seb Wildblood",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Seb Wildblood @ 70%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Dream Live Tour",
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2026-11-27",
+      "doors": null,
+      "show_time": "10:00 pm",
+      "ticket_link": "https://amtrac-great-northern-2026.eventbrite.com/",
+      "ticket_status": "Get Tickets",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1566122",
+      "room": null,
+      "age_rating": "21 & Over",
       "note": null,
       "description": null
     },
@@ -352,6 +352,39 @@
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1601808",
       "room": null,
       "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "MOANY New Years Eve 2027",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Moony's Music Box @ 34%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "SocialSF Presents"
+      ],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424547218634",
+      "ticket_status": "on sale",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1718707",
+      "room": null,
+      "age_rating": "21 & Over",
       "note": null,
       "description": null
     },
@@ -920,7 +953,7 @@
       "multi_artist": true,
       "show_title": "2027 North America Tour",
       "presenters": [
-        "Goldenvoice Presents"
+        "LIVE 105 & Goldenvoice Present"
       ],
       "set_format": null,
       "date": "2027-04-28",
@@ -1157,24 +1190,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 29,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 46,
-      "found": 44,
-      "exact": 44,
+      "unique_artists": 47,
+      "found": 43,
+      "exact": 43,
       "close": 0,
       "flagged": 0,
-      "not_found": 2
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 46,
-      "linked": 44,
+      "unique_artists": 47,
+      "linked": 43,
       "venue": 0,
-      "api": 41,
+      "api": 40,
       "feed": 3,
       "shows_with_link": 26
     }

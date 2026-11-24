@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
+  "scraped_at": "2026-11-24",
   "count": 52,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Senses Fail",
-          "apple_music": "https://music.apple.com/us/artist/senses-fail/15138873",
-          "spotify": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ",
-          "confidence": 1.0,
-          "matched": "Senses Fail",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Still Searching",
-      "presenters": [
-        "Live Nation Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-23",
-      "doors": "5:30 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/71115057/senses-fail-presents-still-searching-portland-mcmenamins-crystal-ballroom-hotel-portlandor",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
-      "room": null,
-      "age_rating": "All ages welcome",
-      "note": null,
-      "description": "Senses Fail have been called any number of things across their near 25 years as a band – emo, screamo, post-hardcore, metalcore, pop punk. It’s testament to the band’s perpetual evolution as much as it is their steely endurance – a quality which frontman Buddy Nielsen has required bottomless reserves of along the ride. It’s through the songs of Senses Failthat Nielsen has forever made sense of and peace with life’s highs and lows; a journey that began in the leafy suburbs of Ridgewood, New Jersey with the iconic Gold-selling debut album Let It Enfold You, and which has since seen Senses Fail become one of rock music’s most cherished, celebrated names."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -554,7 +521,7 @@
     },
     {
       "event_type": "music",
-      "needs_review": false,
+      "needs_review": true,
       "headline_artists": [
         {
           "name": "almost monday",
@@ -575,12 +542,24 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "\"December to Remember\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: A Day to Remember @ 70%)",
+          "spotify_label": "no confident match (closest: December Joy @ 59%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": true,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "94/7FM KNRK presents"
+      ],
       "set_format": null,
       "date": "2026-12-16",
       "doors": "6:30 pm",
@@ -1942,6 +1921,37 @@
       "age_rating": "16+",
       "note": null,
       "description": "THREE NIGHTS WITH THEY MIGHT BE GIANTS The Bigger Show Tour. Only 2026 area appearances! Ages 16+ 3 very different shows. 3 “Evening with” performances. 8-piece band. 3 horns. 2 sets. 0 openers. Starts early. Gets loud. Renowned for their infamous live shows, They Might Be Giants has now expanded to an eight-piece band, including a three-piece horn section. Audiences can expect a spontaneous, sprawling, and utterly enthralling musical event unlike any other. Yes, TMBG is in top form and back on the road with a show that is truly ever-evolving. The first set of each night spotlights a different album, while the second set will draw from every era of their career – from the earliest days of Dial-A-Song and the platinum album Flood to their brand new 2026 releases. With all the favorites, remarkable deep cuts, and dazzling musical improvisations, each performance is a distinct celebration of the band’s singular songbook. These shows, along with their stand-alone EP, Eyeball, and all-new album The World Is to Dig, are all testament to the fact that this band will not slow down. A limited number of multi-night ticket packages are available for purchase – that means reduced ticketing fees!"
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The 27th Annual Portland Erotic Ball",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Eric Andre @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-10-30",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/43138207/the-27th-annual-portland-erotic-ball-portland-mcmenamins-crystal-ballroom",
+      "ticket_status": "on sale",
+      "event_page": "https://www.crystalballroompdx.com/events/280351-the-27th-annual-portland-erotic-ball/",
+      "room": null,
+      "age_rating": "21 and over",
+      "note": null,
+      "description": "PORTLAND EROTIC BALL – THE 27TH ANNUAL! One night. Three levels. Thousands of outrageous possibilities! Portland’s legendary Halloween tradition returns to the historic Crystal Ballroom for its 27th Anniversary, bringing together 1,800 guests for one of the city’s most anticipated and unconventional nights of the year! Portland Erotic Ball is more than a Halloween party – it’s an experience! Expect jaw-dropping costumes, live music, outrageous performances, creative expression and a crowd that knows how to make Halloween unforgettable. Featuring Dance Hall Days, with Emmy-nominated Drag Superstar Sasha Scarlett hosting the festivities! Think you’ve got what it takes to steal the show? Our $10,000 Costume Contest celebrates the boldest, sexiest, funniest and most creative costumes in Portland, with categories including Most Original, Best Group and Sexiest Couple! Plus, experience burlesque, aerialists, circus acts, dancers, performance art and plenty of surprises throughout all three levels of the historic Crystal Ballroom. A Portland institution, the Erotic Ball is the longest-running recurring event in the Crystal Ballroom’s 112-year history and one of the last great large-scale celebrations of Portland’s famously creative, unconventional and keep-Portland-weird spirit. Come dressed to impress, prepared to party, and ready for a Halloween night unlike any other! YOU ARE THE PARTY. SO DRESS TO THRILL! Website: https://www.portlanderoticball.com/"
     }
   ],
   "stats": {
@@ -1953,19 +1963,19 @@
     },
     "apple_music": {
       "unique_artists": 69,
-      "found": 48,
-      "exact": 47,
+      "found": 47,
+      "exact": 46,
       "close": 1,
       "flagged": 0,
-      "not_found": 21
+      "not_found": 22
     },
     "spotify": {
       "unique_artists": 69,
-      "linked": 50,
+      "linked": 49,
       "venue": 0,
-      "api": 50,
+      "api": 49,
       "feed": 0,
-      "shows_with_link": 40
+      "shows_with_link": 39
     }
   }
 }

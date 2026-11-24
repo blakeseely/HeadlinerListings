@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 125,
+  "scraped_at": "2026-11-24",
+  "count": 126,
   "shows": [
     {
       "event_type": "music",
@@ -1730,6 +1730,18 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Lenny Bole",
+          "apple_music": "https://music.apple.com/us/artist/lenny-wolf/67960819",
+          "spotify": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa",
+          "confidence": 0.8,
+          "matched": "Lenny Wolf",
+          "apple_label": "close match: Lenny Wolf",
+          "spotify_label": "close match: Lenny B",
+          "spotify_source": "api"
         },
         {
           "name": "Peggy Watson & David Beldock",
@@ -1742,13 +1754,13 @@
           "spotify_source": "api"
         },
         {
-          "name": "Shawn Rholf",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/544fDHPRyqY9KAe4IolO3B",
-          "confidence": 0.0,
-          "matched": null,
+          "name": "Shawn Rohlf",
+          "apple_music": "https://music.apple.com/us/artist/shawn-rohlf/698344040",
+          "spotify": "https://open.spotify.com/artist/4qFswgbYwtXVuvgiNmLzBA",
+          "confidence": 1.0,
+          "matched": "Shawn Rohlf",
           "apple_label": null,
-          "spotify_label": "close match: Shawn Holt",
+          "spotify_label": null,
           "spotify_source": "api"
         },
         {
@@ -1762,7 +1774,6 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
       "multi_artist": true,
       "show_title": null,
       "presenters": [],
@@ -1772,7 +1783,7 @@
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/bug-guts-calamity-dan-gindling-belly-up-tickets/15060463?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15060463/bug-guts-calamity-dan-gindling-joel-rafael-jt-moring-cohort-lindsay-white-lisa-sanders-brown-sugar-mark-montijo-peggy-watson-david-beldock-shawn-rholf-james-lee-stanley",
+      "event_page": "https://bellyup.com/calendar/15060463/bug-guts-calamity-dan-gindling-joel-rafael-jt-moring-cohort-lindsay-white-lisa-sanders-brown-sugar-mark-montijo-with-lenny-bole-peggy-watson-david-beldock-shawn-rohlf-james-lee-stanley",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2009,6 +2020,37 @@
       "ticket_link": "https://www.ticketweb.com/event/fiesta-del-sol-belly-up-tickets/14359514?REFID=bupwebsite",
       "ticket_status": "on sale soon",
       "event_page": "https://bellyup.com/calendar/14359514/fiesta-del-sol-battle-of-the-bands",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "earlier",
+          "apple_music": "https://music.apple.com/us/artist/earlier/1399990559",
+          "spotify": "https://open.spotify.com/artist/0rYO802Hxwvup5cqFGchbM",
+          "confidence": 1.0,
+          "matched": "Earlier",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "a dance party that happens earlier",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-12",
+      "doors": null,
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/earlier-a-dance-belly-up-tickets/15057053?REFID=bupwebsite",
+      "ticket_status": "not on sale",
+      "event_page": "https://bellyup.com/calendar/15057053/earlier-a-dance-party-that-happens-earlier",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4670,26 +4712,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 125,
+      "music": 126,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 173,
-      "found": 129,
-      "exact": 108,
+      "unique_artists": 175,
+      "found": 132,
+      "exact": 110,
       "close": 5,
-      "flagged": 16,
-      "not_found": 44
+      "flagged": 17,
+      "not_found": 43
     },
     "spotify": {
-      "unique_artists": 173,
-      "linked": 134,
+      "unique_artists": 175,
+      "linked": 136,
       "venue": 0,
-      "api": 134,
+      "api": 136,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 92
     }
   }
 }

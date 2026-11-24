@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-23",
-  "count": 42,
+  "scraped_at": "2026-11-24",
+  "count": 43,
   "shows": [
     {
       "event_type": "music",
@@ -1045,6 +1045,37 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
+      "date": "2027-01-28",
+      "doors": "7:30 pm",
+      "show_time": "8:30 pm",
+      "ticket_link": "https://wl.seetickets.us/event/Ty-Segall/712222?afflky=TheChapel",
+      "ticket_status": "on sale",
+      "event_page": "https://wl.seetickets.us/event/Ty-Segall/712222?afflky=TheChapel",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ty Segall",
+          "apple_music": "https://music.apple.com/us/artist/ty-segall/435800519",
+          "spotify": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx",
+          "confidence": 1.0,
+          "matched": "Ty Segall",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
       "date": "2027-01-29",
       "doors": "7:30 pm",
       "show_time": "8:30 pm",
@@ -1765,7 +1796,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 42,
+      "music": 43,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1784,7 +1815,7 @@
       "venue": 0,
       "api": 54,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 38
     }
   }
 }
