@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 52,
+  "scraped_at": "2026-11-25",
+  "count": 51,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Music of Hey Arnold Live! Feat. Jim Lang and the PS 118 AllStars",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.158,
-          "matched": null,
-          "apple_label": "no confident match (closest: P.S. 118 @ 16%)",
-          "spotify_label": "no confident match (closest: Hey Arnold! @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Craig Bartlett",
-          "apple_music": "https://itunes.apple.com/us/artist/craig-bartlett/211298243",
-          "spotify": "https://open.spotify.com/artist/5m1xpYxjOis46jmX2iOqiy",
-          "confidence": 1.0,
-          "matched": "Craig Bartlett",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://thecastro.com/events/hey-arnold-261124",
-      "room": null,
-      "age_rating": "all ages",
-      "note": "Two Nights!",
-      "description": "The Music of Hey Arnold! Live featuring Jim Lang & The PS 118 AllStars celebrates the 30th anniversary of one of television’s most cherished animated series. Led by award winning composer Jim Lang, best known for his unforgettable theme music, original songs, and score for Hey Arnold!, this one of a kind concert brings the music of the series to life on stage. Blending jazz, hip hop, blues, R&B and funk, Lang created a sound unlike anything else on television, helping give Hey Arnold! its heart, warmth, humor and soul. Thirty years later, the music continues to connect with fans of and inspire musicians around the world. Performed by Jim Lang and The PS 118 AllStars, the evening features the show’s unforgettable themes, fan favorite songs, and some of the moments that made Hey Arnold! so special. Accompanied by multimedia visuals and stories from behind the music, the performance also includes a special guest appearance by series creator Craig Bartlett. Whether you grew up with Hey Arnold! or are discovering its music for the first time, this 30th anniversary celebration is a chance to experience one of animation’s most distinctive and enduring scores performed live by the composer"
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1874,7 +1832,7 @@
   ],
   "stats": {
     "event_types": {
-      "music": 52,
+      "music": 51,
       "comedy": 0,
       "film": 0,
       "other": 0
@@ -1893,7 +1851,7 @@
       "venue": 47,
       "api": 11,
       "feed": 0,
-      "shows_with_link": 47
+      "shows_with_link": 46
     }
   }
 }

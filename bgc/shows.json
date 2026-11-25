@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
+  "scraped_at": "2026-11-25",
   "count": 25,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Steve Lacy",
-          "apple_music": "https://music.apple.com/us/artist/steve-lacy/1210275020",
-          "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp",
-          "confidence": 1.0,
-          "matched": "Steve Lacy",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": "sold out",
-      "event_page": "https://billgrahamcivic.com/events/steve-lacy-261124",
-      "room": null,
-      "age_rating": "All ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -226,8 +195,8 @@
       "presenters": [],
       "set_format": null,
       "date": "2026-12-17",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
       "ticket_link": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-san-francisco-california-12-17-2026/event/1C006523E4C75D1A?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
       "ticket_status": "on sale",
       "event_page": "https://billgrahamcivic.com/events/victoria-monet-261217",
@@ -1033,6 +1002,58 @@
       "age_rating": "All ages",
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Dermot Kennedy",
+          "apple_music": "https://music.apple.com/us/artist/dermot-kennedy/376564133",
+          "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ",
+          "confidence": 1.0,
+          "matched": "Dermot Kennedy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Jonah Kagen",
+          "apple_music": "https://music.apple.com/us/artist/jonah-kagen/1547525971",
+          "spotify": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp",
+          "confidence": 1.0,
+          "matched": "Jonah Kagen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Aaron Rowe",
+          "apple_music": "https://music.apple.com/us/artist/aaron-rowe/1809204657",
+          "spotify": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke",
+          "confidence": 1.0,
+          "matched": "Aaron Rowe",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-12",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.ticketmaster.com/dermot-kennedy-the-weight-of-the-san-francisco-california-10-24-2026/event/1C006478B697BE1D?camefrom=CFC_ANOTHERPLANET_web&brand=anotherplanet",
+      "ticket_status": "on sale",
+      "event_page": "https://billgrahamcivic.com/events/dermot-kennedy-261024",
+      "room": null,
+      "age_rating": "All ages",
+      "note": null,
+      "description": "Dermot Kennedy has amassed 4 billion streams across platforms, having the best-selling debut album in Ireland of this millennium Without Fear. A platinum-selling artist in over 12 countries, he released his acclaimed sophomore album Sonder in 2022. In 2024, he stripped back to basics and released the introspective EP, “I’ve told the trees everything.” Dermot has shared the stage with some of his finest contemporaries, most recently with Niall Horan, Noah Kahan and Zach Bryan. His incredible journey has taken him from busking on the streets of Ireland to playing stadiums around the world. His poetic and authentic artistry has forged a deep, emotional connection with audiences, including the likes of Taylor Swift and Shawn Mendes who have sung his praises."
     }
   ],
   "stats": {
@@ -1043,17 +1064,17 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 42,
-      "found": 32,
-      "exact": 30,
+      "unique_artists": 45,
+      "found": 35,
+      "exact": 33,
       "close": 0,
       "flagged": 2,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 42,
-      "linked": 33,
-      "venue": 30,
+      "unique_artists": 45,
+      "linked": 36,
+      "venue": 33,
       "api": 3,
       "feed": 0,
       "shows_with_link": 16

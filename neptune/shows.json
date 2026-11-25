@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 98,
+  "scraped_at": "2026-11-25",
+  "count": 97,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Senses Fail",
-          "apple_music": "https://music.apple.com/us/artist/senses-fail/15138873",
-          "spotify": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ",
-          "confidence": 1.0,
-          "matched": "Senses Fail",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Initiate",
-          "apple_music": "https://music.apple.com/us/artist/initiate/1440572303",
-          "spotify": "https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau",
-          "confidence": 1.0,
-          "matched": "Initiate",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Koyo",
-          "apple_music": "https://music.apple.com/us/artist/koyo/1501270833",
-          "spotify": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9",
-          "confidence": 1.0,
-          "matched": "Koyo",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/senses-fail/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/senses-fail/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3297,26 +3245,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 74,
+      "music": 73,
       "comedy": 17,
       "film": 0,
       "other": 7
     },
     "apple_music": {
-      "unique_artists": 94,
-      "found": 80,
-      "exact": 69,
+      "unique_artists": 91,
+      "found": 77,
+      "exact": 66,
       "close": 3,
       "flagged": 8,
       "not_found": 14
     },
     "spotify": {
-      "unique_artists": 94,
-      "linked": 76,
+      "unique_artists": 91,
+      "linked": 73,
       "venue": 0,
-      "api": 76,
+      "api": 73,
       "feed": 0,
-      "shows_with_link": 73
+      "shows_with_link": 72
     }
   }
 }

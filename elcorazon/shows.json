@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 32,
+  "scraped_at": "2026-11-25",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -406,6 +406,68 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/ignite-w-year-of-the-cobra-13-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Home Team",
+          "apple_music": "https://music.apple.com/us/artist/the-home-team/1351116388",
+          "spotify": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x",
+          "confidence": 1.0,
+          "matched": "The Home Team",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Instant Crush",
+          "apple_music": "https://music.apple.com/us/artist/instant-crush/1585238851",
+          "spotify": "https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu",
+          "confidence": 1.0,
+          "matched": "instant crush",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Palettes",
+          "apple_music": "https://music.apple.com/us/artist/palettes/1688486877",
+          "spotify": "https://open.spotify.com/artist/6fktdsYeSWl3qSGekown62",
+          "confidence": 1.0,
+          "matched": "palettes",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Pine Box",
+          "apple_music": "https://music.apple.com/us/artist/pine-box/1527931205",
+          "spotify": "https://open.spotify.com/artist/6N24fA9GDZkPUKgv2drvf5",
+          "confidence": 1.0,
+          "matched": "PINE BOX",
+          "apple_label": null,
+          "spotify_label": "close match: The Pine Box Boys",
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "10 Year Anniversary",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-17",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/the-home-team-17-dec",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1019,6 +1081,58 @@
       "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.elcorazonseattle.com/shows/divorced-dad-rock-night-lips-of-an-angel-edition-13-feb",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Beyond Creation",
+          "apple_music": "https://music.apple.com/us/artist/beyond-creation/431171265",
+          "spotify": "https://open.spotify.com/artist/3HBOxN9iagI9Ot1kTHpPX8",
+          "confidence": 1.0,
+          "matched": "Beyond Creation",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Decrepit Birth",
+          "apple_music": "https://music.apple.com/us/artist/decrepit-birth/182344064",
+          "spotify": "https://open.spotify.com/artist/4Nlrw2bbsgaWH2qR3cBxeN",
+          "confidence": 1.0,
+          "matched": "Decrepit Birth",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Vulvodynia",
+          "apple_music": "https://music.apple.com/us/artist/vulvodynia/1032991537",
+          "spotify": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J",
+          "confidence": 1.0,
+          "matched": "Vulvodynia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "“The Aura” 15th Anniversary Tour – Live in its Entirety",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-02-16",
+      "doors": "6:30 pm",
+      "show_time": "7:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/beyond-creation-the-aura-15th-anniversary-tour-live-in-its-entirety-16-feb",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1775,26 +1889,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 94,
-      "found": 83,
-      "exact": 81,
+      "unique_artists": 101,
+      "found": 90,
+      "exact": 88,
       "close": 0,
       "flagged": 2,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 94,
-      "linked": 81,
+      "unique_artists": 101,
+      "linked": 88,
       "venue": 0,
-      "api": 81,
+      "api": 88,
       "feed": 0,
-      "shows_with_link": 28
+      "shows_with_link": 30
     }
   }
 }

@@ -36,73 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 29,
+  "scraped_at": "2026-11-25",
+  "count": 28,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Amity Affliction",
-          "apple_music": "https://music.apple.com/us/artist/the-amity-affliction/449513466",
-          "spotify": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK",
-          "confidence": 1.0,
-          "matched": "The Amity Affliction",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "blessthefall",
-          "apple_music": "https://music.apple.com/us/artist/blessthefall/202971163",
-          "spotify": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9",
-          "confidence": 1.0,
-          "matched": "blessthefall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Orthodox",
-          "apple_music": "https://music.apple.com/us/artist/orthodox/1065245226",
-          "spotify": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP",
-          "confidence": 1.0,
-          "matched": "Orthodox",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Buried In Spring",
-          "apple_music": "https://music.apple.com/us/artist/buried-in-spring/1896125306",
-          "spotify": "https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY",
-          "confidence": 1.0,
-          "matched": "Buried In Spring",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "HOUSE OF CARDS 2026",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546587461",
-      "ticket_status": "cancelled",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1516665",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -162,14 +98,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Amtrac",
-          "apple_music": "https://music.apple.com/us/artist/amtrac/384096444",
-          "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J",
-          "confidence": 1.0,
-          "matched": "Amtrac",
+          "name": "Amtrac *MOVED TO GREAT NORTHERN*",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: NORTHERN EXPOZURE @ 33%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [
@@ -206,39 +142,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Devault",
-          "apple_music": "https://music.apple.com/us/artist/devault/1068294292",
-          "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL",
-          "confidence": 1.0,
-          "matched": "Devault",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-28",
-      "doors": "8:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546513535",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1497641",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "ROA",
           "apple_music": "https://music.apple.com/us/artist/roa/1617105458",
           "spotify": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH",
@@ -265,7 +168,7 @@
       "room": null,
       "age_rating": "All Ages",
       "note": null,
-      "description": "Puerto Rican trap-soul sensation ROA brings his genre-blending sound to The Warfield for an unforgettable night. Known for solo hits like \"Fantasía,\" \"Me Gustas CC,\" and \"Tate Quieta,\" and his acclaimed Private Suite series, ROA fuses reggaeton, R B, and raw, emotionally driven lyrics into a live show that's as intimate as it is electric. Fresh off winning Male Breakout Artist of the Year at Premio Lo Nuestro 2026, don't miss your chance to see one of Latin urban music's fastest-rising stars live. General Admission. All Ages"
+      "description": "Puerto Rican trap-soul sensation ROA brings his genre-blending sound to The Regency Ballroom for an unforgettable night. Known for solo hits like \"Fantasía,\" \"Me Gustas CC,\" and \"Tate Quieta,\" and his acclaimed Private Suite series, ROA fuses reggaeton, R B, and raw, emotionally driven lyrics into a live show that's as intimate as it is electric. Fresh off winning Male Breakout Artist of the Year at Premio Lo Nuestro 2026, don't miss your chance to see one of Latin urban music's fastest-rising stars live. General Admission. All Ages"
     },
     {
       "event_type": "music",
@@ -548,6 +451,39 @@
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546808835",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1601209",
+      "room": null,
+      "age_rating": "18 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Devault",
+          "apple_music": "https://music.apple.com/us/artist/devault/1068294292",
+          "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL",
+          "confidence": 1.0,
+          "matched": "Devault",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": "8:00 pm",
+      "show_time": "10:00 pm",
+      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546513535",
+      "ticket_status": "Get Tickets",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1497641",
       "room": null,
       "age_rating": "18 & Over",
       "note": null,
@@ -1190,26 +1126,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 29,
+      "music": 28,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 47,
-      "found": 43,
-      "exact": 43,
+      "unique_artists": 43,
+      "found": 38,
+      "exact": 38,
       "close": 0,
       "flagged": 0,
-      "not_found": 4
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 47,
-      "linked": 43,
+      "unique_artists": 43,
+      "linked": 38,
       "venue": 0,
-      "api": 40,
+      "api": 35,
       "feed": 3,
-      "shows_with_link": 26
+      "shows_with_link": 24
     }
   }
 }

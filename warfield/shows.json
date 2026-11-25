@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
+  "scraped_at": "2026-11-25",
   "count": 22,
   "shows": [
     {
@@ -44,49 +44,18 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Cookies",
-          "apple_music": "https://music.apple.com/us/artist/cookies/906135547",
-          "spotify": "https://open.spotify.com/artist/6hkdqUKAiM6bsJbBVNC78k",
-          "confidence": 1.0,
-          "matched": "Cookies",
+          "name": "Berner's Cookies",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: Dane Cook @ 56%)",
+          "spotify_source": null
         }
       ],
-      "support_artists": [
-        {
-          "name": "Berner",
-          "apple_music": "https://music.apple.com/us/artist/berner/212971105",
-          "spotify": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI",
-          "confidence": 1.0,
-          "matched": "Berner",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Paul Wall",
-          "apple_music": "https://music.apple.com/us/artist/paul-wall/3242212",
-          "spotify": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg",
-          "confidence": 1.0,
-          "matched": "Paul Wall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Baby Bash",
-          "apple_music": "https://music.apple.com/us/artist/baby-bash/2013484",
-          "spotify": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7",
-          "confidence": 1.0,
-          "matched": "Baby Bash",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
+      "support_artists": [],
+      "multi_artist": false,
       "show_title": "Christmas 2026",
       "presenters": [
         "Goldenvoice Presents"
@@ -95,8 +64,8 @@
       "date": "2026-12-04",
       "doors": "7:00 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.axs.com/events/1640656/cookies-christmas-2026-ft-berner-paul-wall-baby-bash-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
-      "ticket_status": "on sale",
+      "ticket_link": "https://www.axs.com/events/1640656/berners-cookies-christmas-2026-tickets?skin=warfield&src=AEGLIVE_WWRFLSFO022715VEN001",
+      "ticket_status": "cancelled",
       "event_page": "https://www.thewarfieldtheatre.com/events/detail/1640656",
       "room": null,
       "age_rating": "6+",
@@ -235,16 +204,6 @@
       ],
       "support_artists": [
         {
-          "name": "DJ Prince Paul",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "close match: DJ Paul",
-          "spotify_source": "api"
-        },
-        {
           "name": "Souls of Mischief",
           "apple_music": "https://music.apple.com/us/artist/souls-of-mischief/2319347",
           "spotify": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt",
@@ -252,6 +211,16 @@
           "matched": "Souls of Mischief",
           "apple_label": null,
           "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "DJ Prince Paul",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "close match: DJ Paul",
           "spotify_source": "api"
         }
       ],
@@ -1039,20 +1008,20 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 43,
-      "found": 38,
-      "exact": 36,
+      "unique_artists": 40,
+      "found": 34,
+      "exact": 32,
       "close": 1,
       "flagged": 1,
-      "not_found": 5
+      "not_found": 6
     },
     "spotify": {
-      "unique_artists": 43,
-      "linked": 40,
+      "unique_artists": 40,
+      "linked": 36,
       "venue": 0,
-      "api": 40,
+      "api": 36,
       "feed": 0,
-      "shows_with_link": 20
+      "shows_with_link": 19
     }
   }
 }

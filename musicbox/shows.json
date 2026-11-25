@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 33,
+  "scraped_at": "2026-11-25",
+  "count": 37,
   "shows": [
     {
       "event_type": "music",
@@ -76,6 +76,48 @@
       "ticket_link": "https://www.ticketweb.com/event/how-the-grouch-stole-christmas-music-box-tickets/14296694?REFID=bupwebsite",
       "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/14296694/how-the-grouch-stole-christmas-tour-the-grouch-eligh-ft-amp-live-w-special-guests-brother-ali-and-lyrics-born",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Amtrac",
+          "apple_music": "https://music.apple.com/us/artist/amtrac/384096444",
+          "spotify": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J",
+          "confidence": 1.0,
+          "matched": "Amtrac",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Boys Don't Disco",
+          "apple_music": "https://music.apple.com/us/artist/boys-dont-disco/1014340623",
+          "spotify": "https://open.spotify.com/artist/4CN6gXWHkkhSst4ct3Z80S",
+          "confidence": 1.0,
+          "matched": "Boys Don't Disco",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Dream Live Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-11-28",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/amtrac-dream-live-music-box-tickets/15032493?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15032493/amtrac-dream-live-tour-w-boys-dont-disco",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -598,6 +640,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Earlybirds Club",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Early Birds @ 67%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Dance Party",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-09",
+      "doors": null,
+      "show_time": "6:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/earlybirds-club-dance-music-box-tickets/14409314?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14409314/earlybirds-club-dance-party",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": "We still shut the club down. The club just shuts down at 10 now. Welcome to Earlybirds Club, the dance party created for ladies who have sh*t to do in the morning! For 80s Night, we're going big: big hair, big feelings, bigger choruses, and songs that still know exactly how to wake up your whole body. 🎶 Tara Dikhof spinning 80s pop, new wave, rock, dance, and R&B 🪩 A judgment-free dance floor built on joy, kindness, and connection 👯‍♀️ Come solo, with your crew, in your 80s best, or exactly as you are 💖 10% of ticket proceeds support the Susie Lee Legacy Fund. 🌈 A women-centered space that welcomes trans and gender-expansive folks. We don't police identity at the door, but ask everyone to respect the intention of the space. 📸 Event photography and video may be used for promotion. Ticket purchase constitutes consent. Note: While we don't police identity at the door, we ask that everyone who purchases a ticket respects this as a safe space for women and gender-expansive folks. By purchasing tickets, you consent to event photography and video for promotional use."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Effin – Heartbeats Tour",
           "apple_music": null,
           "spotify": null,
@@ -640,6 +713,48 @@
       "ticket_link": "https://www.ticketweb.com/event/effin-heartbeats-tour-w-music-box-tickets/14393764?REFID=bupwebsite",
       "ticket_status": "not on sale",
       "event_page": "https://bellyup.com/calendar/14393764/effin-heartbeats-tour-w-nikita-the-wicked",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Ballyhoo!",
+          "apple_music": "https://music.apple.com/us/artist/ballyhoo/130193994",
+          "spotify": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ",
+          "confidence": 1.0,
+          "matched": "Ballyhoo!",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Chad Tepper & Keep Flying",
+          "apple_music": null,
+          "spotify": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3",
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "We Ride at Dawn Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": null,
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper-keep-flying",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1234,30 +1349,72 @@
       "age_rating": null,
       "note": null,
       "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Hazlett",
+          "apple_music": "https://music.apple.com/us/artist/hazlett/274443511",
+          "spotify": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH",
+          "confidence": 1.0,
+          "matched": "Hazlett",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Hunter Metts",
+          "apple_music": "https://music.apple.com/us/artist/hunter-metts/1455284216",
+          "spotify": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14",
+          "confidence": 1.0,
+          "matched": "Hunter Metts",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "The Comeback Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-06-04",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/hazlett-the-comeback-music-box-tickets/14348784?REFID=bupwebsite",
+      "ticket_status": "sold out",
+      "event_page": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour-w-hunter-metts",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
     }
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 36,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 49,
-      "found": 41,
-      "exact": 37,
+      "unique_artists": 56,
+      "found": 46,
+      "exact": 42,
       "close": 0,
       "flagged": 4,
-      "not_found": 8
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 49,
-      "linked": 41,
+      "unique_artists": 56,
+      "linked": 47,
       "venue": 0,
-      "api": 41,
+      "api": 47,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 33
     }
   }
 }

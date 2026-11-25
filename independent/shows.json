@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 102,
+  "scraped_at": "2026-11-25",
+  "count": 101,
   "shows": [
     {
       "event_type": "music",
@@ -400,37 +400,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Lazer Dim 700",
-          "apple_music": "https://music.apple.com/us/artist/lazer-dim-700/1608411300",
-          "spotify": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U",
-          "confidence": 1.0,
-          "matched": "LAZER DIM 700",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Winter Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-07",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/lazer-dim-700-the-independent-tickets/14404834?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/lazer-dim-700/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "Wishy",
           "apple_music": "https://music.apple.com/us/artist/wishy/1668476287",
           "spotify": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe",
@@ -502,7 +471,7 @@
       "date": "2026-12-09",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14244224?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/feeble-little-horse/",
       "room": null,
@@ -544,7 +513,7 @@
       "date": "2026-12-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023?pl=independentsf&REFID=clientsitewp",
+      "ticket_link": null,
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
       "room": null,
@@ -3807,26 +3776,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 102,
+      "music": 101,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 145,
-      "found": 128,
-      "exact": 120,
+      "unique_artists": 144,
+      "found": 127,
+      "exact": 119,
       "close": 2,
       "flagged": 6,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 145,
-      "linked": 130,
-      "venue": 97,
+      "unique_artists": 144,
+      "linked": 129,
+      "venue": 96,
       "api": 33,
       "feed": 0,
-      "shows_with_link": 99
+      "shows_with_link": 98
     }
   }
 }

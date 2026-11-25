@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 62,
+  "scraped_at": "2026-11-25",
+  "count": 61,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "apple_music": "https://music.apple.com/us/artist/emma-ruth-rundle/360994442",
-          "spotify": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC",
-          "confidence": 1.0,
-          "matched": "Emma Ruth Rundle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Cinder Well",
-          "apple_music": "https://music.apple.com/us/artist/cinder-well/1374833337",
-          "spotify": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV",
-          "confidence": 1.0,
-          "matched": "Cinder Well",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "These Killing Times",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "7:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1535118/emma-ruth-rundle-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/emma-ruth-rundle-tickets-1535118",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2539,26 +2497,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 62,
+      "music": 61,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 115,
-      "found": 104,
-      "exact": 97,
+      "unique_artists": 113,
+      "found": 102,
+      "exact": 95,
       "close": 2,
       "flagged": 5,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 115,
-      "linked": 99,
+      "unique_artists": 113,
+      "linked": 97,
       "venue": 0,
-      "api": 99,
+      "api": 97,
       "feed": 0,
-      "shows_with_link": 57
+      "shows_with_link": 56
     }
   }
 }

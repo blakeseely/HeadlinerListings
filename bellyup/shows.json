@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 126,
+  "scraped_at": "2026-11-25",
+  "count": 125,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Jimi Hendrix Celebration",
-          "apple_music": "https://music.apple.com/us/artist/jimi-hendrix/62852",
-          "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4",
-          "confidence": 0.8,
-          "matched": "Jimi Hendrix",
-          "apple_label": "compound bill — links to Jimi Hendrix only",
-          "spotify_label": "close match: Jimi Hendrix",
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Jeff Moore",
-          "apple_music": "https://music.apple.com/us/artist/jeff-moore/1524963709",
-          "spotify": "https://open.spotify.com/artist/41yjYv7A25pwSdMBLpQ7Ft",
-          "confidence": 1.0,
-          "matched": "Jeff Moore",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Anthony Evans @ 44%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": null,
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/jimi-hendrix-celebration-featuring-jeff-belly-up-tickets/14246294?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14246294/jimi-hendrix-celebration-featuring-jeff-moore-isaiah-mitchell-anthony-cullins-with-special-guests-jeff-ruiz-marc-ford",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -688,13 +636,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Atomic Groove's A Very Merry Groovemas Holiday Dance Party Happy Hour",
+          "name": "Atomic Groove's A Very Merry Groovemas Happy Hour",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 24%)",
+          "spotify_label": "no confident match (closest: TomChris JHouseGroove @ 31%)",
           "spotify_source": null
         }
       ],
@@ -708,7 +656,7 @@
       "show_time": "5:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/atomic-grooves-a-very-merry-belly-up-tickets/14328174?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14328174/atomic-grooves-a-very-merry-groovemas-holiday-dance-party-happy-hour",
+      "event_page": "https://bellyup.com/calendar/14328174/atomic-grooves-a-very-merry-groovemas-happy-hour",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1772,6 +1720,16 @@
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
+        },
+        {
+          "name": "Claudia Russell",
+          "apple_music": "https://music.apple.com/us/artist/claudia-russell/39333802",
+          "spotify": "https://open.spotify.com/artist/1yPaOHTu8mBhI0ZCKp7jrQ",
+          "confidence": 1.0,
+          "matched": "Claudia Russell",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
         }
       ],
       "multi_artist": true,
@@ -2018,7 +1976,7 @@
       "doors": null,
       "show_time": "6:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/fiesta-del-sol-belly-up-tickets/14359514?REFID=bupwebsite",
-      "ticket_status": "on sale soon",
+      "ticket_status": null,
       "event_page": "https://bellyup.com/calendar/14359514/fiesta-del-sol-battle-of-the-bands",
       "room": null,
       "age_rating": null,
@@ -2049,7 +2007,7 @@
       "doors": null,
       "show_time": "6:30 pm",
       "ticket_link": "https://www.ticketweb.com/event/earlier-a-dance-belly-up-tickets/15057053?REFID=bupwebsite",
-      "ticket_status": "not on sale",
+      "ticket_status": "on sale",
       "event_page": "https://bellyup.com/calendar/15057053/earlier-a-dance-party-that-happens-earlier",
       "room": null,
       "age_rating": null,
@@ -2908,27 +2866,27 @@
           "spotify_source": "api"
         },
         {
-          "name": "The Xceptional",
-          "apple_music": "https://music.apple.com/us/artist/the-exceptional-three/889969270",
-          "spotify": "https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ",
-          "confidence": 0.8,
-          "matched": "The Exceptional Three",
-          "apple_label": "close match: The Exceptional Three",
-          "spotify_label": "close match: The Exceptional Three",
-          "spotify_source": "api"
+          "name": "*Xceptional ABBA",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: ABBA @ 40%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": true,
-      "show_title": "Tribute to ABBA",
+      "show_title": "Tribute to ABBA*",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-06",
       "doors": null,
       "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/super-diamond-the-xceptional-belly-up-tickets/14288724?REFID=bupwebsite",
+      "ticket_link": "https://www.ticketweb.com/event/super-diamond-xceptional-abba-belly-up-tickets/14288724?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14288724/super-diamond-the-xceptional-tribute-to-abba",
+      "event_page": "https://bellyup.com/calendar/14288724/super-diamond-xceptional-abba-tribute-to-abba",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -4712,26 +4670,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 126,
+      "music": 125,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 175,
-      "found": 132,
+      "unique_artists": 173,
+      "found": 130,
       "exact": 110,
       "close": 5,
-      "flagged": 17,
+      "flagged": 15,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 175,
-      "linked": 136,
+      "unique_artists": 173,
+      "linked": 134,
       "venue": 0,
-      "api": 136,
+      "api": 134,
       "feed": 0,
-      "shows_with_link": 92
+      "shows_with_link": 91
     }
   }
 }

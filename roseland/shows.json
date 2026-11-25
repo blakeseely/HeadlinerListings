@@ -36,63 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 32,
+  "scraped_at": "2026-11-25",
+  "count": 31,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Alter Bridge",
-          "apple_music": "https://music.apple.com/us/artist/alter-bridge/73789273",
-          "spotify": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU",
-          "confidence": 1.0,
-          "matched": "Alter Bridge",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Big Wreck",
-          "apple_music": "https://music.apple.com/us/artist/big-wreck/150589",
-          "spotify": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS",
-          "confidence": 1.0,
-          "matched": "Big Wreck",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Tim Montana",
-          "apple_music": "https://music.apple.com/us/artist/tim-montana/263068617",
-          "spotify": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC",
-          "confidence": 1.0,
-          "matched": "Tim Montana",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "What Lies Within Tour",
-      "presenters": [
-        "Live Nation Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/55176920/alter-bridge-what-lies-within-tour-portland-roseland-theater?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://roselandpdx.com/event/alter-bridge-what-lies-within-tour/roseland-theater/portland-oregon/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1571,26 +1517,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 70,
-      "found": 63,
-      "exact": 59,
+      "unique_artists": 67,
+      "found": 60,
+      "exact": 56,
       "close": 1,
       "flagged": 3,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 70,
-      "linked": 66,
+      "unique_artists": 67,
+      "linked": 63,
       "venue": 0,
-      "api": 66,
+      "api": 63,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 29
     }
   }
 }

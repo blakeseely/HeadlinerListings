@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 48,
+  "scraped_at": "2026-11-25",
+  "count": 59,
   "shows": [
     {
       "event_type": "other",
@@ -664,13 +664,13 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Oregon Lunar New Year Celebration",
+          "name": "2027 Oregon Lunar New Year Celebration",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
           "matched": null,
           "apple_label": null,
-          "spotify_label": "no confident match (closest: Lunar Echo Underground @ 44%)",
+          "spotify_label": "no confident match (closest: Lunar Echo Underground @ 40%)",
           "spotify_source": null
         }
       ],
@@ -680,11 +680,11 @@
       "presenters": [],
       "set_format": null,
       "date": "2027-02-06",
-      "doors": "6:30 pm",
+      "doors": "6:00 pm",
       "show_time": "7:30 pm",
       "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=LUNARNY&linkID=pcpa&shopperContext=&caller=&appCode=",
       "ticket_status": "on sale",
-      "event_page": "https://www.portland5.com/event/oregon-lunar-new-year-celebration",
+      "event_page": "https://www.portland5.com/event/2027-oregon-lunar-new-year-celebration",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
@@ -1435,6 +1435,347 @@
       "description": null
     },
     {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-11",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-12",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-13",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-14",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-15",
+      "doors": "1 hour prior to start",
+      "show_time": "2:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-15",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-16",
+      "doors": "1 hour prior to start",
+      "show_time": "1:00 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-16",
+      "doors": "1 hour prior to start",
+      "show_time": "6:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-17",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-18",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "other",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "The Sound of Music",
+          "apple_music": "https://music.apple.com/us/artist/the-sound-of-music/1805502381",
+          "spotify": null,
+          "confidence": 1.0,
+          "matched": "The Sound of Music",
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Hunger Games @ 53%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-05-19",
+      "doors": "1 hour prior to start",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://portland5.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=BAASM&linkID=pcpa&shopperContext=&caller=&appCode=",
+      "ticket_status": "on sale",
+      "event_page": "https://www.portland5.com/event/sound-music",
+      "room": null,
+      "age_rating": "Recommended for ages 7 and up",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "comedy",
       "needs_review": false,
       "headline_artists": [
@@ -1533,18 +1874,18 @@
       "music": 12,
       "comedy": 6,
       "film": 0,
-      "other": 30
+      "other": 41
     },
     "apple_music": {
-      "unique_artists": 16,
-      "found": 7,
-      "exact": 5,
+      "unique_artists": 17,
+      "found": 8,
+      "exact": 6,
       "close": 1,
       "flagged": 1,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 16,
+      "unique_artists": 17,
       "linked": 7,
       "venue": 0,
       "api": 7,

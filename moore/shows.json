@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 54,
+  "scraped_at": "2026-11-25",
+  "count": 53,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Prateek Kuhad",
-          "apple_music": "https://music.apple.com/us/artist/prateek-kuhad/453523728",
-          "spotify": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7",
-          "confidence": 1.0,
-          "matched": "Prateek Kuhad",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Canceled",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/prateek-kuhad/",
-      "ticket_status": "cancelled",
-      "event_page": "https://www.stgpresents.org/events/prateek-kuhad/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1822,26 +1791,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 32,
+      "music": 31,
       "comedy": 10,
       "film": 0,
       "other": 12
     },
     "apple_music": {
-      "unique_artists": 53,
-      "found": 40,
-      "exact": 34,
+      "unique_artists": 52,
+      "found": 39,
+      "exact": 33,
       "close": 1,
       "flagged": 5,
       "not_found": 13
     },
     "spotify": {
-      "unique_artists": 53,
-      "linked": 39,
+      "unique_artists": 52,
+      "linked": 38,
       "venue": 0,
-      "api": 39,
+      "api": 38,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

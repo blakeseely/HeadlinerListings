@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
-  "count": 35,
+  "scraped_at": "2026-11-25",
+  "count": 34,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "SAOSIN",
-          "apple_music": "https://music.apple.com/us/artist/saosin/28673579",
-          "spotify": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-          "confidence": 1.0,
-          "matched": "Saosin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Silent Planet",
-          "apple_music": "https://music.apple.com/us/artist/silent-planet/935501728",
-          "spotify": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU",
-          "confidence": 1.0,
-          "matched": "Silent Planet",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Like Moths to Flames",
-          "apple_music": "https://music.apple.com/us/artist/like-moths-to-flames/354095901",
-          "spotify": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw",
-          "confidence": 1.0,
-          "matched": "Like Moths to Flames",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "and Save Us",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1",
-          "confidence": 0.435,
-          "matched": null,
-          "apple_label": "no confident match (closest: Jason Derulo @ 44%)",
-          "spotify_label": "close match: SAVE US",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "20 Years of Self-Titled",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.axs.com/events/1433012/saosin-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1433012",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1542,26 +1480,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 35,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 70,
-      "found": 65,
-      "exact": 61,
+      "unique_artists": 66,
+      "found": 62,
+      "exact": 58,
       "close": 0,
       "flagged": 4,
-      "not_found": 5
+      "not_found": 4
     },
     "spotify": {
-      "unique_artists": 70,
-      "linked": 66,
+      "unique_artists": 66,
+      "linked": 62,
       "venue": 0,
-      "api": 66,
+      "api": 62,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

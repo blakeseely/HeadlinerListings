@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
+  "scraped_at": "2026-11-25",
   "count": 26,
   "shows": [
     {
@@ -237,6 +237,16 @@
           "spotify": "https://open.spotify.com/artist/4qIJ8ZvbwRJey7xgdcfK5M",
           "confidence": 1.0,
           "matched": "MuerteMen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Yotes",
+          "apple_music": "https://music.apple.com/us/artist/yotes/1619552819",
+          "spotify": "https://open.spotify.com/artist/7ulVQQYhFg1rD6kSawU329",
+          "confidence": 1.0,
+          "matched": "Yotes",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1166,18 +1176,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 54,
-      "found": 44,
-      "exact": 43,
+      "unique_artists": 55,
+      "found": 45,
+      "exact": 44,
       "close": 0,
       "flagged": 1,
       "not_found": 10
     },
     "spotify": {
-      "unique_artists": 54,
-      "linked": 43,
+      "unique_artists": 55,
+      "linked": 44,
       "venue": 0,
-      "api": 43,
+      "api": 44,
       "feed": 0,
       "shows_with_link": 21
     }

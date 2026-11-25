@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
+  "scraped_at": "2026-11-25",
   "count": 122,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Scott Bradlee’s Postmodern Jukebox",
-          "apple_music": "https://music.apple.com/us/artist/scott-bradlees-postmodern-jukebox/636865970",
-          "spotify": null,
-          "confidence": 1.0,
-          "matched": "Scott Bradlee's Postmodern Jukebox",
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Postmodern Jukebox @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/scott-bradlees-postmodern-jukebox/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/scott-bradlees-postmodern-jukebox/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "other",
       "needs_review": false,
@@ -3912,6 +3881,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Dermot Kennedy",
+          "apple_music": "https://music.apple.com/us/artist/dermot-kennedy/376564133",
+          "spotify": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ",
+          "confidence": 1.0,
+          "matched": "Dermot Kennedy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "With Jonah Kagan &amp; Aaron Rowe",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-09-17",
+      "doors": "6:30 pm",
+      "show_time": "7:30 pm",
+      "ticket_link": "https://www.stgpresents.org/events/dermot-kennedy-2027/",
+      "ticket_status": "on sale",
+      "event_page": "https://www.stgpresents.org/events/dermot-kennedy-2027/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Jimmy Carr",
           "apple_music": "https://music.apple.com/us/artist/jimmy-carr/204830985",
           "spotify": "https://open.spotify.com/artist/3hYaK5FF3YAglCj5HZgBnP",
@@ -3956,11 +3956,11 @@
     },
     "spotify": {
       "unique_artists": 61,
-      "linked": 45,
+      "linked": 46,
       "venue": 0,
-      "api": 45,
+      "api": 46,
       "feed": 0,
-      "shows_with_link": 100
+      "shows_with_link": 101
     }
   }
 }

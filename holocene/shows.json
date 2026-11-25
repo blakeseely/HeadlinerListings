@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
+  "scraped_at": "2026-11-25",
   "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Spanish Love Songs",
-          "apple_music": "https://music.apple.com/us/artist/spanish-love-songs/982837028",
-          "spotify": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV",
-          "confidence": 1.0,
-          "matched": "Spanish Love Songs",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The Cost of Living Tour",
-      "presenters": [
-        "Monqui Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-24",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/50070290/spanish-love-songs-the-cost-of-living-tour-portland-holocene?partner_id=100",
-      "ticket_status": "sold out",
-      "event_page": "https://www.holocene.org/events/2026-11-24-spanish-love-songs-the-cost-of-living-tour",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -949,6 +916,37 @@
       "description": null
     },
     {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "KLUB NOCTURNO: Haus Party Portland",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Eco Nocturno @ 39%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Rock en Espanol, Cumbia, Reggaeton & 80s New Wave",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-23",
+      "doors": null,
+      "show_time": "9:30 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/71986612/klub-nocturno-haus-party-portland-rock-en-espanol-cumbia-reggaeton-80s-new-wave-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-23-klub-nocturno-haus-party-portland-rock-en-espanol-cumbia-reggaeton-80s-new-wave",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
       "event_type": "comedy",
       "needs_review": false,
       "headline_artists": [
@@ -984,27 +982,29 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Virtua x B.U.G. full venue activation Featuring Morgan Garrett",
-          "apple_music": "https://music.apple.com/us/artist/virtua/1697216129",
-          "spotify": "https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k",
-          "confidence": 1.0,
-          "matched": "Virtua",
-          "apple_label": "compound bill — links to Virtua only",
-          "spotify_label": null,
-          "spotify_source": "api"
+          "name": "RENDER FAIRE 2027: FULL DUNGEON ACTIVATION, A Feast of Fools and NPCs feat. Morgan Garrett",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Dungeon Playlist @ 23%)",
+          "spotify_source": null
         }
       ],
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "Virtua & B,U.G. Present"
+      ],
       "set_format": null,
       "date": "2027-01-27",
       "doors": null,
       "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/39628518/virtua-x-b-u-g-full-venue-activation-featuring-morgan-garrett-21-portland-holocene?partner_id=100",
+      "ticket_link": "https://www.etix.com/ticket/p/39628518/render-faire-2027-full-dungeon-activation-a-feast-of-fools-and-npcs-feat-morgan-garrett-21-portland-holocene?partner_id=100",
       "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2027-01-27-virtua-x-b-u-g-full-venue-activation-featuring-morgan-garrett",
+      "event_page": "https://www.holocene.org/events/2027-01-27-render-faire-2027-full-dungeon-activation-a-feast-of-fools-and-npcs-feat-morgan-",
       "room": null,
       "age_rating": "21+",
       "note": null,
@@ -1736,19 +1736,19 @@
     },
     "apple_music": {
       "unique_artists": 61,
-      "found": 32,
-      "exact": 27,
+      "found": 30,
+      "exact": 26,
       "close": 1,
-      "flagged": 4,
-      "not_found": 29
+      "flagged": 3,
+      "not_found": 31
     },
     "spotify": {
       "unique_artists": 61,
-      "linked": 32,
+      "linked": 30,
       "venue": 0,
-      "api": 32,
+      "api": 30,
       "feed": 0,
-      "shows_with_link": 25
+      "shows_with_link": 23
     }
   }
 }

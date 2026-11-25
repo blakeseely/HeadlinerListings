@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-24",
+  "scraped_at": "2026-11-25",
   "count": 32,
   "shows": [
     {
@@ -249,6 +249,66 @@
           "matched": null,
           "apple_label": null,
           "spotify_label": "no confident match (closest: Big Country @ 53%)",
+          "spotify_source": null
+        },
+        {
+          "name": "B-Legit",
+          "apple_music": "https://music.apple.com/us/artist/b-legit/1650438",
+          "spotify": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI",
+          "confidence": 1.0,
+          "matched": "B-Legit",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "3x Krazy",
+          "apple_music": "https://music.apple.com/us/artist/3x-krazy/73385342",
+          "spotify": "https://open.spotify.com/artist/7jVdnobjK8xR3M5OeFGbAF",
+          "confidence": 1.0,
+          "matched": "3X Krazy",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Mistah F.A.B",
+          "apple_music": "https://music.apple.com/us/artist/mistah-f-a-b/74260889",
+          "spotify": "https://open.spotify.com/artist/0nAEv8OO8e5M4VGSShGnIu",
+          "confidence": 0.9,
+          "matched": "Mistah F.A.B.",
+          "apple_label": "close match: Mistah F.A.B.",
+          "spotify_label": "close match: Mistah FAB",
+          "spotify_source": "api"
+        },
+        {
+          "name": "Conscious Daughters",
+          "apple_music": "https://music.apple.com/us/artist/conscious-daughters/45123669",
+          "spotify": "https://open.spotify.com/artist/5NbZAu1KKp1FlJWxM5ZyxM",
+          "confidence": 1.0,
+          "matched": "Conscious Daughters",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "The New Standard",
+          "apple_music": "https://music.apple.com/us/artist/the-new-standard/1436950275",
+          "spotify": "https://open.spotify.com/artist/6TFdtQS5ybhoQSQCfxGK6O",
+          "confidence": 1.0,
+          "matched": "The New Standard",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "Music by D. Sharp",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.7,
+          "matched": null,
+          "apple_label": "no confident match (closest: D Sharp @ 70%)",
+          "spotify_label": "no confident match (closest: Dee Dee Sharp @ 53%)",
           "spotify_source": null
         }
       ],
@@ -1221,18 +1281,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
-      "found": 36,
-      "exact": 32,
+      "unique_artists": 46,
+      "found": 41,
+      "exact": 36,
       "close": 2,
-      "flagged": 2,
-      "not_found": 4
+      "flagged": 3,
+      "not_found": 5
     },
     "spotify": {
-      "unique_artists": 40,
-      "linked": 37,
+      "unique_artists": 46,
+      "linked": 42,
       "venue": 31,
-      "api": 6,
+      "api": 11,
       "feed": 0,
       "shows_with_link": 31
     }
