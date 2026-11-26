@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 47,
+  "scraped_at": "2026-11-26",
+  "count": 46,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Andre Nickatina",
-          "apple_music": "https://music.apple.com/us/artist/andre-nickatina/4623529",
-          "spotify": "https://open.spotify.com/artist/7boQqq2hUcz9kHcQOecG4j",
-          "confidence": 1.0,
-          "matched": "Andre Nickatina",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8362595/buy-tickets",
-      "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8362595/buy-tickets",
-      "room": null,
-      "age_rating": null,
-      "note": "From $89",
-      "description": "Andre Nickatina at Great American Music Hall on Wednesday 25th November 2026 in San Francisco..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -496,13 +465,13 @@
       "date": "2026-12-26",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378316/buy-tickets",
+      "ticket_link": "https://www.tenderloinmusichall.com/events/jerrys-middle-finger-26-december-2026/",
       "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8378316/buy-tickets",
+      "event_page": "https://www.tenderloinmusichall.com/events/jerrys-middle-finger-26-december-2026/",
       "room": null,
       "age_rating": null,
-      "note": "From $61",
-      "description": "Jerry's Middle Finger at Great American Music Hall on Saturday 26th December 2026 in San Francisco..."
+      "note": "From $54",
+      "description": "Get ready to experience a night of pure unadulterated Grateful Dead tribute music when Jerry's..."
     },
     {
       "event_type": "music",
@@ -1519,26 +1488,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 46,
+      "music": 45,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 42,
-      "found": 34,
-      "exact": 32,
+      "unique_artists": 41,
+      "found": 33,
+      "exact": 31,
       "close": 0,
       "flagged": 2,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 42,
-      "linked": 34,
+      "unique_artists": 41,
+      "linked": 33,
       "venue": 0,
-      "api": 34,
+      "api": 33,
       "feed": 0,
-      "shows_with_link": 35
+      "shows_with_link": 34
     }
   }
 }

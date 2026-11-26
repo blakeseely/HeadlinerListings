@@ -36,81 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 125,
+  "scraped_at": "2026-11-26",
+  "count": 124,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Oceans & The Imposters Happy Hour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Happy Hour @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15029833/oceans-the-imposters-happy-hour",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Last year, the Food Bank distributed over 50 million pounds of food, and the Food Bank serves, on average, 400,000 people per month in San Diego County. Through our two warehouse locations and by partnering with more than 450 nonprofit partners, the Food Bank provides nutritious food to individuals and families in need in communities throughout San Diego County."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Queen Nation",
-          "apple_music": "https://music.apple.com/us/artist/queen-of-nation/592247818",
-          "spotify": "https://open.spotify.com/artist/0S8Ii9ku6xhjuQ5ORRPKe0",
-          "confidence": 0.8,
-          "matched": "Queen of Nation",
-          "apple_label": "close match: Queen of Nation",
-          "spotify_label": "close match: Queen of Nation",
-          "spotify_source": "api"
-        },
-        {
-          "name": "DJ Organic Hispanic",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: DJ Morphius @ 53%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": null,
-      "show_time": "8:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/queen-nation-dj-organic-hispanic-belly-up-tickets/14265204?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14265204/queen-nation-dj-organic-hispanic",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4422,6 +4350,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Uninvited & LA Winter - Benefitting epilepsy foundation of San Diego \"Team Rhizzle Schizzle\"",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: The Union Underground @ 27%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-04-18",
+      "doors": null,
+      "show_time": "6:30 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-uninvited-la-winter-belly-up-tickets/15072423?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15072423/the-uninvited-la-winter-benefitting-epilepsy-foundation-of-san-diego-team-rhizzle-schizzle",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "The Robert Cray Band",
           "apple_music": "https://music.apple.com/us/artist/the-robert-cray-band/129597",
           "spotify": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P",
@@ -4670,26 +4629,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 125,
+      "music": 124,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 173,
-      "found": 130,
+      "unique_artists": 172,
+      "found": 129,
       "exact": 110,
       "close": 5,
-      "flagged": 15,
+      "flagged": 14,
       "not_found": 43
     },
     "spotify": {
-      "unique_artists": 173,
-      "linked": 134,
+      "unique_artists": 172,
+      "linked": 133,
       "venue": 0,
-      "api": 134,
+      "api": 133,
       "feed": 0,
-      "shows_with_link": 91
+      "shows_with_link": 90
     }
   }
 }

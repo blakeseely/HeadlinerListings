@@ -36,82 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 44,
+  "scraped_at": "2026-11-26",
+  "count": 42,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Moonalice",
-          "apple_music": "https://music.apple.com/us/artist/moonalice/310479004",
-          "spotify": "https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e",
-          "confidence": 1.0,
-          "matched": "Moonalice",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Mad Alchemy Liquid Light Show",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Saturn’s Yard Sale @ 26%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Black Out Wednesday with COLDSF & JOOG",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Warlord Colossus @ 30%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "8:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://wl.seetickets.us/event/black-out-wednesday-with-coldsf-and-joog/712569?afflky=TheChapel",
-      "ticket_status": null,
-      "event_page": "https://wl.seetickets.us/event/black-out-wednesday-with-coldsf-and-joog/712569?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -225,7 +152,7 @@
       "set_format": null,
       "date": "2026-11-27",
       "doors": "7:30 pm",
-      "show_time": "8:00 pm",
+      "show_time": "8:30 pm",
       "ticket_link": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
       "ticket_status": "on sale",
       "event_page": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
@@ -883,8 +810,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Hannah Lee Thompson",
+          "apple_music": "https://music.apple.com/us/artist/hannah-lee-thompson/1443241776",
+          "spotify": "https://open.spotify.com/artist/7eJPQFz5Ct278s4oIHNuIn",
+          "confidence": 1.0,
+          "matched": "Hannah Lee Thompson",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": null,
       "presenters": [],
       "set_format": null,
@@ -1827,26 +1765,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 42,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 76,
+      "unique_artists": 74,
       "found": 57,
       "exact": 48,
       "close": 4,
       "flagged": 5,
-      "not_found": 19
+      "not_found": 17
     },
     "spotify": {
-      "unique_artists": 76,
+      "unique_artists": 74,
       "linked": 54,
       "venue": 0,
       "api": 54,
       "feed": 0,
-      "shows_with_link": 38
+      "shows_with_link": 37
     }
   }
 }

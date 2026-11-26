@@ -36,73 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 31,
+  "scraped_at": "2026-11-26",
+  "count": 30,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Saosin",
-          "apple_music": "https://music.apple.com/us/artist/saosin/28673579",
-          "spotify": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX",
-          "confidence": 1.0,
-          "matched": "Saosin",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Silent Planet",
-          "apple_music": "https://music.apple.com/us/artist/silent-planet/935501728",
-          "spotify": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU",
-          "confidence": 1.0,
-          "matched": "Silent Planet",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Like Moths To Flames",
-          "apple_music": "https://music.apple.com/us/artist/like-moths-to-flames/354095901",
-          "spotify": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw",
-          "confidence": 1.0,
-          "matched": "Like Moths to Flames",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "& Save Us",
-          "apple_music": "https://music.apple.com/us/artist/save-us/1698971562",
-          "spotify": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1",
-          "confidence": 0.9,
-          "matched": "SAVE US",
-          "apple_label": "close match: SAVE US",
-          "spotify_label": "close match: SAVE US",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "20 Years of Self-Titled",
-      "presenters": [
-        "Mammoth NW Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/53260583/saosin20-years-of-selftitled-portland-roseland-theater?partner_id=100",
-      "ticket_status": "sold out",
-      "event_page": "https://roselandpdx.com/event/saosin-20-years-of-self-titled/roseland-theater/portland-oregon/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1517,26 +1453,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 31,
+      "music": 30,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 67,
-      "found": 60,
-      "exact": 56,
+      "unique_artists": 63,
+      "found": 56,
+      "exact": 53,
       "close": 1,
-      "flagged": 3,
+      "flagged": 2,
       "not_found": 7
     },
     "spotify": {
-      "unique_artists": 67,
-      "linked": 63,
+      "unique_artists": 63,
+      "linked": 59,
       "venue": 0,
-      "api": 63,
+      "api": 59,
       "feed": 0,
-      "shows_with_link": 29
+      "shows_with_link": 28
     }
   }
 }

@@ -36,61 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 49,
+  "scraped_at": "2026-11-26",
+  "count": 48,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Boston Manor",
-          "apple_music": "https://music.apple.com/us/artist/boston-manor/453487358",
-          "spotify": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM",
-          "confidence": 1.0,
-          "matched": "Boston Manor",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Ben Quad",
-          "apple_music": "https://music.apple.com/us/artist/ben-quad/1433413372",
-          "spotify": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE",
-          "confidence": 1.0,
-          "matched": "Ben Quad",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Super Sometimes",
-          "apple_music": "https://music.apple.com/us/artist/super-sometimes/1822567064",
-          "spotify": "https://open.spotify.com/artist/4zB8iT4joBTjD6VES4cLbF",
-          "confidence": 1.0,
-          "matched": "Super Sometimes",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "\"Be Nothing\" 10 Year Anniversary",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "6:30 pm",
-      "show_time": "7:30 pm",
-      "ticket_link": "https://www.axs.com/events/1462887/boston-manor-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1462887",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -106,8 +54,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Kuroneko",
+          "apple_music": "https://music.apple.com/us/artist/kuroneko/423727068",
+          "spotify": "https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p",
+          "confidence": 1.0,
+          "matched": "Kuroneko",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Back to the Roadhouse Tour",
       "presenters": [],
       "set_format": null,
@@ -1917,26 +1876,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 49,
+      "music": 48,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 80,
-      "found": 71,
-      "exact": 66,
+      "unique_artists": 78,
+      "found": 69,
+      "exact": 64,
       "close": 1,
       "flagged": 4,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 80,
-      "linked": 72,
+      "unique_artists": 78,
+      "linked": 70,
       "venue": 0,
-      "api": 72,
+      "api": 70,
       "feed": 0,
-      "shows_with_link": 45
+      "shows_with_link": 44
     }
   }
 }

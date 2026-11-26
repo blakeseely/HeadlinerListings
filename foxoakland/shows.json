@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "count": 32,
   "shows": [
     {
@@ -222,7 +222,7 @@
       ],
       "support_artists": [
         {
-          "name": "Ft. Conversations & Performances by E-40",
+          "name": "Ft. Special Guests E-40",
           "apple_music": null,
           "spotify": null,
           "confidence": 0.0,
@@ -232,24 +232,14 @@
           "spotify_source": null
         },
         {
-          "name": "Too $hort & More!",
+          "name": "Too $hort",
           "apple_music": "https://music.apple.com/us/artist/too-%24hort/145173964",
           "spotify": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v",
-          "confidence": 0.8,
+          "confidence": 1.0,
           "matched": "Too $hort",
           "apple_label": null,
-          "spotify_label": "close match: Too $hort",
-          "spotify_source": "api"
-        },
-        {
-          "name": "Hosted by Big Court",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Big Country @ 53%)",
-          "spotify_source": null
+          "spotify_label": null,
+          "spotify_source": "venue"
         },
         {
           "name": "B-Legit",
@@ -282,24 +272,34 @@
           "spotify_source": "api"
         },
         {
-          "name": "Conscious Daughters",
-          "apple_music": "https://music.apple.com/us/artist/conscious-daughters/45123669",
-          "spotify": "https://open.spotify.com/artist/5NbZAu1KKp1FlJWxM5ZyxM",
+          "name": "The Conscious Daughters",
+          "apple_music": "https://music.apple.com/us/artist/the-conscious-daughters/5361087",
+          "spotify": "https://open.spotify.com/artist/120cCFsKuYyGeIQaOMs0DV",
           "confidence": 1.0,
-          "matched": "Conscious Daughters",
+          "matched": "The Conscious Daughters",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
         },
         {
-          "name": "The New Standard",
+          "name": "The New Standard & More!",
           "apple_music": "https://music.apple.com/us/artist/the-new-standard/1436950275",
-          "spotify": "https://open.spotify.com/artist/6TFdtQS5ybhoQSQCfxGK6O",
-          "confidence": 1.0,
+          "spotify": null,
+          "confidence": 0.8,
           "matched": "The New Standard",
           "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "spotify_label": "no confident match (closest: The New Standards @ 78%)",
+          "spotify_source": null
+        },
+        {
+          "name": "Hosted by Big Court",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Big Country @ 53%)",
+          "spotify_source": null
         },
         {
           "name": "Music by D. Sharp",
@@ -1290,9 +1290,9 @@
     },
     "spotify": {
       "unique_artists": 46,
-      "linked": 42,
-      "venue": 31,
-      "api": 11,
+      "linked": 41,
+      "venue": 32,
+      "api": 9,
       "feed": 0,
       "shows_with_link": 31
     }

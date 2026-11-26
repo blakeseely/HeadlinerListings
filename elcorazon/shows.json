@@ -36,81 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 34,
+  "scraped_at": "2026-11-26",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Distant",
-          "apple_music": "https://music.apple.com/us/artist/distant/1456297458",
-          "spotify": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ",
-          "confidence": 1.0,
-          "matched": "Distant",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Heavy//Hitter",
-          "apple_music": "https://music.apple.com/us/artist/heavy-hitter/1469761697",
-          "spotify": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU",
-          "confidence": 1.0,
-          "matched": "Heavy//Hitter",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Torn Open",
-          "apple_music": "https://music.apple.com/us/artist/torn-open/1804013367",
-          "spotify": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX",
-          "confidence": 1.0,
-          "matched": "Torn Open",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Katywentmissing",
-          "apple_music": "https://music.apple.com/us/artist/katywentmissing/1746449022",
-          "spotify": "https://open.spotify.com/artist/7jSZJeY778ix9GGxbTuvFk",
-          "confidence": 1.0,
-          "matched": "Katywentmissing",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Gouged",
-          "apple_music": "https://music.apple.com/us/artist/gouged/1651744398",
-          "spotify": "https://open.spotify.com/artist/5YBdymBwFJxlqr0l23Dusl",
-          "confidence": 1.0,
-          "matched": "Gouged",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Into Despair USA Tour 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.elcorazonseattle.com/shows/distant-into-despair-usa-tour-2026-25-nov",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1889,26 +1817,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 101,
-      "found": 90,
-      "exact": 88,
+      "unique_artists": 96,
+      "found": 85,
+      "exact": 83,
       "close": 0,
       "flagged": 2,
       "not_found": 11
     },
     "spotify": {
-      "unique_artists": 101,
-      "linked": 88,
+      "unique_artists": 96,
+      "linked": 83,
       "venue": 0,
-      "api": 88,
+      "api": 83,
       "feed": 0,
-      "shows_with_link": 30
+      "shows_with_link": 29
     }
   }
 }

@@ -36,63 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 28,
+  "scraped_at": "2026-11-26",
+  "count": 27,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Wrecks",
-          "apple_music": "https://music.apple.com/us/artist/the-wrecks/1027163978",
-          "spotify": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34",
-          "confidence": 1.0,
-          "matched": "The Wrecks",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Worry Club",
-          "apple_music": "https://music.apple.com/us/artist/worry-club/1489877520",
-          "spotify": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl",
-          "confidence": 1.0,
-          "matched": "Worry Club",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Kid Sistr",
-          "apple_music": "https://music.apple.com/us/artist/kid-sistr/1506324271",
-          "spotify": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk",
-          "confidence": 1.0,
-          "matched": "Kid Sistr",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Finally : OUTSIDE Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546249301",
-      "ticket_status": "on sale",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1474827",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -428,6 +374,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Devault",
+          "apple_music": "https://music.apple.com/us/artist/devault/1068294292",
+          "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL",
+          "confidence": 1.0,
+          "matched": "Devault",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Goldenvoice Presents"
+      ],
+      "set_format": null,
+      "date": "2027-02-05",
+      "doors": null,
+      "show_time": "10:00 pm",
+      "ticket_link": "https://www.eventbrite.com/e/devault-tickets-2005437292928?aff=oddtdtcreator",
+      "ticket_status": "Get Tickets",
+      "event_page": "https://theregencyballroom.com/events/detail?event_id=1497641",
+      "room": null,
+      "age_rating": "21 & Over",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "TWINSICK",
           "apple_music": "https://music.apple.com/us/artist/twinsick/1492365725",
           "spotify": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF",
@@ -451,39 +430,6 @@
       "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546808835",
       "ticket_status": "on sale",
       "event_page": "https://theregencyballroom.com/events/detail?event_id=1601209",
-      "room": null,
-      "age_rating": "18 & Over",
-      "note": null,
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Devault",
-          "apple_music": "https://music.apple.com/us/artist/devault/1068294292",
-          "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL",
-          "confidence": 1.0,
-          "matched": "Devault",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2027-02-05",
-      "doors": "8:00 pm",
-      "show_time": "10:00 pm",
-      "ticket_link": "https://shop.axs.com/?c=axs&e=30567424546513535",
-      "ticket_status": "Get Tickets",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1497641",
       "room": null,
       "age_rating": "18 & Over",
       "note": null,
@@ -1126,26 +1072,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 28,
+      "music": 27,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 43,
-      "found": 38,
-      "exact": 38,
+      "unique_artists": 40,
+      "found": 35,
+      "exact": 35,
       "close": 0,
       "flagged": 0,
       "not_found": 5
     },
     "spotify": {
-      "unique_artists": 43,
-      "linked": 38,
+      "unique_artists": 40,
+      "linked": 35,
       "venue": 0,
-      "api": 35,
+      "api": 32,
       "feed": 3,
-      "shows_with_link": 24
+      "shows_with_link": 23
     }
   }
 }

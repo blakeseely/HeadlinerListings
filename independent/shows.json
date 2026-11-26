@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 101,
+  "scraped_at": "2026-11-26",
+  "count": 100,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "1 Umbrella",
-          "apple_music": "https://music.apple.com/us/artist/1-umbrella/1871530042",
-          "spotify": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl",
-          "confidence": 1.0,
-          "matched": "1 Umbrella",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "The DHS Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": null,
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/1-umbrella/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -513,7 +482,7 @@
       "date": "2026-12-10",
       "doors": "7:30 pm",
       "show_time": "8:00 pm",
-      "ticket_link": null,
+      "ticket_link": "https://www.ticketweb.com/event/feeble-little-horse-the-independent-tickets/14936023?pl=independentsf&REFID=clientsitewp",
       "ticket_status": null,
       "event_page": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
       "room": null,
@@ -1941,7 +1910,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Two-Day Pass",
+      "show_title": "Three Nights",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -1949,7 +1918,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1972,7 +1941,7 @@
       ],
       "support_artists": [],
       "multi_artist": false,
-      "show_title": "Three Nights",
+      "show_title": "Two-Day Pass",
       "presenters": [],
       "set_format": null,
       "date": "2027-02-10",
@@ -1980,7 +1949,7 @@
       "show_time": "8:00 pm",
       "ticket_link": null,
       "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "event_page": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -2597,6 +2566,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Temper City",
+          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
+          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
+          "confidence": 1.0,
+          "matched": "Temper City",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "- Self Aware Tour",
+      "presenters": [
+        "Live 105 Presents - Self Aware Tour"
+      ],
+      "set_format": null,
+      "date": "2027-03-09",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "strongboi",
           "apple_music": "https://music.apple.com/us/artist/strongboi/1502458898",
           "spotify": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i",
@@ -2632,39 +2634,6 @@
       "room": null,
       "age_rating": null,
       "note": "MOVED TO CASTRO THEATRE",
-      "description": null
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Temper City",
-          "apple_music": "https://music.apple.com/us/artist/temper-city/1872869285",
-          "spotify": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz",
-          "confidence": 1.0,
-          "matched": "Temper City",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "- Self Aware Tour",
-      "presenters": [
-        "Live 105 Presents - Self Aware Tour"
-      ],
-      "set_format": null,
-      "date": "2027-03-09",
-      "doors": "7:30 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/temper-city-the-independent-tickets/15054343?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/temper-city/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
       "description": null
     },
     {
@@ -3776,26 +3745,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 101,
+      "music": 100,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 144,
-      "found": 127,
-      "exact": 119,
+      "unique_artists": 143,
+      "found": 126,
+      "exact": 118,
       "close": 2,
       "flagged": 6,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 144,
-      "linked": 129,
-      "venue": 96,
+      "unique_artists": 143,
+      "linked": 128,
+      "venue": 95,
       "api": 33,
       "feed": 0,
-      "shows_with_link": 98
+      "shows_with_link": 97
     }
   }
 }

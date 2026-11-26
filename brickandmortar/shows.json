@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Ovrkast",
-          "apple_music": "https://music.apple.com/us/artist/ovrkast/1451547526",
-          "spotify": "https://open.spotify.com/artist/5CJhfbcsnlWsXHKEROMxPk",
-          "confidence": 1.0,
-          "matched": "Ovrkast",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Still Striking Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/ovrkast-still-striking-tour-brick-and-mortar-music-hall-tickets/14343104?theme=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/ovrkast-still-striking-tour/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -489,37 +458,6 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "rexv2",
-          "apple_music": "https://music.apple.com/us/artist/rexv2/1651088429",
-          "spotify": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC",
-          "confidence": 1.0,
-          "matched": "rexv2",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "Baby Houston Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-12-16",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/rexv2-baby-houston-tour-brick-and-mortar-music-hall-tickets/15052713?theme=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/rexv2-baby-houston-tour/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
           "name": "IGNITE",
           "apple_music": "https://music.apple.com/us/artist/ignite/19303538",
           "spotify": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr",
@@ -664,6 +602,58 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Torpedo Wharf",
+          "apple_music": "https://music.apple.com/us/artist/torpedo-wharf/1839172402",
+          "spotify": "https://open.spotify.com/artist/49eAygBlgCUsjutskDhzBN",
+          "confidence": 1.0,
+          "matched": "Torpedo Wharf",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Otoliths",
+          "apple_music": "https://music.apple.com/us/artist/otoliths/1869804255",
+          "spotify": "https://open.spotify.com/artist/0QYNOVb6ZURF0eh0fFyHd8",
+          "confidence": 1.0,
+          "matched": "Otoliths",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        },
+        {
+          "name": "Send for Help",
+          "apple_music": "https://music.apple.com/us/artist/send-for-help/99402312",
+          "spotify": "https://open.spotify.com/artist/4FNk4HMjgop1K6PRsCXS7c",
+          "confidence": 1.0,
+          "matched": "Send for Help",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "venue"
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-22",
+      "doors": "7:30 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/torpedo-wharf-otoliths-send-for-brick-and-mortar-music-hall-tickets/15067973?theme=bnm&REFID=clientsitewp",
+      "ticket_status": null,
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/torpedo-wharf-otoliths-send-for-help/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Join us at Brick & Mortar Music Hall on Tuesday, December 22 for a special night of live music with Torpedo Wharf, Otoliths, and Send for Help, supporting the SF-Marin Food Bank. A portion of all ticket proceeds will be donated to the food bank, and we're encouraging everyone attending to bring canned goods or nonperishable pantry items for our food drive. As a thank-you to everyone who comes out, we'll be holding a special holiday raffle before the Torpedo Wharf set. Join us for a night of music, and help feed our neighbors this holiday season."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Full Circle Boys",
           "apple_music": "https://music.apple.com/us/artist/full-circle-boys/1757545644",
           "spotify": "https://open.spotify.com/artist/0YfeVLbLdLI28s03XYXfnJ",
@@ -726,14 +716,14 @@
       "needs_review": false,
       "headline_artists": [
         {
-          "name": "Lightris & Ekebabyy",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi",
-          "confidence": 0.0,
-          "matched": null,
+          "name": "44phantom",
+          "apple_music": "https://music.apple.com/us/artist/44phantom/1472282683",
+          "spotify": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ",
+          "confidence": 1.0,
+          "matched": "44phantom",
           "apple_label": null,
-          "spotify_label": "close match: Lightris",
-          "spotify_source": "api"
+          "spotify_label": null,
+          "spotify_source": "venue"
         }
       ],
       "support_artists": [],
@@ -741,16 +731,47 @@
       "show_title": null,
       "presenters": [],
       "set_format": null,
-      "date": "2027-01-22",
+      "date": "2027-01-23",
       "doors": "8:00 pm",
       "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/lightris-ekebabyy-sero-brick-and-mortar-music-hall-tickets/15055803?pl=bnm&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/lightris-ekebabyy/",
+      "ticket_link": "https://www.ticketweb.com/event/44phantom-brick-and-mortar-music-hall-tickets/14377124?theme=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/44phantom/",
       "room": null,
       "age_rating": "All Ages",
       "note": null,
-      "description": "Exploding onto the scene in early 2026 with the viral song Kwik Trip, Milwaukee artist Lightris quickly made a name for himself, creating one-of-a-kind songs using an eclectic mix of sounds, including but not limited to Dembow, New Jack Swing, and Milwaukee hip-hop."
+      "description": "44phantom is an anomaly. Raised in rural Oklahoma, the one-time All-District high schoolquarterback became a major label alt-pop wunderkind by age 19. MGK tapped him for acollaboration that generated over 45M streams and the two artists toured European and USarenas together. He'd lived most people's version of the rock and roll dream by the time hecould legally buy a beer.Now just 24 years old, 44 has released the most timeless record of his career,INRETROSPECT. There's still all his signature angst and overdrive, but these are anthems full ofself-reflection at the cross-section of adolescence and adulthood. On project opener\"BLUEBERRY COFFEE\" 44 croons, \"Let’s key a car, just for the fuck of it, and complain aboutour distrust of the government. My grandfather died at his childhood residence, now I take it outon the Applebee’s management.\"This isn't his magnum opus, it's just the beginning of a new era - and one we're fortunate towitness. 44phantom will tour the West Coast in January of 2027, with a brand new project dueSpring / Summer ‘27."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Baby Jane",
+          "apple_music": "https://music.apple.com/us/artist/baby-jane/1462098819",
+          "spotify": "https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI",
+          "confidence": 1.0,
+          "matched": "Baby Jane",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": "Winter Forever Tour",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-29",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/baby-jane-winter-forever-brick-and-mortar-music-hall-tickets/14433424?theme=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/baby-jane-winter-forever-tour/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -761,18 +782,18 @@
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 25,
-      "found": 21,
-      "exact": 20,
+      "unique_artists": 27,
+      "found": 24,
+      "exact": 23,
       "close": 1,
       "flagged": 0,
-      "not_found": 4
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 25,
-      "linked": 22,
-      "venue": 8,
-      "api": 14,
+      "unique_artists": 27,
+      "linked": 24,
+      "venue": 11,
+      "api": 13,
       "feed": 0,
       "shows_with_link": 18
     }

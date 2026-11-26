@@ -36,7 +36,7 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "count": 37,
   "shows": [
     {
@@ -497,14 +497,14 @@
       ],
       "support_artists": [
         {
-          "name": "BluNites",
+          "name": "BluNites and The Sols",
           "apple_music": "https://music.apple.com/us/artist/blunites/1303894060",
-          "spotify": "https://open.spotify.com/artist/1qT1IiHytkg4UA3jvn2zQE",
-          "confidence": 1.0,
+          "spotify": null,
+          "confidence": 0.8,
           "matched": "BluNites",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
+          "apple_label": "compound bill — links to BluNites only",
+          "spotify_label": "no confident match (closest: The Dresden Dolls @ 42%)",
+          "spotify_source": null
         }
       ],
       "multi_artist": true,
@@ -516,7 +516,7 @@
       "show_time": "7:00 pm",
       "ticket_link": "https://www.ticketweb.com/event/dyego-holiday-show-music-box-tickets/15053603?REFID=bupwebsite",
       "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/15053603/dyego-holiday-show-and-toy-drive-w-blunites",
+      "event_page": "https://bellyup.com/calendar/15053603/dyego-holiday-show-and-toy-drive-w-blunites-and-the-sols",
       "room": null,
       "age_rating": null,
       "note": null,
@@ -1403,16 +1403,16 @@
     "apple_music": {
       "unique_artists": 56,
       "found": 46,
-      "exact": 42,
+      "exact": 41,
       "close": 0,
-      "flagged": 4,
+      "flagged": 5,
       "not_found": 10
     },
     "spotify": {
       "unique_artists": 56,
-      "linked": 47,
+      "linked": 46,
       "venue": 0,
-      "api": 47,
+      "api": 46,
       "feed": 0,
       "shows_with_link": 33
     }

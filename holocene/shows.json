@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 48,
+  "scraped_at": "2026-11-26",
+  "count": 49,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "FLASH TRASH: An Electro Dance Party feat. guest DJ set by UFFIE",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Flux Pavilion @ 16%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "What The Dance Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-25",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/86481210/flash-trash-an-electro-dance-party-feat-guest-dj-set-by-uffie-21-portland-holocene?partner_id=100",
-      "ticket_status": "on sale",
-      "event_page": "https://www.holocene.org/events/2026-11-25-flash-trash-an-electro-dance-party-feat-guest-dj-set-by-uffie",
-      "room": null,
-      "age_rating": "21+",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -728,6 +695,37 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Laffy Taffy: Nice and Naughty Edition",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.16,
+          "matched": null,
+          "apple_label": "no confident match (closest: KIDZ BOP Kids @ 16%)",
+          "spotify_label": "no confident match (closest: Taffy @ 24%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-19",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/86956224/laffy-taffy-nice-and-naughty-edition-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2026-12-19-laffy-taffy-nice-and-naughty-edition",
+      "room": null,
+      "age_rating": "21+",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Gothmas: Constant Debauchery (Depeche Mode), Kiss Me Kiss Me Kiss Me (The Cure), Precious Machinery (Siouxsie and the Banshees)",
           "apple_music": null,
           "spotify": null,
@@ -1051,6 +1049,37 @@
       "event_page": "https://www.holocene.org/events/2027-01-28-madds-buckley-2026-2027-north-american-tour-w-sparkbird",
       "room": null,
       "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "[BOO’D UP] THA RNB NITE",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Nitepunk @ 26%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-30",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.etix.com/ticket/p/47598337/boo-d-up-tha-rnb-nite-21-portland-holocene?partner_id=100",
+      "ticket_status": "on sale",
+      "event_page": "https://www.holocene.org/events/2027-01-30-boo-d-up-tha-rnb-nite",
+      "room": null,
+      "age_rating": "21+",
       "note": null,
       "description": null
     },
@@ -1729,21 +1758,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 44,
+      "music": 45,
       "comedy": 2,
       "film": 0,
       "other": 2
     },
     "apple_music": {
-      "unique_artists": 61,
+      "unique_artists": 62,
       "found": 30,
       "exact": 26,
       "close": 1,
       "flagged": 3,
-      "not_found": 31
+      "not_found": 32
     },
     "spotify": {
-      "unique_artists": 61,
+      "unique_artists": 62,
       "linked": 30,
       "venue": 0,
       "api": 30,

@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-25",
-  "count": 55,
+  "scraped_at": "2026-11-26",
+  "count": 56,
   "shows": [
     {
       "event_type": "music",
@@ -2230,6 +2230,39 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "The Wellermen",
+          "apple_music": "https://music.apple.com/us/artist/the-wellermen/1550370577",
+          "spotify": "https://open.spotify.com/artist/20q3NJtmeKSi3BTnmUFK16",
+          "confidence": 1.0,
+          "matched": "The Wellermen",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [
+        "Pappy & Harriet's Presents:"
+      ],
+      "set_format": null,
+      "date": "2027-04-25",
+      "doors": "8:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/the-wellermen-pappy-harriets-tickets/15057923?theme=PappyandHarriets",
+      "ticket_status": "on sale",
+      "event_page": "https://pappyandharriets.com/calendar",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Michael Shannon and Jason Narducy & friends play R.E.M",
           "apple_music": null,
           "spotify": null,
@@ -2304,26 +2337,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 55,
+      "music": 56,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 99,
-      "found": 83,
-      "exact": 77,
+      "unique_artists": 100,
+      "found": 84,
+      "exact": 78,
       "close": 4,
       "flagged": 2,
       "not_found": 16
     },
     "spotify": {
-      "unique_artists": 99,
-      "linked": 79,
+      "unique_artists": 100,
+      "linked": 80,
       "venue": 0,
-      "api": 79,
+      "api": 80,
       "feed": 0,
-      "shows_with_link": 50
+      "shows_with_link": 51
     }
   }
 }
