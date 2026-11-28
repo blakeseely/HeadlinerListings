@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 97,
+  "scraped_at": "2026-11-28",
+  "count": 96,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Haley Heynderickx",
-          "apple_music": "https://music.apple.com/us/artist/haley-heynderickx/1067448264",
-          "spotify": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X",
-          "confidence": 1.0,
-          "matched": "Haley Heynderickx",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Abbey Blackwell",
-          "apple_music": "https://music.apple.com/us/artist/abbey-blackwell/1556715776",
-          "spotify": "https://open.spotify.com/artist/5bWDUEJMVrA0HKPRCKCrTE",
-          "confidence": 1.0,
-          "matched": "Abbey Blackwell",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.stgpresents.org/events/haley-heynderickx/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.stgpresents.org/events/haley-heynderickx/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3245,26 +3203,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 73,
+      "music": 72,
       "comedy": 17,
       "film": 0,
       "other": 7
     },
     "apple_music": {
-      "unique_artists": 91,
-      "found": 77,
-      "exact": 66,
+      "unique_artists": 89,
+      "found": 75,
+      "exact": 64,
       "close": 3,
       "flagged": 8,
       "not_found": 14
     },
     "spotify": {
-      "unique_artists": 91,
-      "linked": 73,
+      "unique_artists": 89,
+      "linked": 71,
       "venue": 0,
-      "api": 73,
+      "api": 71,
       "feed": 0,
-      "shows_with_link": 72
+      "shows_with_link": 71
     }
   }
 }

@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 46,
+  "scraped_at": "2026-11-28",
+  "count": 45,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "apple_music": "https://music.apple.com/us/artist/emma-ruth-rundle/360994442",
-          "spotify": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC",
-          "confidence": 1.0,
-          "matched": "Emma Ruth Rundle",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": null,
-      "show_time": null,
-      "ticket_link": "https://www.tenderloinmusichall.com/events/emma-ruth-rundle-27-november-2026/",
-      "ticket_status": "on sale",
-      "event_page": "https://www.tenderloinmusichall.com/events/emma-ruth-rundle-27-november-2026/",
-      "room": null,
-      "age_rating": null,
-      "note": "From $54",
-      "description": "Los Angeles, CA singer-songwriter Emma Ruth Rundle tours in Fall 2026 in support of her..."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -341,13 +310,13 @@
       "date": "2026-12-18",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378301/buy-tickets",
+      "ticket_link": "https://www.tenderloinmusichall.com/events/the-mother-hips-annual-holiday-show-18-december-2026/",
       "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8378301/buy-tickets",
+      "event_page": "https://www.tenderloinmusichall.com/events/the-mother-hips-annual-holiday-show-18-december-2026/",
       "room": null,
       "age_rating": null,
       "note": "From $59",
-      "description": "The Mother Hips Annual Holiday Show at Great American Music Hall on Friday 18th December 2026 in San Francisco..."
+      "description": "Join us for a night of holiday roots rock as The Mother Hips perform their..."
     },
     {
       "event_type": "music",
@@ -961,13 +930,13 @@
       "date": "2027-02-24",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8378348/buy-tickets",
+      "ticket_link": "https://www.tenderloinmusichall.com/events/deerhoof-24-february-2027/",
       "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8378348/buy-tickets",
+      "event_page": "https://www.tenderloinmusichall.com/events/deerhoof-24-february-2027/",
       "room": null,
       "age_rating": null,
       "note": "From $49",
-      "description": "Deerhoof at Great American Music Hall on Wednesday 24th February 2027 in San Francisco..."
+      "description": "Is your voice going to be able to last trying to sing along to some..."
     },
     {
       "event_type": "music",
@@ -1446,13 +1415,13 @@
       "date": "2027-05-21",
       "doors": null,
       "show_time": null,
-      "ticket_link": "https://www.ticketsqueeze.com/tickets/8335226/buy-tickets",
+      "ticket_link": "https://www.tenderloinmusichall.com/events/yendry-21-may-2027/",
       "ticket_status": "on sale",
-      "event_page": "https://www.ticketsqueeze.com/tickets/8335226/buy-tickets",
+      "event_page": "https://www.tenderloinmusichall.com/events/yendry-21-may-2027/",
       "room": null,
       "age_rating": null,
       "note": "From $55",
-      "description": "Yendry at Great American Music Hall on Friday 21st May 2027 in San Francisco..."
+      "description": "Is your voice going to be able to keep going trying to sing along to..."
     },
     {
       "event_type": "music",
@@ -1488,26 +1457,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 45,
+      "music": 44,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 41,
-      "found": 33,
-      "exact": 31,
+      "unique_artists": 40,
+      "found": 32,
+      "exact": 30,
       "close": 0,
       "flagged": 2,
       "not_found": 8
     },
     "spotify": {
-      "unique_artists": 41,
-      "linked": 33,
+      "unique_artists": 40,
+      "linked": 32,
       "venue": 0,
-      "api": 33,
+      "api": 32,
       "feed": 0,
-      "shows_with_link": 34
+      "shows_with_link": 33
     }
   }
 }

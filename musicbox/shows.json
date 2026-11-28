@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 37,
+  "scraped_at": "2026-11-28",
+  "count": 36,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "How The Grouch Stole Christmas Tour",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.231,
-          "matched": null,
-          "apple_label": "no confident match (closest: Thurl Ravenscroft @ 23%)",
-          "spotify_label": "no confident match (closest: Oscar the Grouch @ 47%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Brother Ali and Lyrics Born",
-          "apple_music": "https://music.apple.com/us/artist/brother-ali/21890079",
-          "spotify": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx",
-          "confidence": 0.95,
-          "matched": "Brother Ali",
-          "apple_label": "compound bill — links to Brother Ali only",
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "The Grouch & Eligh ft. Amp Live",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/how-the-grouch-stole-christmas-music-box-tickets/14296694?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14296694/how-the-grouch-stole-christmas-tour-the-grouch-eligh-ft-amp-live-w-special-guests-brother-ali-and-lyrics-born",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1395,26 +1353,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 36,
+      "music": 35,
       "comedy": 1,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 56,
-      "found": 46,
+      "unique_artists": 54,
+      "found": 45,
       "exact": 41,
       "close": 0,
-      "flagged": 5,
-      "not_found": 10
+      "flagged": 4,
+      "not_found": 9
     },
     "spotify": {
-      "unique_artists": 56,
-      "linked": 46,
+      "unique_artists": 54,
+      "linked": 45,
       "venue": 0,
-      "api": 46,
+      "api": 45,
       "feed": 0,
-      "shows_with_link": 33
+      "shows_with_link": 32
     }
   }
 }

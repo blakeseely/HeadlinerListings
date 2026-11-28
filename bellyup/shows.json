@@ -36,81 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 124,
+  "scraped_at": "2026-11-28",
+  "count": 123,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "April and The Funk Junkies Happy Hour",
-          "apple_music": "https://music.apple.com/us/artist/april/1033052104",
-          "spotify": null,
-          "confidence": 0.95,
-          "matched": "APRIL",
-          "apple_label": "compound bill — links to APRIL only",
-          "spotify_label": "no confident match (closest: Con Funk Shun @ 36%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": "April's Birthday Bash",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": null,
-      "show_time": "5:30 pm",
-      "ticket_link": "https://www.ticketweb.com/event/april-and-the-funk-junkies-belly-up-tickets/14993293?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14993293/april-and-the-funk-junkies-happy-hour-aprils-birthday-bash",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": "Blood Cancer United's Light The Night brings light to the darkness of cancer. The light and warmth we generate delivers hope in time of despair, community in place of loneliness and life-saving RESEARCH & SUPPORT for cancer patients and their families."
-    },
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Saved By The 90s",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.417,
-          "matched": null,
-          "apple_label": "no confident match (closest: Baby Mel @ 42%)",
-          "spotify_label": "no confident match (closest: Saved By Scars @ 70%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Totally 80's Band",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Total @ 46%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": null,
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/saved-by-the-90s-totally-belly-up-tickets/14236984?REFID=bupwebsite",
-      "ticket_status": "on sale",
-      "event_page": "https://bellyup.com/calendar/14236984/saved-by-the-90s-totally-80s-band",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -4060,6 +3988,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "Wild Child",
+          "apple_music": "https://music.apple.com/us/artist/wild-child/694916483",
+          "spotify": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK",
+          "confidence": 1.0,
+          "matched": "Wild Child",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "Santana Ways",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.737,
+          "matched": null,
+          "apple_label": "no confident match (closest: Santana @ 74%)",
+          "spotify_label": "no confident match (closest: Santana @ 74%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": "Jim Morrison Celebration",
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-03-19",
+      "doors": null,
+      "show_time": "9:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/wild-child-jim-belly-up-tickets/15052003?REFID=bupwebsite",
+      "ticket_status": "on sale",
+      "event_page": "https://bellyup.com/calendar/15052003/wild-child-jim-morrison-celebration-w-santana-ways",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Pato Banton",
           "apple_music": "https://music.apple.com/us/artist/pato-banton/6769444",
           "spotify": "https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m",
@@ -4629,26 +4599,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 124,
+      "music": 123,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 172,
+      "unique_artists": 171,
       "found": 129,
-      "exact": 110,
+      "exact": 111,
       "close": 5,
-      "flagged": 14,
-      "not_found": 43
+      "flagged": 13,
+      "not_found": 42
     },
     "spotify": {
-      "unique_artists": 172,
-      "linked": 133,
+      "unique_artists": 171,
+      "linked": 134,
       "venue": 0,
-      "api": 133,
+      "api": 134,
       "feed": 0,
-      "shows_with_link": 90
+      "shows_with_link": 91
     }
   }
 }

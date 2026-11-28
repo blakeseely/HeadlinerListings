@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 61,
+  "scraped_at": "2026-11-28",
+  "count": 60,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Mamma Mia",
-          "apple_music": "https://music.apple.com/us/artist/mamma-mia/44248855",
-          "spotify": "https://open.spotify.com/artist/0UEkEqyHjn9doOS2F72UhQ",
-          "confidence": 1.0,
-          "matched": "Mamma Mia",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "DJ Boombox Kid",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: DJ Boomin @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Seattle's Best 70's Dance Night",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "9:00 pm",
-      "show_time": null,
-      "ticket_link": "https://www.axs.com/events/1681847/mamma-mia-seattles-best-70s-dance-night-tickets?skin=neumos",
-      "ticket_status": "on sale",
-      "event_page": "https://www.neumos.com/events/detail/mamma-mia-seattles-best-70s-dance-night-tickets-1681847",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -2497,26 +2455,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 61,
+      "music": 60,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 113,
-      "found": 102,
-      "exact": 95,
+      "unique_artists": 111,
+      "found": 101,
+      "exact": 94,
       "close": 2,
       "flagged": 5,
-      "not_found": 11
+      "not_found": 10
     },
     "spotify": {
-      "unique_artists": 113,
-      "linked": 97,
+      "unique_artists": 111,
+      "linked": 96,
       "venue": 0,
-      "api": 97,
+      "api": 96,
       "feed": 0,
-      "shows_with_link": 56
+      "shows_with_link": 55
     }
   }
 }

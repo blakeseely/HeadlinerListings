@@ -36,131 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 42,
+  "scraped_at": "2026-11-28",
+  "count": 41,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Sleepless Nights XX",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: XXIII @ 17%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Bar Fight",
-          "apple_music": "https://music.apple.com/us/artist/bar-fight/1084941693",
-          "spotify": "https://open.spotify.com/artist/6nWn3E648fHiWtOdfp4jJD",
-          "confidence": 1.0,
-          "matched": "Bar Fight",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Aaron Burnham & the Brushfires",
-          "apple_music": "https://music.apple.com/us/artist/aaron-burnham-the-brushfires/1706614422",
-          "spotify": "https://open.spotify.com/artist/6GiH3ilrS6EcQUdU6Bvvdt",
-          "confidence": 1.0,
-          "matched": "Aaron Burnham & the Brushfires",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "East Bay Breeze",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Eastside Boyz @ 57%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Paula Frazer & Tarnation",
-          "apple_music": "https://music.apple.com/us/artist/paula-frazer-and-tarnation/213222631",
-          "spotify": "https://open.spotify.com/artist/3F4JOlOetOauF1A3hhnrhj",
-          "confidence": 0.9,
-          "matched": "Paula Frazer and Tarnation",
-          "apple_label": "close match: Paula Frazer and Tarnation",
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Sweet Chariot",
-          "apple_music": "https://music.apple.com/us/artist/sweet-chariot/1489682685",
-          "spotify": "https://open.spotify.com/artist/6mgJLnjoNoIR6ddXbSdWrI",
-          "confidence": 1.0,
-          "matched": "Sweet Chariot",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Brian Mello & the Afterglow",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: The Afters @ 49%)",
-          "spotify_source": null
-        },
-        {
-          "name": "Country Risqué",
-          "apple_music": "https://music.apple.com/us/artist/country-risque/1630017278",
-          "spotify": "https://open.spotify.com/artist/5RhYBTubnm7RcFUR9ijTeZ",
-          "confidence": 1.0,
-          "matched": "Country Risque",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Nashville Honeymoon",
-          "apple_music": "https://music.apple.com/us/artist/nashville-honeymoon/1305993911",
-          "spotify": "https://open.spotify.com/artist/2k28ftIBYkCTU29Dr20vUB",
-          "confidence": 1.0,
-          "matched": "Nashville Honeymoon",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Penelope Houston & the Jailbirds",
-          "apple_music": null,
-          "spotify": "https://open.spotify.com/artist/7jYngQpQ4iXVWFkXmaDl5g",
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "A Tribute to Gram Parsons",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "7:30 pm",
-      "show_time": "8:30 pm",
-      "ticket_link": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
-      "ticket_status": "on sale",
-      "event_page": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1765,26 +1643,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 42,
+      "music": 41,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 74,
-      "found": 57,
-      "exact": 48,
+      "unique_artists": 64,
+      "found": 51,
+      "exact": 43,
       "close": 4,
-      "flagged": 5,
-      "not_found": 17
+      "flagged": 4,
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 74,
-      "linked": 54,
+      "unique_artists": 64,
+      "linked": 47,
       "venue": 0,
-      "api": 54,
+      "api": 47,
       "feed": 0,
-      "shows_with_link": 37
+      "shows_with_link": 36
     }
   }
 }

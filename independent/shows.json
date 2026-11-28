@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 100,
+  "scraped_at": "2026-11-28",
+  "count": 99,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "O'Flynn",
-          "apple_music": "https://music.apple.com/us/artist/oflynn/110900268",
-          "spotify": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo",
-          "confidence": 1.0,
-          "matched": "O'Flynn",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "BANKSIA",
-          "apple_music": "https://music.apple.com/us/artist/banksia/1485764433",
-          "spotify": "https://open.spotify.com/artist/5KbxQ4ymkRxh9tB59smVYz",
-          "confidence": 1.0,
-          "matched": "Banksia",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "8:30 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/oflynn-the-independent-tickets/15043633?pl=independentsf&REFID=clientsitewp",
-      "ticket_status": null,
-      "event_page": "https://www.theindependentsf.com/tm-event/oflynn/",
-      "room": null,
-      "age_rating": null,
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -3745,26 +3703,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 100,
+      "music": 99,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 143,
-      "found": 126,
-      "exact": 118,
+      "unique_artists": 141,
+      "found": 124,
+      "exact": 116,
       "close": 2,
       "flagged": 6,
       "not_found": 17
     },
     "spotify": {
-      "unique_artists": 143,
-      "linked": 128,
-      "venue": 95,
+      "unique_artists": 141,
+      "linked": 126,
+      "venue": 93,
       "api": 33,
       "feed": 0,
-      "shows_with_link": 97
+      "shows_with_link": 96
     }
   }
 }

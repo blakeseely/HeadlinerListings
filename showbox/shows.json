@@ -36,51 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 48,
+  "scraped_at": "2026-11-28",
+  "count": 47,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "DENNETT",
-          "apple_music": "https://music.apple.com/us/artist/dennett/1509557629",
-          "spotify": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9",
-          "confidence": 1.0,
-          "matched": "Dennett",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Kuroneko",
-          "apple_music": "https://music.apple.com/us/artist/kuroneko/423727068",
-          "spotify": "https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p",
-          "confidence": 1.0,
-          "matched": "Kuroneko",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Back to the Roadhouse Tour",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "9:00 pm",
-      "show_time": "9:00 pm",
-      "ticket_link": "https://www.axs.com/events/1566275/dennett-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1566275",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1876,26 +1834,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 48,
+      "music": 47,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 78,
-      "found": 69,
-      "exact": 64,
+      "unique_artists": 76,
+      "found": 67,
+      "exact": 62,
       "close": 1,
       "flagged": 4,
       "not_found": 9
     },
     "spotify": {
-      "unique_artists": 78,
-      "linked": 70,
+      "unique_artists": 76,
+      "linked": 68,
       "venue": 0,
-      "api": 70,
+      "api": 68,
       "feed": 0,
-      "shows_with_link": 44
+      "shows_with_link": 43
     }
   }
 }

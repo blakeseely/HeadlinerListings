@@ -36,71 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 34,
+  "scraped_at": "2026-11-28",
+  "count": 33,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "The Amity Affliction",
-          "apple_music": "https://music.apple.com/us/artist/the-amity-affliction/449513466",
-          "spotify": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK",
-          "confidence": 1.0,
-          "matched": "The Amity Affliction",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "blessthefall",
-          "apple_music": "https://music.apple.com/us/artist/blessthefall/202971163",
-          "spotify": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9",
-          "confidence": 1.0,
-          "matched": "blessthefall",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "Orthodox",
-          "apple_music": "https://music.apple.com/us/artist/orthodox/1065245226",
-          "spotify": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP",
-          "confidence": 1.0,
-          "matched": "Orthodox",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "api"
-        },
-        {
-          "name": "and Buried in Spring",
-          "apple_music": "https://music.apple.com/us/artist/buried-in-spring/1896125306",
-          "spotify": "https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY",
-          "confidence": 0.9,
-          "matched": "Buried In Spring",
-          "apple_label": "close match: Buried In Spring",
-          "spotify_label": "close match: Buried In Spring",
-          "spotify_source": "api"
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "HOUSE OF CARDS 2026",
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "6:00 pm",
-      "show_time": "7:00 pm",
-      "ticket_link": "https://www.axs.com/events/1516625/the-amity-affliction-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001",
-      "ticket_status": "on sale",
-      "event_page": "https://www.showboxpresents.com/events/detail/1516625",
-      "room": null,
-      "age_rating": "All Ages to Enter, 21 & Over to Drink",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1480,26 +1418,26 @@
   ],
   "stats": {
     "event_types": {
-      "music": 34,
+      "music": 33,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 66,
-      "found": 62,
-      "exact": 58,
+      "unique_artists": 62,
+      "found": 58,
+      "exact": 55,
       "close": 0,
-      "flagged": 4,
+      "flagged": 3,
       "not_found": 4
     },
     "spotify": {
-      "unique_artists": 66,
-      "linked": 62,
+      "unique_artists": 62,
+      "linked": 58,
       "venue": 0,
-      "api": 62,
+      "api": 58,
       "feed": 0,
-      "shows_with_link": 32
+      "shows_with_link": 31
     }
   }
 }

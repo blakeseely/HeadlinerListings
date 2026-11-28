@@ -36,42 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 52,
+  "scraped_at": "2026-11-28",
+  "count": 51,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Decadent 80s Dance Party",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Pat Benatar @ 34%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [
-        "McMenamins Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "8:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.etix.com/ticket/p/59613739/decadent-80s-dance-party-portland-mcmenamins-crystal-ballroom",
-      "ticket_status": "on sale",
-      "event_page": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
-      "room": null,
-      "age_rating": "21 and over",
-      "note": null,
-      "description": "Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! D80s is Portland’s longest-running 80s night, celebrating 21 consecutive years of weekly events. Fans of 80s alternative music will feel right at home-D80s takes requests seriously while keeping each set fresh and dynamic week after week. Stop by and discover why D80s is Portland’s go-to 80s club dance night."
-    },
     {
       "event_type": "other",
       "needs_review": false,
@@ -590,7 +557,9 @@
       "support_artists": [],
       "multi_artist": false,
       "show_title": null,
-      "presenters": [],
+      "presenters": [
+        "McMenamins and Dance Flashback Present"
+      ],
       "set_format": null,
       "date": "2026-12-31",
       "doors": "9:00 pm",
@@ -1956,21 +1925,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 51,
+      "music": 50,
       "comedy": 0,
       "film": 0,
       "other": 1
     },
     "apple_music": {
-      "unique_artists": 69,
+      "unique_artists": 68,
       "found": 47,
       "exact": 46,
       "close": 1,
       "flagged": 0,
-      "not_found": 22
+      "not_found": 21
     },
     "spotify": {
-      "unique_artists": 69,
+      "unique_artists": 68,
       "linked": 49,
       "venue": 0,
       "api": 49,

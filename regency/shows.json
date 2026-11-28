@@ -36,53 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 27,
+  "scraped_at": "2026-11-28",
+  "count": 26,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Amtrac *MOVED TO GREAT NORTHERN*",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: NORTHERN EXPOZURE @ 33%)",
-          "spotify_source": null
-        }
-      ],
-      "support_artists": [
-        {
-          "name": "Special Guest Seb Wildblood",
-          "apple_music": null,
-          "spotify": null,
-          "confidence": 0.0,
-          "matched": null,
-          "apple_label": null,
-          "spotify_label": "no confident match (closest: Seb Wildblood @ 70%)",
-          "spotify_source": null
-        }
-      ],
-      "multi_artist": true,
-      "show_title": "Dream Live Tour",
-      "presenters": [
-        "Goldenvoice Presents"
-      ],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": null,
-      "show_time": "10:00 pm",
-      "ticket_link": "https://amtrac-great-northern-2026.eventbrite.com/",
-      "ticket_status": "Get Tickets",
-      "event_page": "https://theregencyballroom.com/events/detail?event_id=1566122",
-      "room": null,
-      "age_rating": "21 & Over",
-      "note": null,
-      "description": null
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -1072,21 +1028,21 @@
   ],
   "stats": {
     "event_types": {
-      "music": 27,
+      "music": 26,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 40,
+      "unique_artists": 38,
       "found": 35,
       "exact": 35,
       "close": 0,
       "flagged": 0,
-      "not_found": 5
+      "not_found": 3
     },
     "spotify": {
-      "unique_artists": 40,
+      "unique_artists": 38,
       "linked": 35,
       "venue": 0,
       "api": 32,

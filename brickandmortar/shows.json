@@ -36,40 +36,9 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
+  "scraped_at": "2026-11-28",
   "count": 21,
   "shows": [
-    {
-      "event_type": "music",
-      "needs_review": false,
-      "headline_artists": [
-        {
-          "name": "Thoughts on Bowling",
-          "apple_music": "https://music.apple.com/us/artist/thoughts-on-bowling/1768678540",
-          "spotify": "https://open.spotify.com/artist/2uYZl0JqofhYv9Nma8LVUw",
-          "confidence": 1.0,
-          "matched": "Thoughts on Bowling",
-          "apple_label": null,
-          "spotify_label": null,
-          "spotify_source": "venue"
-        }
-      ],
-      "support_artists": [],
-      "multi_artist": false,
-      "show_title": null,
-      "presenters": [],
-      "set_format": null,
-      "date": "2026-11-27",
-      "doors": "7:00 pm",
-      "show_time": "8:00 pm",
-      "ticket_link": "https://www.ticketweb.com/event/thoughts-on-bowling-brick-and-mortar-music-hall-tickets/15032523?theme=bnm&REFID=clientsitewp",
-      "ticket_status": "on sale",
-      "event_page": "https://www.brickandmortarmusic.com/tm-event/thoughts-on-bowling/",
-      "room": null,
-      "age_rating": "All Ages",
-      "note": null,
-      "description": "Established in 2021, moosecreek park is a group of best friends making emo noise out of Long Island NY. Often recognized for their lightning fast guitar parts and catchy pop-punk like songwriting - for fans of Tiny Moving Parts, Origami Angel, TTNG, Mom Jeans, etc."
-    },
     {
       "event_type": "music",
       "needs_review": false,
@@ -772,6 +741,37 @@
       "age_rating": "All Ages",
       "note": null,
       "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
+          "name": "Tony Jupiter",
+          "apple_music": "https://music.apple.com/us/artist/tony-jupiter/1366452502",
+          "spotify": "https://open.spotify.com/artist/2Nltwr6M99tXy78hUaOTCH",
+          "confidence": 1.0,
+          "matched": "Tony Jupiter",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "support_artists": [],
+      "multi_artist": false,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2027-01-31",
+      "doors": "7:00 pm",
+      "show_time": "8:00 pm",
+      "ticket_link": "https://www.ticketweb.com/event/tony-jupiter-brick-and-mortar-music-hall-tickets/15058753?theme=bnm&REFID=clientsitewp",
+      "ticket_status": "on sale",
+      "event_page": "https://www.brickandmortarmusic.com/tm-event/tony-jupiter/",
+      "room": null,
+      "age_rating": "All Ages",
+      "note": null,
+      "description": "Set by Google Analytics to tell visitors apart by assigning a randomly generated number. This helps us understand how many people visit our site and how they use it, so we can improve it."
     }
   ],
   "stats": {
@@ -792,8 +792,8 @@
     "spotify": {
       "unique_artists": 27,
       "linked": 24,
-      "venue": 11,
-      "api": 13,
+      "venue": 10,
+      "api": 14,
       "feed": 0,
       "shows_with_link": 18
     }

@@ -36,8 +36,8 @@
     "artist.spotify_label": "free_string",
     "artist.spotify_source": "controlled"
   },
-  "scraped_at": "2026-11-27",
-  "count": 33,
+  "scraped_at": "2026-11-28",
+  "count": 34,
   "shows": [
     {
       "event_type": "music",
@@ -126,8 +126,19 @@
           "spotify_source": "api"
         }
       ],
-      "support_artists": [],
-      "multi_artist": false,
+      "support_artists": [
+        {
+          "name": "Zookraught",
+          "apple_music": "https://music.apple.com/us/artist/zookraught/1619716820",
+          "spotify": "https://open.spotify.com/artist/5lL3ndBEhlTm6TtjldQ3s1",
+          "confidence": 1.0,
+          "matched": "Zookraught",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        }
+      ],
+      "multi_artist": true,
       "show_title": "Butthole Surfers Mania",
       "presenters": [],
       "set_format": null,
@@ -750,6 +761,48 @@
       "needs_review": false,
       "headline_artists": [
         {
+          "name": "New Year’s Eve Bollywood Dance Party",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.0,
+          "matched": null,
+          "apple_label": null,
+          "spotify_label": "no confident match (closest: Mayur Puri @ 22%)",
+          "spotify_source": null
+        }
+      ],
+      "support_artists": [
+        {
+          "name": "DJ Prashant & Friends",
+          "apple_music": null,
+          "spotify": null,
+          "confidence": 0.552,
+          "matched": null,
+          "apple_label": "no confident match (closest: Prashant @ 55%)",
+          "spotify_label": "no confident match (closest: Prashanthini @ 61%)",
+          "spotify_source": null
+        }
+      ],
+      "multi_artist": true,
+      "show_title": null,
+      "presenters": [],
+      "set_format": null,
+      "date": "2026-12-31",
+      "doors": "9:00 pm",
+      "show_time": "9:00 pm",
+      "ticket_link": null,
+      "ticket_status": null,
+      "event_page": "https://www.elcorazonseattle.com/shows/new-year-s-eve-bollywood-dance-party-w-dj-prashant-friends-31-dec",
+      "room": null,
+      "age_rating": null,
+      "note": null,
+      "description": null
+    },
+    {
+      "event_type": "music",
+      "needs_review": false,
+      "headline_artists": [
+        {
           "name": "Punchis Punchis",
           "apple_music": "https://music.apple.com/us/artist/punchis-punchis/1644942706",
           "spotify": null,
@@ -1046,6 +1099,16 @@
           "spotify": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J",
           "confidence": 1.0,
           "matched": "Vulvodynia",
+          "apple_label": null,
+          "spotify_label": null,
+          "spotify_source": "api"
+        },
+        {
+          "name": "THE DEVILS OF LOUDUN",
+          "apple_music": "https://music.apple.com/us/artist/the-devils-of-loudun/985779999",
+          "spotify": "https://open.spotify.com/artist/5mY8i4sWjrQCjZOI4APqVH",
+          "confidence": 1.0,
+          "matched": "The Devils of Loudun",
           "apple_label": null,
           "spotify_label": null,
           "spotify_source": "api"
@@ -1817,24 +1880,24 @@
   ],
   "stats": {
     "event_types": {
-      "music": 33,
+      "music": 34,
       "comedy": 0,
       "film": 0,
       "other": 0
     },
     "apple_music": {
-      "unique_artists": 96,
-      "found": 85,
-      "exact": 83,
+      "unique_artists": 100,
+      "found": 87,
+      "exact": 85,
       "close": 0,
       "flagged": 2,
-      "not_found": 11
+      "not_found": 13
     },
     "spotify": {
-      "unique_artists": 96,
-      "linked": 83,
+      "unique_artists": 100,
+      "linked": 85,
       "venue": 0,
-      "api": 83,
+      "api": 85,
       "feed": 0,
       "shows_with_link": 29
     }
